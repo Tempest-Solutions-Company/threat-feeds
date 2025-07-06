@@ -1,11 +1,29 @@
 {
   "metadata": {
-    "generated": "2025-07-06T23:42:51.717143Z",
-    "total_threats": 3,
+    "generated": "2025-07-06T23:57:54.859926Z",
+    "total_threats": 4,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
   "threats": [
+    {
+      "ip": "206.168.34.38",
+      "country": "Unknown",
+      "region": "Unknown",
+      "city": "Unknown",
+      "isp": "Unknown",
+      "organization": "Unknown",
+      "category": "ET_SCAN",
+      "severity": "High",
+      "offense_count": 1,
+      "first_seen": "2025-07-06 23:43:26.996293",
+      "last_seen": "2025-07-06 23:43:26.996295",
+      "service": "UDP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 506704,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
     {
       "ip": "77.83.207.193",
       "country": "Unknown",

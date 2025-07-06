@@ -4,7 +4,7 @@
 
 Real-time threat feeds generated from UDM Pro firewall logs, providing categorized lists of IP addresses involved in malicious activity.
 
-**Last Updated:** 2025-07-06 22:27:54 UTC
+**Last Updated:** 2025-07-06 22:30:31 UTC
 
 ## 📊 Available Threat Categories
 

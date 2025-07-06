@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "generated": "2025-07-06T23:42:18.503125Z",
+    "total_threats": 3,
+    "data_retention_days": 30,
+    "direction_filter": "Incoming"
+  },
+  "threats": [
+    {
+      "ip": "77.83.207.193",
+      "country": "Unknown",
+      "region": "Unknown",
+      "city": "Unknown",
+      "isp": "Unknown",
+      "organization": "Unknown",
+      "category": "ET_SCAN",
+      "severity": "High",
+      "offense_count": 3,
+      "first_seen": "2025-07-06 23:16:51.941153",
+      "last_seen": "2025-07-06 23:27:51.830320",
+      "service": "Unknown",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 37986,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "85.198.11.94",
+      "country": "Unknown",
+      "region": "Unknown",
+      "city": "Unknown",
+      "isp": "Unknown",
+      "organization": "Unknown",
+      "category": "ET_SCAN",
+      "severity": "High",
+      "offense_count": 3,
+      "first_seen": "2025-07-06 23:16:51.938056",
+      "last_seen": "2025-07-06 23:27:51.826441",
+      "service": "Unknown",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 37986,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "80.94.95.115",
+      "country": "Unknown",
+      "region": "Unknown",
+      "city": "Unknown",
+      "isp": "Unknown",
+      "organization": "Unknown",
+      "category": "ET_SCAN",
+      "severity": "High",
+      "offense_count": 3,
+      "first_seen": "2025-07-06 23:16:51.930499",
+      "last_seen": "2025-07-06 23:27:51.817618",
+      "service": "Unknown",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 37986,
+      "is_targeted": false,
+      "is_cgnat": false
+    }
+  ]
+}

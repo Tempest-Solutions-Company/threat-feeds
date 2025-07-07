@@ -22,10 +22,6 @@ Real-time threat feeds generated from UDM Pro firewall logs, providing categoriz
 
 ## 📁 Feed Files
 
-### CSV Format
-- Contains structured data with metadata
-- Fields: ip_address, offense_count, first_seen, last_seen, severity, is_targeted_attack, is_cgnat
-
 ### TXT Format  
 - Simple space-separated format
 - Suitable for direct import into security tools
@@ -44,25 +40,7 @@ Real-time threat feeds generated from UDM Pro firewall logs, providing categoriz
 curl -O https://raw.githubusercontent.com/Tempest-Solutions-Company/threat-feeds/main/feeds/SQL_Injection.txt
 ```
 
-### For Security Tools
-```python
-import requests
-import pandas as pd
-
-# Load CSV format for analysis
-url = "https://raw.githubusercontent.com/Tempest-Solutions-Company/threat-feeds/main/feeds/SQL_Injection.csv"
-df = pd.read_csv(url)
-high_risk_ips = df[df['is_targeted_attack'] == True]
-```
-
 ## 📋 File Descriptions
-
-
-## 🔍 Data Sources
-
-- **UDM Pro Firewalls**: Real network traffic analysis
-- **Proofpoint CyberSecure**: 55,000+ threat signatures
-- **Community Reporting**: Ethical disclosure to IP owners/ISPs
 
 ## ⚠️ Important Notes
 
@@ -88,7 +66,6 @@ MIT License - Use freely with attribution
 
 - **Issues**: GitHub Issues
 - **Community**: Discussions tab
-- **Security**: security@example.com
 
 ---
 

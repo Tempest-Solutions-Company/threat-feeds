@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T20:57:40.951668Z",
-    "total_threats": 47,
+    "generated": "2025-07-07T21:12:57.158391Z",
+    "total_threats": 48,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "37.60.245.171",
+      "country": "Germany",
+      "region": "North Rhine-Westphalia",
+      "city": "D\u00fcsseldorf",
+      "isp": "Contabo GmbH",
+      "organization": "Contabo GmbH",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 21:09:26.309678",
+      "last_seen": "2025-07-07 21:09:26.309681",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

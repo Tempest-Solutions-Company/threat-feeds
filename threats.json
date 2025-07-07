@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T21:58:44.031041Z",
-    "total_threats": 48,
+    "generated": "2025-07-07T22:13:59.532208Z",
+    "total_threats": 49,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "217.198.190.249",
+      "country": "Iran",
+      "region": "Isfahan",
+      "city": "Isfahan",
+      "isp": "Asre Pardazeshe Ettelaate Amin Institute",
+      "organization": "Fanavaran Nicsepehr Zenderood Ltd",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 22:05:16.596742",
+      "last_seen": "2025-07-07 22:05:16.596745",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

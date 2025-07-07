@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-07T19:56:37.550519Z",
+    "generated": "2025-07-07T20:11:54.173115Z",
     "total_threats": 46,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -231,13 +231,13 @@
       "organization": "Choopa, LLC",
       "category": "Port_Scanning",
       "severity": "Medium",
-      "offense_count": 1,
+      "offense_count": 3,
       "first_seen": "2025-07-07 19:44:16.088125",
-      "last_seen": "2025-07-07 19:44:16.088128",
+      "last_seen": "2025-07-07 20:11:13.466099",
       "service": "TCP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 385722,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {

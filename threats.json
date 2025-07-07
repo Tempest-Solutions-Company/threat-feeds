@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T11:28:46.278445Z",
-    "total_threats": 29,
+    "generated": "2025-07-07T11:42:12.047531Z",
+    "total_threats": 30,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "87.236.176.60",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Leeds",
+      "isp": "Driftnet Ltd",
+      "organization": "Constantine Cybersecurity LTD",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 11:37:46.636956",
+      "last_seen": "2025-07-07 11:37:46.636960",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 560231,
       "is_targeted": false,
       "is_cgnat": false
     },

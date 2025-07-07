@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T00:48:21.796642Z",
-    "total_threats": 7,
+    "generated": "2025-07-07T00:51:59.462464Z",
+    "total_threats": 6,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -19,24 +19,6 @@
       "first_seen": "2025-07-07 00:45:17.227338",
       "last_seen": "2025-07-07 00:45:17.227341",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
-      "signature_id": 454894,
-      "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "192.168.61.161",
-      "country": "Private",
-      "region": "Private Network",
-      "city": "Private",
-      "isp": "Private Network",
-      "organization": "Private",
-      "category": "Port_Scanning",
-      "severity": "Medium",
-      "offense_count": 1,
-      "first_seen": "2025-07-07 00:43:01.217046",
-      "last_seen": "2025-07-07 00:43:01.217048",
-      "service": "Unknown",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 454894,
       "is_targeted": false,

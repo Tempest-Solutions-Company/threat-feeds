@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T15:37:05.843793Z",
-    "total_threats": 38,
+    "generated": "2025-07-07T15:52:20.760717Z",
+    "total_threats": 39,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "104.238.24.55",
+      "country": "Kazakhstan",
+      "region": "Almaty",
+      "city": "Almaty",
+      "isp": "Fastplanet LTD",
+      "organization": "Fastplanet LTD",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 15:38:43.261717",
+      "last_seen": "2025-07-07 15:38:43.261720",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T09:40:09.403727Z",
-    "total_threats": 23,
+    "generated": "2025-07-07T09:56:10.175001Z",
+    "total_threats": 24,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -93,6 +93,24 @@
       "service": "Unknown",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 260321,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "117.50.68.36",
+      "country": "China",
+      "region": "Beijing",
+      "city": "Beijing",
+      "isp": "UCLOUD",
+      "organization": "Shanghai UCloud Information Technology Company Limited",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 09:44:53.328867",
+      "last_seen": "2025-07-07 09:44:53.328872",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 574765,
       "is_targeted": false,
       "is_cgnat": false
     },

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T13:19:39.304300Z",
-    "total_threats": 32,
+    "generated": "2025-07-07T13:34:55.385286Z",
+    "total_threats": 33,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "193.32.162.157",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "isp": "Unmanaged LTD",
+      "organization": "Techoff SRV Limited",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 13:34:14.021154",
+      "last_seen": "2025-07-07 13:34:14.021158",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

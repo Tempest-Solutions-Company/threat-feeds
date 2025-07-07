@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T17:39:13.038940Z",
-    "total_threats": 42,
+    "generated": "2025-07-07T17:54:29.226344Z",
+    "total_threats": 43,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "65.20.89.226",
+      "country": "India",
+      "region": "Maharashtra",
+      "city": "Mumbai",
+      "isp": "The Constant Company",
+      "organization": "Vultr Holdings LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 17:50:05.308086",
+      "last_seen": "2025-07-07 17:50:05.308089",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

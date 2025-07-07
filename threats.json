@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-07T23:30:17.993282Z",
+    "generated": "2025-07-07T23:45:32.548494Z",
     "total_threats": 52,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -87,9 +87,9 @@
       "organization": "Techoff SRV Limited",
       "category": "SSH_Scanning",
       "severity": "High",
-      "offense_count": 1,
+      "offense_count": 2,
       "first_seen": "2025-07-07 09:14:14.043458",
-      "last_seen": "2025-07-07 09:14:14.043461",
+      "last_seen": "2025-07-07 23:30:52.313888",
       "service": "TCP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 169864,

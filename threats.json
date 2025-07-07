@@ -1,11 +1,47 @@
 {
   "metadata": {
-    "generated": "2025-07-07T03:23:16.785665Z",
-    "total_threats": 13,
+    "generated": "2025-07-07T03:38:24.786623Z",
+    "total_threats": 15,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
   "threats": [
+    {
+      "ip": "14.53.61.63",
+      "country": "South Korea",
+      "region": "Seoul",
+      "city": "Seoul",
+      "isp": "Korea Telecom",
+      "organization": "Korea Telecom",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 03:36:08.592549",
+      "last_seen": "2025-07-07 03:36:08.592553",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 169864,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "205.210.31.50",
+      "country": "United States",
+      "region": "California",
+      "city": "Santa Clara",
+      "isp": "Google LLC",
+      "organization": "Palo Alto Networks, Inc",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 03:24:16.612275",
+      "last_seen": "2025-07-07 03:24:16.612278",
+      "service": "UDP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 169864,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
     {
       "ip": "185.156.73.234",
       "country": "The Netherlands",

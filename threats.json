@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-07T16:22:53.627458Z",
+    "generated": "2025-07-07T16:38:09.616447Z",
     "total_threats": 40,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -231,9 +231,9 @@
       "organization": "The Constant Company, LLC",
       "category": "Port_Scanning",
       "severity": "Medium",
-      "offense_count": 1,
+      "offense_count": 2,
       "first_seen": "2025-07-07 16:08:15.534680",
-      "last_seen": "2025-07-07 16:08:15.534684",
+      "last_seen": "2025-07-07 16:23:39.341108",
       "service": "TCP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 385722,

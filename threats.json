@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T16:07:37.092889Z",
-    "total_threats": 39,
+    "generated": "2025-07-07T16:22:53.627458Z",
+    "total_threats": 40,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "64.176.227.10",
+      "country": "South Korea",
+      "region": "Seoul",
+      "city": "Seoul",
+      "isp": "The Constant Company, LLC",
+      "organization": "The Constant Company, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 16:08:15.534680",
+      "last_seen": "2025-07-07 16:08:15.534684",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

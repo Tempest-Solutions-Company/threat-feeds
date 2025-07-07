@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-07T11:03:32.422226Z",
+    "generated": "2025-07-07T11:18:47.513878Z",
     "total_threats": 29,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -57,7 +57,7 @@
       "service": "Unknown",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 37986,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {
@@ -122,14 +122,14 @@
       "isp": "Mozambique Research & Education Network - MoRENet",
       "organization": "Provider",
       "category": "SSH_Scanning",
-      "severity": "High",
+      "severity": "Critical",
       "offense_count": 5,
       "first_seen": "2025-07-07 03:53:39.241377",
       "last_seen": "2025-07-07 04:39:46.252336",
       "service": "TCP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 169864,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {
@@ -507,7 +507,7 @@
       "service": "Unknown",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 37986,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {
@@ -525,7 +525,7 @@
       "service": "Unknown",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 37986,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     }
   ]

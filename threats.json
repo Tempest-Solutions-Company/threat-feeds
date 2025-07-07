@@ -1,11 +1,29 @@
 {
   "metadata": {
-    "generated": "2025-07-07T07:25:26.221181Z",
+    "generated": "2025-07-07T07:40:34.284909Z",
     "total_threats": 20,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
   "threats": [
+    {
+      "ip": "46.165.220.198",
+      "country": "Germany",
+      "region": "Hesse",
+      "city": "Frankfurt am Main",
+      "isp": "LeaseWeb DE",
+      "organization": "Leaseweb Deutschland GmbH",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 2,
+      "first_seen": "2025-07-07 00:20:29.340861",
+      "last_seen": "2025-07-07 07:39:07.904504",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 797443,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
     {
       "ip": "195.178.110.160",
       "country": "Andorra",
@@ -273,24 +291,6 @@
       "service": "TCP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 454894,
-      "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "46.165.220.198",
-      "country": "Germany",
-      "region": "Hesse",
-      "city": "Frankfurt am Main",
-      "isp": "LeaseWeb DE",
-      "organization": "Leaseweb Deutschland GmbH",
-      "category": "Port_Scanning",
-      "severity": "Medium",
-      "offense_count": 1,
-      "first_seen": "2025-07-07 00:20:29.340861",
-      "last_seen": "2025-07-07 00:20:29.340865",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
-      "signature_id": 797443,
       "is_targeted": false,
       "is_cgnat": false
     },

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T19:41:21.267461Z",
-    "total_threats": 45,
+    "generated": "2025-07-07T19:56:37.550519Z",
+    "total_threats": 46,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "167.179.101.74",
+      "country": "Japan",
+      "region": "Tokyo",
+      "city": "Shinagawa",
+      "isp": "The Constant Company, LLC",
+      "organization": "Choopa, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 19:44:16.088125",
+      "last_seen": "2025-07-07 19:44:16.088128",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

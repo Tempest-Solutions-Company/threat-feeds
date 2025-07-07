@@ -1,11 +1,29 @@
 {
   "metadata": {
-    "generated": "2025-07-07T08:10:50.841931Z",
-    "total_threats": 20,
+    "generated": "2025-07-07T08:25:59.071725Z",
+    "total_threats": 21,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
   "threats": [
+    {
+      "ip": "170.64.183.181",
+      "country": "Australia",
+      "region": "New South Wales",
+      "city": "Sydney",
+      "isp": "DigitalOcean, LLC",
+      "organization": "DigitalOcean, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 2,
+      "first_seen": "2025-07-07 08:12:46.162248",
+      "last_seen": "2025-07-07 08:23:00.710152",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 169864,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
     {
       "ip": "195.178.110.160",
       "country": "Andorra",

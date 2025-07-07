@@ -1,8 +1,9 @@
 ip,country,region,city,isp,organization,category,severity,offense_count,first_seen,last_seen,service,policy_type,signature_id,is_targeted,is_cgnat
-80.94.95.115,Hungary,Budapest,Budapest,SS-Net,Unmanaged LTD,ET_SCAN,High,4,2025-07-06 23:16:51.930499,2025-07-07 01:31:49.039146,Unknown,ET_SCAN Pattern,37986,False,False
-77.83.207.193,Russia,Moscow,Moscow,Optima LLC,Optima LLC,ET_SCAN,High,4,2025-07-06 23:16:51.941153,2025-07-07 00:03:08.466059,Unknown,ET_SCAN Pattern,37986,False,False
-85.198.11.94,Iran,Tehran,Tehran,Asre Dadeha Asiatech,Asiatech,ET_SCAN,High,3,2025-07-06 23:16:51.938056,2025-07-06 23:27:51.826441,Unknown,ET_SCAN Pattern,37986,False,False
+20.65.193.129,United States,Texas,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Port_Scanning,Medium,1,2025-07-07 01:44:41.256201,2025-07-07 01:44:41.256204,TCP,ET_SCAN Pattern,169864,False,False
 194.0.234.93,United Kingdom,England,London,Skynet Network LTD,Skynet Network LTD,Port_Scanning,Medium,1,2025-07-07 01:15:26.247345,2025-07-07 01:15:26.247348,TCP,ET_SCAN Pattern,169864,False,False
 144.217.0.58,Canada,Quebec,Beauharnois,OVH Hosting,HostMF, Tecnologia da Informacao,Port_Scanning,Medium,2,2025-07-07 00:45:17.227338,2025-07-07 01:00:44.598607,TCP,ET_SCAN Pattern,454894,False,False
 46.165.220.198,Germany,Hesse,Frankfurt am Main,LeaseWeb DE,Leaseweb Deutschland GmbH,Port_Scanning,Medium,1,2025-07-07 00:20:29.340861,2025-07-07 00:20:29.340865,TCP,ET_SCAN Pattern,797443,False,False
+80.94.95.115,Hungary,Budapest,Budapest,SS-Net,Unmanaged LTD,ET_SCAN,High,4,2025-07-06 23:16:51.930499,2025-07-07 01:31:49.039146,Unknown,ET_SCAN Pattern,37986,False,False
+77.83.207.193,Russia,Moscow,Moscow,Optima LLC,Optima LLC,ET_SCAN,High,4,2025-07-06 23:16:51.941153,2025-07-07 00:03:08.466059,Unknown,ET_SCAN Pattern,37986,False,False
+85.198.11.94,Iran,Tehran,Tehran,Asre Dadeha Asiatech,Asiatech,ET_SCAN,High,3,2025-07-06 23:16:51.938056,2025-07-06 23:27:51.826441,Unknown,ET_SCAN Pattern,37986,False,False
 206.168.34.38,United States,Illinois,Chicago,Censys, Inc.,Censys, Inc.,DNS_Attack,Medium,1,2025-07-07 00:29:21.015677,2025-07-07 00:29:21.015681,Unknown,ET_SCAN Pattern,260321,False,False

@@ -1,15 +1,14 @@
 # Ethical Threat Feeds - Summary Report
-# Generated: 2025-07-07T00:48:23.335104Z
+# Generated: 2025-07-07T00:52:01.633413Z
 # 30-Day Rolling Window Analysis
 #
-Total Active Threats: 7
+Total Active Threats: 6
 Data Retention: 30 days (rolling)
 Counter Reset Logic: Active (extends on new activity)
 Direction Filter: Incoming threats only
 #
 Top Threat Countries:
 Canada: 1 threats
-Private: 1 threats
 Germany: 1 threats
 United States: 1 threats
 Russia: 1 threats
@@ -17,8 +16,8 @@ Iran: 1 threats
 Hungary: 1 threats
 
 Top Threat Categories:
-Port_Scanning: 3 threats
 ET_SCAN: 3 threats
+Port_Scanning: 2 threats
 DNS_Attack: 1 threats
 
 Most Active Threats:
@@ -26,4 +25,4 @@ Most Active Threats:
 85.198.11.94 (Iran): 3 offenses
 80.94.95.115 (Hungary): 3 offenses
 144.217.0.58 (Canada): 1 offenses
-192.168.61.161 (Private): 1 offenses
+46.165.220.198 (Germany): 1 offenses

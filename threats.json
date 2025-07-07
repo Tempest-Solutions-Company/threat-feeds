@@ -1,11 +1,29 @@
 {
   "metadata": {
-    "generated": "2025-07-07T01:52:31.250979Z",
-    "total_threats": 8,
+    "generated": "2025-07-07T02:07:38.802517Z",
+    "total_threats": 9,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
   "threats": [
+    {
+      "ip": "136.244.116.222",
+      "country": "France",
+      "region": "\u00cele-de-France",
+      "city": "Aubervilliers",
+      "isp": "The Constant Company",
+      "organization": "Vultr Holdings, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 01:57:18.323276",
+      "last_seen": "2025-07-07 01:57:18.323279",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 169864,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
     {
       "ip": "20.65.193.129",
       "country": "United States",

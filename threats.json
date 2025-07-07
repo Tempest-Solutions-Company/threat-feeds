@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T16:53:25.558941Z",
-    "total_threats": 40,
+    "generated": "2025-07-07T17:08:40.431545Z",
+    "total_threats": 41,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "134.209.230.91",
+      "country": "Germany",
+      "region": "Hesse",
+      "city": "Frankfurt am Main",
+      "isp": "DigitalOcean, LLC",
+      "organization": "DigitalOcean, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 17:04:29.395942",
+      "last_seen": "2025-07-07 17:04:29.395945",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

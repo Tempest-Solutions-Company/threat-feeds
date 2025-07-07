@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T12:49:06.544195Z",
-    "total_threats": 31,
+    "generated": "2025-07-07T13:04:23.117615Z",
+    "total_threats": 32,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "66.42.125.90",
+      "country": "United States",
+      "region": "New Jersey",
+      "city": "Sea Girt",
+      "isp": "The Constant Company",
+      "organization": "Vultr Holdings, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 12:57:44.378454",
+      "last_seen": "2025-07-07 12:57:44.378457",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

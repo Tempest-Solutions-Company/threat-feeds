@@ -1,11 +1,29 @@
 {
   "metadata": {
-    "generated": "2025-07-07T05:09:09.918696Z",
-    "total_threats": 16,
+    "generated": "2025-07-07T05:24:18.976312Z",
+    "total_threats": 17,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
   "threats": [
+    {
+      "ip": "64.176.165.127",
+      "country": "Israel",
+      "region": "Central District",
+      "city": "Rosh Ha\u2018Ayin",
+      "isp": "The Constant Company, LLC",
+      "organization": "The Constant Company, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 05:14:46.291115",
+      "last_seen": "2025-07-07 05:14:46.291119",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 169864,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
     {
       "ip": "41.94.88.219",
       "country": "Mozambique",

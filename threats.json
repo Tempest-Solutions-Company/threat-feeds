@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T23:15:01.991770Z",
-    "total_threats": 51,
+    "generated": "2025-07-07T23:30:17.993282Z",
+    "total_threats": 52,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "60.13.138.89",
+      "country": "China",
+      "region": "Xinjiang",
+      "city": "\u00dcr\u00fcmqi",
+      "isp": "CNC Group CHINA169 Xinjiang Province Network",
+      "organization": "Unknown",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 23:18:10.704425",
+      "last_seen": "2025-07-07 23:18:10.704429",
+      "service": "UDP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

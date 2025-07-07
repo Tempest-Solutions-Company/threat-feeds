@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T14:36:00.989180Z",
-    "total_threats": 34,
+    "generated": "2025-07-07T14:51:17.590882Z",
+    "total_threats": 36,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,42 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "193.32.162.141",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "isp": "Unmanaged LTD",
+      "organization": "Techoff SRV Limited",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 14:49:54.952124",
+      "last_seen": "2025-07-07 14:49:54.952128",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "135.222.40.73",
+      "country": "United States",
+      "region": "Virginia",
+      "city": "Boydton",
+      "isp": "Microsoft Corporation",
+      "organization": "Microsoft Azure Cloud (eastus)",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 14:36:03.871969",
+      "last_seen": "2025-07-07 14:36:03.871973",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

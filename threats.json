@@ -1,11 +1,29 @@
 {
   "metadata": {
-    "generated": "2025-07-07T06:24:52.129227Z",
-    "total_threats": 17,
+    "generated": "2025-07-07T06:40:00.242424Z",
+    "total_threats": 18,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
   "threats": [
+    {
+      "ip": "20.14.81.42",
+      "country": "United States",
+      "region": "Arizona",
+      "city": "Phoenix",
+      "isp": "Microsoft Corporation",
+      "organization": "Microsoft Azure Cloud (westus3)",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 06:28:29.781956",
+      "last_seen": "2025-07-07 06:28:29.781959",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 169864,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
     {
       "ip": "64.176.165.127",
       "country": "Israel",

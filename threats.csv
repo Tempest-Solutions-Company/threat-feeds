@@ -1,4 +1,5 @@
 ip,country,region,city,isp,organization,category,severity,offense_count,first_seen,last_seen,service,policy_type,signature_id,is_targeted,is_cgnat
+46.165.220.198,Germany,Hesse,Frankfurt am Main,LeaseWeb DE,Leaseweb Deutschland GmbH,Port_Scanning,Medium,2,2025-07-07 00:20:29.340861,2025-07-07 07:39:07.904504,TCP,ET_SCAN Pattern,797443,False,False
 195.178.110.160,Andorra,Andorra la Vella,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Port_Scanning,Medium,1,2025-07-07 07:07:13.149796,2025-07-07 07:07:13.149800,TCP,ET_SCAN Pattern,169864,False,False
 143.198.77.209,United States,California,Santa Clara,DigitalOcean, LLC,DigitalOcean, LLC,Port_Scanning,Medium,1,2025-07-07 06:42:04.449069,2025-07-07 06:42:04.449073,TCP,ET_SCAN Pattern,169864,False,False
 20.14.81.42,United States,Arizona,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Port_Scanning,Medium,1,2025-07-07 06:28:29.781956,2025-07-07 06:28:29.781959,TCP,ET_SCAN Pattern,169864,False,False
@@ -14,7 +15,6 @@ ip,country,region,city,isp,organization,category,severity,offense_count,first_se
 20.65.193.129,United States,Texas,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Port_Scanning,Medium,1,2025-07-07 01:44:41.256201,2025-07-07 01:44:41.256204,TCP,ET_SCAN Pattern,169864,False,False
 194.0.234.93,United Kingdom,England,London,Skynet Network LTD,Skynet Network LTD,Port_Scanning,Medium,1,2025-07-07 01:15:26.247345,2025-07-07 01:15:26.247348,TCP,ET_SCAN Pattern,169864,False,False
 144.217.0.58,Canada,Quebec,Beauharnois,OVH Hosting,HostMF, Tecnologia da Informacao,Port_Scanning,Medium,2,2025-07-07 00:45:17.227338,2025-07-07 01:00:44.598607,TCP,ET_SCAN Pattern,454894,False,False
-46.165.220.198,Germany,Hesse,Frankfurt am Main,LeaseWeb DE,Leaseweb Deutschland GmbH,Port_Scanning,Medium,1,2025-07-07 00:20:29.340861,2025-07-07 00:20:29.340865,TCP,ET_SCAN Pattern,797443,False,False
 80.94.95.115,Hungary,Budapest,Budapest,SS-Net,Unmanaged LTD,ET_SCAN,High,5,2025-07-06 23:16:51.930499,2025-07-07 02:24:14.359480,Unknown,ET_SCAN Pattern,37986,False,False
 77.83.207.193,Russia,Moscow,Moscow,Optima LLC,Optima LLC,ET_SCAN,High,4,2025-07-06 23:16:51.941153,2025-07-07 00:03:08.466059,Unknown,ET_SCAN Pattern,37986,False,False
 85.198.11.94,Iran,Tehran,Tehran,Asre Dadeha Asiatech,Asiatech,ET_SCAN,High,3,2025-07-06 23:16:51.938056,2025-07-06 23:27:51.826441,Unknown,ET_SCAN Pattern,37986,False,False

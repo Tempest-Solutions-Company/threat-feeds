@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T18:09:45.089370Z",
-    "total_threats": 43,
+    "generated": "2025-07-07T18:25:01.431566Z",
+    "total_threats": 44,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "65.20.109.227",
+      "country": "Spain",
+      "region": "Madrid",
+      "city": "Madrid",
+      "isp": "The Constant Company, LLC",
+      "organization": "The Constant Company, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 18:16:36.474984",
+      "last_seen": "2025-07-07 18:16:36.474987",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

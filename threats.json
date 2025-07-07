@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-07T12:33:49.146564Z",
-    "total_threats": 30,
+    "generated": "2025-07-07T12:49:06.544195Z",
+    "total_threats": 31,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "193.174.89.19",
+      "country": "Germany",
+      "region": "Bavaria",
+      "city": "W\u00fcrzburg",
+      "isp": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+      "organization": "Fachhochschule Muenster",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-07 12:39:38.374662",
+      "last_seen": "2025-07-07 12:39:38.374666",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

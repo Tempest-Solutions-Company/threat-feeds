@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T06:22:11.564184Z",
-    "total_threats": 62,
+    "generated": "2025-07-08T06:37:27.642421Z",
+    "total_threats": 63,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "193.46.255.93",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Rushden",
+      "isp": "Unmanaged LTD",
+      "organization": "Unmanaged LTD",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 06:30:27.358224",
+      "last_seen": "2025-07-08 06:30:27.358228",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

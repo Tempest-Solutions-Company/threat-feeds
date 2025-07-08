@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T03:19:10.346613Z",
-    "total_threats": 57,
+    "generated": "2025-07-08T03:34:26.300808Z",
+    "total_threats": 58,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "78.128.112.74",
+      "country": "Bulgaria",
+      "region": "Plovdiv",
+      "city": "Sopot",
+      "isp": "noc@dotdash.host",
+      "organization": "4media",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 03:31:30.596779",
+      "last_seen": "2025-07-08 03:31:30.596782",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

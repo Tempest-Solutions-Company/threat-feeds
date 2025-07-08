@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T11:06:58.824163Z",
-    "total_threats": 81,
+    "generated": "2025-07-08T11:22:15.308085Z",
+    "total_threats": 82,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "104.234.115.87",
+      "country": "United States",
+      "region": "Wisconsin",
+      "city": "Port Edwards",
+      "isp": "Internet Utilities NA LLC",
+      "organization": "CyberOneData LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 11:08:11.026364",
+      "last_seen": "2025-07-08 11:08:11.026368",
+      "service": "UDP",
+      "policy_type": "Unknown",
+      "signature_id": 607225,
       "is_targeted": false,
       "is_cgnat": false
     },

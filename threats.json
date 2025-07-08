@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T12:03:18.252954Z",
-    "total_threats": 82,
+    "generated": "2025-07-08T12:18:33.501286Z",
+    "total_threats": 83,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "189.7.17.61",
+      "country": "Brazil",
+      "region": "Paran\u00e1",
+      "city": "Maring\u00e1",
+      "isp": "Claro NXT Telecomunicacoes Ltda",
+      "organization": "Claro NXT Telecomunicacoes Ltda",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 12:14:42.734595",
+      "last_seen": "2025-07-08 12:14:42.734598",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

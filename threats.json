@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T09:31:18.787085Z",
-    "total_threats": 80,
+    "generated": "2025-07-08T09:33:35.395319Z",
+    "total_threats": 79,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -364,24 +364,6 @@
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
       "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "193.46.255.93",
-      "country": "United Kingdom",
-      "region": "England",
-      "city": "Rushden",
-      "isp": "Unmanaged LTD",
-      "organization": "Unmanaged LTD",
-      "category": "Port_Scanning",
-      "severity": "Critical",
-      "offense_count": 15,
-      "first_seen": "2025-07-08 06:30:27.358224",
-      "last_seen": "2025-07-08 09:27:52.803005",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
-      "signature_id": 385722,
-      "is_targeted": true,
       "is_cgnat": false
     },
     {
@@ -1367,11 +1349,11 @@
       "severity": "Critical",
       "offense_count": 2,
       "first_seen": "2025-07-08 09:30:34.199828",
-      "last_seen": "2025-07-08 09:30:34.987778",
+      "last_seen": "2025-07-08 09:31:44.677544",
       "service": "HTTP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 235581,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {
@@ -1385,11 +1367,11 @@
       "severity": "High",
       "offense_count": 1,
       "first_seen": "2025-07-08 09:30:34.593285",
-      "last_seen": "2025-07-08 09:30:34.593288",
+      "last_seen": "2025-07-08 09:31:44.677544",
       "service": "HTTP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 235581,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {
@@ -1403,11 +1385,11 @@
       "severity": "Critical",
       "offense_count": 2,
       "first_seen": "2025-07-08 09:30:33.803543",
-      "last_seen": "2025-07-08 09:30:35.446403",
+      "last_seen": "2025-07-08 09:31:44.677544",
       "service": "HTTP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 235581,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {

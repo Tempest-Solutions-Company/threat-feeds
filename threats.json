@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T15:37:06.344993Z",
-    "total_threats": 88,
+    "generated": "2025-07-08T15:52:21.478894Z",
+    "total_threats": 89,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "103.189.235.176",
+      "country": "Singapore",
+      "region": "Central Singapore",
+      "city": "Singapore",
+      "isp": "Cloud Host Pte Ltd",
+      "organization": "Cloud Host Pte Ltd",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 15:44:51.755778",
+      "last_seen": "2025-07-08 15:44:51.755782",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

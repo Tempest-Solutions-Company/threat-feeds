@@ -4,7 +4,7 @@
 
 Real-time threat feeds generated from UDM Pro firewall logs, providing categorized lists of IP addresses involved in malicious activity.
 
-**Last Updated:** 2025-07-06 23:20:34 UTC
+**Last Updated:** 2025-07-08 09:33:53 UTC
 
 ## 📊 Available Threat Categories
 
@@ -37,10 +37,26 @@ Real-time threat feeds generated from UDM Pro firewall logs, providing categoriz
 ### For Network Administrators
 ```bash
 # Download and use in pfSense, OPNsense, etc.
-curl -O https://raw.githubusercontent.com/Tempest-Solutions-Company/threat-feeds/main/feeds/SQL_Injection.txt
+curl -O https://raw.githubusercontent.com/Tempest-Solutions-Company/threat-feeds/main/SQL_Injection.txt
 ```
 
 ## 📋 File Descriptions
+
+- **Command_Injection.txt**: Operating system command injection attempts
+- **Compromised_Host.txt**: Known compromised or hostile hosts
+- **DNS_Attack.txt**: DNS enumeration and attack attempts
+- **Port_Scanning.txt**: Network port scanning and reconnaissance attempts
+- **SQL_Injection.txt**: Database injection attack attempts
+- **SSH_Scanning.txt**: SSH brute force and scanning attempts
+- **Tor_Traffic.txt**: Tor network relay and exit node traffic
+- **Web_Attack.txt**: Generic web application attacks
+- **XSS_Attempt.txt**: Cross-site scripting attack attempts
+
+## 🔍 Data Sources
+
+- **UDM Pro Firewalls**: Real network traffic analysis
+- **Proofpoint CyberSecure**: 55,000+ threat signatures
+- **Community Reporting**: Ethical disclosure to IP owners/ISPs
 
 ## ⚠️ Important Notes
 
@@ -66,6 +82,7 @@ MIT License - Use freely with attribution
 
 - **Issues**: GitHub Issues
 - **Community**: Discussions tab
+- **Security**: security@example.com
 
 ---
 

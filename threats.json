@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T08:24:19.736682Z",
-    "total_threats": 66,
+    "generated": "2025-07-08T08:39:36.471201Z",
+    "total_threats": 67,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "108.61.222.67",
+      "country": "United States",
+      "region": "Texas",
+      "city": "Dallas",
+      "isp": "Choopa",
+      "organization": "Vultr Holdings, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 08:31:14.300973",
+      "last_seen": "2025-07-08 08:31:14.300976",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

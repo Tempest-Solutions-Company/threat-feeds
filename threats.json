@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-08T09:51:04.760467Z",
+    "generated": "2025-07-08T10:00:05.671520Z",
     "total_threats": 80,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -18,8 +18,8 @@
       "offense_count": 3,
       "first_seen": "2025-07-08 03:04:12.537956",
       "last_seen": "2025-07-08 09:20:31.769117",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Compromised Hosts",
       "signature_id": 385722,
       "is_targeted": true,
       "is_cgnat": false
@@ -36,8 +36,8 @@
       "offense_count": 2,
       "first_seen": "2025-07-08 09:09:26.208187",
       "last_seen": "2025-07-08 09:20:31.477510",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Compromised Hosts",
       "signature_id": 654923,
       "is_targeted": false,
       "is_cgnat": false
@@ -54,8 +54,8 @@
       "offense_count": 2,
       "first_seen": "2025-07-07 00:20:29.340861",
       "last_seen": "2025-07-07 07:39:07.904504",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Compromised Hosts",
       "signature_id": 797443,
       "is_targeted": false,
       "is_cgnat": false
@@ -72,8 +72,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 03:13:14.848461",
       "last_seen": "2025-07-07 03:13:14.848465",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Compromised Hosts",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -90,8 +90,8 @@
       "offense_count": 5,
       "first_seen": "2025-07-06 23:16:51.930499",
       "last_seen": "2025-07-07 02:24:14.359480",
-      "service": "Unknown",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Compromised Hosts",
       "signature_id": 37986,
       "is_targeted": true,
       "is_cgnat": false
@@ -108,8 +108,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 01:15:26.247345",
       "last_seen": "2025-07-07 01:15:26.247348",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Compromised Hosts",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -126,8 +126,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-08 09:20:35.169038",
       "last_seen": "2025-07-08 09:20:35.169041",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Scanning Activity",
       "signature_id": 852661,
       "is_targeted": false,
       "is_cgnat": false
@@ -144,8 +144,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-08 09:20:34.224551",
       "last_seen": "2025-07-08 09:20:34.224556",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Scanning Activity",
       "signature_id": 852661,
       "is_targeted": false,
       "is_cgnat": false
@@ -162,8 +162,8 @@
       "offense_count": 5,
       "first_seen": "2025-07-07 09:14:14.043458",
       "last_seen": "2025-07-08 09:20:32.643734",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": true,
       "is_cgnat": false
@@ -180,8 +180,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 08:52:00.546705",
       "last_seen": "2025-07-07 08:52:00.546709",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -198,8 +198,8 @@
       "offense_count": 5,
       "first_seen": "2025-07-07 03:53:39.241377",
       "last_seen": "2025-07-07 04:39:46.252336",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "SSH",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": true,
       "is_cgnat": false
@@ -216,8 +216,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-08 09:20:29.600201",
       "last_seen": "2025-07-08 09:20:29.600204",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "DNS",
+      "policy_type": "DNS",
       "signature_id": 852661,
       "is_targeted": false,
       "is_cgnat": false
@@ -234,8 +234,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-08 09:20:28.951116",
       "last_seen": "2025-07-08 09:20:28.951120",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "DNS",
+      "policy_type": "DNS",
       "signature_id": 852661,
       "is_targeted": false,
       "is_cgnat": false
@@ -252,8 +252,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-08 09:20:27.709527",
       "last_seen": "2025-07-08 09:20:27.709531",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "DNS",
+      "policy_type": "DNS",
       "signature_id": 852661,
       "is_targeted": false,
       "is_cgnat": false
@@ -270,8 +270,8 @@
       "offense_count": 2,
       "first_seen": "2025-07-08 09:09:25.112120",
       "last_seen": "2025-07-08 09:20:27.056688",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "DNS",
+      "policy_type": "DNS",
       "signature_id": 654923,
       "is_targeted": false,
       "is_cgnat": false
@@ -288,8 +288,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 00:29:21.015677",
       "last_seen": "2025-07-07 00:29:21.015681",
-      "service": "Unknown",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "DNS",
+      "policy_type": "DNS",
       "signature_id": 260321,
       "is_targeted": false,
       "is_cgnat": false
@@ -379,7 +379,7 @@
       "first_seen": "2025-07-08 09:35:35.209913",
       "last_seen": "2025-07-08 09:35:35.209914",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 392194,
       "is_targeted": false,
       "is_cgnat": false
@@ -397,7 +397,7 @@
       "first_seen": "2025-07-08 09:09:07.298470",
       "last_seen": "2025-07-08 09:24:28.784561",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -415,7 +415,7 @@
       "first_seen": "2025-07-08 01:07:03.339091",
       "last_seen": "2025-07-08 09:20:37.123533",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -433,7 +433,7 @@
       "first_seen": "2025-07-08 09:20:36.761128",
       "last_seen": "2025-07-08 09:20:36.761132",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 852661,
       "is_targeted": false,
       "is_cgnat": false
@@ -451,7 +451,7 @@
       "first_seen": "2025-07-08 05:42:30.307000",
       "last_seen": "2025-07-08 09:20:36.406459",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -469,7 +469,7 @@
       "first_seen": "2025-07-08 04:51:40.861497",
       "last_seen": "2025-07-08 09:20:36.115966",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": true,
       "is_cgnat": false
@@ -487,7 +487,7 @@
       "first_seen": "2025-07-08 09:20:35.819217",
       "last_seen": "2025-07-08 09:20:35.819221",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 852661,
       "is_targeted": false,
       "is_cgnat": false
@@ -505,7 +505,7 @@
       "first_seen": "2025-07-07 23:07:47.241683",
       "last_seen": "2025-07-08 09:20:35.461636",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -523,7 +523,7 @@
       "first_seen": "2025-07-08 04:31:31.358122",
       "last_seen": "2025-07-08 09:20:34.876808",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -541,7 +541,7 @@
       "first_seen": "2025-07-08 03:31:30.596779",
       "last_seen": "2025-07-08 09:20:34.516160",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -559,7 +559,7 @@
       "first_seen": "2025-07-07 07:07:13.149796",
       "last_seen": "2025-07-08 09:20:33.933277",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": true,
       "is_cgnat": false
@@ -577,7 +577,7 @@
       "first_seen": "2025-07-08 06:55:49.079537",
       "last_seen": "2025-07-08 09:20:33.579373",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": true,
       "is_cgnat": false
@@ -595,7 +595,7 @@
       "first_seen": "2025-07-08 07:46:02.117161",
       "last_seen": "2025-07-08 09:20:33.227729",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -613,7 +613,7 @@
       "first_seen": "2025-07-08 08:31:14.300973",
       "last_seen": "2025-07-08 09:20:32.936815",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -631,7 +631,7 @@
       "first_seen": "2025-07-08 01:47:27.039230",
       "last_seen": "2025-07-08 09:20:32.352743",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": true,
       "is_cgnat": false
@@ -648,8 +648,8 @@
       "offense_count": 2,
       "first_seen": "2025-07-07 23:18:10.704425",
       "last_seen": "2025-07-08 09:20:29.311051",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -666,8 +666,8 @@
       "offense_count": 2,
       "first_seen": "2025-07-08 00:32:59.371099",
       "last_seen": "2025-07-08 09:20:28.660002",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -684,8 +684,8 @@
       "offense_count": 2,
       "first_seen": "2025-07-08 01:26:41.138613",
       "last_seen": "2025-07-08 09:20:28.304449",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -702,8 +702,8 @@
       "offense_count": 2,
       "first_seen": "2025-07-08 04:19:11.329946",
       "last_seen": "2025-07-08 09:20:28.005546",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -720,8 +720,8 @@
       "offense_count": 2,
       "first_seen": "2025-07-08 08:17:17.251839",
       "last_seen": "2025-07-08 09:20:27.353776",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -739,7 +739,7 @@
       "first_seen": "2025-07-07 22:21:34.510957",
       "last_seen": "2025-07-07 22:41:13.481691",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -757,7 +757,7 @@
       "first_seen": "2025-07-07 22:05:16.596742",
       "last_seen": "2025-07-07 22:05:16.596745",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -775,7 +775,7 @@
       "first_seen": "2025-07-07 21:09:26.309678",
       "last_seen": "2025-07-07 21:09:26.309681",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -793,7 +793,7 @@
       "first_seen": "2025-07-07 20:32:10.378309",
       "last_seen": "2025-07-07 20:32:10.378312",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -811,7 +811,7 @@
       "first_seen": "2025-07-07 19:44:16.088125",
       "last_seen": "2025-07-07 20:11:13.466099",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": true,
       "is_cgnat": false
@@ -828,8 +828,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 18:46:44.948810",
       "last_seen": "2025-07-07 18:46:44.948813",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -847,7 +847,7 @@
       "first_seen": "2025-07-07 18:16:36.474984",
       "last_seen": "2025-07-07 18:16:36.474987",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -865,7 +865,7 @@
       "first_seen": "2025-07-07 17:50:05.308086",
       "last_seen": "2025-07-07 17:50:05.308089",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -883,7 +883,7 @@
       "first_seen": "2025-07-07 17:32:54.506004",
       "last_seen": "2025-07-07 17:32:54.506007",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -901,7 +901,7 @@
       "first_seen": "2025-07-07 17:04:29.395942",
       "last_seen": "2025-07-07 17:04:29.395945",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -919,7 +919,7 @@
       "first_seen": "2025-07-07 13:34:14.021154",
       "last_seen": "2025-07-07 16:43:34.820456",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -937,7 +937,7 @@
       "first_seen": "2025-07-07 16:08:15.534680",
       "last_seen": "2025-07-07 16:23:39.341108",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -955,7 +955,7 @@
       "first_seen": "2025-07-07 15:38:43.261717",
       "last_seen": "2025-07-07 15:38:43.261720",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -972,8 +972,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 15:21:45.018178",
       "last_seen": "2025-07-07 15:21:45.018180",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -990,8 +990,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 15:01:58.034506",
       "last_seen": "2025-07-07 15:01:58.034510",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -1009,7 +1009,7 @@
       "first_seen": "2025-07-07 14:49:54.952124",
       "last_seen": "2025-07-07 14:49:54.952128",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -1027,7 +1027,7 @@
       "first_seen": "2025-07-07 14:36:03.871969",
       "last_seen": "2025-07-07 14:36:03.871973",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -1044,8 +1044,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 13:49:26.317379",
       "last_seen": "2025-07-07 13:49:26.317383",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -1063,7 +1063,7 @@
       "first_seen": "2025-07-07 12:57:44.378454",
       "last_seen": "2025-07-07 12:57:44.378457",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -1081,7 +1081,7 @@
       "first_seen": "2025-07-07 12:39:38.374662",
       "last_seen": "2025-07-07 12:39:38.374666",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
@@ -1099,7 +1099,7 @@
       "first_seen": "2025-07-07 11:37:46.636956",
       "last_seen": "2025-07-07 11:37:46.636960",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 560231,
       "is_targeted": false,
       "is_cgnat": false
@@ -1117,7 +1117,7 @@
       "first_seen": "2025-07-07 09:44:53.328867",
       "last_seen": "2025-07-07 09:44:53.328872",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 574765,
       "is_targeted": false,
       "is_cgnat": false
@@ -1135,7 +1135,7 @@
       "first_seen": "2025-07-07 08:12:46.162248",
       "last_seen": "2025-07-07 08:23:00.710152",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1153,7 +1153,7 @@
       "first_seen": "2025-07-07 06:42:04.449069",
       "last_seen": "2025-07-07 06:42:04.449073",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1171,7 +1171,7 @@
       "first_seen": "2025-07-07 06:28:29.781956",
       "last_seen": "2025-07-07 06:28:29.781959",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1189,7 +1189,7 @@
       "first_seen": "2025-07-07 05:14:46.291115",
       "last_seen": "2025-07-07 05:14:46.291119",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1207,7 +1207,7 @@
       "first_seen": "2025-07-07 03:36:08.592549",
       "last_seen": "2025-07-07 03:36:08.592553",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1224,8 +1224,8 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 03:24:16.612275",
       "last_seen": "2025-07-07 03:24:16.612278",
-      "service": "UDP",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1243,7 +1243,7 @@
       "first_seen": "2025-07-07 02:57:58.259245",
       "last_seen": "2025-07-07 02:57:58.259249",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1261,7 +1261,7 @@
       "first_seen": "2025-07-07 02:41:21.349473",
       "last_seen": "2025-07-07 02:41:21.349476",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1279,7 +1279,7 @@
       "first_seen": "2025-07-07 02:11:59.502846",
       "last_seen": "2025-07-07 02:11:59.502849",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1297,7 +1297,7 @@
       "first_seen": "2025-07-07 01:57:18.323276",
       "last_seen": "2025-07-07 01:57:18.323279",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1315,7 +1315,7 @@
       "first_seen": "2025-07-07 01:44:41.256201",
       "last_seen": "2025-07-07 01:44:41.256204",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
@@ -1333,7 +1333,7 @@
       "first_seen": "2025-07-07 00:45:17.227338",
       "last_seen": "2025-07-07 01:00:44.598607",
       "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Scanning Activity",
       "signature_id": 454894,
       "is_targeted": false,
       "is_cgnat": false
@@ -1369,7 +1369,7 @@
       "first_seen": "2025-07-08 09:30:34.199828",
       "last_seen": "2025-07-08 09:31:44.677544",
       "service": "HTTP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Web Infrastructure Servers",
       "signature_id": 235581,
       "is_targeted": true,
       "is_cgnat": false
@@ -1387,7 +1387,7 @@
       "first_seen": "2025-07-08 09:30:34.593285",
       "last_seen": "2025-07-08 09:31:44.677544",
       "service": "HTTP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Web Infrastructure Servers",
       "signature_id": 235581,
       "is_targeted": true,
       "is_cgnat": false
@@ -1405,7 +1405,7 @@
       "first_seen": "2025-07-08 09:30:33.803543",
       "last_seen": "2025-07-08 09:31:44.677544",
       "service": "HTTP",
-      "policy_type": "ET_SCAN Pattern",
+      "policy_type": "Web Infrastructure Servers",
       "signature_id": 235581,
       "is_targeted": true,
       "is_cgnat": false
@@ -1422,8 +1422,8 @@
       "offense_count": 4,
       "first_seen": "2025-07-06 23:16:51.941153",
       "last_seen": "2025-07-07 00:03:08.466059",
-      "service": "Unknown",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 37986,
       "is_targeted": true,
       "is_cgnat": false
@@ -1440,8 +1440,8 @@
       "offense_count": 3,
       "first_seen": "2025-07-06 23:16:51.938056",
       "last_seen": "2025-07-06 23:27:51.826441",
-      "service": "Unknown",
-      "policy_type": "ET_SCAN Pattern",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
       "signature_id": 37986,
       "is_targeted": true,
       "is_cgnat": false

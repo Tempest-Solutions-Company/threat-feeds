@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T18:09:46.583785Z",
-    "total_threats": 91,
+    "generated": "2025-07-08T18:25:00.970322Z",
+    "total_threats": 92,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "109.70.100.65",
+      "country": "Austria",
+      "region": "Vienna",
+      "city": "Vienna",
+      "isp": "Foundation for Applied Privacy",
+      "organization": "Foundation Applied Privacy",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 18:21:18.372647",
+      "last_seen": "2025-07-08 18:21:18.372650",
+      "service": "HTTP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

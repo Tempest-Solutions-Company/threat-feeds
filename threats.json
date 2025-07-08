@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T01:01:50.233374Z",
-    "total_threats": 53,
+    "generated": "2025-07-08T01:17:06.688755Z",
+    "total_threats": 54,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "40.88.21.235",
+      "country": "United States",
+      "region": "Virginia",
+      "city": "Boydton",
+      "isp": "Microsoft Corporation",
+      "organization": "Microsoft Azure Cloud (eastus)",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 01:07:03.339091",
+      "last_seen": "2025-07-08 01:07:03.339095",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

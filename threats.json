@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T13:04:23.484690Z",
-    "total_threats": 85,
+    "generated": "2025-07-08T13:19:39.813157Z",
+    "total_threats": 86,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "172.87.28.99",
+      "country": "United States",
+      "region": "California",
+      "city": "Los Angeles",
+      "isp": "Zenlayer Inc",
+      "organization": "EightJoy Network LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 13:12:42.599526",
+      "last_seen": "2025-07-08 13:12:42.599529",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

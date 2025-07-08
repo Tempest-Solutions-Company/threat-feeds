@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T19:10:49.485261Z",
-    "total_threats": 92,
+    "generated": "2025-07-08T19:26:05.672261Z",
+    "total_threats": 93,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "59.63.156.252",
+      "country": "China",
+      "region": "Jiangxi",
+      "city": "Taohua",
+      "isp": "CHINANET Jiangx province IDC network",
+      "organization": "Chinanet JX",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 19:23:41.926440",
+      "last_seen": "2025-07-08 19:23:41.926444",
+      "service": "UDP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

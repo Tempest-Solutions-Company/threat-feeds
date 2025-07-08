@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-08T20:27:07.188724Z",
+    "generated": "2025-07-08T20:42:23.500038Z",
     "total_threats": 95,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -367,6 +367,24 @@
       "is_cgnat": false
     },
     {
+      "ip": "185.170.144.3",
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "Xhost Internet Solutions LP",
+      "organization": "Aliev",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 2,
+      "first_seen": "2025-07-08 19:36:03.740005",
+      "last_seen": "2025-07-08 20:36:56.461011",
+      "service": "HTTP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
       "ip": "198.235.24.103",
       "country": "United States",
       "region": "California",
@@ -379,24 +397,6 @@
       "first_seen": "2025-07-08 20:17:42.839937",
       "last_seen": "2025-07-08 20:17:42.839941",
       "service": "UDP",
-      "policy_type": "Unknown",
-      "signature_id": 83231,
-      "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "185.170.144.3",
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "Xhost Internet Solutions LP",
-      "organization": "Aliev",
-      "category": "Port_Scanning",
-      "severity": "Medium",
-      "offense_count": 1,
-      "first_seen": "2025-07-08 19:36:03.740005",
-      "last_seen": "2025-07-08 19:36:03.740007",
-      "service": "HTTPS",
       "policy_type": "Unknown",
       "signature_id": 83231,
       "is_targeted": false,

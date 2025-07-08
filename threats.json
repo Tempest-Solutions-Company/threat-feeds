@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T01:47:38.703805Z",
-    "total_threats": 55,
+    "generated": "2025-07-08T02:02:52.953975Z",
+    "total_threats": 56,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "192.42.116.177",
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "Surf B.V.",
+      "organization": "Nothing to hide",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 01:47:27.039230",
+      "last_seen": "2025-07-08 01:47:27.039232",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

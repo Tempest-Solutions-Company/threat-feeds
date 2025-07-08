@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-08T07:23:14.392105Z",
+    "generated": "2025-07-08T07:38:30.873092Z",
     "total_threats": 64,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -223,6 +223,24 @@
       "is_cgnat": false
     },
     {
+      "ip": "141.98.11.116",
+      "country": "Lithuania",
+      "region": "Vilnius",
+      "city": "Vilnius",
+      "isp": "UAB Host Baltic",
+      "organization": "Unknown",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 2,
+      "first_seen": "2025-07-08 04:51:40.861497",
+      "last_seen": "2025-07-08 07:35:17.614159",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
       "ip": "67.219.108.209",
       "country": "Australia",
       "region": "Victoria",
@@ -288,24 +306,6 @@
       "offense_count": 1,
       "first_seen": "2025-07-08 05:42:30.307000",
       "last_seen": "2025-07-08 05:42:30.307003",
-      "service": "TCP",
-      "policy_type": "ET_SCAN Pattern",
-      "signature_id": 385722,
-      "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "141.98.11.116",
-      "country": "Lithuania",
-      "region": "Vilnius",
-      "city": "Vilnius",
-      "isp": "UAB Host Baltic",
-      "organization": "Unknown",
-      "category": "Port_Scanning",
-      "severity": "Medium",
-      "offense_count": 1,
-      "first_seen": "2025-07-08 04:51:40.861497",
-      "last_seen": "2025-07-08 04:51:40.861500",
       "service": "TCP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 385722,

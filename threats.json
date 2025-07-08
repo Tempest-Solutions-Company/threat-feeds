@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T08:09:05.039750Z",
-    "total_threats": 65,
+    "generated": "2025-07-08T08:24:19.736682Z",
+    "total_threats": 66,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "18.191.94.169",
+      "country": "United States",
+      "region": "Ohio",
+      "city": "Dublin",
+      "isp": "Amazon.com, Inc.",
+      "organization": "AWS EC2 (us-east-2)",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 08:17:17.251839",
+      "last_seen": "2025-07-08 08:17:17.251843",
+      "service": "UDP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

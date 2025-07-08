@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T01:17:06.688755Z",
-    "total_threats": 54,
+    "generated": "2025-07-08T01:32:22.966455Z",
+    "total_threats": 55,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "64.62.156.84",
+      "country": "United States",
+      "region": "California",
+      "city": "Pleasanton",
+      "isp": "Hurricane Electric LLC",
+      "organization": "The Shadow Server Foundation",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 01:26:41.138613",
+      "last_seen": "2025-07-08 01:26:41.138617",
+      "service": "UDP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

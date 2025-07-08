@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T09:35:47.652869Z",
-    "total_threats": 79,
+    "generated": "2025-07-08T09:51:04.760467Z",
+    "total_threats": 80,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "196.251.67.143",
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "Nybula LLC",
+      "organization": "internet secuirty Nybula",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 09:35:35.209913",
+      "last_seen": "2025-07-08 09:35:35.209914",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 392194,
       "is_targeted": false,
       "is_cgnat": false
     },

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T03:03:54.468150Z",
-    "total_threats": 56,
+    "generated": "2025-07-08T03:19:10.346613Z",
+    "total_threats": 57,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -87,13 +87,13 @@
       "organization": "Techoff SRV Limited",
       "category": "SSH_Scanning",
       "severity": "High",
-      "offense_count": 2,
+      "offense_count": 3,
       "first_seen": "2025-07-07 09:14:14.043458",
-      "last_seen": "2025-07-07 23:30:52.313888",
+      "last_seen": "2025-07-08 03:15:29.152612",
       "service": "TCP",
       "policy_type": "ET_SCAN Pattern",
       "signature_id": 169864,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "85.85.196.35",
+      "country": "Spain",
+      "region": "Basque Country",
+      "city": "Beasain",
+      "isp": "Euskaltel S.A.",
+      "organization": "Unknown",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 03:04:12.537956",
+      "last_seen": "2025-07-08 03:04:12.537959",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

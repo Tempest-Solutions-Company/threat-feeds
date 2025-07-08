@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T12:33:50.481096Z",
-    "total_threats": 83,
+    "generated": "2025-07-08T12:49:07.329375Z",
+    "total_threats": 84,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "95.179.131.132",
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "The Constant Company, LLC",
+      "organization": "Vultr Holdings LLC Amsterdam",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 12:38:48.937187",
+      "last_seen": "2025-07-08 12:38:48.937191",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

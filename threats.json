@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T20:57:39.583843Z",
-    "total_threats": 95,
+    "generated": "2025-07-08T21:12:55.891697Z",
+    "total_threats": 96,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "80.94.95.115",
+      "country": "Hungary",
+      "region": "Budapest",
+      "city": "Budapest",
+      "isp": "SS-Net",
+      "organization": "Unmanaged LTD",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 21:11:02.170223",
+      "last_seen": "2025-07-08 21:11:02.170227",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

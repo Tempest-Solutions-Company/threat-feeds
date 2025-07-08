@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T20:11:52.649285Z",
-    "total_threats": 94,
+    "generated": "2025-07-08T20:27:07.188724Z",
+    "total_threats": 95,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "198.235.24.103",
+      "country": "United States",
+      "region": "California",
+      "city": "Santa Clara",
+      "isp": "Google LLC",
+      "organization": "Palo Alto Networks, Inc",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 20:17:42.839937",
+      "last_seen": "2025-07-08 20:17:42.839941",
+      "service": "UDP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

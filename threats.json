@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T16:07:36.907251Z",
-    "total_threats": 89,
+    "generated": "2025-07-08T16:22:53.420742Z",
+    "total_threats": 90,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "198.38.88.182",
+      "country": "India",
+      "region": "Maharashtra",
+      "city": "Mumbai",
+      "isp": "WHG Hosting Services Ltd",
+      "organization": "WHG Hosting Services Ltd",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 2,
+      "first_seen": "2025-07-08 16:12:00.210158",
+      "last_seen": "2025-07-08 16:22:20.243499",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T22:13:57.839384Z",
-    "total_threats": 97,
+    "generated": "2025-07-08T22:29:11.750967Z",
+    "total_threats": 98,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "104.214.117.63",
+      "country": "United States",
+      "region": "Texas",
+      "city": "San Antonio",
+      "isp": "Microsoft Corporation",
+      "organization": "Microsoft Azure Cloud (southcentralus)",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 22:20:13.299781",
+      "last_seen": "2025-07-08 22:20:13.299784",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

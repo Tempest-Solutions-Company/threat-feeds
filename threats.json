@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T13:34:54.664706Z",
-    "total_threats": 86,
+    "generated": "2025-07-08T13:50:11.558296Z",
+    "total_threats": 87,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -367,6 +367,24 @@
       "is_cgnat": false
     },
     {
+      "ip": "3.132.23.201",
+      "country": "United States",
+      "region": "Ohio",
+      "city": "Dublin",
+      "isp": "Amazon.com, Inc.",
+      "organization": "AWS EC2 (us-east-2)",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 13:48:25.500689",
+      "last_seen": "2025-07-08 13:48:25.500690",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
       "ip": "172.87.28.99",
       "country": "United States",
       "region": "California",
@@ -375,13 +393,13 @@
       "organization": "EightJoy Network LLC",
       "category": "Port_Scanning",
       "severity": "Medium",
-      "offense_count": 2,
+      "offense_count": 3,
       "first_seen": "2025-07-08 13:12:42.599526",
-      "last_seen": "2025-07-08 13:25:10.336190",
+      "last_seen": "2025-07-08 13:37:26.012552",
       "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {

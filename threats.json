@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T06:52:43.915556Z",
-    "total_threats": 63,
+    "generated": "2025-07-08T07:07:58.064665Z",
+    "total_threats": 64,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "67.219.108.209",
+      "country": "Australia",
+      "region": "Victoria",
+      "city": "Melbourne",
+      "isp": "The Constant Company, LLC",
+      "organization": "The Constant Company, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 06:55:49.079537",
+      "last_seen": "2025-07-08 06:55:49.079540",
+      "service": "TCP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

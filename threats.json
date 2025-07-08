@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-08T16:38:10.469819Z",
+    "generated": "2025-07-08T16:53:25.938758Z",
     "total_threats": 90,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -375,13 +375,13 @@
       "organization": "WHG Hosting Services Ltd",
       "category": "Port_Scanning",
       "severity": "Medium",
-      "offense_count": 2,
+      "offense_count": 3,
       "first_seen": "2025-07-08 16:12:00.210158",
-      "last_seen": "2025-07-08 16:22:20.243499",
+      "last_seen": "2025-07-08 16:37:57.541823",
       "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {

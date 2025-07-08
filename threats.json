@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-08T14:20:43.433169Z",
+    "generated": "2025-07-08T14:35:58.316913Z",
     "total_threats": 88,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -375,13 +375,13 @@
       "organization": "Ucloud Information Technology (hk) Limited",
       "category": "Port_Scanning",
       "severity": "Medium",
-      "offense_count": 2,
+      "offense_count": 3,
       "first_seen": "2025-07-08 14:01:55.469493",
-      "last_seen": "2025-07-08 14:13:13.899142",
+      "last_seen": "2025-07-08 14:24:45.630656",
       "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-08T20:42:23.500038Z",
+    "generated": "2025-07-08T20:57:39.583843Z",
     "total_threats": 95,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -367,6 +367,24 @@
       "is_cgnat": false
     },
     {
+      "ip": "195.178.110.160",
+      "country": "Andorra",
+      "region": "Andorra la Vella",
+      "city": "Andorra la Vella",
+      "isp": "Techoff SRV Limited",
+      "organization": "Techoff SRV Limited",
+      "category": "Port_Scanning",
+      "severity": "Critical",
+      "offense_count": 11,
+      "first_seen": "2025-07-07 07:07:13.149796",
+      "last_seen": "2025-07-08 20:50:03.276934",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
+      "signature_id": 169864,
+      "is_targeted": true,
+      "is_cgnat": false
+    },
+    {
       "ip": "185.170.144.3",
       "country": "The Netherlands",
       "region": "North Holland",
@@ -436,24 +454,6 @@
       "policy_type": "Unknown",
       "signature_id": 83231,
       "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "195.178.110.160",
-      "country": "Andorra",
-      "region": "Andorra la Vella",
-      "city": "Andorra la Vella",
-      "isp": "Techoff SRV Limited",
-      "organization": "Techoff SRV Limited",
-      "category": "Port_Scanning",
-      "severity": "Critical",
-      "offense_count": 10,
-      "first_seen": "2025-07-07 07:07:13.149796",
-      "last_seen": "2025-07-08 17:48:49.230657",
-      "service": "TCP",
-      "policy_type": "Scanning Activity",
-      "signature_id": 169864,
-      "is_targeted": true,
       "is_cgnat": false
     },
     {

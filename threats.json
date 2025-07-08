@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T13:50:11.558296Z",
-    "total_threats": 87,
+    "generated": "2025-07-08T14:05:28.433838Z",
+    "total_threats": 88,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "101.36.116.168",
+      "country": "Hong Kong",
+      "region": "Kowloon",
+      "city": "Hong Kong",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "organization": "Ucloud Information Technology (hk) Limited",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 14:01:55.469493",
+      "last_seen": "2025-07-08 14:01:55.469498",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

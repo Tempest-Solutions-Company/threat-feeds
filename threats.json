@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T00:31:18.456001Z",
-    "total_threats": 52,
+    "generated": "2025-07-08T00:46:33.959950Z",
+    "total_threats": 53,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -219,6 +219,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "162.142.125.206",
+      "country": "United States",
+      "region": "Michigan",
+      "city": "Ann Arbor",
+      "isp": "Censys, Inc.",
+      "organization": "Censys Inc",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 00:32:59.371099",
+      "last_seen": "2025-07-08 00:32:59.371104",
+      "service": "UDP",
+      "policy_type": "ET_SCAN Pattern",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },

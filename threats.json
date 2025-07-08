@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T21:12:55.891697Z",
-    "total_threats": 96,
+    "generated": "2025-07-08T21:28:12.092010Z",
+    "total_threats": 97,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "176.65.148.55",
+      "country": "Germany",
+      "region": "Bavaria",
+      "city": "Hauzenberg",
+      "isp": "Pfcloud UG",
+      "organization": "Pfcloud UG",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 21:22:03.096141",
+      "last_seen": "2025-07-08 21:22:03.096144",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

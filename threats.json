@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T01:16:52.383327Z",
-    "total_threats": 103,
+    "generated": "2025-07-09T01:32:06.442697Z",
+    "total_threats": 104,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "45.76.60.168",
+      "country": "United States",
+      "region": "Georgia",
+      "city": "Atlanta",
+      "isp": "Choopa",
+      "organization": "Vultr Holdings, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 01:23:51.340967",
+      "last_seen": "2025-07-09 01:23:51.340971",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

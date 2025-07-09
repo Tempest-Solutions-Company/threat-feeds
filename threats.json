@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-09T02:48:25.395291Z",
+    "generated": "2025-07-09T03:03:39.457650Z",
     "total_threats": 105,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "31.14.32.6",
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "NewVM B.V.",
+      "organization": "Modat",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 2,
+      "first_seen": "2025-07-07 13:49:26.317379",
+      "last_seen": "2025-07-09 02:49:04.351421",
+      "service": "UDP",
+      "policy_type": "Scanning Activity",
+      "signature_id": 385722,
       "is_targeted": false,
       "is_cgnat": false
     },
@@ -1494,24 +1512,6 @@
       "offense_count": 1,
       "first_seen": "2025-07-07 14:36:03.871969",
       "last_seen": "2025-07-07 14:36:03.871973",
-      "service": "TCP",
-      "policy_type": "Scanning Activity",
-      "signature_id": 385722,
-      "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "31.14.32.6",
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "NewVM B.V.",
-      "organization": "Modat",
-      "category": "Port_Scanning",
-      "severity": "Medium",
-      "offense_count": 1,
-      "first_seen": "2025-07-07 13:49:26.317379",
-      "last_seen": "2025-07-07 13:49:26.317383",
       "service": "TCP",
       "policy_type": "Scanning Activity",
       "signature_id": 385722,

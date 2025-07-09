@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-07-09T19:04:08.366321",
-    "threat_count": 21,
+    "generated_at": "2025-07-09T19:34:09.391317",
+    "threat_count": 23,
     "time_range_days": 7,
     "source": "UDM Pro Threat Intelligence",
     "description": "Comprehensive threat feed from network security logs"
@@ -11,8 +11,24 @@
       "ip": "193.32.162.145",
       "type": "Compromised_Host",
       "severity": "high",
+      "first_seen": "2025-07-09T19:24:02.111199",
+      "offense_count": 13,
+      "is_targeted": true
+    },
+    {
+      "ip": "193.32.162.145",
+      "type": "Compromised_Host",
+      "severity": "high",
+      "first_seen": "2025-07-09T19:09:43.021288",
+      "offense_count": 13,
+      "is_targeted": true
+    },
+    {
+      "ip": "193.32.162.145",
+      "type": "Compromised_Host",
+      "severity": "high",
       "first_seen": "2025-07-09T18:55:27.711127",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -20,7 +36,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T18:40:12.068971",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -44,7 +60,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T17:58:28.077592",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -52,7 +68,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T17:44:18.889073",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -60,7 +76,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T17:29:20.082868",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -68,7 +84,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T17:16:04.325711",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -76,7 +92,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T17:01:59.448474",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -84,7 +100,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T16:47:48.539228",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -100,7 +116,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T16:20:05.428137",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -108,7 +124,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T16:09:56.066659",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {
@@ -124,7 +140,7 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T15:39:59.149835",
-      "offense_count": 11,
+      "offense_count": 13,
       "is_targeted": true
     },
     {

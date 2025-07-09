@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T09:17:09.473899Z",
-    "total_threats": 124,
+    "generated": "2025-07-09T09:20:27.962297Z",
+    "total_threats": 125,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -313,7 +313,7 @@
       "is_cgnat": false
     },
     {
-      "ip": "192.42.116.215",
+      "ip": "185.220.100.252",
       "country": "Unknown",
       "region": "Unknown",
       "city": "Unknown",
@@ -331,7 +331,7 @@
       "is_cgnat": false
     },
     {
-      "ip": "185.220.100.252",
+      "ip": "192.42.116.215",
       "country": "Unknown",
       "region": "Unknown",
       "city": "Unknown",
@@ -2182,6 +2182,24 @@
       "policy_type": "Web Infrastructure Servers",
       "signature_id": 235581,
       "is_targeted": true,
+      "is_cgnat": false
+    },
+    {
+      "ip": "195.178.110.108",
+      "country": "Andorra",
+      "region": "Andorra la Vella",
+      "city": "Andorra la Vella",
+      "isp": "Techoff SRV Limited",
+      "organization": "Techoff SRV Limited",
+      "category": "ET_SCAN",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 09:17:37.604422",
+      "last_seen": "2025-07-09 09:17:37.604427",
+      "service": "TCP",
+      "policy_type": "Explicit Threat: threat detected",
+      "signature_id": 447970,
+      "is_targeted": false,
       "is_cgnat": false
     },
     {

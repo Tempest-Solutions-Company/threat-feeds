@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T03:34:07.273716Z",
-    "total_threats": 106,
+    "generated": "2025-07-09T03:49:21.498407Z",
+    "total_threats": 107,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "185.156.73.234",
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "OOO SibirInvest",
+      "organization": "IP Kiktev Nikolay Vladimirovich",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 03:42:40.155942",
+      "last_seen": "2025-07-09 03:42:40.155946",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

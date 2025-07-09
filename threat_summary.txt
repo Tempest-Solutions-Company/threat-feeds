@@ -1,8 +1,8 @@
 # Ethical Threat Feeds - Summary Report
-# Generated: 2025-07-09T08:54:26.063449Z
+# Generated: 2025-07-09T09:01:25.383095Z
 # 30-Day Rolling Window Analysis
 #
-Total Active Threats: 120
+Total Active Threats: 123
 Data Retention: 30 days (rolling)
 Counter Reset Logic: Active (extends on new activity)
 Direction Filter: Incoming threats only
@@ -16,15 +16,15 @@ Germany: 7 threats
 Andorra: 5 threats
 Australia: 4 threats
 Hungary: 3 threats
+Unknown: 3 threats
 India: 3 threats
-Spain: 2 threats
 
 Top Threat Categories:
 Port_Scanning: 94 threats
+Tor_Traffic: 7 threats
 Compromised_Host: 6 threats
 SSH_Scanning: 5 threats
 DNS_Attack: 5 threats
-Tor_Traffic: 4 threats
 ET_SCAN: 2 threats
 Web_Attack: 1 threats
 SQL_Injection: 1 threats
@@ -36,4 +36,4 @@ Most Active Threats:
 80.94.95.115 (Hungary): 5 offenses
 195.178.110.125 (Andorra): 5 offenses
 41.94.88.219 (Mozambique): 5 offenses
-101.36.116.168 (Hong Kong): 5 offenses
+117.192.35.162 (India): 5 offenses

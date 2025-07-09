@@ -1,12 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2025-07-09T13:03:56.151906",
-    "threat_count": 1,
+    "generated_at": "2025-07-09T13:33:57.049666",
+    "threat_count": 2,
     "time_range_days": 7,
     "source": "UDM Pro Threat Intelligence",
     "description": "Comprehensive threat feed from network security logs"
   },
   "threats": [
+    {
+      "ip": "70.34.201.45",
+      "type": "Compromised_Host",
+      "severity": "high",
+      "first_seen": "2025-07-09T13:31:46.069377",
+      "offense_count": 1,
+      "is_targeted": false
+    },
     {
       "ip": "185.156.73.234",
       "type": "SSH_Scanning",

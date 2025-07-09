@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-09T04:50:20.752984Z",
+    "generated": "2025-07-09T05:05:35.064604Z",
     "total_threats": 108,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -375,13 +375,13 @@
       "organization": "IP Kiktev Nikolay Vladimirovich",
       "category": "Port_Scanning",
       "severity": "Medium",
-      "offense_count": 2,
+      "offense_count": 3,
       "first_seen": "2025-07-09 03:42:40.155942",
-      "last_seen": "2025-07-09 04:39:30.369413",
+      "last_seen": "2025-07-09 04:55:52.263792",
       "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {

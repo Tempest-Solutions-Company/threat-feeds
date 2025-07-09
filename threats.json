@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-09T01:32:06.442697Z",
+    "generated": "2025-07-09T01:47:22.040961Z",
     "total_threats": 104,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -367,6 +367,24 @@
       "is_cgnat": false
     },
     {
+      "ip": "193.32.162.146",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "isp": "Unmanaged LTD",
+      "organization": "Techoff SRV Limited",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 3,
+      "first_seen": "2025-07-07 02:41:21.349473",
+      "last_seen": "2025-07-09 01:47:08.463257",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
+      "signature_id": 169864,
+      "is_targeted": true,
+      "is_cgnat": false
+    },
+    {
       "ip": "45.76.60.168",
       "country": "United States",
       "region": "Georgia",
@@ -375,9 +393,9 @@
       "organization": "Vultr Holdings, LLC",
       "category": "Port_Scanning",
       "severity": "Medium",
-      "offense_count": 1,
+      "offense_count": 2,
       "first_seen": "2025-07-09 01:23:51.340967",
-      "last_seen": "2025-07-09 01:23:51.340971",
+      "last_seen": "2025-07-09 01:35:07.352415",
       "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
@@ -705,24 +723,6 @@
       "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
-      "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "193.32.162.146",
-      "country": "United Kingdom",
-      "region": "England",
-      "city": "London",
-      "isp": "Unmanaged LTD",
-      "organization": "Techoff SRV Limited",
-      "category": "Port_Scanning",
-      "severity": "Medium",
-      "offense_count": 2,
-      "first_seen": "2025-07-07 02:41:21.349473",
-      "last_seen": "2025-07-08 15:33:55.279519",
-      "service": "TCP",
-      "policy_type": "Scanning Activity",
-      "signature_id": 169864,
       "is_targeted": false,
       "is_cgnat": false
     },

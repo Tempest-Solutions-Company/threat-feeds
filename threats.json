@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T09:01:25.375978Z",
-    "total_threats": 123,
+    "generated": "2025-07-09T09:14:49.387114Z",
+    "total_threats": 124,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -295,7 +295,7 @@
       "is_cgnat": false
     },
     {
-      "ip": "185.220.100.252",
+      "ip": "192.42.116.193",
       "country": "Unknown",
       "region": "Unknown",
       "city": "Unknown",
@@ -331,7 +331,7 @@
       "is_cgnat": false
     },
     {
-      "ip": "192.42.116.193",
+      "ip": "185.220.100.252",
       "country": "Unknown",
       "region": "Unknown",
       "city": "Unknown",
@@ -2181,6 +2181,24 @@
       "service": "HTTP",
       "policy_type": "Web Infrastructure Servers",
       "signature_id": 235581,
+      "is_targeted": true,
+      "is_cgnat": false
+    },
+    {
+      "ip": "117.48.157.75",
+      "country": "China",
+      "region": "Beijing",
+      "city": "Beijing",
+      "isp": "China Mobile Communications Corporation",
+      "organization": "CloudVsp",
+      "category": "ET_SCAN",
+      "severity": "Medium",
+      "offense_count": 3,
+      "first_seen": "2025-07-09 09:07:58.713365",
+      "last_seen": "2025-07-09 09:10:04.384027",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
+      "signature_id": 204582,
       "is_targeted": true,
       "is_cgnat": false
     },

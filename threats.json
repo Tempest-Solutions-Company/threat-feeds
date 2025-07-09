@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T06:52:19.694486Z",
-    "total_threats": 111,
+    "generated": "2025-07-09T07:07:36.031248Z",
+    "total_threats": 112,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "47.250.130.11",
+      "country": "Malaysia",
+      "region": "Kuala Lumpur",
+      "city": "Kuala Lumpur",
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "organization": "Alibaba.com LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 07:00:30.062415",
+      "last_seen": "2025-07-09 07:00:30.062418",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

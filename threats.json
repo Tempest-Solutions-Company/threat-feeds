@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-08T23:45:25.780923Z",
-    "total_threats": 99,
+    "generated": "2025-07-09T00:00:39.638651Z",
+    "total_threats": 100,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "88.202.190.141",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "isp": "UK-2 Limited",
+      "organization": "Rapid7Labs",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-08 23:51:08.044988",
+      "last_seen": "2025-07-08 23:51:08.044989",
+      "service": "UDP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

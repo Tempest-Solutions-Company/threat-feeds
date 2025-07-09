@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-09T07:22:52.208667Z",
+    "generated": "2025-07-09T07:38:06.627924Z",
     "total_threats": 112,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -375,13 +375,13 @@
       "organization": "Alibaba.com LLC",
       "category": "Port_Scanning",
       "severity": "Medium",
-      "offense_count": 2,
+      "offense_count": 3,
       "first_seen": "2025-07-09 07:00:30.062415",
-      "last_seen": "2025-07-09 07:13:03.939620",
+      "last_seen": "2025-07-09 07:25:47.812693",
       "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
-      "is_targeted": false,
+      "is_targeted": true,
       "is_cgnat": false
     },
     {

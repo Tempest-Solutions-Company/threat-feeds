@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T05:05:35.064604Z",
-    "total_threats": 108,
+    "generated": "2025-07-09T05:20:51.009978Z",
+    "total_threats": 109,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "46.8.233.104",
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "CGI GLOBAL LIMITED",
+      "organization": "CGI GLOBAL LIMITED",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 05:15:58.509644",
+      "last_seen": "2025-07-09 05:15:58.509648",
+      "service": "UDP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

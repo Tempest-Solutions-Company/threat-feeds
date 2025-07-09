@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T07:38:06.627924Z",
-    "total_threats": 112,
+    "generated": "2025-07-09T07:53:21.559858Z",
+    "total_threats": 113,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "45.32.172.141",
+      "country": "United States",
+      "region": "Florida",
+      "city": "Miami",
+      "isp": "The Constant Company",
+      "organization": "Vultr Holdings, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 07:45:04.354822",
+      "last_seen": "2025-07-09 07:45:04.354825",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

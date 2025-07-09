@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T03:49:21.498407Z",
-    "total_threats": 107,
+    "generated": "2025-07-09T04:04:37.246220Z",
+    "total_threats": 108,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "171.25.193.20",
+      "country": "Sweden",
+      "region": "Stockholm County",
+      "city": "Stockholm",
+      "isp": "Foreningen digitala fri- och rattigheter",
+      "organization": "DFRI",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 03:53:25.652131",
+      "last_seen": "2025-07-09 03:53:25.652135",
+      "service": "HTTP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

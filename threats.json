@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T05:20:51.009978Z",
-    "total_threats": 109,
+    "generated": "2025-07-09T05:36:05.250216Z",
+    "total_threats": 110,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -363,6 +363,24 @@
       "service": "HTTP",
       "policy_type": "UDM_Pro_Blocked_TOR",
       "signature_id": 999998,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
+      "ip": "68.183.138.97",
+      "country": "United States",
+      "region": "New Jersey",
+      "city": "North Bergen",
+      "isp": "DigitalOcean, LLC",
+      "organization": "DigitalOcean, LLC",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 05:32:31.266333",
+      "last_seen": "2025-07-09 05:32:31.266336",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
       "is_targeted": false,
       "is_cgnat": false
     },

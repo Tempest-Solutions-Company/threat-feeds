@@ -1,12 +1,36 @@
 {
   "metadata": {
-    "generated_at": "2025-07-09T19:34:09.391317",
-    "threat_count": 23,
+    "generated_at": "2025-07-09T20:04:10.501049",
+    "threat_count": 26,
     "time_range_days": 7,
     "source": "UDM Pro Threat Intelligence",
     "description": "Comprehensive threat feed from network security logs"
   },
   "threats": [
+    {
+      "ip": "103.172.205.208",
+      "type": "Compromised_Host",
+      "severity": "high",
+      "first_seen": "2025-07-09T20:03:44.069134",
+      "offense_count": 1,
+      "is_targeted": false
+    },
+    {
+      "ip": "185.156.73.234",
+      "type": "Compromised_Host",
+      "severity": "high",
+      "first_seen": "2025-07-09T19:50:52.781052",
+      "offense_count": 3,
+      "is_targeted": true
+    },
+    {
+      "ip": "195.178.110.125",
+      "type": "Compromised_Host",
+      "severity": "high",
+      "first_seen": "2025-07-09T19:37:49.619398",
+      "offense_count": 1,
+      "is_targeted": false
+    },
     {
       "ip": "193.32.162.145",
       "type": "Compromised_Host",
@@ -172,8 +196,8 @@
       "type": "Compromised_Host",
       "severity": "high",
       "first_seen": "2025-07-09T13:46:33.926164",
-      "offense_count": 1,
-      "is_targeted": false
+      "offense_count": 3,
+      "is_targeted": true
     },
     {
       "ip": "70.34.201.45",
@@ -188,7 +212,7 @@
       "type": "SSH_Scanning",
       "severity": "low",
       "first_seen": "2025-07-09T12:41:22.398072",
-      "offense_count": 5,
+      "offense_count": 3,
       "is_targeted": true
     }
   ]

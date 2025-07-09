@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-09T04:35:05.126485Z",
+    "generated": "2025-07-09T04:50:20.752984Z",
     "total_threats": 108,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
@@ -367,6 +367,24 @@
       "is_cgnat": false
     },
     {
+      "ip": "185.156.73.234",
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "OOO SibirInvest",
+      "organization": "IP Kiktev Nikolay Vladimirovich",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 2,
+      "first_seen": "2025-07-09 03:42:40.155942",
+      "last_seen": "2025-07-09 04:39:30.369413",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
       "ip": "171.25.193.20",
       "country": "Sweden",
       "region": "Stockholm County",
@@ -379,24 +397,6 @@
       "first_seen": "2025-07-09 03:53:25.652131",
       "last_seen": "2025-07-09 03:53:25.652135",
       "service": "HTTP",
-      "policy_type": "Unknown",
-      "signature_id": 83231,
-      "is_targeted": false,
-      "is_cgnat": false
-    },
-    {
-      "ip": "185.156.73.234",
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "OOO SibirInvest",
-      "organization": "IP Kiktev Nikolay Vladimirovich",
-      "category": "Port_Scanning",
-      "severity": "Medium",
-      "offense_count": 1,
-      "first_seen": "2025-07-09 03:42:40.155942",
-      "last_seen": "2025-07-09 03:42:40.155946",
-      "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
       "is_targeted": false,

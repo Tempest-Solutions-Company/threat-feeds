@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated": "2025-07-09T00:46:22.577896Z",
-    "total_threats": 102,
+    "generated": "2025-07-09T01:01:36.666136Z",
+    "total_threats": 103,
     "data_retention_days": 30,
     "direction_filter": "Incoming"
   },
@@ -367,6 +367,42 @@
       "is_cgnat": false
     },
     {
+      "ip": "195.178.110.108",
+      "country": "Andorra",
+      "region": "Andorra la Vella",
+      "city": "Andorra la Vella",
+      "isp": "Techoff SRV Limited",
+      "organization": "Techoff SRV Limited",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 4,
+      "first_seen": "2025-07-08 04:31:31.358122",
+      "last_seen": "2025-07-09 00:59:38.651452",
+      "service": "TCP",
+      "policy_type": "Scanning Activity",
+      "signature_id": 385722,
+      "is_targeted": true,
+      "is_cgnat": false
+    },
+    {
+      "ip": "178.128.66.171",
+      "country": "United States",
+      "region": "California",
+      "city": "Santa Clara",
+      "isp": "DigitalOcean, LLC",
+      "organization": "Digitalocean",
+      "category": "Port_Scanning",
+      "severity": "Medium",
+      "offense_count": 1,
+      "first_seen": "2025-07-09 00:47:09.693953",
+      "last_seen": "2025-07-09 00:47:09.693956",
+      "service": "TCP",
+      "policy_type": "Unknown",
+      "signature_id": 83231,
+      "is_targeted": false,
+      "is_cgnat": false
+    },
+    {
       "ip": "195.178.110.125",
       "country": "Andorra",
       "region": "Andorra la Vella",
@@ -471,24 +507,6 @@
       "service": "TCP",
       "policy_type": "Unknown",
       "signature_id": 83231,
-      "is_targeted": true,
-      "is_cgnat": false
-    },
-    {
-      "ip": "195.178.110.108",
-      "country": "Andorra",
-      "region": "Andorra la Vella",
-      "city": "Andorra la Vella",
-      "isp": "Techoff SRV Limited",
-      "organization": "Techoff SRV Limited",
-      "category": "Port_Scanning",
-      "severity": "Medium",
-      "offense_count": 3,
-      "first_seen": "2025-07-08 04:31:31.358122",
-      "last_seen": "2025-07-08 21:44:40.967069",
-      "service": "TCP",
-      "policy_type": "Scanning Activity",
-      "signature_id": 385722,
       "is_targeted": true,
       "is_cgnat": false
     },

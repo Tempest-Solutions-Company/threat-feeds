@@ -1,11 +1,24 @@
 {
   "metadata": {
-    "generated": "2025-07-11T23:35:21.809618+00:00",
+    "generated": "2025-07-11T23:45:51.567531+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "expiry_days": 30,
-    "total_categories": 0,
-    "total_threats": 0,
-    "total_unique_ips": 0
+    "total_categories": 1,
+    "total_threats": 1,
+    "total_unique_ips": 1
   },
-  "categories": {}
+  "categories": {
+    "Unknown": {
+      "total_threats": 1,
+      "unique_ips": 1,
+      "severity_breakdown": {
+        "low": 1
+      },
+      "files": {
+        "txt": "unknown_threats.txt",
+        "json": "unknown_threats.json",
+        "csv": "unknown_threats.csv"
+      }
+    }
+  }
 }

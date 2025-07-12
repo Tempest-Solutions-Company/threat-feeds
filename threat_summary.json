@@ -1,23 +1,47 @@
 {
   "metadata": {
-    "generated": "2025-07-12T06:59:38.065791+00:00",
+    "generated": "2025-07-12T07:03:42.030730+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "expiry_days": 30,
-    "total_categories": 1,
+    "total_categories": 3,
     "total_threats": 12,
     "total_unique_ips": 12
   },
   "categories": {
-    "Unknown": {
-      "total_threats": 12,
-      "unique_ips": 12,
+    "SQL_Injection": {
+      "total_threats": 1,
+      "unique_ips": 1,
       "severity_breakdown": {
-        "low": 12
+        "high": 1
       },
       "files": {
-        "txt": "unknown_threats.txt",
-        "json": "unknown_threats.json",
-        "csv": "unknown_threats.csv"
+        "txt": "sql_injection_threats.txt",
+        "json": "sql_injection_threats.json",
+        "csv": "sql_injection_threats.csv"
+      }
+    },
+    "SSH_Scanning": {
+      "total_threats": 9,
+      "unique_ips": 9,
+      "severity_breakdown": {
+        "medium": 9
+      },
+      "files": {
+        "txt": "ssh_scanning_threats.txt",
+        "json": "ssh_scanning_threats.json",
+        "csv": "ssh_scanning_threats.csv"
+      }
+    },
+    "DNS_Attack": {
+      "total_threats": 2,
+      "unique_ips": 2,
+      "severity_breakdown": {
+        "low": 2
+      },
+      "files": {
+        "txt": "dns_attack_threats.txt",
+        "json": "dns_attack_threats.json",
+        "csv": "dns_attack_threats.csv"
       }
     }
   }

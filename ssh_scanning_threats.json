@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2025-07-12T07:03:42.030730+00:00",
+    "generated": "2025-07-12T07:10:52.523588+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 9,
     "expiry_days": 30,
@@ -15,7 +15,8 @@
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "FI"
     },
     {
       "ip": "64.176.179.240",
@@ -24,7 +25,8 @@
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "GB"
     },
     {
       "ip": "78.128.112.74",
@@ -33,7 +35,8 @@
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "BG"
     },
     {
       "ip": "80.94.92.94",
@@ -42,7 +45,8 @@
       "count": 12,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "103.23.198.244",
@@ -51,7 +55,8 @@
       "count": 2,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "ID"
     },
     {
       "ip": "103.174.114.83",
@@ -60,7 +65,8 @@
       "count": 2,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "ID"
     },
     {
       "ip": "104.244.77.50",
@@ -69,7 +75,8 @@
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "LU"
     },
     {
       "ip": "111.19.129.218",
@@ -78,7 +85,8 @@
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "CN"
     },
     {
       "ip": "176.65.149.226",
@@ -87,7 +95,8 @@
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP"
+      "protocol": "TCP",
+      "country": "DE"
     }
   ]
 }

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "category": "SSH_Scanning",
+    "generated": "2025-07-12T07:03:42.030730+00:00",
+    "source": "Ethical Threat Feeds by Devs, for Devs",
+    "total_threats": 9,
+    "expiry_days": 30,
+    "format_version": "1.0"
+  },
+  "threats": [
+    {
+      "ip": "45.9.74.132",
+      "first_seen": "2025-07-12T05:22:48.114000+00:00",
+      "last_seen": "2025-07-12T05:22:48.114000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "64.176.179.240",
+      "first_seen": "2025-07-12T01:43:28.058000+00:00",
+      "last_seen": "2025-07-12T01:43:28.058000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "78.128.112.74",
+      "first_seen": "2025-07-12T06:14:48.549000+00:00",
+      "last_seen": "2025-07-12T06:14:48.549000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "80.94.92.94",
+      "first_seen": "2025-07-12T03:30:19.383000+00:00",
+      "last_seen": "2025-07-12T06:45:38.038000+00:00",
+      "count": 12,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "103.23.198.244",
+      "first_seen": "2025-07-12T01:00:44.037000+00:00",
+      "last_seen": "2025-07-12T01:20:03.262000+00:00",
+      "count": 2,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "103.174.114.83",
+      "first_seen": "2025-07-12T00:13:05.215000+00:00",
+      "last_seen": "2025-07-12T00:26:39.040000+00:00",
+      "count": 2,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "104.244.77.50",
+      "first_seen": "2025-07-11T23:37:23.513000+00:00",
+      "last_seen": "2025-07-11T23:37:23.513000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "111.19.129.218",
+      "first_seen": "2025-07-12T06:59:09.502000+00:00",
+      "last_seen": "2025-07-12T06:59:09.502000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "176.65.149.226",
+      "first_seen": "2025-07-12T00:41:51.107000+00:00",
+      "last_seen": "2025-07-12T00:41:51.107000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP"
+    }
+  ]
+}

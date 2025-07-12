@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-07-12T03:34:22.297536+00:00",
+    "generated": "2025-07-12T04:04:26.344547+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 8,
+    "total_threats": 9,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -29,8 +29,8 @@
     {
       "ip": "80.94.92.94",
       "first_seen": "2025-07-12T03:30:19.383000+00:00",
-      "last_seen": "2025-07-12T03:30:19.383000+00:00",
-      "count": 1,
+      "last_seen": "2025-07-12T03:44:55.109000+00:00",
+      "count": 2,
       "severity": "low",
       "signature": "ET",
       "protocol": "TCP"
@@ -66,6 +66,15 @@
       "ip": "176.65.149.226",
       "first_seen": "2025-07-12T00:41:51.107000+00:00",
       "last_seen": "2025-07-12T00:41:51.107000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET",
+      "protocol": "TCP"
+    },
+    {
+      "ip": "179.60.150.123",
+      "first_seen": "2025-07-12T03:55:29.072000+00:00",
+      "last_seen": "2025-07-12T03:55:29.072000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET",

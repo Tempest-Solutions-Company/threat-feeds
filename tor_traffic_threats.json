@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "category": "Tor_Traffic",
+    "generated": "2025-07-12T08:07:26.294893+00:00",
+    "source": "Ethical Threat Feeds by Devs, for Devs",
+    "total_threats": 1,
+    "expiry_days": 30,
+    "format_version": "1.0"
+  },
+  "threats": [
+    {
+      "ip": "171.25.193.77",
+      "first_seen": "2025-07-12T08:21:06.498000+00:00",
+      "last_seen": "2025-07-12T08:21:06.498000+00:00",
+      "count": 2,
+      "severity": "medium",
+      "signature": "ET TOR Known Tor Exit Node Traffic group 19",
+      "protocol": "TCP"
+    }
+  ]
+}

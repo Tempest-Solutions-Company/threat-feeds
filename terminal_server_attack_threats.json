@@ -1,13 +1,22 @@
 {
   "metadata": {
     "category": "Terminal_Server_Attack",
-    "generated": "2025-07-13T00:30:43.657689+00:00",
+    "generated": "2025-07-13T01:01:09.114485+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 4,
+    "total_threats": 5,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
+    {
+      "ip": "88.214.25.125",
+      "first_seen": "2025-07-13T00:37:59.977000+00:00",
+      "last_seen": "2025-07-13T00:37:59.977000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
+      "protocol": "TCP"
+    },
     {
       "ip": "141.98.11.116",
       "first_seen": "2025-07-12T22:47:14.574000+00:00",

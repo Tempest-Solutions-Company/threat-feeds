@@ -1,13 +1,23 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-07-15T19:08:24.994716+00:00",
+    "generated": "2025-07-15T19:38:51.781404+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 1,
+    "total_threats": 2,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
+    {
+      "ip": "87.121.84.130",
+      "first_seen": "2025-07-15T19:29:34.349000+00:00",
+      "last_seen": "2025-07-15T19:29:34.349000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
+      "protocol": "TCP",
+      "country": "US"
+    },
     {
       "ip": "91.209.135.232",
       "first_seen": "2025-07-12T12:29:31.088000+00:00",

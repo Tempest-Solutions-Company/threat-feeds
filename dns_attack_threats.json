@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "DNS_Attack",
-    "generated": "2025-07-15T12:32:27.697535+00:00",
+    "generated": "2025-07-15T13:02:54.581069+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 84,
+    "total_threats": 86,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -490,6 +490,16 @@
       "country": "HK"
     },
     {
+      "ip": "185.2.162.83",
+      "first_seen": "2025-07-15T12:51:07.281000+00:00",
+      "last_seen": "2025-07-15T12:51:07.281000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL DNS named version attempt",
+      "protocol": "UDP",
+      "country": "HK"
+    },
+    {
       "ip": "185.2.162.87",
       "first_seen": "2025-07-15T10:30:12.031000+00:00",
       "last_seen": "2025-07-15T10:30:12.031000+00:00",
@@ -563,6 +573,16 @@
       "ip": "185.2.163.125",
       "first_seen": "2025-07-15T03:38:19.071000+00:00",
       "last_seen": "2025-07-15T03:38:19.071000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL DNS named version attempt",
+      "protocol": "UDP",
+      "country": "HK"
+    },
+    {
+      "ip": "185.2.163.166",
+      "first_seen": "2025-07-15T12:36:54.492000+00:00",
+      "last_seen": "2025-07-15T12:36:54.492000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "GPL DNS named version attempt",

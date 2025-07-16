@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-07-16T19:29:46.586257+00:00",
+    "generated": "2025-07-16T20:00:13.766008+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 3,
+    "total_threats": 4,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -36,6 +36,16 @@
       "severity": "low",
       "signature": "GPL SMTP vrfy root",
       "protocol": "TCP"
+    },
+    {
+      "ip": "149.50.96.5",
+      "first_seen": "2025-07-16T19:58:54.992000+00:00",
+      "last_seen": "2025-07-16T19:58:54.992000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
+      "protocol": "TCP",
+      "country": "PL"
     }
   ]
 }

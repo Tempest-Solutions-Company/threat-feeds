@@ -1,13 +1,23 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-07-16T15:56:38.551323+00:00",
+    "generated": "2025-07-16T16:27:05.029177+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 2,
+    "total_threats": 3,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
+    {
+      "ip": "46.3.36.195",
+      "first_seen": "2025-07-16T15:57:04.523000+00:00",
+      "last_seen": "2025-07-16T15:57:04.523000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER allow_url_include PHP config option in uri",
+      "protocol": "TCP",
+      "country": "US"
+    },
     {
       "ip": "87.121.84.130",
       "first_seen": "2025-07-15T19:29:34.349000+00:00",

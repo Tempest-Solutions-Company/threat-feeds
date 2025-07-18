@@ -21,7 +21,7 @@ Structured blocklists are maintained across distinct malicious behavior categori
 - **Targeted Attackers**  
 - **TOR Exit Nodes**  
 - **High Offense IPs**  
-- **Uncategorized Threats**
+- **Uncategorized Threats** **Catch all other threats**
 
 Each feed includes offense counts, first/last seen timestamps, threat signatures, and country of origin when available.
 

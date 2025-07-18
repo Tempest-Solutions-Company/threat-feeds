@@ -2,7 +2,7 @@
 
 ## 🛡️ Ethical Threat Feeds — By Devs, For Devs
 
-A transparent, community-first repository of curated **threat feeds** in `.txt`, `.csv`, and `.json` formats. Built from real-world firewall logs and IDS/IPS alerts from our network, these datasets help sysadmins defend their networks with actionable, ethically-sourced data. Each feed includes timestamps, offense counts, and traffic metadata—supporting responsible threat sharing and collaborative defense.
+A transparent, community-first repository of curated **threat feeds** in `.txt`, `.cvs`, and `.json` formats. Built from real-world firewall logs and IDS/IPS alerts from our network, these datasets help sysadmins defend their networks with actionable, ethically-sourced data. Each feed includes timestamps, offense counts, and traffic metadata—supporting responsible threat sharing and collaborative defense.
 
 Github Pages - [Intelegence feed](https://tempest-solutions-company.github.io/threat-feeds/)
 

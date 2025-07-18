@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-07-18T15:58:03.753932+00:00",
+    "generated": "2025-07-18T16:27:08.362129+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 4,
+    "total_threats": 5,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -46,6 +46,16 @@
       "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
       "protocol": "TCP",
       "country": "PL"
+    },
+    {
+      "ip": "197.220.93.117",
+      "first_seen": "2025-07-18T16:03:27.079000+00:00",
+      "last_seen": "2025-07-18T16:03:27.079000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
+      "protocol": "TCP",
+      "country": "SO"
     }
   ]
 }

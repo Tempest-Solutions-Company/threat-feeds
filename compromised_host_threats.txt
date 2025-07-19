@@ -1,12 +1,13 @@
 # Compromised_Host Threat Feed
-# Generated: 2025-07-19T16:58:02.254191+00:00
+# Generated: 2025-07-19T17:18:11.265198+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 20
+# Total IPs: 21
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
+45.135.193.2 | HIGH | ET COMPROMISED Known Compromised or Hostile Host Traffic group 11 | DE | 2025-07-19 | 2025-07-19 | 1
 46.165.220.198 | HIGH | ET COMPROMISED Known Compromised or Hostile Host Traffic group 12 | None | 2025-07-12 | 2025-07-12 | 1
 80.94.92.80 | HIGH | ET COMPROMISED Known Compromised or Hostile Host Traffic group 12 | NL | 2025-07-18 | 2025-07-18 | 2
 80.94.92.94 | HIGH | ET COMPROMISED Known Compromised or Hostile Host Traffic group 13 | None | 2025-07-12 | 2025-07-13 | 4

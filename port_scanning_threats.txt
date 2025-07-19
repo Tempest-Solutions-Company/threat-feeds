@@ -1,12 +1,13 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-07-19T18:29:52.235187+00:00
+# Generated: 2025-07-19T18:49:26.812676+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 4
+# Total IPs: 5
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
+3.140.182.19 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-07-19 | 2025-07-19 | 1
 20.64.96.40 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-07-15 | 2025-07-15 | 1
 134.209.199.75 | LOW | ET SCAN Zmap User-Agent (Inbound) | NL | 2025-07-14 | 2025-07-14 | 1
 157.66.56.183 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | ID | 2025-07-15 | 2025-07-15 | 1

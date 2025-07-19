@@ -14,7 +14,7 @@ class ThreatIntelligence {
             'ssh_scanning': 'SSH Scanning',
             'terminal_server_attack': 'Terminal Server Attacks',
             'tor_traffic': 'Tor Traffic',
-            'unknown': 'Unknown Threats'
+            'unknown': 'Unknown Threats (catch all)'
         };
         
         // GitHub repository base URL - using correct raw URL format

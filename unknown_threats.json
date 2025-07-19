@@ -1,13 +1,23 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-07-19T10:20:11.762252+00:00",
+    "generated": "2025-07-19T10:42:35.577066+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 5,
+    "total_threats": 6,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
+    {
+      "ip": "8.222.236.162",
+      "first_seen": "2025-07-19T10:24:08.377000+00:00",
+      "last_seen": "2025-07-19T10:24:08.377000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT MVPower DVR Shell UCE",
+      "protocol": "TCP",
+      "country": "SG"
+    },
     {
       "ip": "46.3.36.195",
       "first_seen": "2025-07-16T15:57:04.523000+00:00",

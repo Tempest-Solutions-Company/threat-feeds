@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-07-27T16:53:55.357665+00:00
+# Generated: 2025-07-27T17:24:24.102517+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 11
+# Total IPs: 12
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -9,6 +9,7 @@
 
 8.219.118.95 | LOW | ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016) | SG | 2025-07-19 | 2025-07-19 | 1
 8.222.236.162 | LOW | ET EXPLOIT MVPower DVR Shell UCE | SG | 2025-07-19 | 2025-07-19 | 1
+14.205.104.200 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | CN | 2025-07-27 | 2025-07-27 | 1
 40.113.83.83 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | IE | 2025-07-27 | 2025-07-27 | 1
 46.3.36.195 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | US | 2025-07-16 | 2025-07-16 | 1
 87.120.92.24 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2025-07-27 | 2025-07-27 | 1

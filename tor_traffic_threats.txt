@@ -1,7 +1,7 @@
 # Tor_Traffic Threat Feed
-# Generated: 2025-07-29T12:08:45.872597+00:00
+# Generated: 2025-07-29T12:39:19.980369+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 27
+# Total IPs: 29
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -16,6 +16,7 @@
 45.90.185.118 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 93 | NL | 2025-07-25 | 2025-07-25 | 1
 45.141.215.88 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 87 | PL | 2025-07-24 | 2025-07-24 | 1
 46.23.109.25 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 94 | NL | 2025-07-25 | 2025-07-25 | 1
+83.147.17.190 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 106 | GB | 2025-07-29 | 2025-07-29 | 1
 89.58.26.216 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 108 | DE | 2025-07-24 | 2025-07-24 | 1
 109.70.100.3 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 10 | AT | 2025-07-14 | 2025-07-14 | 1
 109.70.100.69 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 8 | AT | 2025-07-24 | 2025-07-24 | 1
@@ -29,6 +30,7 @@
 185.244.192.175 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 40 | DE | 2025-07-25 | 2025-07-25 | 1
 185.246.188.73 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 43 | NL | 2025-07-28 | 2025-07-28 | 1
 185.246.188.115 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 44 | NL | 2025-07-14 | 2025-07-14 | 1
+192.42.116.178 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 48 | NL | 2025-07-29 | 2025-07-29 | 1
 192.42.116.194 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 52 | NL | 2025-07-14 | 2025-07-14 | 1
 192.42.116.195 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 51 | NL | 2025-07-20 | 2025-07-20 | 1
 192.42.116.208 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 52 | NL | 2025-07-20 | 2025-07-20 | 1

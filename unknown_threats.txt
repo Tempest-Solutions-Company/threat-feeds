@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-08-05T03:18:38.347864+00:00
+# Generated: 2025-08-05T03:49:09.505920+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 15
+# Total IPs: 16
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -11,6 +11,7 @@
 8.222.236.162 | LOW | ET EXPLOIT MVPower DVR Shell UCE | SG | 2025-07-19 | 2025-07-19 | 1
 14.205.104.200 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | CN | 2025-07-27 | 2025-07-27 | 1
 40.113.83.83 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | IE | 2025-07-27 | 2025-07-27 | 1
+43.153.193.178 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2025-08-05 | 2025-08-05 | 1
 44.227.76.166 | LOW | ET Threatview.io High Confidence Cobalt Strike C2 IP group 2 | US | 2025-08-01 | 2025-08-01 | 1
 46.3.36.195 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | US | 2025-07-16 | 2025-07-16 | 1
 87.120.92.24 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2025-07-27 | 2025-08-01 | 3

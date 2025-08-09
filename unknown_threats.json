@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-08-09T10:02:45.015913+00:00",
+    "generated": "2025-08-09T10:33:14.642933+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 18,
+    "total_threats": 19,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -174,6 +174,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SERVER .bash_history Detected in URI",
+      "protocol": "TCP",
+      "country": "FR"
+    },
+    {
+      "ip": "185.177.72.201",
+      "first_seen": "2025-08-09T10:13:39+00:00",
+      "last_seen": "2025-08-09T10:13:39+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL WEB_SERVER .htaccess access",
       "protocol": "TCP",
       "country": "FR"
     },

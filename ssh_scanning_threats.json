@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2025-08-11T00:41:03.899896+00:00",
+    "generated": "2025-08-11T01:11:34.330477+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 466,
+    "total_threats": 464,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -468,8 +468,8 @@
     {
       "ip": "40.115.18.231",
       "first_seen": "2025-07-19T16:35:10.975000+00:00",
-      "last_seen": "2025-08-03T14:07:57+00:00",
-      "count": 3,
+      "last_seen": "2025-08-11T00:59:13+00:00",
+      "count": 4,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -1484,16 +1484,6 @@
       "country": "ID"
     },
     {
-      "ip": "103.23.198.244",
-      "first_seen": "2025-07-12T01:00:44.037000+00:00",
-      "last_seen": "2025-08-01T19:02:29+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "ID"
-    },
-    {
       "ip": "103.23.199.87",
       "first_seen": "2025-07-21T13:53:01.936000+00:00",
       "last_seen": "2025-07-21T13:53:01.936000+00:00",
@@ -1506,8 +1496,8 @@
     {
       "ip": "103.23.199.119",
       "first_seen": "2025-07-13T22:49:55.842000+00:00",
-      "last_seen": "2025-07-13T23:12:35.924000+00:00",
-      "count": 2,
+      "last_seen": "2025-08-11T01:10:07+00:00",
+      "count": 3,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -3879,16 +3869,6 @@
       "first_seen": "2025-07-15T16:00:12.078000+00:00",
       "last_seen": "2025-07-23T00:15:23+00:00",
       "count": 7,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
-      "ip": "176.65.149.226",
-      "first_seen": "2025-07-12T00:41:51.107000+00:00",
-      "last_seen": "2025-07-13T05:12:39.299000+00:00",
-      "count": 4,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",

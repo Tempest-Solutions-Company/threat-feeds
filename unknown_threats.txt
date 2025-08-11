@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-08-11T00:41:03.899896+00:00
+# Generated: 2025-08-11T01:11:34.330477+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 19
+# Total IPs: 20
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -14,6 +14,7 @@
 43.153.193.178 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2025-08-05 | 2025-08-05 | 1
 44.227.76.166 | LOW | ET Threatview.io High Confidence Cobalt Strike C2 IP group 2 | US | 2025-08-01 | 2025-08-01 | 1
 46.3.36.195 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | US | 2025-07-16 | 2025-07-16 | 1
+80.75.212.83 | LOW | ET EXPLOIT Apache Obfuscated log4j RCE Attempt (tcp ldap) (CVE-2021-44228) | DE | 2025-08-11 | 2025-08-11 | 1
 87.120.92.24 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2025-07-27 | 2025-08-06 | 4
 87.121.84.130 | LOW | ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260) | US | 2025-07-15 | 2025-07-15 | 1
 91.209.135.232 | LOW | GPL SMTP vrfy root | None | 2025-07-12 | 2025-07-12 | 1

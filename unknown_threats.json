@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-08-14T19:27:17.055090+00:00",
+    "generated": "2025-08-14T19:57:48.313702+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 19,
+    "total_threats": 18,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -97,16 +97,6 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "87.121.84.130",
-      "first_seen": "2025-07-15T19:29:34.349000+00:00",
-      "last_seen": "2025-07-15T19:29:34.349000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "115.190.108.184",

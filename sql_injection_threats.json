@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SQL_Injection",
-    "generated": "2025-08-19T06:09:16.473059+00:00",
+    "generated": "2025-08-31T10:43:34.270657+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 3,
+    "total_threats": 1,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -17,26 +17,6 @@
       "signature": "ET WEB_SERVER SQL Injection Select Sleep Time Delay",
       "protocol": "TCP",
       "country": "SC"
-    },
-    {
-      "ip": "91.238.181.19",
-      "first_seen": "2025-07-23T20:25:07+00:00",
-      "last_seen": "2025-08-09T14:28:50+00:00",
-      "count": 3,
-      "severity": "high",
-      "signature": "ET WEB_SERVER SQL Injection Select Sleep Time Delay",
-      "protocol": "TCP",
-      "country": "FR"
-    },
-    {
-      "ip": "193.46.255.93",
-      "first_seen": "2025-07-20T18:48:50.005000+00:00",
-      "last_seen": "2025-07-20T18:48:50.005000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER SQL Injection Select Sleep Time Delay",
-      "protocol": "TCP",
-      "country": "GB"
     }
   ]
 }

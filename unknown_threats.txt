@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-09-01T04:19:52.955540+00:00
+# Generated: 2025-09-01T04:50:12.272062+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 6
+# Total IPs: 5
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -10,6 +10,5 @@
 43.153.193.178 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2025-08-05 | 2025-08-05 | 1
 80.75.212.83 | LOW | ET EXPLOIT Apache Obfuscated log4j RCE Attempt (tcp ldap) (CVE-2021-44228) | DE | 2025-08-11 | 2025-08-11 | 1
 119.18.55.217 | LOW | ET WEB_SERVER PHP.//Input in HTTP POST | IN | 2025-08-05 | 2025-08-05 | 1
-146.185.182.65 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2025-08-02 | 2025-08-02 | 1
 185.177.72.16 | LOW | ET WEB_SERVER .bash_history Detected in URI | FR | 2025-08-06 | 2025-08-06 | 1
 185.177.72.201 | LOW | GPL WEB_SERVER .htaccess access | FR | 2025-08-09 | 2025-08-09 | 1

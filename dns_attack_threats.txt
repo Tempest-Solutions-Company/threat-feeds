@@ -1,67 +1,16 @@
 # DNS_Attack Threat Feed
-# Generated: 2025-09-01T08:22:29.628403+00:00
+# Generated: 2025-09-08T06:43:14.333391+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 58
+# Total IPs: 7
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
 8.219.94.62 | LOW | GPL DNS named version attempt | SG | 2025-08-11 | 2025-08-11 | 1
-24.199.119.144 | LOW | GPL DNS named version attempt | US | 2025-08-07 | 2025-08-07 | 1
-31.57.67.25 | LOW | GPL DNS named version attempt | US | 2025-08-04 | 2025-08-04 | 1
-31.57.67.70 | LOW | GPL DNS named version attempt | US | 2025-08-04 | 2025-08-04 | 1
 44.220.188.29 | LOW | GPL DNS named version attempt | US | 2025-08-10 | 2025-08-10 | 1
 45.61.187.239 | LOW | GPL DNS named version attempt | US | 2025-08-10 | 2025-08-10 | 1
-46.101.110.154 | LOW | GPL DNS named version attempt | DE | 2025-08-08 | 2025-08-08 | 1
-46.203.124.133 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-46.203.124.135 | LOW | GPL DNS named version attempt | HK | 2025-08-02 | 2025-08-02 | 1
-46.203.124.185 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-46.203.125.66 | LOW | GPL DNS named version attempt | HK | 2025-08-03 | 2025-08-03 | 1
-46.203.125.145 | LOW | GPL DNS named version attempt | HK | 2025-08-05 | 2025-08-05 | 1
-47.251.9.231 | LOW | GPL DNS named version attempt | US | 2025-08-08 | 2025-08-08 | 1
-51.158.205.203 | LOW | GPL DNS named version attempt | NL | 2025-08-07 | 2025-08-10 | 3
-54.183.172.228 | LOW | GPL DNS named version attempt | US | 2025-08-03 | 2025-08-03 | 1
-57.129.64.219 | LOW | GPL DNS named version attempt | DE | 2025-08-05 | 2025-08-05 | 1
-64.62.197.34 | LOW | GPL DNS named version attempt | US | 2025-08-06 | 2025-08-06 | 1
-65.49.1.101 | LOW | GPL DNS named version attempt | US | 2025-08-05 | 2025-08-05 | 1
-86.54.31.32 | LOW | GPL DNS named version attempt | GB | 2025-08-02 | 2025-08-02 | 1
-87.236.176.244 | LOW | GPL DNS named version attempt | GB | 2025-08-07 | 2025-08-07 | 1
-91.196.152.2 | LOW | GPL DNS named version attempt | FR | 2025-08-07 | 2025-08-07 | 1
 100.29.192.58 | LOW | GPL DNS named version attempt | US | 2025-08-10 | 2025-08-10 | 1
-103.212.227.29 | LOW | GPL DNS named version attempt | AU | 2025-08-04 | 2025-08-04 | 1
 104.168.82.220 | LOW | GPL DNS named version attempt | US | 2025-08-10 | 2025-08-10 | 1
-109.176.254.92 | LOW | GPL DNS named version attempt | HK | 2025-08-03 | 2025-08-03 | 1
-109.176.254.101 | LOW | GPL DNS named version attempt | HK | 2025-08-05 | 2025-08-05 | 1
-109.176.254.184 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-109.176.254.237 | LOW | GPL DNS named version attempt | HK | 2025-08-03 | 2025-08-03 | 1
-109.176.255.116 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-109.176.255.143 | LOW | GPL DNS named version attempt | HK | 2025-08-03 | 2025-08-03 | 1
-128.199.44.180 | LOW | GPL DNS named version attempt | NL | 2025-08-02 | 2025-08-02 | 1
-139.59.47.27 | LOW | GPL DNS named version attempt | IN | 2025-08-08 | 2025-08-08 | 1
-147.185.132.60 | LOW | GPL DNS named version attempt | US | 2025-08-03 | 2025-08-03 | 1
-162.142.125.194 | LOW | GPL DNS named version attempt | US | 2025-08-07 | 2025-08-07 | 1
-162.142.125.215 | LOW | GPL DNS named version attempt | US | 2025-08-06 | 2025-08-06 | 1
-164.92.65.236 | LOW | GPL DNS named version attempt | US | 2025-08-06 | 2025-08-06 | 1
-167.94.138.56 | LOW | GPL DNS named version attempt | US | 2025-08-03 | 2025-08-03 | 1
-185.2.162.40 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-185.2.162.44 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-185.2.162.56 | LOW | GPL DNS named version attempt | HK | 2025-08-03 | 2025-08-03 | 1
-185.2.162.118 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-185.2.162.134 | LOW | GPL DNS named version attempt | HK | 2025-08-02 | 2025-08-02 | 1
-185.2.162.218 | LOW | GPL DNS named version attempt | HK | 2025-08-03 | 2025-08-03 | 1
-185.2.163.105 | LOW | GPL DNS named version attempt | HK | 2025-08-02 | 2025-08-02 | 1
-185.2.163.108 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-185.2.163.128 | LOW | GPL DNS named version attempt | HK | 2025-08-03 | 2025-08-03 | 1
-185.2.163.138 | LOW | GPL DNS named version attempt | HK | 2025-08-02 | 2025-08-02 | 1
-185.2.163.159 | LOW | GPL DNS named version attempt | HK | 2025-08-03 | 2025-08-04 | 2
-185.2.163.226 | LOW | GPL DNS named version attempt | HK | 2025-08-04 | 2025-08-04 | 1
-195.184.76.90 | LOW | GPL DNS named version attempt | US | 2025-08-07 | 2025-08-07 | 1
-198.89.125.44 | LOW | GPL DNS named version attempt | US | 2025-08-03 | 2025-08-03 | 1
 198.235.24.66 | LOW | GPL DNS named version attempt | US | 2025-08-09 | 2025-08-09 | 1
-198.235.24.75 | LOW | GPL DNS named version attempt | US | 2025-08-08 | 2025-08-08 | 1
-198.235.24.83 | LOW | GPL DNS named version attempt | US | 2025-08-08 | 2025-08-08 | 1
-199.45.154.126 | LOW | GPL DNS named version attempt | US | 2025-08-03 | 2025-08-03 | 1
-199.204.99.106 | LOW | GPL DNS named version attempt | US | 2025-08-06 | 2025-08-06 | 1
 205.210.31.192 | LOW | GPL DNS named version attempt | US | 2025-08-09 | 2025-08-09 | 1
-205.210.31.195 | LOW | GPL DNS named version attempt | US | 2025-08-08 | 2025-08-08 | 1

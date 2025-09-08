@@ -14,7 +14,7 @@ class ThreatIntelligence {
             'ssh_scanning': 'SSH Scanning',
             'terminal_server_attack': 'Terminal Server Attacks',
             'tor_traffic': 'Tor Traffic',
-            'unknown': 'Unknown Threats (catch all)'
+            'unknown': 'Unknown Threats'
         };
         
         // GitHub repository base URL - using correct raw URL format
@@ -304,8 +304,14 @@ class ThreatIntelligence {
                     unknownCountryEntries++;
                 }
                 
-                // Each row represents 1 unique IP/threat
-                const count = 1;
+                // FIXED: Use the actual count from the CSV (column 3) instead of just 1
+                let count = 1; // Default to 1 if parsing fails
+                if (columns.length >= 4 && columns[3] && columns[3].trim()) {
+                    const parsedCount = parseInt(columns[3].trim(), 10);
+                    if (!isNaN(parsedCount) && parsedCount > 0) {
+                        count = parsedCount;
+                    }
+                }
                 
                 if (!threatData.has(country)) {
                     threatData.set(country, {});
@@ -316,11 +322,11 @@ class ThreatIntelligence {
                 }
                 
                 threatData.get(country)[threatType] += count;
-                validEntries++;
+                validEntries += count; // Count actual threats, not just entries
             }
         });
         
-        console.log(`Parsed ${validEntries} valid entries for ${threatType} (${unknownCountryEntries} without country data)`);
+        console.log(`Parsed ${validEntries} total threats from ${threatType} (${unknownCountryEntries} entries without country data)`);
         return validEntries;
     }
 
@@ -382,7 +388,7 @@ class ThreatIntelligence {
             'BZ': [17.1899, -88.4976], // Belize
             'AQ': [-75.2540, 0.0715],  // Antarctica (approx)
             'LT': [55.1694, 23.8813],  // Lithuania
-            'SC': [-4.6796, 55.4920],  // Seychelles
+            'SC': [4.6796, 55.4920],  // Seychelles
             'PA': [8.4380, -80.9821],  // Panama
             'LI': [47.1410, 9.5209],   // Liechtenstein
             'MC': [43.7333, 7.4167],   // Monaco
@@ -551,7 +557,7 @@ class ThreatIntelligence {
                 const [lat, lng] = countryCoords[country];
                 const intensity = this.getThreatIntensity(threatCount);
                 const color = this.getIntensityColor(intensity);
-                const radius = Math.max(8, Math.min(40, Math.sqrt(threatCount) * 2));
+                const radius = Math.max(8, Math.min(35, Math.sqrt(threatCount) * 2));
 
                 const circle = L.circleMarker([lat, lng], {
                     radius: radius,

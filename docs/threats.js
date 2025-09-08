@@ -181,23 +181,23 @@ class ThreatIntelligence {
 
     async fetchThreatDataFromCSV() {
         const threatData = new Map();
-        // CORRECTED: Use .csv extensions (confirmed from your actual file content)
-        const csvFiles = [
-            'compromised_host_threats.csv',
-            'dns_attack_threats.csv',
-            'port_scanning_threats.csv',
-            'sql_injection_threats.csv',
-            'ssh_scanning_threats.csv',
-            'terminal_server_attack_threats.csv',
-            'tor_traffic_threats.csv',
-            'unknown_threats.csv'
+        // UPDATED: Use .txt extensions instead of .csv
+        const txtFiles = [
+            'compromised_host_threats.txt',
+            'dns_attack_threats.txt',
+            'port_scanning_threats.txt',
+            'sql_injection_threats.txt',
+            'ssh_scanning_threats.txt',
+            'terminal_server_attack_threats.txt',
+            'tor_traffic_threats.txt',
+            'unknown_threats.txt'
         ];
 
-        console.log('Fetching REAL threat data from GitHub repository...');
+        console.log('Fetching threat data from GitHub .txt files...');
 
-        const fetchPromises = csvFiles.map(async (file) => {
+        const fetchPromises = txtFiles.map(async (file) => {
             try {
-                const threatType = file.replace('_threats.csv', '');
+                const threatType = file.replace('_threats.txt', '');
                 const url = this.githubBaseUrl + file;
                 
                 console.log(`Fetching ${file} from ${url}...`);
@@ -209,7 +209,7 @@ class ThreatIntelligence {
                     response = await fetch(url, {
                         method: 'GET',
                         headers: {
-                            'Accept': 'text/plain, text/csv, */*',
+                            'Accept': 'text/plain, */*',
                             'Cache-Control': 'no-cache'
                         }
                     });
@@ -223,7 +223,7 @@ class ThreatIntelligence {
                     response = await fetch(proxyUrl, {
                         method: 'GET',
                         headers: {
-                            'Accept': 'text/plain, text/csv, */*'
+                            'Accept': 'text/plain, */*'
                         }
                     });
                 }
@@ -232,11 +232,11 @@ class ThreatIntelligence {
                     throw new Error(`HTTP ${response.status}: ${response.statusText} for ${file}`);
                 }
                 
-                const csvText = await response.text();
-                console.log(`Successfully fetched ${file}, size: ${csvText.length} bytes`);
+                const txtContent = await response.text();
+                console.log(`Successfully fetched ${file}, size: ${txtContent.length} bytes`);
                 
-                if (csvText.trim().length > 0) {
-                    const entriesCount = this.parseCSVData(csvText, threatType, threatData);
+                if (txtContent.trim().length > 0) {
+                    const entriesCount = this.parseTxtData(txtContent, threatType, threatData);
                     console.log(`Parsed ${entriesCount} entries from ${file}`);
                 } else {
                     console.warn(`${file} is empty`);
@@ -253,7 +253,7 @@ class ThreatIntelligence {
         const successfulFetches = results.filter(r => r.success);
         const failedFetches = results.filter(r => !r.success);
         
-        console.log(`Successfully fetched ${successfulFetches.length}/${csvFiles.length} files`);
+        console.log(`Successfully fetched ${successfulFetches.length}/${txtFiles.length} files`);
         
         if (failedFetches.length > 0) {
             console.log('Failed fetches:', failedFetches.map(f => `${f.file}: ${f.error}`));
@@ -261,58 +261,54 @@ class ThreatIntelligence {
         
         // ONLY use real data - no fallback to mock data
         if (successfulFetches.length === 0) {
-            throw new Error('Failed to fetch any CSV files from GitHub repository. Please check repository accessibility and CORS configuration.');
+            throw new Error('Failed to fetch any .txt files from GitHub repository. Please check repository accessibility and CORS configuration.');
         }
 
         console.log(`Total countries with threat data: ${threatData.size}`);
         return threatData;
     }
 
-    parseCSVData(csvText, threatType, threatData) {
-        const lines = csvText.trim().split('\n');
+    parseTxtData(txtContent, threatType, threatData) {
+        const lines = txtContent.trim().split('\n');
         let validEntries = 0;
         let unknownCountryEntries = 0;
         
         lines.forEach((line, index) => {
-            // Skip empty lines and header row
-            if (!line.trim()) return;
-            
-            // Skip header row
-            if (index === 0 && (line.includes('ip,first_seen') || line.includes('first_seen'))) {
+            // Skip empty lines and comment lines (starting with #)
+            const trimmedLine = line.trim();
+            if (!trimmedLine || trimmedLine.startsWith('#')) {
                 return;
             }
             
-            // Parse CSV line with proper handling for quoted fields
-            const columns = this.parseCSVLine(line);
+            // Parse pipe-delimited format: IP | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
+            const columns = trimmedLine.split('|').map(col => col.trim());
             
-            if (columns.length >= 7) {
-                // Country is in the last column (index 7 for 8 columns, or could be blank)
-                let country = '';
-                if (columns.length >= 8 && columns[7] && columns[7].trim()) {
-                    country = columns[7].trim().toUpperCase();
-                } else if (columns.length >= 7 && columns[6] && columns[6].trim()) {
-                    // Check if column 6 might be the country (when protocol is missing)
-                    const possibleCountry = columns[6].trim();
-                    if (possibleCountry.length === 2 && /^[A-Z]{2}$/i.test(possibleCountry)) {
-                        country = possibleCountry.toUpperCase();
-                    }
-                }
+            if (columns.length >= 4) {
+                // Extract data from pipe-delimited format
+                const ip = columns[0];
+                const severity = columns[1];
+                const signature = columns[2];
+                let country = columns[3];
+                const firstSeen = columns[4] || '';
+                const lastSeen = columns[5] || '';
+                const countStr = columns[6] || '1';
                 
-                // If no valid country code, assign to "UNKNOWN" category
-                if (!country || country.length !== 2) {
+                // Validate country code
+                if (!country || country.length !== 2 || !/^[A-Z]{2}$/i.test(country)) {
                     country = 'UNKNOWN';
                     unknownCountryEntries++;
+                } else {
+                    country = country.toUpperCase();
                 }
                 
-                // FIXED: Use the actual count from the CSV (column 3) instead of just 1
-                let count = 1; // Default to 1 if parsing fails
-                if (columns.length >= 4 && columns[3] && columns[3].trim()) {
-                    const parsedCount = parseInt(columns[3].trim(), 10);
-                    if (!isNaN(parsedCount) && parsedCount > 0) {
-                        count = parsedCount;
-                    }
+                // Parse count
+                let count = 1;
+                const parsedCount = parseInt(countStr, 10);
+                if (!isNaN(parsedCount) && parsedCount > 0) {
+                    count = parsedCount;
                 }
                 
+                // Add to threat data
                 if (!threatData.has(country)) {
                     threatData.set(country, {});
                 }
@@ -323,36 +319,13 @@ class ThreatIntelligence {
                 
                 threatData.get(country)[threatType] += count;
                 validEntries += count; // Count actual threats, not just entries
+            } else {
+                console.warn(`Invalid line format in ${threatType}: ${trimmedLine}`);
             }
         });
         
         console.log(`Parsed ${validEntries} total threats from ${threatType} (${unknownCountryEntries} entries without country data)`);
         return validEntries;
-    }
-
-    // Helper method to properly parse CSV lines with quoted fields
-    parseCSVLine(line) {
-        const result = [];
-        let current = '';
-        let inQuotes = false;
-        
-        for (let i = 0; i < line.length; i++) {
-            const char = line[i];
-            
-            if (char === '"') {
-                inQuotes = !inQuotes;
-            } else if (char === ',' && !inQuotes) {
-                result.push(current);
-                current = '';
-            } else {
-                current += char;
-            }
-        }
-        
-        // Add the last field
-        result.push(current);
-        
-        return result;
     }
 
     updateMap() {

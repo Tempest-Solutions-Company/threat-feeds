@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-09T13:25:55.612937+00:00",
+    "generated": "2025-09-09T13:56:09.576914+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 1,
+    "total_threats": 2,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -17,6 +17,16 @@
       "signature": "ET EXPLOIT Apache Obfuscated log4j RCE Attempt (tcp ldap) (CVE-2021-44228)",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "178.22.24.14",
+      "first_seen": "2025-09-09T13:45:52.321000+00:00",
+      "last_seen": "2025-09-09T13:45:52.321000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Fortigate VPN - Repeated GET Requests to /remote/logincheck (CVE-2023-27997)",
+      "protocol": "TCP",
+      "country": "RU"
     }
   ]
 }

@@ -1,13 +1,23 @@
 {
   "metadata": {
     "category": "Tor_Traffic",
-    "generated": "2025-09-09T18:28:25.978015+00:00",
+    "generated": "2025-09-09T18:58:43.134911+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 2,
+    "total_threats": 3,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
+    {
+      "ip": "45.141.215.61",
+      "first_seen": "2025-09-09T18:52:09.063000+00:00",
+      "last_seen": "2025-09-09T18:52:09.063000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 91",
+      "protocol": "TCP",
+      "country": "PL"
+    },
     {
       "ip": "104.254.90.195",
       "first_seen": "2025-08-11T00:30:37+00:00",

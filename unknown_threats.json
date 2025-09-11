@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-11T18:56:20.588249+00:00",
+    "generated": "2025-09-11T19:26:38.370858+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 16,
+    "total_threats": 17,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -157,6 +157,16 @@
       "signature": "ET EXPLOIT Fortigate VPN - Repeated GET Requests to /remote/logincheck (CVE-2023-27997)",
       "protocol": "TCP",
       "country": "RU"
+    },
+    {
+      "ip": "195.178.110.202",
+      "first_seen": "2025-09-11T19:22:21.081000+00:00",
+      "last_seen": "2025-09-11T19:22:21.081000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS Possible WP CuckooTap Arbitrary File Download",
+      "protocol": "TCP",
+      "country": "AD"
     },
     {
       "ip": "196.251.84.66",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-11T04:17:52.165651+00:00",
+    "generated": "2025-09-11T04:48:08.401450+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 7,
+    "total_threats": 8,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -32,6 +32,16 @@
       "ip": "18.61.156.44",
       "first_seen": "2025-09-10T23:31:31.015000+00:00",
       "last_seen": "2025-09-10T23:31:31.015000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
+      "protocol": "TCP",
+      "country": "IN"
+    },
+    {
+      "ip": "18.61.161.42",
+      "first_seen": "2025-09-11T04:35:24.882000+00:00",
+      "last_seen": "2025-09-11T04:35:24.882000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",

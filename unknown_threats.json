@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-12T16:08:11.424253+00:00",
+    "generated": "2025-09-12T16:38:28.651260+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 18,
+    "total_threats": 19,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -157,6 +157,16 @@
       "signature": "ET WEB_SPECIFIC_APPS UNA CMS PHP Object Injection (CVE-2025-32101)",
       "protocol": "TCP",
       "country": "MD"
+    },
+    {
+      "ip": "164.52.0.91",
+      "first_seen": "2025-09-12T16:29:15.316000+00:00",
+      "last_seen": "2025-09-12T16:29:15.316000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement",
+      "protocol": "TCP",
+      "country": "JP"
     },
     {
       "ip": "178.22.24.14",

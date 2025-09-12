@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-09-12T04:01:23.082155+00:00",
+    "generated": "2025-09-12T04:31:39.133545+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 14,
+    "total_threats": 15,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -117,6 +117,16 @@
       "signature": "ET SCAN NETWORK Incoming Masscan detected",
       "protocol": "TCP",
       "country": "MX"
+    },
+    {
+      "ip": "155.2.217.14",
+      "first_seen": "2025-09-12T04:21:29.407000+00:00",
+      "last_seen": "2025-09-12T04:21:29.407000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
+      "protocol": "TCP",
+      "country": "HU"
     },
     {
       "ip": "165.154.217.223",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-09-13T05:45:36.531569+00:00",
+    "generated": "2025-09-13T06:15:52.485875+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 16,
+    "total_threats": 17,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -127,6 +127,16 @@
       "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
       "protocol": "TCP",
       "country": "HU"
+    },
+    {
+      "ip": "159.89.12.166",
+      "first_seen": "2025-09-13T06:12:15.062000+00:00",
+      "last_seen": "2025-09-13T06:12:15.062000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN LeakIX Inbound User-Agent",
+      "protocol": "TCP",
+      "country": "DE"
     },
     {
       "ip": "161.35.147.65",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-09-13T09:17:28.143511+00:00
+# Generated: 2025-09-13T09:47:44.256806+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 20
+# Total IPs: 21
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -20,6 +20,7 @@
 35.182.158.100 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | CA | 2025-09-11 | 2025-09-11 | 1
 35.183.117.114 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | CA | 2025-09-11 | 2025-09-11 | 1
 37.27.51.145 | LOW | ET USER_AGENTS BLEXBot User-Agent | FI | 2025-09-11 | 2025-09-11 | 2
+42.192.3.101 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | CN | 2025-09-13 | 2025-09-13 | 1
 43.203.117.241 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | KR | 2025-09-11 | 2025-09-11 | 1
 101.251.238.173 | LOW | ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement | CN | 2025-09-13 | 2025-09-13 | 1
 141.98.82.26 | LOW | ET WEB_SPECIFIC_APPS UNA CMS PHP Object Injection (CVE-2025-32101) | MD | 2025-09-09 | 2025-09-09 | 1

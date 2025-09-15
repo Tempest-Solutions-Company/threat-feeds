@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-15T08:44:47.703149+00:00",
+    "generated": "2025-09-15T09:15:06.964915+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 25,
+    "total_threats": 26,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -155,6 +155,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
+      "protocol": "TCP",
+      "country": "CN"
+    },
+    {
+      "ip": "42.234.178.74",
+      "first_seen": "2025-09-15T09:04:28.192000+00:00",
+      "last_seen": "2025-09-15T09:04:28.192000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
       "protocol": "TCP",
       "country": "CN"
     },

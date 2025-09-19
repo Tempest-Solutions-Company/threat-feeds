@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-19T10:53:47.200035+00:00",
+    "generated": "2025-09-19T11:24:08.768356+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 27,
+    "total_threats": 28,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -177,6 +177,16 @@
       "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
       "protocol": "TCP",
       "country": "KR"
+    },
+    {
+      "ip": "94.69.234.122",
+      "first_seen": "2025-09-19T11:21:49.727000+00:00",
+      "last_seen": "2025-09-19T11:21:49.727000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT MVPower DVR Shell UCE",
+      "protocol": "TCP",
+      "country": "GR"
     },
     {
       "ip": "101.251.238.173",

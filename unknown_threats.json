@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-19T14:56:51.101438+00:00",
+    "generated": "2025-09-19T15:27:13.431279+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 28,
+    "total_threats": 29,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -177,6 +177,16 @@
       "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
       "protocol": "TCP",
       "country": "KR"
+    },
+    {
+      "ip": "91.209.135.33",
+      "first_seen": "2025-09-19T15:08:54.265000+00:00",
+      "last_seen": "2025-09-19T15:08:54.265000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL SMTP vrfy root",
+      "protocol": "TCP",
+      "country": "GE"
     },
     {
       "ip": "94.69.234.122",

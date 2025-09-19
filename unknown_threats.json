@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-19T01:16:55.549058+00:00",
+    "generated": "2025-09-19T01:47:16.706428+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 26,
+    "total_threats": 27,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -247,6 +247,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "HK"
+    },
+    {
+      "ip": "194.165.16.71",
+      "first_seen": "2025-09-19T01:23:53.110000+00:00",
+      "last_seen": "2025-09-19T01:23:53.110000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET WEB_SPECIFIC_APPS Evertz SDVN Authentication Bypass + Command Injection Attempt M1 (CVE-2025-4009)",
+      "protocol": "TCP",
+      "country": "LT"
     },
     {
       "ip": "195.178.110.202",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-09-21T20:02:54.054684+00:00
+# Generated: 2025-09-21T20:33:14.122463+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 31
+# Total IPs: 32
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -35,6 +35,7 @@
 164.52.24.187 | LOW | ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement | JP | 2025-09-21 | 2025-09-21 | 2
 178.22.24.14 | LOW | ET EXPLOIT Fortigate VPN - Repeated GET Requests to /remote/logincheck (CVE-2023-27997) | RU | 2025-09-09 | 2025-09-09 | 1
 185.239.86.60 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | HK | 2025-09-14 | 2025-09-14 | 1
+192.71.211.140 | LOW | ET WEB_SERVER PHP tags in HTTP POST | HU | 2025-09-21 | 2025-09-21 | 1
 194.165.16.71 | HIGH | ET WEB_SPECIFIC_APPS Evertz SDVN Authentication Bypass + Command Injection Attempt M1 (CVE-2025-4009) | LT | 2025-09-19 | 2025-09-19 | 1
 195.178.110.202 | LOW | ET WEB_SPECIFIC_APPS Possible WP CuckooTap Arbitrary File Download | AD | 2025-09-11 | 2025-09-11 | 1
 196.251.84.66 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | NL | 2025-09-09 | 2025-09-09 | 1

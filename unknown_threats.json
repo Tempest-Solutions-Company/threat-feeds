@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-23T13:32:26.029354+00:00",
+    "generated": "2025-09-23T14:02:48.533728+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 37,
+    "total_threats": 38,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -247,6 +247,16 @@
       "signature": "ET EXPLOIT Netgear DGN Remote Command Execution",
       "protocol": "TCP",
       "country": "ID"
+    },
+    {
+      "ip": "103.216.252.192",
+      "first_seen": "2025-09-23T13:44:07.065000+00:00",
+      "last_seen": "2025-09-23T13:44:07.065000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
+      "protocol": "TCP",
+      "country": "CN"
     },
     {
       "ip": "109.195.75.40",

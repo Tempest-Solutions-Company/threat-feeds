@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Tor_Traffic",
-    "generated": "2025-09-23T12:31:40.711248+00:00",
+    "generated": "2025-09-23T13:02:03.820425+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 33,
+    "total_threats": 36,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -25,6 +25,16 @@
       "count": 1,
       "severity": "medium",
       "signature": "ET TOR Known Tor Exit Node Traffic group 77",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "23.184.48.78",
+      "first_seen": "2025-09-23T12:55:06.733000+00:00",
+      "last_seen": "2025-09-23T12:55:06.733000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET TOR Known Tor Exit Node Traffic group 80",
       "protocol": "TCP",
       "country": "US"
     },
@@ -179,6 +189,16 @@
       "country": "AL"
     },
     {
+      "ip": "185.196.220.39",
+      "first_seen": "2025-09-23T12:33:17.035000+00:00",
+      "last_seen": "2025-09-23T12:33:17.035000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET TOR Known Tor Exit Node Traffic group 30",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
       "ip": "185.220.100.253",
       "first_seen": "2025-09-20T04:14:28.595000+00:00",
       "last_seen": "2025-09-20T04:14:28.595000+00:00",
@@ -307,6 +327,16 @@
       "signature": "ET TOR Known Tor Exit Node Traffic group 57",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "193.189.100.198",
+      "first_seen": "2025-09-23T12:44:03.162000+00:00",
+      "last_seen": "2025-09-23T12:44:03.162000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET TOR Known Tor Exit Node Traffic group 57",
+      "protocol": "TCP",
+      "country": "SE"
     },
     {
       "ip": "195.47.238.92",

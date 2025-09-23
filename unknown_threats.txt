@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-09-23T14:33:11.021561+00:00
+# Generated: 2025-09-23T15:03:34.364507+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 38
+# Total IPs: 39
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -26,6 +26,7 @@
 42.192.3.101 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | CN | 2025-09-13 | 2025-09-13 | 1
 42.234.178.74 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | CN | 2025-09-15 | 2025-09-15 | 1
 43.203.117.241 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | KR | 2025-09-11 | 2025-09-11 | 1
+45.88.186.32 | HIGH | ET WEB_SPECIFIC_APPS Four-Faith adjust_sys_time adj_time Command Injection Attempt (CVE-2024-12856) | US | 2025-09-23 | 2025-09-23 | 1
 87.251.78.201 | LOW | GPL SMTP vrfy root | RU | 2025-09-22 | 2025-09-22 | 1
 91.209.135.33 | LOW | GPL SMTP vrfy root | GE | 2025-09-19 | 2025-09-19 | 1
 94.69.234.122 | LOW | ET EXPLOIT MVPower DVR Shell UCE | GR | 2025-09-19 | 2025-09-19 | 1

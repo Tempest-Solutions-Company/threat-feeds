@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-09-24T00:10:15.612098+00:00
+# Generated: 2025-09-24T00:40:37.237965+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 40
+# Total IPs: 41
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -23,6 +23,7 @@
 35.183.117.114 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | CA | 2025-09-11 | 2025-09-11 | 1
 37.27.51.145 | LOW | ET USER_AGENTS BLEXBot User-Agent | FI | 2025-09-11 | 2025-09-11 | 2
 37.201.154.43 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2025-09-21 | 2025-09-23 | 2
+37.215.100.228 | LOW | ET WEB_SERVER PHP tags in HTTP POST | BY | 2025-09-24 | 2025-09-24 | 1
 42.192.3.101 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | CN | 2025-09-13 | 2025-09-13 | 1
 42.234.178.74 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | CN | 2025-09-15 | 2025-09-15 | 1
 43.203.117.241 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | KR | 2025-09-11 | 2025-09-11 | 1

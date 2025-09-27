@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-09-27T00:03:07.226659+00:00",
+    "generated": "2025-09-27T00:33:27.598492+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 48,
+    "total_threats": 49,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -177,6 +177,16 @@
       "signature": "ET USER_AGENTS BLEXBot User-Agent",
       "protocol": "TCP",
       "country": "FI"
+    },
+    {
+      "ip": "37.60.141.156",
+      "first_seen": "2025-09-27T00:27:15.583000+00:00",
+      "last_seen": "2025-09-27T00:27:15.583000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Shenzhen TVT DVR/NVR/IPC Hardcoded WebUI Login Attempt M1",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "37.201.154.43",

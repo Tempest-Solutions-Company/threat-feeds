@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-09-28T03:52:09.995330+00:00",
+    "generated": "2025-09-28T04:22:30.353612+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 75,
+    "total_threats": 76,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -229,6 +229,16 @@
       "country": "US"
     },
     {
+      "ip": "45.79.22.229",
+      "first_seen": "2025-09-28T04:13:12.372000+00:00",
+      "last_seen": "2025-09-28T04:13:12.372000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN NETWORK Incoming Masscan detected",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
       "ip": "45.79.163.53",
       "first_seen": "2025-09-18T02:32:12.010000+00:00",
       "last_seen": "2025-09-18T02:32:12.010000+00:00",
@@ -251,8 +261,8 @@
     {
       "ip": "51.91.190.39",
       "first_seen": "2025-09-26T07:41:39.065000+00:00",
-      "last_seen": "2025-09-28T03:34:32.853000+00:00",
-      "count": 24,
+      "last_seen": "2025-09-28T04:00:11.142000+00:00",
+      "count": 25,
       "severity": "low",
       "signature": "ET SCAN NETWORK Incoming Masscan detected",
       "protocol": "TCP",

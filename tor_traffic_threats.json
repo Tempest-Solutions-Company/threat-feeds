@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Tor_Traffic",
-    "generated": "2025-10-03T07:34:09.988593+00:00",
+    "generated": "2025-10-03T08:04:32.990327+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 46,
+    "total_threats": 47,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -379,6 +379,16 @@
       "country": "NL"
     },
     {
+      "ip": "192.42.116.210",
+      "first_seen": "2025-10-03T07:35:16.857000+00:00",
+      "last_seen": "2025-10-03T07:35:16.857000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET TOR Known Tor Exit Node Traffic group 53",
+      "protocol": "TCP",
+      "country": "NL"
+    },
+    {
       "ip": "192.42.116.217",
       "first_seen": "2025-09-20T03:45:11.021000+00:00",
       "last_seen": "2025-09-23T10:23:19.067000+00:00",
@@ -401,8 +411,8 @@
     {
       "ip": "192.76.153.253",
       "first_seen": "2025-09-22T00:48:06.945000+00:00",
-      "last_seen": "2025-09-22T00:48:06.945000+00:00",
-      "count": 1,
+      "last_seen": "2025-10-03T07:46:28.945000+00:00",
+      "count": 2,
       "severity": "medium",
       "signature": "ET TOR Known Tor Exit Node Traffic group 57",
       "protocol": "TCP",

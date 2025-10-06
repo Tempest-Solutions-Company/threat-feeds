@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-10-06T09:25:19.289474+00:00
+# Generated: 2025-10-06T09:55:42.198902+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 88
+# Total IPs: 89
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -60,6 +60,7 @@
 98.159.226.180 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | LI | 2025-09-16 | 2025-09-16 | 1
 102.165.48.120 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-09-18 | 2025-09-18 | 1
 103.99.3.148 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | VN | 2025-09-22 | 2025-09-22 | 1
+103.151.122.169 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | VN | 2025-10-06 | 2025-10-06 | 1
 103.178.175.162 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | ID | 2025-09-08 | 2025-09-25 | 2
 120.85.113.1 | LOW | ET SCAN JAWS Webserver Unauthenticated Shell Command Execution | CN | 2025-09-27 | 2025-09-27 | 1
 128.203.203.196 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-27 | 2025-09-27 | 1

@@ -1,7 +1,7 @@
 # Tor_Traffic Threat Feed
-# Generated: 2025-10-06T01:19:19.449184+00:00
+# Generated: 2025-10-06T01:49:41.806061+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 48
+# Total IPs: 50
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -28,6 +28,8 @@
 107.189.1.175 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 5 | LU | 2025-09-21 | 2025-09-21 | 1
 109.70.100.5 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 10 | AT | 2025-09-09 | 2025-09-09 | 1
 109.70.100.67 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 10 | AT | 2025-09-11 | 2025-09-11 | 1
+124.198.131.29 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 12 | US | 2025-10-06 | 2025-10-06 | 1
+171.25.193.81 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 19 | SE | 2025-10-06 | 2025-10-06 | 1
 172.105.20.12 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 19 | CA | 2025-09-20 | 2025-09-20 | 1
 178.162.175.5 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 22 | NL | 2025-09-20 | 2025-09-20 | 1
 185.177.238.26 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 28 | AL | 2025-09-11 | 2025-09-11 | 1

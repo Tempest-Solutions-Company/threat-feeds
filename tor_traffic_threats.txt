@@ -1,7 +1,7 @@
 # Tor_Traffic Threat Feed
-# Generated: 2025-10-07T02:08:07.792586+00:00
+# Generated: 2025-10-07T02:38:29.508129+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 52
+# Total IPs: 54
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -16,7 +16,7 @@
 45.84.107.33 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 95 | AQ | 2025-09-14 | 2025-09-20 | 3
 45.84.107.54 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 96 | AQ | 2025-09-21 | 2025-09-21 | 2
 45.84.107.55 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 95 | AQ | 2025-09-14 | 2025-09-22 | 2
-45.84.107.128 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 94 | AQ | 2025-09-14 | 2025-09-14 | 1
+45.84.107.128 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 94 | AQ | 2025-09-14 | 2025-10-07 | 2
 45.84.107.198 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 95 | AQ | 2025-09-14 | 2025-09-14 | 1
 45.94.31.68 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 97 | NL | 2025-09-11 | 2025-09-22 | 2
 45.133.74.53 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 89 | DE | 2025-09-22 | 2025-09-22 | 1
@@ -29,6 +29,7 @@
 109.70.100.5 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 10 | AT | 2025-09-09 | 2025-09-09 | 1
 109.70.100.67 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 10 | AT | 2025-09-11 | 2025-09-11 | 1
 124.198.131.29 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 12 | US | 2025-10-06 | 2025-10-06 | 1
+152.53.106.19 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 15 | NL | 2025-10-07 | 2025-10-07 | 1
 171.25.193.81 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 19 | SE | 2025-10-06 | 2025-10-06 | 1
 172.105.20.12 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 19 | CA | 2025-09-20 | 2025-09-20 | 1
 178.162.175.5 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 22 | NL | 2025-09-20 | 2025-09-20 | 1
@@ -45,6 +46,7 @@
 185.220.101.160 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 37 | DE | 2025-09-21 | 2025-09-21 | 1
 185.220.101.180 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 36 | DE | 2025-10-06 | 2025-10-06 | 1
 185.241.208.81 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 45 | PL | 2025-10-02 | 2025-10-02 | 1
+185.241.208.202 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 44 | PL | 2025-10-07 | 2025-10-07 | 1
 192.42.116.176 | MEDIUM | ET TOR Known Tor Exit Node Traffic group 51 | NL | 2025-09-13 | 2025-09-13 | 1
 192.42.116.196 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 54 | NL | 2025-09-21 | 2025-09-21 | 1
 192.42.116.197 | LOW | ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 53 | NL | 2025-09-12 | 2025-09-12 | 1

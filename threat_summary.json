@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated": "2025-10-07T19:21:01.277756+00:00",
+    "generated": "2025-10-07T19:51:23.419837+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "expiry_days": 30,
     "total_categories": 10,
-    "total_threats": 738,
-    "total_unique_ips": 731
+    "total_threats": 741,
+    "total_unique_ips": 734
   },
   "categories": {
     "Compromised_Host": {
@@ -82,11 +82,11 @@
       }
     },
     "Tor_Traffic": {
-      "total_threats": 54,
-      "unique_ips": 54,
+      "total_threats": 57,
+      "unique_ips": 57,
       "severity_breakdown": {
-        "medium": 32,
-        "low": 22
+        "medium": 33,
+        "low": 24
       },
       "files": {
         "txt": "tor_traffic_threats.txt",

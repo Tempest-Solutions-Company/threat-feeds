@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-07T12:15:29.939292+00:00",
+    "generated": "2025-10-07T12:45:51.655124+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 53,
+    "total_threats": 54,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -257,6 +257,16 @@
       "signature": "ET WEB_SPECIFIC_APPS Four-Faith adjust_sys_time adj_time Command Injection Attempt (CVE-2024-12856)",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "86.54.24.140",
+      "first_seen": "2025-10-07T12:29:01.329000+00:00",
+      "last_seen": "2025-10-07T12:29:01.329000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
+      "protocol": "TCP",
+      "country": "LV"
     },
     {
       "ip": "87.251.78.201",

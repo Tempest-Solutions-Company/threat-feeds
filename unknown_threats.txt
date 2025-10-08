@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-08T18:38:35.740899+00:00
+# Generated: 2025-10-08T19:09:00.793218+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 56
+# Total IPs: 57
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -34,6 +34,7 @@
 42.234.178.74 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | CN | 2025-09-15 | 2025-09-15 | 1
 43.203.117.241 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | KR | 2025-09-11 | 2025-09-11 | 1
 45.88.186.32 | HIGH | ET WEB_SPECIFIC_APPS Four-Faith adjust_sys_time adj_time Command Injection Attempt (CVE-2024-12856) | US | 2025-09-23 | 2025-09-23 | 1
+52.33.42.121 | LOW | ET WEB_SERVER PHP tags in HTTP POST | US | 2025-10-08 | 2025-10-08 | 1
 86.54.24.140 | LOW | ET WEB_SERVER Wordpress Login Bruteforcing Detected | LV | 2025-10-07 | 2025-10-07 | 1
 87.251.78.201 | LOW | GPL SMTP vrfy root | RU | 2025-09-22 | 2025-09-22 | 1
 91.209.135.33 | LOW | GPL SMTP vrfy root | GE | 2025-09-19 | 2025-09-19 | 1

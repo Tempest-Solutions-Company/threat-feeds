@@ -1,13 +1,13 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-10-08T08:00:15.866737+00:00
+# Generated: 2025-10-08T08:30:44.115378+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 95
+# Total IPs: 94
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
-3.146.111.124 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-08 | 2025-10-07 | 4
+3.146.111.124 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-08 | 2025-10-08 | 5
 13.86.113.74 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-04 | 2025-10-04 | 1
 13.89.124.220 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-26 | 2025-09-26 | 1
 20.15.164.68 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-16 | 2025-09-16 | 1
@@ -89,7 +89,6 @@
 167.172.94.240 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2025-10-08 | 2025-10-08 | 1
 172.178.115.16 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-20 | 2025-09-20 | 1
 172.202.117.124 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-20 | 2025-09-20 | 1
-172.202.118.72 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-08 | 2025-09-08 | 1
 172.203.21.7 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2025-09-27 | 2025-09-27 | 1
 185.92.25.62 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | GB | 2025-09-17 | 2025-09-17 | 1
 185.209.196.225 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | DE | 2025-09-21 | 2025-09-21 | 1

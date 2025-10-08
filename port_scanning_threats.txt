@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-10-08T07:29:52.200719+00:00
+# Generated: 2025-10-08T08:00:15.866737+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 94
+# Total IPs: 95
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -86,6 +86,7 @@
 167.71.229.198 | LOW | ET SCAN Zmap User-Agent (Inbound) | IN | 2025-09-23 | 2025-09-23 | 1
 167.99.141.235 | LOW | ET SCAN NETWORK Incoming Masscan detected | DE | 2025-09-28 | 2025-09-28 | 1
 167.172.65.194 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2025-09-18 | 2025-09-18 | 1
+167.172.94.240 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2025-10-08 | 2025-10-08 | 1
 172.178.115.16 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-20 | 2025-09-20 | 1
 172.202.117.124 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-20 | 2025-09-20 | 1
 172.202.118.72 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-08 | 2025-09-08 | 1

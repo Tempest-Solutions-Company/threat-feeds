@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-09T22:30:19.302065+00:00",
+    "generated": "2025-10-09T23:00:41.480515+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 58,
+    "total_threats": 59,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -47,6 +47,16 @@
       "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
       "protocol": "TCP",
       "country": "CA"
+    },
+    {
+      "ip": "8.213.17.246",
+      "first_seen": "2025-10-09T22:53:57.036000+00:00",
+      "last_seen": "2025-10-09T22:53:57.036000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Generic PHP Remote File Include",
+      "protocol": "TCP",
+      "country": "SA"
     },
     {
       "ip": "14.103.227.145",

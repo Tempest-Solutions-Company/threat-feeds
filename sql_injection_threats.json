@@ -1,23 +1,13 @@
 {
   "metadata": {
     "category": "SQL_Injection",
-    "generated": "2025-10-09T17:26:19.052754+00:00",
+    "generated": "2025-10-09T17:56:41.018483+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 2,
+    "total_threats": 1,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
-    {
-      "ip": "141.98.82.26",
-      "first_seen": "2025-09-09T17:52:55.757000+00:00",
-      "last_seen": "2025-09-09T17:52:55.757000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER Possible SQL Injection (exec) in HTTP URI",
-      "protocol": "TCP",
-      "country": "MD"
-    },
     {
       "ip": "194.165.16.71",
       "first_seen": "2025-09-18T17:30:37.071000+00:00",

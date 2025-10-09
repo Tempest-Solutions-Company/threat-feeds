@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-09T07:48:15.399654+00:00",
+    "generated": "2025-10-09T08:18:40.634822+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 59,
+    "total_threats": 60,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -497,6 +497,16 @@
       "signature": "ET EXPLOIT Fortigate VPN - Repeated GET Requests to /remote/logincheck (CVE-2023-27997)",
       "protocol": "TCP",
       "country": "RU"
+    },
+    {
+      "ip": "178.125.65.128",
+      "first_seen": "2025-10-09T08:02:24.038000+00:00",
+      "last_seen": "2025-10-09T08:02:24.038000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
+      "protocol": "TCP",
+      "country": "BY"
     },
     {
       "ip": "180.97.244.135",

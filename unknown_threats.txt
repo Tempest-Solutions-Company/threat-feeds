@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-09T10:50:34.289386+00:00
+# Generated: 2025-10-09T11:20:55.871942+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 60
+# Total IPs: 61
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -45,6 +45,7 @@
 101.251.238.173 | LOW | ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement | CN | 2025-09-13 | 2025-09-13 | 1
 103.93.93.211 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | ID | 2025-09-23 | 2025-09-23 | 1
 103.158.171.52 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | IN | 2025-10-05 | 2025-10-05 | 1
+103.208.231.255 | LOW | ET EXPLOIT D-Link Devices Home Network Administration Protocol Command Execution | IN | 2025-10-09 | 2025-10-09 | 1
 103.216.252.192 | LOW | ET WEB_SERVER PHP tags in HTTP POST | CN | 2025-09-23 | 2025-09-23 | 1
 103.253.27.82 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | SG | 2025-09-29 | 2025-09-29 | 1
 109.195.75.40 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2025-09-22 | 2025-10-08 | 9

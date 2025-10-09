@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-09T13:22:27.194462+00:00
+# Generated: 2025-10-09T13:52:52.785090+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 61
+# Total IPs: 60
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -40,7 +40,7 @@
 86.54.24.140 | LOW | ET WEB_SERVER Wordpress Login Bruteforcing Detected | LV | 2025-10-07 | 2025-10-07 | 1
 87.251.78.201 | LOW | GPL SMTP vrfy root | RU | 2025-09-22 | 2025-09-22 | 1
 91.209.135.33 | LOW | GPL SMTP vrfy root | GE | 2025-09-19 | 2025-09-19 | 1
-94.69.234.122 | LOW | ET EXPLOIT MVPower DVR Shell UCE | GR | 2025-09-19 | 2025-09-19 | 1
+94.69.234.122 | LOW | ET EXPLOIT MVPower DVR Shell UCE | GR | 2025-09-19 | 2025-10-09 | 2
 94.228.162.133 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2025-09-23 | 2025-09-23 | 1
 101.251.238.173 | LOW | ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement | CN | 2025-09-13 | 2025-09-13 | 1
 103.93.93.211 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | ID | 2025-09-23 | 2025-09-23 | 1
@@ -56,7 +56,6 @@
 164.52.0.91 | LOW | ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement | JP | 2025-09-12 | 2025-09-12 | 1
 164.52.24.187 | LOW | ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement | JP | 2025-09-21 | 2025-09-21 | 2
 176.193.205.213 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2025-09-25 | 2025-10-07 | 9
-178.22.24.14 | LOW | ET EXPLOIT Fortigate VPN - Repeated GET Requests to /remote/logincheck (CVE-2023-27997) | RU | 2025-09-09 | 2025-09-09 | 1
 178.125.65.128 | LOW | ET WEB_SERVER PHP tags in HTTP POST | BY | 2025-10-09 | 2025-10-09 | 1
 180.97.244.135 | LOW | ET WEB_SERVER PHP tags in HTTP POST | CN | 2025-09-29 | 2025-09-29 | 1
 180.97.244.231 | LOW | ET WEB_SERVER PHP tags in HTTP POST | CN | 2025-09-29 | 2025-09-29 | 1

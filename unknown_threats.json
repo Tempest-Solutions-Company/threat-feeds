@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-09T20:59:11.166811+00:00",
+    "generated": "2025-10-09T21:29:32.970852+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 59,
+    "total_threats": 58,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -447,16 +447,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "141.98.82.26",
-      "first_seen": "2025-09-09T21:10:00.811000+00:00",
-      "last_seen": "2025-09-16T11:06:38.097000+00:00",
-      "count": 5,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS UNA CMS PHP Object Injection (CVE-2025-32101)",
-      "protocol": "TCP",
-      "country": "MD"
     },
     {
       "ip": "152.67.8.111",

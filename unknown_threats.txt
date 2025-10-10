@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-10T06:05:44.889133+00:00
+# Generated: 2025-10-10T06:36:07.130096+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 59
+# Total IPs: 60
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -51,6 +51,7 @@
 103.253.27.82 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | SG | 2025-09-29 | 2025-09-29 | 1
 109.195.75.40 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2025-09-22 | 2025-10-08 | 9
 118.191.0.204 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | CN | 2025-09-26 | 2025-09-26 | 1
+123.58.212.18 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | HK | 2025-10-10 | 2025-10-10 | 1
 134.209.13.197 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | US | 2025-09-15 | 2025-09-15 | 1
 152.67.8.111 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | IN | 2025-09-14 | 2025-09-14 | 1
 164.52.0.91 | LOW | ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement | JP | 2025-09-12 | 2025-09-12 | 1

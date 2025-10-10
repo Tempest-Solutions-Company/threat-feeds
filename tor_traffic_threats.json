@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Tor_Traffic",
-    "generated": "2025-10-10T07:36:52.090306+00:00",
+    "generated": "2025-10-10T08:07:13.938673+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 63,
+    "total_threats": 64,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -141,12 +141,12 @@
     {
       "ip": "45.84.107.198",
       "first_seen": "2025-09-14T04:00:03.266000+00:00",
-      "last_seen": "2025-09-14T04:00:03.266000+00:00",
-      "count": 1,
+      "last_seen": "2025-10-10T07:47:35.891000+00:00",
+      "count": 2,
       "severity": "medium",
       "signature": "ET TOR Known Tor Exit Node Traffic group 95",
       "protocol": "TCP",
-      "country": "AQ"
+      "country": "SE"
     },
     {
       "ip": "45.94.31.68",
@@ -242,6 +242,16 @@
       "ip": "109.70.100.67",
       "first_seen": "2025-09-11T15:57:16.091000+00:00",
       "last_seen": "2025-09-11T15:57:16.091000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET TOR Known Tor Exit Node Traffic group 10",
+      "protocol": "TCP",
+      "country": "AT"
+    },
+    {
+      "ip": "109.70.100.70",
+      "first_seen": "2025-10-10T07:58:01.070000+00:00",
+      "last_seen": "2025-10-10T07:58:01.070000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET TOR Known Tor Exit Node Traffic group 10",

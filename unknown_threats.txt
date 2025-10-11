@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-11T19:02:16.658704+00:00
+# Generated: 2025-10-11T19:32:37.559699+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 47
+# Total IPs: 46
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -53,4 +53,3 @@
 193.33.195.215 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2025-09-21 | 2025-10-08 | 7
 193.124.180.42 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2025-09-26 | 2025-09-28 | 2
 194.165.16.71 | HIGH | ET WEB_SPECIFIC_APPS Evertz SDVN Authentication Bypass + Command Injection Attempt M1 (CVE-2025-4009) | LT | 2025-09-19 | 2025-09-19 | 1
-195.178.110.202 | LOW | ET WEB_SPECIFIC_APPS Possible WP CuckooTap Arbitrary File Download | AD | 2025-09-11 | 2025-09-11 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-11T22:04:21.464911+00:00",
+    "generated": "2025-10-11T22:34:41.994371+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 46,
+    "total_threats": 45,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -97,16 +97,6 @@
       "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
       "protocol": "TCP",
       "country": "VN"
-    },
-    {
-      "ip": "37.27.51.145",
-      "first_seen": "2025-09-11T22:21:42.057000+00:00",
-      "last_seen": "2025-09-11T22:36:57.431000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET USER_AGENTS BLEXBot User-Agent",
-      "protocol": "TCP",
-      "country": "FI"
     },
     {
       "ip": "37.60.141.156",

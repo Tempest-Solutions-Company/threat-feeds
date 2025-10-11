@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-11T12:27:43.351338+00:00",
+    "generated": "2025-10-11T12:58:04.029615+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 50,
+    "total_threats": 49,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -97,16 +97,6 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "35.182.158.100",
-      "first_seen": "2025-09-11T12:32:12.258000+00:00",
-      "last_seen": "2025-09-11T12:32:12.258000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
-      "protocol": "TCP",
-      "country": "CA"
     },
     {
       "ip": "36.50.55.247",

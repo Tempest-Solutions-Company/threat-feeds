@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-11T19:02:16.658704+00:00",
+    "generated": "2025-10-11T19:32:37.559699+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 47,
+    "total_threats": 46,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -467,16 +467,6 @@
       "signature": "ET WEB_SPECIFIC_APPS Evertz SDVN Authentication Bypass + Command Injection Attempt M1 (CVE-2025-4009)",
       "protocol": "TCP",
       "country": "LT"
-    },
-    {
-      "ip": "195.178.110.202",
-      "first_seen": "2025-09-11T19:22:21.081000+00:00",
-      "last_seen": "2025-09-11T19:22:21.081000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Possible WP CuckooTap Arbitrary File Download",
-      "protocol": "TCP",
-      "country": "AD"
     }
   ]
 }

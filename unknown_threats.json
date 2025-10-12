@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-12T16:16:55.970505+00:00",
+    "generated": "2025-10-12T16:47:16.543879+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 45,
+    "total_threats": 44,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -337,16 +337,6 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "IN"
-    },
-    {
-      "ip": "164.52.0.91",
-      "first_seen": "2025-09-12T16:29:15.316000+00:00",
-      "last_seen": "2025-09-12T16:29:15.316000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement",
-      "protocol": "TCP",
-      "country": "JP"
     },
     {
       "ip": "164.52.24.187",

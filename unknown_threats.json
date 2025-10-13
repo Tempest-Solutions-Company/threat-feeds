@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-13T07:27:27.468871+00:00",
+    "generated": "2025-10-13T07:57:49.150197+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 44,
+    "total_threats": 43,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -229,16 +229,6 @@
       "country": "FR"
     },
     {
-      "ip": "101.251.238.173",
-      "first_seen": "2025-09-13T07:52:16.051000+00:00",
-      "last_seen": "2025-09-13T07:52:16.051000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "103.93.93.211",
       "first_seen": "2025-09-23T06:29:57.872000+00:00",
       "last_seen": "2025-09-23T06:29:57.872000+00:00",
@@ -401,8 +391,8 @@
     {
       "ip": "188.191.167.82",
       "first_seen": "2025-09-24T02:02:42.831000+00:00",
-      "last_seen": "2025-10-04T07:27:02.158000+00:00",
-      "count": 6,
+      "last_seen": "2025-10-13T07:34:52.203000+00:00",
+      "count": 7,
       "severity": "low",
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",

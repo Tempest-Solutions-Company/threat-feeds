@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-14T12:48:55.792483+00:00",
+    "generated": "2025-10-14T13:19:19.009895+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 43,
+    "total_threats": 42,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -27,16 +27,6 @@
       "signature": "ET WEB_SERVER Generic PHP Remote File Include",
       "protocol": "TCP",
       "country": "SA"
-    },
-    {
-      "ip": "14.103.227.145",
-      "first_seen": "2025-09-14T13:12:02.094000+00:00",
-      "last_seen": "2025-09-14T13:12:02.094000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
-      "protocol": "TCP",
-      "country": "CN"
     },
     {
       "ip": "18.170.57.247",

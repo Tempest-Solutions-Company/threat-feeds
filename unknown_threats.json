@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-14T17:22:27.947532+00:00",
+    "generated": "2025-10-14T17:52:50.593775+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 41,
+    "total_threats": 40,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -307,16 +307,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "152.67.8.111",
-      "first_seen": "2025-09-14T17:24:56.366000+00:00",
-      "last_seen": "2025-09-14T17:24:56.366000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "IN"
     },
     {
       "ip": "164.52.24.187",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-14T12:48:55.792483+00:00
+# Generated: 2025-10-14T13:19:19.009895+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 43
+# Total IPs: 42
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -9,7 +9,6 @@
 
 1.203.97.79 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | CN | 2025-09-21 | 2025-09-21 | 1
 8.213.17.246 | LOW | ET WEB_SERVER Generic PHP Remote File Include | SA | 2025-10-09 | 2025-10-14 | 2
-14.103.227.145 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | CN | 2025-09-14 | 2025-09-14 | 1
 18.170.57.247 | LOW | ET WEB_SERVER PHP tags in HTTP POST | GB | 2025-10-08 | 2025-10-08 | 1
 27.43.206.10 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | CN | 2025-09-24 | 2025-09-24 | 1
 34.59.175.189 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2025-10-08 | 2025-10-08 | 1

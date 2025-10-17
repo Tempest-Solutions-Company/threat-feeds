@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-17T04:36:02.226831+00:00",
+    "generated": "2025-10-17T05:06:23.252697+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 38,
+    "total_threats": 39,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -287,6 +287,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "HK"
+    },
+    {
+      "ip": "124.198.131.83",
+      "first_seen": "2025-10-17T04:55:24.054000+00:00",
+      "last_seen": "2025-10-17T04:55:24.054000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Possible CVE-2014-6271 Attempt",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "164.52.24.187",

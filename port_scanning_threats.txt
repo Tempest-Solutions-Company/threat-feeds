@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-10-19T19:19:01.705750+00:00
+# Generated: 2025-10-19T19:49:21.292090+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 69
+# Total IPs: 70
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -36,6 +36,7 @@
 45.79.5.11 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-24 | 2025-09-24 | 1
 45.79.22.229 | LOW | ET SCAN NETWORK Incoming Masscan detected | US | 2025-09-28 | 2025-09-28 | 1
 45.79.168.172 | LOW | ET SCAN Rapid POP3 Connections - Possible Brute Force Attack | US | 2025-10-14 | 2025-10-14 | 1
+45.79.211.97 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-19 | 2025-10-19 | 1
 47.251.13.59 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-02 | 2025-10-02 | 1
 51.91.190.39 | LOW | ET SCAN NETWORK Incoming Masscan detected | FR | 2025-09-26 | 2025-09-28 | 39
 52.167.144.20 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2025-09-20 | 2025-09-20 | 1

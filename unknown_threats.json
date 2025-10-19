@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-19T01:07:34.896469+00:00",
+    "generated": "2025-10-19T01:37:53.964618+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 39,
+    "total_threats": 38,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -387,16 +387,6 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "FI"
-    },
-    {
-      "ip": "194.165.16.71",
-      "first_seen": "2025-09-19T01:23:53.110000+00:00",
-      "last_seen": "2025-09-19T01:23:53.110000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SPECIFIC_APPS Evertz SDVN Authentication Bypass + Command Injection Attempt M1 (CVE-2025-4009)",
-      "protocol": "TCP",
-      "country": "LT"
     }
   ]
 }

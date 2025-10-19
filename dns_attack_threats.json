@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "DNS_Attack",
-    "generated": "2025-10-19T07:41:39.151608+00:00",
+    "generated": "2025-10-19T08:11:59.186585+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 115,
+    "total_threats": 114,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -367,16 +367,6 @@
       "signature": "ET DOS DNS Amplification Attack Inbound",
       "protocol": "UDP",
       "country": "US"
-    },
-    {
-      "ip": "91.134.73.222",
-      "first_seen": "2025-09-19T07:53:40.044000+00:00",
-      "last_seen": "2025-09-19T07:53:40.044000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "FR"
     },
     {
       "ip": "91.134.185.84",

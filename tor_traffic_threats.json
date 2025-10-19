@@ -1,13 +1,23 @@
 {
   "metadata": {
     "category": "Tor_Traffic",
-    "generated": "2025-10-19T23:21:38.483694+00:00",
+    "generated": "2025-10-19T23:51:57.560012+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 58,
+    "total_threats": 59,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
+    {
+      "ip": "2.58.56.93",
+      "first_seen": "2025-10-19T23:33:00.025000+00:00",
+      "last_seen": "2025-10-19T23:33:00.025000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET TOR Known Tor Exit Node Traffic group 83",
+      "protocol": "TCP",
+      "country": "FR"
+    },
     {
       "ip": "5.255.118.151",
       "first_seen": "2025-09-20T03:23:00.067000+00:00",

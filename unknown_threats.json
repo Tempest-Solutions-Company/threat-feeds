@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-20T11:59:50.655529+00:00",
+    "generated": "2025-10-20T12:30:10.467602+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 36,
+    "total_threats": 37,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -277,6 +277,16 @@
       "signature": "ET WEB_SERVER Possible CVE-2014-6271 Attempt",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "144.91.93.172",
+      "first_seen": "2025-10-20T12:24:01.007000+00:00",
+      "last_seen": "2025-10-20T12:24:01.007000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Generic PHP Remote File Include",
+      "protocol": "TCP",
+      "country": "FR"
     },
     {
       "ip": "164.52.24.187",

@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-10-22T05:58:04.295336+00:00
+# Generated: 2025-10-22T06:28:24.082836+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 60
+# Total IPs: 58
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -48,7 +48,6 @@
 131.196.48.84 | LOW | ET SCAN NETWORK Incoming Masscan detected | BR | 2025-10-07 | 2025-10-07 | 1
 135.119.112.132 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-18 | 2025-10-18 | 1
 135.222.40.118 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-23 | 2025-09-23 | 1
-135.237.126.135 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-09-22 | 2025-09-22 | 1
 138.68.82.23 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-09-25 | 2025-09-25 | 1
 139.59.132.8 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-10-20 | 2025-10-20 | 1
 143.244.181.47 | LOW | ET SCAN NETWORK Incoming Masscan detected | US | 2025-10-07 | 2025-10-07 | 1
@@ -62,7 +61,6 @@
 167.172.94.240 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2025-10-08 | 2025-10-08 | 1
 172.203.21.7 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2025-09-27 | 2025-09-27 | 1
 196.251.118.83 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | NL | 2025-10-03 | 2025-10-03 | 1
-206.81.24.74 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-09-22 | 2025-09-22 | 1
 207.46.13.229 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2025-09-24 | 2025-10-17 | 2
 207.154.197.113 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-10-18 | 2025-10-18 | 1
 209.50.168.103 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-10-08 | 2025-10-08 | 1

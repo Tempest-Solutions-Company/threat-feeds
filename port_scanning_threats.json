@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-10-22T05:58:04.295336+00:00",
+    "generated": "2025-10-22T06:28:24.082836+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 60,
+    "total_threats": 58,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -419,16 +419,6 @@
       "country": "US"
     },
     {
-      "ip": "135.237.126.135",
-      "first_seen": "2025-09-22T06:00:06.094000+00:00",
-      "last_seen": "2025-09-22T06:00:06.094000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "138.68.82.23",
       "first_seen": "2025-09-25T06:11:46.042000+00:00",
       "last_seen": "2025-09-25T06:11:46.042000+00:00",
@@ -557,16 +547,6 @@
       "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "206.81.24.74",
-      "first_seen": "2025-09-22T06:12:47.010000+00:00",
-      "last_seen": "2025-09-22T06:12:47.010000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN LeakIX Inbound User-Agent",
-      "protocol": "TCP",
-      "country": "DE"
     },
     {
       "ip": "207.46.13.229",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-23T13:19:41.472907+00:00
+# Generated: 2025-10-23T13:50:02.949631+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 29
+# Total IPs: 28
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -24,7 +24,6 @@
 94.228.162.133 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2025-09-23 | 2025-09-23 | 1
 103.158.171.52 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | IN | 2025-10-05 | 2025-10-05 | 1
 103.208.231.255 | LOW | ET EXPLOIT D-Link Devices Home Network Administration Protocol Command Execution | IN | 2025-10-09 | 2025-10-09 | 1
-103.216.252.192 | LOW | ET WEB_SERVER PHP tags in HTTP POST | CN | 2025-09-23 | 2025-09-23 | 1
 103.253.27.82 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | SG | 2025-09-29 | 2025-09-29 | 1
 118.191.0.204 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | CN | 2025-09-26 | 2025-09-26 | 1
 123.58.212.18 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | HK | 2025-10-10 | 2025-10-10 | 1

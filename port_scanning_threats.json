@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-10-24T01:27:48.515213+00:00",
+    "generated": "2025-10-24T01:58:07.434148+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 54,
+    "total_threats": 53,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -222,16 +222,6 @@
       "ip": "45.33.109.17",
       "first_seen": "2025-09-30T02:34:07.020000+00:00",
       "last_seen": "2025-09-30T02:34:07.020000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "45.79.5.11",
-      "first_seen": "2025-09-24T01:34:40.051000+00:00",
-      "last_seen": "2025-09-24T01:34:40.051000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Zmap User-Agent (Inbound)",

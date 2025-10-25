@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-25T06:16:40.314116+00:00
+# Generated: 2025-10-25T06:46:59.127877+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 21
+# Total IPs: 22
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -17,6 +17,7 @@
 52.33.42.121 | LOW | ET WEB_SERVER PHP tags in HTTP POST | US | 2025-10-08 | 2025-10-08 | 1
 86.54.24.140 | LOW | ET WEB_SERVER Wordpress Login Bruteforcing Detected | LV | 2025-10-07 | 2025-10-07 | 1
 87.251.78.35 | LOW | GPL SMTP vrfy root | RU | 2025-10-14 | 2025-10-14 | 1
+94.127.248.120 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2025-10-25 | 2025-10-25 | 1
 103.158.171.52 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | IN | 2025-10-05 | 2025-10-05 | 1
 103.208.231.255 | LOW | ET EXPLOIT D-Link Devices Home Network Administration Protocol Command Execution | IN | 2025-10-09 | 2025-10-09 | 1
 103.253.27.82 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | SG | 2025-09-29 | 2025-09-29 | 1

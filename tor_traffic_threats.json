@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Tor_Traffic",
-    "generated": "2025-10-26T19:39:15.187131+00:00",
+    "generated": "2025-10-26T20:09:31.962977+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 42,
+    "total_threats": 43,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -417,6 +417,16 @@
       "signature": "ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 58",
       "protocol": "TCP",
       "country": "SE"
+    },
+    {
+      "ip": "203.55.81.1",
+      "first_seen": "2025-10-26T19:47:38.065000+00:00",
+      "last_seen": "2025-10-26T19:47:38.065000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 63",
+      "protocol": "TCP",
+      "country": "FR"
     },
     {
       "ip": "212.38.189.186",

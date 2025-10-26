@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-26T04:30:21.238817+00:00",
+    "generated": "2025-10-26T05:00:39.885062+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 21,
+    "total_threats": 20,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -137,16 +137,6 @@
       "signature": "ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1",
       "protocol": "TCP",
       "country": "SG"
-    },
-    {
-      "ip": "118.191.0.204",
-      "first_seen": "2025-09-26T04:43:07.055000+00:00",
-      "last_seen": "2025-09-26T04:43:07.055000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
-      "protocol": "TCP",
-      "country": "CN"
     },
     {
       "ip": "123.58.212.18",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-26T02:59:26.135252+00:00",
+    "generated": "2025-10-26T03:29:44.012640+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 22,
+    "total_threats": 21,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -67,16 +67,6 @@
       "signature": "ET EXPLOIT Shenzhen TVT DVR/NVR/IPC Hardcoded WebUI Login Attempt M1",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "37.215.108.53",
-      "first_seen": "2025-09-26T03:29:39.062000+00:00",
-      "last_seen": "2025-09-29T00:15:48.487000+00:00",
-      "count": 5,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "BY"
     },
     {
       "ip": "52.33.42.121",

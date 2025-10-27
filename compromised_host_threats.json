@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2025-10-27T12:49:04.715972+00:00",
+    "generated": "2025-10-27T13:19:23.084262+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 19,
+    "total_threats": 18,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -147,16 +147,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 4",
       "protocol": "UDP",
       "country": "US"
-    },
-    {
-      "ip": "165.227.33.117",
-      "first_seen": "2025-09-27T13:16:21.574000+00:00",
-      "last_seen": "2025-09-27T13:16:21.574000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 3",
-      "protocol": "UDP",
-      "country": "CA"
     },
     {
       "ip": "176.65.148.44",

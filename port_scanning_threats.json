@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-10-29T10:11:42.793502+00:00",
+    "generated": "2025-10-29T10:42:00.543822+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 39,
+    "total_threats": 40,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -217,6 +217,16 @@
       "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "85.204.70.100",
+      "first_seen": "2025-10-29T10:40:36.217000+00:00",
+      "last_seen": "2025-10-29T10:40:36.217000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
+      "protocol": "TCP",
+      "country": "FR"
     },
     {
       "ip": "103.11.218.4",

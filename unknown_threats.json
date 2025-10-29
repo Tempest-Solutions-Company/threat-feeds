@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-29T02:07:06.134388+00:00",
+    "generated": "2025-10-29T02:37:22.829223+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 24,
+    "total_threats": 23,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -157,16 +157,6 @@
       "signature": "ET EXPLOIT D-Link Devices Home Network Administration Protocol Command Execution",
       "protocol": "TCP",
       "country": "IN"
-    },
-    {
-      "ip": "103.253.27.82",
-      "first_seen": "2025-09-29T02:35:31.087000+00:00",
-      "last_seen": "2025-09-29T02:35:31.087000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "118.193.46.22",

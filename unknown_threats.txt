@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-29T04:08:13.063703+00:00
+# Generated: 2025-10-29T04:38:29.999944+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 24
+# Total IPs: 25
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -20,6 +20,7 @@
 87.251.78.145 | LOW | GPL SMTP vrfy root | RU | 2025-10-28 | 2025-10-28 | 1
 87.251.78.210 | LOW | GPL SMTP vrfy root | RU | 2025-10-28 | 2025-10-28 | 1
 94.127.248.120 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2025-10-25 | 2025-10-25 | 1
+101.36.107.228 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | HK | 2025-10-29 | 2025-10-29 | 1
 103.158.171.52 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | IN | 2025-10-05 | 2025-10-05 | 1
 103.208.231.255 | LOW | ET EXPLOIT D-Link Devices Home Network Administration Protocol Command Execution | IN | 2025-10-09 | 2025-10-09 | 1
 118.193.46.22 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | HK | 2025-10-28 | 2025-10-28 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-30T15:59:41.780740+00:00",
+    "generated": "2025-10-30T16:30:01.438005+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 25,
+    "total_threats": 27,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -79,6 +79,16 @@
       "country": "NL"
     },
     {
+      "ip": "47.93.212.99",
+      "first_seen": "2025-10-30T16:25:23.028000+00:00",
+      "last_seen": "2025-10-30T16:25:23.028000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016)",
+      "protocol": "TCP",
+      "country": "CN"
+    },
+    {
       "ip": "52.33.42.121",
       "first_seen": "2025-10-08T18:47:11.494000+00:00",
       "last_seen": "2025-10-08T18:47:11.494000+00:00",
@@ -97,6 +107,16 @@
       "signature": "ET EXPLOIT GraphQL Introspection Query Attempt",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "85.215.189.42",
+      "first_seen": "2025-10-30T16:12:57.128000+00:00",
+      "last_seen": "2025-10-30T16:12:57.128000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
+      "protocol": "TCP",
+      "country": "DE"
     },
     {
       "ip": "86.54.24.140",

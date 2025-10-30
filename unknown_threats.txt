@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-10-30T05:53:30.089222+00:00
+# Generated: 2025-10-30T06:23:48.113865+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 24
+# Total IPs: 25
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -15,6 +15,7 @@
 37.215.92.86 | LOW | ET WEB_SERVER PHP tags in HTTP POST | BY | 2025-10-28 | 2025-10-30 | 3
 45.153.34.156 | LOW | ET WEB_SERVER Possible CVE-2014-6271 Attempt in Headers | NL | 2025-10-26 | 2025-10-29 | 2
 52.33.42.121 | LOW | ET WEB_SERVER PHP tags in HTTP POST | US | 2025-10-08 | 2025-10-08 | 1
+64.225.75.246 | LOW | ET EXPLOIT GraphQL Introspection Query Attempt | NL | 2025-10-30 | 2025-10-30 | 1
 86.54.24.140 | LOW | ET WEB_SERVER Wordpress Login Bruteforcing Detected | LV | 2025-10-07 | 2025-10-07 | 1
 87.251.78.35 | LOW | GPL SMTP vrfy root | RU | 2025-10-14 | 2025-10-14 | 1
 87.251.78.145 | LOW | GPL SMTP vrfy root | RU | 2025-10-28 | 2025-10-28 | 1

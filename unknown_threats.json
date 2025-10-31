@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-10-31T18:45:49.693344+00:00",
+    "generated": "2025-10-31T19:16:08.253640+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 28,
+    "total_threats": 29,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -237,6 +237,16 @@
       "signature": "ET WEB_SERVER Possible CVE-2014-6271 Attempt",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "144.76.32.236",
+      "first_seen": "2025-10-31T19:09:31.155000+00:00",
+      "last_seen": "2025-10-31T19:09:31.155000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET USER_AGENTS BLEXBot User-Agent",
+      "protocol": "TCP",
+      "country": "DE"
     },
     {
       "ip": "144.91.93.172",

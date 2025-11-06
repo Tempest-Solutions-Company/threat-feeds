@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-06T12:05:35.900055+00:00",
+    "generated": "2025-11-06T12:35:53.681705+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 30,
+    "total_threats": 29,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -117,16 +117,6 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "86.54.24.140",
-      "first_seen": "2025-10-07T12:29:01.329000+00:00",
-      "last_seen": "2025-10-07T12:29:01.329000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
-      "protocol": "TCP",
-      "country": "LV"
     },
     {
       "ip": "87.251.78.35",

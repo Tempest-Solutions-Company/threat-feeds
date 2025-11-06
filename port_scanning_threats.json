@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-11-06T14:37:07.115604+00:00",
+    "generated": "2025-11-06T15:07:25.755155+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 52,
+    "total_threats": 51,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -407,16 +407,6 @@
       "signature": "ET SCAN JAWS Webserver Unauthenticated Shell Command Execution",
       "protocol": "TCP",
       "country": "PK"
-    },
-    {
-      "ip": "143.244.181.47",
-      "first_seen": "2025-10-07T15:03:48.048000+00:00",
-      "last_seen": "2025-10-07T15:03:48.048000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN NETWORK Incoming Masscan detected",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "159.203.95.199",

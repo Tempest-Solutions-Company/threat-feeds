@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-07T21:25:00.190745+00:00",
+    "generated": "2025-11-07T21:55:18.295016+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 25,
+    "total_threats": 24,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -17,16 +17,6 @@
       "signature": "ET WEB_SERVER Generic PHP Remote File Include",
       "protocol": "TCP",
       "country": "SA"
-    },
-    {
-      "ip": "36.50.55.247",
-      "first_seen": "2025-10-08T21:41:09.350000+00:00",
-      "last_seen": "2025-10-08T21:41:09.350000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
-      "protocol": "TCP",
-      "country": "VN"
     },
     {
       "ip": "37.215.92.86",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-07T07:47:07.088207+00:00",
+    "generated": "2025-11-07T08:17:24.693002+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 28,
+    "total_threats": 27,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -17,16 +17,6 @@
       "signature": "ET WEB_SERVER Generic PHP Remote File Include",
       "protocol": "TCP",
       "country": "SA"
-    },
-    {
-      "ip": "18.170.57.247",
-      "first_seen": "2025-10-08T08:01:00.936000+00:00",
-      "last_seen": "2025-10-08T08:01:00.936000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "GB"
     },
     {
       "ip": "34.59.175.189",
@@ -221,8 +211,8 @@
     {
       "ip": "144.76.32.235",
       "first_seen": "2025-10-31T19:51:49.709000+00:00",
-      "last_seen": "2025-11-07T00:59:19.310000+00:00",
-      "count": 10,
+      "last_seen": "2025-11-07T07:57:12.057000+00:00",
+      "count": 11,
       "severity": "low",
       "signature": "ET USER_AGENTS BLEXBot User-Agent",
       "protocol": "TCP",

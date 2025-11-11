@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-11-11T20:49:00.456470+00:00",
+    "generated": "2025-11-11T21:19:23.669192+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 40,
+    "total_threats": 39,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -67,16 +67,6 @@
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "23.132.164.172",
-      "first_seen": "2025-10-12T21:17:43.817000+00:00",
-      "last_seen": "2025-10-29T07:18:32.169000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
-      "protocol": "TCP",
-      "country": "GB"
     },
     {
       "ip": "34.172.86.193",

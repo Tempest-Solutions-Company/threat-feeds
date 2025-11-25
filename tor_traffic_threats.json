@@ -1,73 +1,13 @@
 {
   "metadata": {
     "category": "Tor_Traffic",
-    "generated": "2025-11-16T08:49:54.376207+00:00",
+    "generated": "2025-11-25T10:28:58.402588+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 9,
+    "total_threats": 2,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
-    {
-      "ip": "2.58.56.93",
-      "first_seen": "2025-10-19T23:33:00.025000+00:00",
-      "last_seen": "2025-10-19T23:33:00.025000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET TOR Known Tor Exit Node Traffic group 83",
-      "protocol": "TCP",
-      "country": "FR"
-    },
-    {
-      "ip": "23.137.248.100",
-      "first_seen": "2025-10-19T23:55:06.801000+00:00",
-      "last_seen": "2025-10-19T23:55:06.801000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET TOR Known Tor Exit Node Traffic group 78",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "23.191.200.20",
-      "first_seen": "2025-10-19T05:39:35.396000+00:00",
-      "last_seen": "2025-10-19T05:39:35.396000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET TOR Known Tor Exit Node Traffic group 81",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "45.80.158.27",
-      "first_seen": "2025-10-18T04:52:09.341000+00:00",
-      "last_seen": "2025-10-18T04:52:09.341000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET TOR Known Tor Exit Node Traffic group 94",
-      "protocol": "TCP",
-      "country": "PL"
-    },
-    {
-      "ip": "45.84.107.200",
-      "first_seen": "2025-10-20T22:14:23.266000+00:00",
-      "last_seen": "2025-10-31T05:22:20.333000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET TOR Known Tor Exit Node Traffic group 95",
-      "protocol": "TCP",
-      "country": "SE"
-    },
-    {
-      "ip": "185.220.100.254",
-      "first_seen": "2025-10-18T04:30:27.433000+00:00",
-      "last_seen": "2025-10-18T04:30:27.433000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 32",
-      "protocol": "TCP",
-      "country": "DE"
-    },
     {
       "ip": "185.220.101.129",
       "first_seen": "2025-10-27T06:38:38.132000+00:00",
@@ -75,16 +15,6 @@
       "count": 1,
       "severity": "medium",
       "signature": "ET TOR Known Tor Exit Node Traffic group 33",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
-      "ip": "185.220.101.136",
-      "first_seen": "2025-10-26T09:40:44.467000+00:00",
-      "last_seen": "2025-10-26T09:40:44.467000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 34",
       "protocol": "TCP",
       "country": "DE"
     },

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2025-11-16T08:49:54.376207+00:00",
+    "generated": "2025-11-25T10:28:58.402588+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 10,
+    "total_threats": 6,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -17,16 +17,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
       "protocol": "TCP",
       "country": "GB"
-    },
-    {
-      "ip": "4.17.226.146",
-      "first_seen": "2025-10-20T20:23:13.089000+00:00",
-      "last_seen": "2025-10-21T00:12:00.079000+00:00",
-      "count": 16,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 9",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "43.252.231.122",
@@ -47,16 +37,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 9",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "80.94.95.115",
-      "first_seen": "2025-10-20T01:10:26.910000+00:00",
-      "last_seen": "2025-11-16T05:20:04.721000+00:00",
-      "count": 68,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 10",
-      "protocol": "TCP",
-      "country": "BG"
     },
     {
       "ip": "159.203.171.190",
@@ -87,26 +67,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
       "protocol": "TCP",
       "country": "ID"
-    },
-    {
-      "ip": "210.71.231.7",
-      "first_seen": "2025-10-21T17:08:28.630000+00:00",
-      "last_seen": "2025-10-25T10:53:40.286000+00:00",
-      "count": 408,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
-      "protocol": "TCP",
-      "country": "TW"
-    },
-    {
-      "ip": "223.123.92.149",
-      "first_seen": "2025-10-19T06:26:40.141000+00:00",
-      "last_seen": "2025-10-19T06:26:40.141000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
-      "protocol": "TCP",
-      "country": "PK"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Web_Attack",
-    "generated": "2025-11-16T08:49:54.376207+00:00",
+    "generated": "2025-11-25T10:28:58.402588+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 7,
+    "total_threats": 2,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -19,16 +19,6 @@
       "country": "NL"
     },
     {
-      "ip": "62.60.131.151",
-      "first_seen": "2025-10-19T20:34:37.059000+00:00",
-      "last_seen": "2025-10-19T20:34:37.059000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "IR"
-    },
-    {
       "ip": "78.153.140.177",
       "first_seen": "2025-10-29T18:40:35.122000+00:00",
       "last_seen": "2025-10-29T18:40:35.122000+00:00",
@@ -37,46 +27,6 @@
       "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
       "protocol": "TCP",
       "country": "GB"
-    },
-    {
-      "ip": "179.43.169.98",
-      "first_seen": "2025-10-19T11:44:53.477000+00:00",
-      "last_seen": "2025-10-19T11:44:53.477000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "CH"
-    },
-    {
-      "ip": "185.67.52.194",
-      "first_seen": "2025-10-26T03:02:54.307000+00:00",
-      "last_seen": "2025-10-26T03:02:54.307000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "RU"
-    },
-    {
-      "ip": "194.190.197.202",
-      "first_seen": "2025-10-25T03:25:01.761000+00:00",
-      "last_seen": "2025-10-25T03:25:01.761000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "RU"
-    },
-    {
-      "ip": "204.76.203.31",
-      "first_seen": "2025-10-19T05:50:12.048000+00:00",
-      "last_seen": "2025-10-19T05:50:12.048000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "NL"
     }
   ]
 }

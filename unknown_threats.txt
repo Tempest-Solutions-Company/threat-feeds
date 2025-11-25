@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-11-25T21:05:27.174066+00:00
+# Generated: 2025-11-25T21:35:46.811093+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 18
+# Total IPs: 19
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -24,4 +24,5 @@
 164.68.123.140 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | FR | 2025-10-31 | 2025-10-31 | 2
 178.125.192.21 | LOW | ET WEB_SERVER PHP tags in HTTP POST | BY | 2025-10-27 | 2025-10-27 | 3
 188.99.65.25 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2025-11-25 | 2025-11-25 | 1
+194.110.207.62 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NO | 2025-11-25 | 2025-11-25 | 1
 194.165.16.11 | HIGH | ET EXPLOIT SolarView Compact Command Injection Inbound (CVE-2022-29303) | LT | 2025-10-29 | 2025-11-14 | 4

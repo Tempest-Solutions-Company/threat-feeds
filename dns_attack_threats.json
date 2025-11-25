@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "DNS_Attack",
-    "generated": "2025-11-16T06:19:36.867608+00:00",
+    "generated": "2025-11-25T10:28:58.402588+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 47,
+    "total_threats": 21,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -19,66 +19,6 @@
       "country": "NL"
     },
     {
-      "ip": "18.97.26.34",
-      "first_seen": "2025-10-25T12:47:31.464000+00:00",
-      "last_seen": "2025-10-25T12:47:31.464000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "20.163.34.41",
-      "first_seen": "2025-10-20T06:10:45.845000+00:00",
-      "last_seen": "2025-10-20T06:10:45.845000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "31.14.32.4",
-      "first_seen": "2025-10-20T13:09:14.065000+00:00",
-      "last_seen": "2025-11-03T09:05:33.103000+00:00",
-      "count": 3,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "NL"
-    },
-    {
-      "ip": "47.251.86.165",
-      "first_seen": "2025-10-25T22:35:49.429000+00:00",
-      "last_seen": "2025-10-25T22:35:49.429000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "47.251.92.0",
-      "first_seen": "2025-10-18T11:35:43.793000+00:00",
-      "last_seen": "2025-10-18T11:35:43.793000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "50.116.28.248",
-      "first_seen": "2025-10-21T09:10:07.348000+00:00",
-      "last_seen": "2025-10-21T09:10:07.348000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "54.37.81.238",
       "first_seen": "2025-10-31T14:48:09.011000+00:00",
       "last_seen": "2025-10-31T14:48:09.011000+00:00",
@@ -87,26 +27,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "UDP",
       "country": "FR"
-    },
-    {
-      "ip": "57.129.64.237",
-      "first_seen": "2025-10-21T12:41:04.131000+00:00",
-      "last_seen": "2025-11-01T09:15:57.180000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "DE"
-    },
-    {
-      "ip": "64.62.156.32",
-      "first_seen": "2025-10-20T10:42:49.314000+00:00",
-      "last_seen": "2025-10-20T10:42:49.314000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
     },
     {
       "ip": "64.62.197.109",
@@ -159,26 +79,6 @@
       "country": "US"
     },
     {
-      "ip": "65.49.1.109",
-      "first_seen": "2025-10-23T01:00:00.894000+00:00",
-      "last_seen": "2025-10-23T01:00:00.894000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "66.132.153.122",
-      "first_seen": "2025-10-21T10:32:13.266000+00:00",
-      "last_seen": "2025-10-21T10:32:13.266000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "66.132.153.140",
       "first_seen": "2025-10-26T17:23:04.249000+00:00",
       "last_seen": "2025-10-26T17:23:04.249000+00:00",
@@ -209,16 +109,6 @@
       "country": "GB"
     },
     {
-      "ip": "91.134.73.230",
-      "first_seen": "2025-10-19T09:20:37.266000+00:00",
-      "last_seen": "2025-10-28T07:22:43.784000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "FR"
-    },
-    {
       "ip": "91.231.89.111",
       "first_seen": "2025-10-30T18:27:08.060000+00:00",
       "last_seen": "2025-10-30T18:40:23.035000+00:00",
@@ -227,66 +117,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "TCP",
       "country": "FR"
-    },
-    {
-      "ip": "98.80.4.115",
-      "first_seen": "2025-10-25T12:36:41.489000+00:00",
-      "last_seen": "2025-10-25T12:36:41.489000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "100.29.192.65",
-      "first_seen": "2025-10-25T11:39:59.916000+00:00",
-      "last_seen": "2025-10-25T11:39:59.916000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "103.57.250.193",
-      "first_seen": "2025-10-18T00:34:55.429000+00:00",
-      "last_seen": "2025-10-18T00:34:55.429000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "CO"
-    },
-    {
-      "ip": "118.193.65.234",
-      "first_seen": "2025-10-20T02:51:20.495000+00:00",
-      "last_seen": "2025-10-20T02:51:20.495000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "GB"
-    },
-    {
-      "ip": "147.185.132.21",
-      "first_seen": "2025-10-19T21:12:02.413000+00:00",
-      "last_seen": "2025-10-19T21:12:02.413000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "147.185.132.79",
-      "first_seen": "2025-10-21T07:29:35.057000+00:00",
-      "last_seen": "2025-10-21T07:29:35.057000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
     },
     {
       "ip": "152.32.151.39",
@@ -309,39 +139,9 @@
       "country": "VN"
     },
     {
-      "ip": "152.32.247.54",
-      "first_seen": "2025-10-20T19:18:54.943000+00:00",
-      "last_seen": "2025-10-20T19:18:54.943000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "TH"
-    },
-    {
-      "ip": "159.65.179.158",
-      "first_seen": "2025-10-17T20:59:07.853000+00:00",
-      "last_seen": "2025-10-17T20:59:07.853000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "162.142.125.219",
       "first_seen": "2025-10-27T03:58:47.538000+00:00",
       "last_seen": "2025-10-27T03:58:47.538000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "167.94.138.177",
-      "first_seen": "2025-10-26T03:14:27.969000+00:00",
-      "last_seen": "2025-10-26T03:14:27.969000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "GPL DNS named version attempt",
@@ -359,16 +159,6 @@
       "country": "US"
     },
     {
-      "ip": "172.212.200.29",
-      "first_seen": "2025-10-23T12:03:14.476000+00:00",
-      "last_seen": "2025-10-23T12:03:14.476000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "185.242.226.18",
       "first_seen": "2025-10-27T13:20:39.024000+00:00",
       "last_seen": "2025-11-12T07:28:51.069000+00:00",
@@ -377,36 +167,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "185.247.137.4",
-      "first_seen": "2025-10-21T14:03:40.062000+00:00",
-      "last_seen": "2025-10-21T14:03:40.062000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "GB"
-    },
-    {
-      "ip": "185.247.137.224",
-      "first_seen": "2025-10-25T23:54:02.648000+00:00",
-      "last_seen": "2025-10-25T23:54:02.648000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "GB"
-    },
-    {
-      "ip": "198.235.24.53",
-      "first_seen": "2025-10-25T19:29:26.423000+00:00",
-      "last_seen": "2025-10-25T19:29:26.423000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
     },
     {
       "ip": "198.235.24.102",
@@ -419,16 +179,6 @@
       "country": "US"
     },
     {
-      "ip": "199.45.154.138",
-      "first_seen": "2025-10-18T08:14:08.104000+00:00",
-      "last_seen": "2025-10-18T08:14:08.104000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "HK"
-    },
-    {
       "ip": "199.45.155.73",
       "first_seen": "2025-10-30T10:35:13.758000+00:00",
       "last_seen": "2025-10-30T10:35:13.758000+00:00",
@@ -437,16 +187,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "UDP",
       "country": "HK"
-    },
-    {
-      "ip": "205.210.31.57",
-      "first_seen": "2025-10-18T02:47:37.828000+00:00",
-      "last_seen": "2025-10-18T02:47:37.828000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
     },
     {
       "ip": "205.210.31.207",

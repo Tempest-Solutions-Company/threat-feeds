@@ -1,22 +1,19 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-11-16T06:19:36.867608+00:00
+# Generated: 2025-11-25T10:28:58.402588+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 35
+# Total IPs: 26
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
 13.89.125.21 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-30 | 2025-10-30 | 1
-20.64.106.58 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-26 | 2025-10-26 | 1
 20.64.106.140 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
 20.169.48.134 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
 20.171.8.85 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-30 | 2025-10-30 | 1
 40.80.206.136 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-30 | 2025-11-08 | 2
 45.79.207.129 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-30 | 2025-10-30 | 1
-45.79.211.97 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-19 | 2025-10-19 | 1
 46.101.111.185 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-10-29 | 2025-10-29 | 1
-52.167.144.146 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2025-10-21 | 2025-10-21 | 1
 52.167.144.208 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2025-10-31 | 2025-10-31 | 1
 64.64.108.33 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | IT | 2025-10-31 | 2025-10-31 | 1
 69.164.217.74 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-31 | 2025-10-31 | 1
@@ -28,17 +25,11 @@
 91.230.225.142 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | GB | 2025-10-30 | 2025-10-30 | 1
 94.74.191.120 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2025-10-30 | 2025-10-30 | 1
 98.142.247.129 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2025-10-30 | 2025-10-30 | 1
-135.119.112.132 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-18 | 2025-10-18 | 1
 135.237.125.109 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
 135.237.126.76 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
-138.68.144.227 | LOW | ET SCAN LeakIX Inbound User-Agent | GB | 2025-10-23 | 2025-10-23 | 1
-139.59.132.8 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-10-20 | 2025-10-20 | 1
 139.135.43.197 | LOW | ET SCAN JAWS Webserver Unauthenticated Shell Command Execution | PK | 2025-10-31 | 2025-10-31 | 1
-159.203.95.199 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2025-10-17 | 2025-10-17 | 1
 161.35.230.245 | LOW | ET SCAN NETWORK Incoming Masscan detected | US | 2025-10-30 | 2025-10-30 | 1
 165.22.174.90 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-27 | 2025-10-27 | 1
-172.178.83.104 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-25 | 2025-10-25 | 1
 172.192.75.85 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | JP | 2025-10-31 | 2025-10-31 | 1
 172.212.224.104 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-26 | 2025-10-26 | 1
 172.215.144.32 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-30 | 2025-10-30 | 1
-207.154.197.113 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-10-18 | 2025-10-18 | 1

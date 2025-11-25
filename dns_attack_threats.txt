@@ -1,56 +1,30 @@
 # DNS_Attack Threat Feed
-# Generated: 2025-11-16T06:19:36.867608+00:00
+# Generated: 2025-11-25T10:28:58.402588+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 47
+# Total IPs: 21
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
 5.187.35.54 | LOW | GPL DNS named version attempt | NL | 2025-10-31 | 2025-10-31 | 1
-18.97.26.34 | LOW | GPL DNS named version attempt | US | 2025-10-25 | 2025-10-25 | 1
-20.163.34.41 | LOW | GPL DNS named version attempt | US | 2025-10-20 | 2025-10-20 | 1
-31.14.32.4 | LOW | GPL DNS named version attempt | NL | 2025-10-20 | 2025-11-03 | 3
-47.251.86.165 | LOW | GPL DNS named version attempt | US | 2025-10-25 | 2025-10-25 | 1
-47.251.92.0 | LOW | GPL DNS named version attempt | US | 2025-10-18 | 2025-10-18 | 1
-50.116.28.248 | LOW | GPL DNS named version attempt | US | 2025-10-21 | 2025-10-21 | 1
 54.37.81.238 | LOW | GPL DNS named version attempt | FR | 2025-10-31 | 2025-10-31 | 1
-57.129.64.237 | LOW | GPL DNS named version attempt | DE | 2025-10-21 | 2025-11-01 | 2
-64.62.156.32 | LOW | GPL DNS named version attempt | US | 2025-10-20 | 2025-10-20 | 1
 64.62.197.109 | LOW | GPL DNS named version attempt | US | 2025-10-27 | 2025-10-27 | 1
 64.62.197.147 | LOW | GPL DNS named version attempt | US | 2025-10-29 | 2025-10-29 | 1
 64.62.197.150 | LOW | GPL DNS named version attempt | US | 2025-10-29 | 2025-10-30 | 2
 64.62.197.223 | LOW | GPL DNS named version attempt | US | 2025-10-31 | 2025-10-31 | 1
 65.49.1.83 | LOW | GPL DNS named version attempt | US | 2025-10-28 | 2025-10-28 | 1
-65.49.1.109 | LOW | GPL DNS named version attempt | US | 2025-10-23 | 2025-10-23 | 1
-66.132.153.122 | LOW | GPL DNS named version attempt | US | 2025-10-21 | 2025-10-21 | 1
 66.132.153.140 | LOW | GPL DNS named version attempt | US | 2025-10-26 | 2025-10-26 | 1
 81.29.134.51 | LOW | GPL DNS named version attempt | RU | 2025-10-26 | 2025-10-26 | 1
 87.236.176.111 | LOW | GPL DNS named version attempt | GB | 2025-10-26 | 2025-10-26 | 1
-91.134.73.230 | LOW | GPL DNS named version attempt | FR | 2025-10-19 | 2025-10-28 | 2
 91.231.89.111 | LOW | GPL DNS named version attempt | FR | 2025-10-30 | 2025-10-30 | 2
-98.80.4.115 | LOW | GPL DNS named version attempt | US | 2025-10-25 | 2025-10-25 | 1
-100.29.192.65 | LOW | GPL DNS named version attempt | US | 2025-10-25 | 2025-10-25 | 1
-103.57.250.193 | LOW | GPL DNS named version attempt | CO | 2025-10-18 | 2025-10-18 | 1
-118.193.65.234 | LOW | GPL DNS named version attempt | GB | 2025-10-20 | 2025-10-20 | 1
-147.185.132.21 | LOW | GPL DNS named version attempt | US | 2025-10-19 | 2025-10-19 | 1
-147.185.132.79 | LOW | GPL DNS named version attempt | US | 2025-10-21 | 2025-10-21 | 1
 152.32.151.39 | LOW | GPL DNS named version attempt | US | 2025-10-30 | 2025-10-30 | 1
 152.32.162.142 | LOW | GPL DNS named version attempt | VN | 2025-10-27 | 2025-10-27 | 1
-152.32.247.54 | LOW | GPL DNS named version attempt | TH | 2025-10-20 | 2025-10-20 | 1
-159.65.179.158 | LOW | GPL DNS named version attempt | US | 2025-10-17 | 2025-10-17 | 1
 162.142.125.219 | LOW | GPL DNS named version attempt | US | 2025-10-27 | 2025-10-27 | 1
-167.94.138.177 | LOW | GPL DNS named version attempt | US | 2025-10-26 | 2025-10-26 | 1
 167.94.138.186 | LOW | GPL DNS named version attempt | US | 2025-10-27 | 2025-10-27 | 1
-172.212.200.29 | LOW | GPL DNS named version attempt | US | 2025-10-23 | 2025-10-23 | 1
 185.242.226.18 | LOW | GPL DNS named version attempt | NL | 2025-10-27 | 2025-11-12 | 3
-185.247.137.4 | LOW | GPL DNS named version attempt | GB | 2025-10-21 | 2025-10-21 | 1
-185.247.137.224 | LOW | GPL DNS named version attempt | GB | 2025-10-25 | 2025-10-25 | 1
-198.235.24.53 | LOW | GPL DNS named version attempt | US | 2025-10-25 | 2025-10-25 | 1
 198.235.24.102 | LOW | GPL DNS named version attempt | US | 2025-10-27 | 2025-10-27 | 1
-199.45.154.138 | LOW | GPL DNS named version attempt | HK | 2025-10-18 | 2025-10-18 | 1
 199.45.155.73 | LOW | GPL DNS named version attempt | HK | 2025-10-30 | 2025-10-30 | 1
-205.210.31.57 | LOW | GPL DNS named version attempt | US | 2025-10-18 | 2025-10-18 | 1
 205.210.31.207 | LOW | GPL DNS named version attempt | US | 2025-10-30 | 2025-10-30 | 1
 205.210.31.238 | LOW | GPL DNS named version attempt | US | 2025-10-26 | 2025-10-26 | 1
 206.168.34.33 | LOW | GPL DNS named version attempt | US | 2025-10-30 | 2025-10-30 | 1

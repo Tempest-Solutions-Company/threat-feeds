@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-11-16T06:19:36.867608+00:00",
+    "generated": "2025-11-25T10:28:58.402588+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 35,
+    "total_threats": 26,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -12,16 +12,6 @@
       "ip": "13.89.125.21",
       "first_seen": "2025-10-30T19:59:00.440000+00:00",
       "last_seen": "2025-10-30T19:59:00.440000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "20.64.106.58",
-      "first_seen": "2025-10-26T09:01:33.273000+00:00",
-      "last_seen": "2025-10-26T09:01:33.273000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
@@ -79,16 +69,6 @@
       "country": "US"
     },
     {
-      "ip": "45.79.211.97",
-      "first_seen": "2025-10-19T19:40:06.122000+00:00",
-      "last_seen": "2025-10-19T19:40:06.122000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "46.101.111.185",
       "first_seen": "2025-10-29T11:20:54.074000+00:00",
       "last_seen": "2025-10-29T11:20:54.074000+00:00",
@@ -97,16 +77,6 @@
       "signature": "ET SCAN LeakIX Inbound User-Agent",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "52.167.144.146",
-      "first_seen": "2025-10-21T18:58:41.554000+00:00",
-      "last_seen": "2025-10-21T18:58:41.554000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "52.167.144.208",
@@ -219,16 +189,6 @@
       "country": "US"
     },
     {
-      "ip": "135.119.112.132",
-      "first_seen": "2025-10-18T20:34:40.397000+00:00",
-      "last_seen": "2025-10-18T20:34:40.397000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "135.237.125.109",
       "first_seen": "2025-10-29T00:17:50.645000+00:00",
       "last_seen": "2025-10-29T00:17:50.645000+00:00",
@@ -249,26 +209,6 @@
       "country": "US"
     },
     {
-      "ip": "138.68.144.227",
-      "first_seen": "2025-10-23T02:56:29.037000+00:00",
-      "last_seen": "2025-10-23T02:56:29.037000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN LeakIX Inbound User-Agent",
-      "protocol": "TCP",
-      "country": "GB"
-    },
-    {
-      "ip": "139.59.132.8",
-      "first_seen": "2025-10-20T06:45:31.194000+00:00",
-      "last_seen": "2025-10-20T06:45:31.194000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN LeakIX Inbound User-Agent",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
       "ip": "139.135.43.197",
       "first_seen": "2025-10-31T10:13:18.895000+00:00",
       "last_seen": "2025-10-31T10:13:18.895000+00:00",
@@ -277,16 +217,6 @@
       "signature": "ET SCAN JAWS Webserver Unauthenticated Shell Command Execution",
       "protocol": "TCP",
       "country": "PK"
-    },
-    {
-      "ip": "159.203.95.199",
-      "first_seen": "2025-10-17T07:12:53.030000+00:00",
-      "last_seen": "2025-10-17T07:12:53.030000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "161.35.230.245",
@@ -302,16 +232,6 @@
       "ip": "165.22.174.90",
       "first_seen": "2025-10-27T19:45:23.952000+00:00",
       "last_seen": "2025-10-27T19:45:23.952000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "172.178.83.104",
-      "first_seen": "2025-10-25T22:47:33.333000+00:00",
-      "last_seen": "2025-10-25T22:47:33.333000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
@@ -347,16 +267,6 @@
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "207.154.197.113",
-      "first_seen": "2025-10-18T20:23:23.566000+00:00",
-      "last_seen": "2025-10-18T20:23:23.566000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN LeakIX Inbound User-Agent",
-      "protocol": "TCP",
-      "country": "DE"
     }
   ]
 }

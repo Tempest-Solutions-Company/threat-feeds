@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Terminal_Server_Attack",
-    "generated": "2025-11-16T08:49:54.376207+00:00",
+    "generated": "2025-11-25T10:28:58.402588+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 8,
+    "total_threats": 5,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -39,16 +39,6 @@
       "country": "RU"
     },
     {
-      "ip": "118.193.61.179",
-      "first_seen": "2025-10-26T06:59:13.763000+00:00",
-      "last_seen": "2025-10-26T06:59:13.763000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "JP"
-    },
-    {
       "ip": "128.14.237.130",
       "first_seen": "2025-10-30T11:37:49.105000+00:00",
       "last_seen": "2025-10-30T11:37:49.105000+00:00",
@@ -59,30 +49,10 @@
       "country": "TW"
     },
     {
-      "ip": "152.32.149.19",
-      "first_seen": "2025-10-20T06:58:00.867000+00:00",
-      "last_seen": "2025-10-20T06:58:00.867000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "152.32.208.116",
       "first_seen": "2025-10-31T15:59:13.963000+00:00",
       "last_seen": "2025-10-31T16:15:39.242000+00:00",
       "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "165.154.172.87",
-      "first_seen": "2025-10-18T13:09:54.486000+00:00",
-      "last_seen": "2025-10-18T13:09:54.486000+00:00",
-      "count": 1,
       "severity": "medium",
       "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
       "protocol": "TCP",

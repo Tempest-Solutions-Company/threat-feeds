@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "generated": "2025-11-16T06:19:36.867608+00:00",
+    "generated": "2025-11-25T10:28:58.402588+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "expiry_days": 30,
     "total_categories": 8,
-    "total_threats": 270,
-    "total_unique_ips": 270
+    "total_threats": 149,
+    "total_unique_ips": 149
   },
   "categories": {
     "Compromised_Host": {
-      "total_threats": 10,
-      "unique_ips": 10,
+      "total_threats": 6,
+      "unique_ips": 6,
       "severity_breakdown": {
-        "high": 10
+        "high": 6
       },
       "files": {
         "txt": "compromised_host_threats.txt",
@@ -21,10 +21,10 @@
       }
     },
     "SSH_Scanning": {
-      "total_threats": 136,
-      "unique_ips": 136,
+      "total_threats": 71,
+      "unique_ips": 71,
       "severity_breakdown": {
-        "medium": 136
+        "medium": 71
       },
       "files": {
         "txt": "ssh_scanning_threats.txt",
@@ -33,10 +33,10 @@
       }
     },
     "DNS_Attack": {
-      "total_threats": 47,
-      "unique_ips": 47,
+      "total_threats": 21,
+      "unique_ips": 21,
       "severity_breakdown": {
-        "low": 47
+        "low": 21
       },
       "files": {
         "txt": "dns_attack_threats.txt",
@@ -45,10 +45,10 @@
       }
     },
     "Port_Scanning": {
-      "total_threats": 35,
-      "unique_ips": 35,
+      "total_threats": 26,
+      "unique_ips": 26,
       "severity_breakdown": {
-        "low": 35
+        "low": 26
       },
       "files": {
         "txt": "port_scanning_threats.txt",
@@ -57,11 +57,11 @@
       }
     },
     "Tor_Traffic": {
-      "total_threats": 9,
-      "unique_ips": 9,
+      "total_threats": 2,
+      "unique_ips": 2,
       "severity_breakdown": {
-        "medium": 6,
-        "low": 3
+        "medium": 1,
+        "low": 1
       },
       "files": {
         "txt": "tor_traffic_threats.txt",
@@ -70,10 +70,10 @@
       }
     },
     "Web_Attack": {
-      "total_threats": 7,
-      "unique_ips": 7,
+      "total_threats": 2,
+      "unique_ips": 2,
       "severity_breakdown": {
-        "high": 7
+        "high": 2
       },
       "files": {
         "txt": "web_attack_threats.txt",
@@ -82,10 +82,10 @@
       }
     },
     "Terminal_Server_Attack": {
-      "total_threats": 8,
-      "unique_ips": 8,
+      "total_threats": 5,
+      "unique_ips": 5,
       "severity_breakdown": {
-        "medium": 8
+        "medium": 5
       },
       "files": {
         "txt": "terminal_server_attack_threats.txt",
@@ -94,10 +94,10 @@
       }
     },
     "Unknown": {
-      "total_threats": 18,
-      "unique_ips": 18,
+      "total_threats": 16,
+      "unique_ips": 16,
       "severity_breakdown": {
-        "low": 17,
+        "low": 15,
         "high": 1
       },
       "files": {

@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-11-26T00:07:16.776427+00:00
+# Generated: 2025-11-26T00:37:33.677353+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 28
+# Total IPs: 30
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -9,6 +9,7 @@
 
 13.89.125.21 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-30 | 2025-10-30 | 1
 20.64.106.140 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
+20.65.194.81 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-26 | 2025-11-26 | 1
 20.163.32.168 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-25 | 2025-11-25 | 1
 20.169.48.134 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
 20.171.8.85 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-30 | 2025-10-30 | 1
@@ -28,6 +29,7 @@
 94.74.191.120 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2025-10-30 | 2025-10-30 | 1
 98.142.247.129 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2025-10-30 | 2025-10-30 | 1
 98.159.226.245 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | SI | 2025-11-25 | 2025-11-25 | 1
+103.157.224.118 | LOW | ET SCAN NETWORK Incoming Masscan detected | IN | 2025-11-26 | 2025-11-26 | 1
 135.237.125.109 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
 135.237.126.76 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
 139.135.43.197 | LOW | ET SCAN JAWS Webserver Unauthenticated Shell Command Execution | PK | 2025-10-31 | 2025-10-31 | 1

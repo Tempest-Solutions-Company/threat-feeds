@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-26T03:09:02.591967+00:00",
+    "generated": "2025-11-26T03:39:19.341465+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 20,
     "expiry_days": 30,
@@ -169,16 +169,6 @@
       "country": "FR"
     },
     {
-      "ip": "178.125.192.21",
-      "first_seen": "2025-10-27T03:17:11.482000+00:00",
-      "last_seen": "2025-10-27T18:15:05.012000+00:00",
-      "count": 3,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "BY"
-    },
-    {
       "ip": "188.99.65.25",
       "first_seen": "2025-11-25T11:00:18.260000+00:00",
       "last_seen": "2025-11-25T11:00:18.260000+00:00",
@@ -187,6 +177,16 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "192.159.99.95",
+      "first_seen": "2025-11-26T03:29:28.190000+00:00",
+      "last_seen": "2025-11-26T03:29:28.190000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Possible CVE-2014-6271 Attempt",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "194.110.207.62",

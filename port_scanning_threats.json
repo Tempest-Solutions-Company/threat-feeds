@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-11-27T06:23:06.261062+00:00",
+    "generated": "2025-11-27T06:53:21.381420+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 32,
+    "total_threats": 33,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -287,6 +287,16 @@
       "signature": "ET SCAN JAWS Webserver Unauthenticated Shell Command Execution",
       "protocol": "TCP",
       "country": "PK"
+    },
+    {
+      "ip": "152.42.204.241",
+      "first_seen": "2025-11-27T06:48:06.907000+00:00",
+      "last_seen": "2025-11-27T06:48:06.907000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
+      "protocol": "TCP",
+      "country": "SG"
     },
     {
       "ip": "161.35.230.245",

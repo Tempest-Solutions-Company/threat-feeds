@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-27T18:59:42.546284+00:00",
+    "generated": "2025-11-27T19:29:59.347433+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 20,
+    "total_threats": 21,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -167,6 +167,16 @@
       "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
       "protocol": "TCP",
       "country": "FR"
+    },
+    {
+      "ip": "165.99.102.4",
+      "first_seen": "2025-11-27T19:04:17.682000+00:00",
+      "last_seen": "2025-11-27T19:04:17.682000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
+      "protocol": "TCP",
+      "country": "ID"
     },
     {
       "ip": "188.99.65.25",

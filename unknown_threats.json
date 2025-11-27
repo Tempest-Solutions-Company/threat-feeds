@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-27T12:56:32.736012+00:00",
+    "generated": "2025-11-27T13:26:48.667390+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 18,
+    "total_threats": 19,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -107,6 +107,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "HK"
+    },
+    {
+      "ip": "139.135.40.53",
+      "first_seen": "2025-11-27T13:10:29.362000+00:00",
+      "last_seen": "2025-11-27T13:10:29.362000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
+      "protocol": "TCP",
+      "country": "PK"
     },
     {
       "ip": "144.76.32.187",

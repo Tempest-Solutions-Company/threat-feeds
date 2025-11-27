@@ -1,13 +1,14 @@
 # DNS_Attack Threat Feed
-# Generated: 2025-11-26T23:49:54.044601+00:00
+# Generated: 2025-11-27T00:20:09.325123+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 20
+# Total IPs: 22
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
 5.187.35.54 | LOW | GPL DNS named version attempt | NL | 2025-10-31 | 2025-10-31 | 1
+45.156.131.17 | LOW | GPL DNS named version attempt | US | 2025-11-27 | 2025-11-27 | 1
 54.37.81.238 | LOW | GPL DNS named version attempt | FR | 2025-10-31 | 2025-10-31 | 1
 64.62.197.147 | LOW | GPL DNS named version attempt | US | 2025-10-29 | 2025-10-29 | 1
 64.62.197.150 | LOW | GPL DNS named version attempt | US | 2025-10-29 | 2025-10-30 | 2
@@ -25,5 +26,6 @@
 198.235.24.99 | LOW | GPL DNS named version attempt | US | 2025-11-25 | 2025-11-25 | 1
 199.45.155.73 | LOW | GPL DNS named version attempt | HK | 2025-10-30 | 2025-10-30 | 1
 205.210.31.207 | LOW | GPL DNS named version attempt | US | 2025-10-30 | 2025-10-30 | 1
+205.210.31.233 | LOW | GPL DNS named version attempt | US | 2025-11-26 | 2025-11-26 | 1
 206.168.34.33 | LOW | GPL DNS named version attempt | US | 2025-10-30 | 2025-10-30 | 1
 216.180.246.1 | LOW | GPL DNS named version attempt | FR | 2025-11-26 | 2025-11-26 | 1

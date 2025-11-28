@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-11-28T12:08:14.141607+00:00
+# Generated: 2025-11-28T12:38:29.109681+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 36
+# Total IPs: 37
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -35,6 +35,7 @@
 103.157.224.118 | LOW | ET SCAN NETWORK Incoming Masscan detected | IN | 2025-11-26 | 2025-11-26 | 1
 135.237.126.76 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-29 | 2025-10-29 | 1
 135.237.126.219 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-27 | 2025-11-27 | 1
+138.68.86.32 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-11-28 | 2025-11-28 | 1
 139.135.43.197 | LOW | ET SCAN JAWS Webserver Unauthenticated Shell Command Execution | PK | 2025-10-31 | 2025-10-31 | 1
 142.93.143.8 | LOW | ET SCAN LeakIX Inbound User-Agent | NL | 2025-11-28 | 2025-11-28 | 2
 152.42.204.241 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | SG | 2025-11-27 | 2025-11-27 | 1

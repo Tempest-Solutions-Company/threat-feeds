@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-29T14:22:21.514887+00:00",
+    "generated": "2025-11-29T14:52:37.500808+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 17,
+    "total_threats": 18,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -137,6 +137,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "ID"
+    },
+    {
+      "ip": "185.177.72.144",
+      "first_seen": "2025-11-29T14:42:46.988000+00:00",
+      "last_seen": "2025-11-29T14:42:46.988000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",
+      "protocol": "TCP",
+      "country": "FR"
     },
     {
       "ip": "188.99.65.25",

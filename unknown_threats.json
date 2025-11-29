@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-29T06:18:00.154779+00:00",
+    "generated": "2025-11-29T06:48:17.078101+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 16,
+    "total_threats": 17,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -167,6 +167,16 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "NO"
+    },
+    {
+      "ip": "206.81.12.187",
+      "first_seen": "2025-11-29T06:30:52.038000+00:00",
+      "last_seen": "2025-11-29T06:30:52.038000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT GraphQL Introspection Query Attempt",
+      "protocol": "TCP",
+      "country": "US"
     }
   ]
 }

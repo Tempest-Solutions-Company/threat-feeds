@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-11-29T05:47:43.893491+00:00",
+    "generated": "2025-11-29T06:18:00.154779+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 17,
+    "total_threats": 16,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -47,16 +47,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "IT"
-    },
-    {
-      "ip": "64.225.75.246",
-      "first_seen": "2025-10-30T06:10:59.385000+00:00",
-      "last_seen": "2025-10-30T06:10:59.385000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT GraphQL Introspection Query Attempt",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "85.215.189.42",

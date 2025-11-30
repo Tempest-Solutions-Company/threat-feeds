@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-11-30T06:01:06.839012+00:00
+# Generated: 2025-11-30T06:31:22.867934+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 16
+# Total IPs: 15
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -16,7 +16,6 @@
 144.76.32.235 | LOW | ET USER_AGENTS BLEXBot User-Agent | DE | 2025-10-31 | 2025-11-07 | 11
 144.76.32.236 | LOW | ET USER_AGENTS BLEXBot User-Agent | DE | 2025-10-31 | 2025-11-02 | 2
 161.97.129.82 | LOW | ET WEB_SERVER .bash_history Detected in URI | FR | 2025-11-28 | 2025-11-28 | 1
-164.68.123.140 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | FR | 2025-10-31 | 2025-10-31 | 2
 165.99.102.4 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | ID | 2025-11-27 | 2025-11-27 | 1
 185.177.72.144 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | FR | 2025-11-29 | 2025-11-29 | 1
 188.99.65.25 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2025-11-25 | 2025-11-25 | 1

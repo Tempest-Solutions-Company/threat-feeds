@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-11-30T04:30:17.905150+00:00
+# Generated: 2025-11-30T05:00:34.107396+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 37
+# Total IPs: 35
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -25,8 +25,6 @@
 62.216.89.69 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2025-11-29 | 2025-11-29 | 1
 64.64.108.33 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | IT | 2025-10-31 | 2025-10-31 | 1
 74.235.100.142 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-31 | 2025-10-31 | 1
-74.249.192.21 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-10-31 | 2025-10-31 | 1
-82.118.30.7 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | CZ | 2025-10-31 | 2025-10-31 | 1
 82.165.93.136 | LOW | ET SCAN NETWORK Incoming Masscan detected | FR | 2025-10-31 | 2025-11-01 | 2
 92.246.87.104 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | NL | 2025-11-29 | 2025-11-29 | 1
 98.159.226.245 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | SI | 2025-11-25 | 2025-11-25 | 1

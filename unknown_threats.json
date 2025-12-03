@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-03T01:39:44.292117+00:00",
+    "generated": "2025-12-03T02:10:01.002215+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 16,
+    "total_threats": 17,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -47,6 +47,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "IT"
+    },
+    {
+      "ip": "87.121.84.116",
+      "first_seen": "2025-12-03T01:46:27.469000+00:00",
+      "last_seen": "2025-12-03T01:46:27.469000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT VMWare Server-side Template Injection RCE (CVE-2022-22954)",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "89.208.107.124",

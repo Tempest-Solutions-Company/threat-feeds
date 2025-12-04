@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-04T17:06:17.226068+00:00",
+    "generated": "2025-12-04T17:36:35.539495+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 18,
+    "total_threats": 19,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -57,6 +57,16 @@
       "signature": "ET EXPLOIT VMWare Server-side Template Injection RCE (CVE-2022-22954)",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "87.251.78.130",
+      "first_seen": "2025-12-04T17:15:10.059000+00:00",
+      "last_seen": "2025-12-04T17:15:10.059000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL SMTP vrfy root",
+      "protocol": "TCP",
+      "country": "RU"
     },
     {
       "ip": "89.208.107.124",

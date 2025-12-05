@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-12-05T00:42:05.942207+00:00
+# Generated: 2025-12-05T01:12:22.168486+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 20
+# Total IPs: 21
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -17,6 +17,7 @@
 91.209.135.21 | LOW | GPL SMTP vrfy root | GE | 2025-12-05 | 2025-12-05 | 1
 139.135.40.53 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | PK | 2025-11-27 | 2025-11-27 | 1
 144.31.19.70 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | FI | 2025-12-04 | 2025-12-04 | 2
+154.219.107.8 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | HK | 2025-12-05 | 2025-12-05 | 1
 158.220.103.210 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | FR | 2025-11-30 | 2025-11-30 | 1
 161.97.129.82 | LOW | ET WEB_SERVER .bash_history Detected in URI | FR | 2025-11-28 | 2025-11-28 | 1
 165.99.102.4 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | ID | 2025-11-27 | 2025-11-27 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-04T23:41:32.281426+00:00",
+    "generated": "2025-12-05T00:11:48.867656+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 19,
+    "total_threats": 20,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -77,6 +77,16 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "91.209.135.21",
+      "first_seen": "2025-12-05T00:09:22.372000+00:00",
+      "last_seen": "2025-12-05T00:09:22.372000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL SMTP vrfy root",
+      "protocol": "TCP",
+      "country": "GE"
     },
     {
       "ip": "139.135.40.53",

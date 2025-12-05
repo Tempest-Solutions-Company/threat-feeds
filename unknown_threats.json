@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-05T11:18:05.416623+00:00",
+    "generated": "2025-12-05T11:48:22.542726+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 21,
+    "total_threats": 23,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -57,6 +57,16 @@
       "signature": "ET EXPLOIT VMWare Server-side Template Injection RCE (CVE-2022-22954)",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "87.251.67.85",
+      "first_seen": "2025-12-05T11:41:52.070000+00:00",
+      "last_seen": "2025-12-05T11:41:52.070000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET Threatview.io High Confidence Cobalt Strike C2 IP group 1",
+      "protocol": "TCP",
+      "country": "KZ"
     },
     {
       "ip": "87.251.78.130",
@@ -147,6 +157,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "ID"
+    },
+    {
+      "ip": "176.126.103.132",
+      "first_seen": "2025-12-05T11:29:34.941000+00:00",
+      "last_seen": "2025-12-05T11:29:34.941000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL SMTP vrfy root",
+      "protocol": "TCP",
+      "country": "RU"
     },
     {
       "ip": "185.177.72.144",

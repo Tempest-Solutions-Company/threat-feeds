@@ -1,12 +1,13 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-12-06T05:58:42.843556+00:00
+# Generated: 2025-12-06T06:28:58.877893+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 56
+# Total IPs: 57
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
+2.58.56.101 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | FR | 2025-12-06 | 2025-12-06 | 1
 20.46.226.81 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-29 | 2025-11-29 | 1
 20.64.104.164 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-27 | 2025-11-27 | 1
 20.64.105.127 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-28 | 2025-11-28 | 1

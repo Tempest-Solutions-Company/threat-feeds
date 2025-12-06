@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-12-06T14:33:20.727069+00:00",
+    "generated": "2025-12-06T15:03:37.590096+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 58,
+    "total_threats": 59,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -387,6 +387,16 @@
       "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
       "protocol": "TCP",
       "country": "TH"
+    },
+    {
+      "ip": "129.153.203.128",
+      "first_seen": "2025-12-06T14:42:19.066000+00:00",
+      "last_seen": "2025-12-06T14:42:19.066000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "134.122.28.88",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-06T01:26:13.858771+00:00",
+    "generated": "2025-12-06T01:56:29.992818+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 23,
+    "total_threats": 24,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -97,6 +97,16 @@
       "signature": "GPL SMTP vrfy root",
       "protocol": "TCP",
       "country": "GE"
+    },
+    {
+      "ip": "101.36.123.102",
+      "first_seen": "2025-12-06T01:53:24.239000+00:00",
+      "last_seen": "2025-12-06T01:53:24.239000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
+      "protocol": "TCP",
+      "country": "HK"
     },
     {
       "ip": "139.135.40.53",

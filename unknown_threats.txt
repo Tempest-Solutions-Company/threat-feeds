@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-12-07T07:42:39.408448+00:00
+# Generated: 2025-12-07T08:12:55.794169+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 26
+# Total IPs: 27
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -33,3 +33,4 @@
 195.178.110.240 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | AD | 2025-12-02 | 2025-12-02 | 2
 206.81.12.187 | LOW | ET EXPLOIT GraphQL Introspection Query Attempt | US | 2025-11-29 | 2025-11-29 | 1
 212.57.185.186 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | RU | 2025-12-02 | 2025-12-02 | 1
+213.35.99.200 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2025-12-07 | 2025-12-07 | 1

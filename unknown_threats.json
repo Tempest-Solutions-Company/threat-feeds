@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-07T16:17:19.103215+00:00",
+    "generated": "2025-12-07T16:47:35.760063+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 27,
+    "total_threats": 28,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -77,6 +77,16 @@
       "signature": "GPL SMTP vrfy root",
       "protocol": "TCP",
       "country": "RU"
+    },
+    {
+      "ip": "89.185.84.23",
+      "first_seen": "2025-12-07T16:39:13.002000+00:00",
+      "last_seen": "2025-12-07T16:39:13.002000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
+      "protocol": "TCP",
+      "country": "GB"
     },
     {
       "ip": "89.208.107.124",

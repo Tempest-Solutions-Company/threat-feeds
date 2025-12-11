@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-12-10T23:33:18.100009+00:00
+# Generated: 2025-12-11T00:03:34.901392+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 28
+# Total IPs: 29
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -35,3 +35,4 @@
 206.81.12.187 | LOW | ET EXPLOIT GraphQL Introspection Query Attempt | US | 2025-11-29 | 2025-11-29 | 1
 212.57.185.186 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | RU | 2025-12-02 | 2025-12-02 | 1
 213.35.99.200 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2025-12-07 | 2025-12-07 | 1
+216.81.248.59 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | US | 2025-12-10 | 2025-12-10 | 1

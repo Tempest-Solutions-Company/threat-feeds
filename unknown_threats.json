@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-12T02:36:09.646651+00:00",
+    "generated": "2025-12-12T03:06:25.415791+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 31,
+    "total_threats": 32,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -277,6 +277,16 @@
       "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
       "protocol": "TCP",
       "country": "AD"
+    },
+    {
+      "ip": "204.76.203.8",
+      "first_seen": "2025-12-12T02:53:58.222000+00:00",
+      "last_seen": "2025-12-12T02:53:58.222000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "206.81.12.187",

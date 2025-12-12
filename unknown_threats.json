@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-12T07:38:51.978623+00:00",
+    "generated": "2025-12-12T08:09:08.917945+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 33,
+    "total_threats": 34,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -227,6 +227,16 @@
       "signature": "GPL SMTP vrfy root",
       "protocol": "TCP",
       "country": "RU"
+    },
+    {
+      "ip": "179.43.184.242",
+      "first_seen": "2025-12-12T07:55:29.357000+00:00",
+      "last_seen": "2025-12-12T07:55:29.357000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "CH"
     },
     {
       "ip": "185.177.72.144",

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "SQL_Injection",
-    "generated": "2025-10-18T17:02:26.027048+00:00",
+    "generated": "2025-12-13T07:22:07.130697+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 1,
     "expiry_days": 30,
@@ -9,14 +9,14 @@
   },
   "threats": [
     {
-      "ip": "194.165.16.71",
-      "first_seen": "2025-09-18T17:30:37.071000+00:00",
-      "last_seen": "2025-09-18T17:30:37.071000+00:00",
+      "ip": "185.16.39.52",
+      "first_seen": "2025-12-13T07:08:51.690000+00:00",
+      "last_seen": "2025-12-13T07:08:51.690000+00:00",
       "count": 1,
       "severity": "high",
-      "signature": "ET WEB_SPECIFIC_APPS Fortinet FortiWeb Fabric Connector Unauthenticated SQL Injection (CVE-2025-25257) M1",
+      "signature": "ET WEB_SERVER Possible SQL Injection (exec) in HTTP Request Body",
       "protocol": "TCP",
-      "country": "LT"
+      "country": "PL"
     }
   ]
 }

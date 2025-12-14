@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-14T17:12:24.950312+00:00",
+    "generated": "2025-12-14T17:42:42.881310+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 35,
+    "total_threats": 36,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -217,6 +217,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "ID"
+    },
+    {
+      "ip": "172.237.117.50",
+      "first_seen": "2025-12-14T17:28:13.064000+00:00",
+      "last_seen": "2025-12-14T17:28:13.064000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER ColdFusion componentutils access",
+      "protocol": "TCP",
+      "country": "GB"
     },
     {
       "ip": "176.126.103.132",

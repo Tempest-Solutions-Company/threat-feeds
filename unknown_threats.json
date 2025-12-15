@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-15T12:54:29.305131+00:00",
+    "generated": "2025-12-15T13:24:48.291079+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 39,
+    "total_threats": 40,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -97,6 +97,16 @@
       "signature": "ET Threatview.io High Confidence Cobalt Strike C2 IP group 1",
       "protocol": "TCP",
       "country": "KZ"
+    },
+    {
+      "ip": "87.251.78.57",
+      "first_seen": "2025-12-15T13:01:14.029000+00:00",
+      "last_seen": "2025-12-15T13:01:14.029000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL SMTP vrfy root",
+      "protocol": "TCP",
+      "country": "RU"
     },
     {
       "ip": "87.251.78.130",

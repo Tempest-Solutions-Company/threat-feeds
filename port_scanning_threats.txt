@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-12-16T21:15:50.624182+00:00
+# Generated: 2025-12-16T21:46:10.121790+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 104
+# Total IPs: 106
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -28,6 +28,7 @@
 20.106.57.131 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-28 | 2025-11-28 | 1
 20.106.57.180 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-29 | 2025-12-02 | 2
 20.115.90.228 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-30 | 2025-11-30 | 1
+20.118.200.9 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-16 | 2025-12-16 | 1
 20.118.217.162 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-08 | 2025-12-08 | 1
 20.127.155.221 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-11-27 | 2025-11-27 | 1
 20.163.15.43 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-13 | 2025-12-13 | 1
@@ -66,6 +67,7 @@
 69.164.217.245 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-03 | 2025-12-03 | 1
 74.235.100.130 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-07 | 2025-12-07 | 1
 87.250.224.36 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | RU | 2025-12-02 | 2025-12-02 | 1
+89.187.187.67 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-12-16 | 2025-12-16 | 1
 92.246.87.104 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | NL | 2025-11-29 | 2025-11-29 | 1
 95.214.55.41 | LOW | ET SCAN Zmap User-Agent (Inbound) | PL | 2025-12-16 | 2025-12-16 | 1
 98.159.226.245 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | SI | 2025-11-25 | 2025-11-25 | 1

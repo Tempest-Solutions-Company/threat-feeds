@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-17T20:00:28.393589+00:00",
+    "generated": "2025-12-17T20:30:48.809300+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 45,
+    "total_threats": 46,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -47,6 +47,16 @@
       "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "38.242.212.239",
+      "first_seen": "2025-12-17T20:10:13.665000+00:00",
+      "last_seen": "2025-12-17T20:10:13.665000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "FR"
     },
     {
       "ip": "41.47.201.86",

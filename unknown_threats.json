@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-17T17:59:10.634627+00:00",
+    "generated": "2025-12-17T18:29:30.104555+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 42,
+    "total_threats": 43,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -187,6 +187,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
       "protocol": "TCP",
       "country": "HK"
+    },
+    {
+      "ip": "101.251.219.5",
+      "first_seen": "2025-12-17T18:15:27.123000+00:00",
+      "last_seen": "2025-12-17T18:15:27.123000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement",
+      "protocol": "TCP",
+      "country": "CN"
     },
     {
       "ip": "103.40.61.98",

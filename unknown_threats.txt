@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-12-17T20:00:28.393589+00:00
+# Generated: 2025-12-17T20:30:48.809300+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 45
+# Total IPs: 46
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -11,6 +11,7 @@
 14.1.105.219 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | PK | 2025-12-16 | 2025-12-16 | 1
 31.220.73.14 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | FR | 2025-12-14 | 2025-12-14 | 1
 37.60.141.252 | LOW | ET WEB_SERVER Wordpress Login Bruteforcing Detected | NL | 2025-12-15 | 2025-12-15 | 3
+38.242.212.239 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | FR | 2025-12-17 | 2025-12-17 | 1
 41.47.201.86 | LOW | ET EXPLOIT MVPower DVR Shell UCE | EG | 2025-12-01 | 2025-12-01 | 1
 41.77.144.98 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | ZM | 2025-11-27 | 2025-11-27 | 1
 46.101.247.45 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | DE | 2025-12-17 | 2025-12-17 | 1

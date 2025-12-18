@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-18T21:16:41.719113+00:00",
+    "generated": "2025-12-18T21:47:00.690917+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 48,
+    "total_threats": 49,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -117,6 +117,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "IT"
+    },
+    {
+      "ip": "78.142.18.40",
+      "first_seen": "2025-12-18T21:40:09.326000+00:00",
+      "last_seen": "2025-12-18T21:40:09.326000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "87.121.84.116",

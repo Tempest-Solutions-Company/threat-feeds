@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-12-19T19:33:42.917806+00:00
+# Generated: 2025-12-19T20:04:01.249332+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 52
+# Total IPs: 53
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -52,6 +52,7 @@
 192.159.99.95 | LOW | ET WEB_SERVER Possible CVE-2014-6271 Attempt | US | 2025-11-26 | 2025-12-18 | 5
 193.34.213.150 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | PL | 2025-12-11 | 2025-12-11 | 1
 194.110.207.62 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NO | 2025-11-25 | 2025-11-29 | 2
+195.133.76.117 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | NL | 2025-12-19 | 2025-12-19 | 1
 195.178.110.240 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | AD | 2025-12-02 | 2025-12-02 | 2
 197.134.250.138 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | EG | 2025-12-13 | 2025-12-13 | 1
 204.76.203.8 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | NL | 2025-12-12 | 2025-12-17 | 2

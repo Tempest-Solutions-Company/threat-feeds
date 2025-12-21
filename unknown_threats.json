@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-21T16:01:13.807929+00:00",
+    "generated": "2025-12-21T16:31:32.276766+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 55,
+    "total_threats": 56,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -305,6 +305,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
+      "protocol": "TCP",
+      "country": "CN"
+    },
+    {
+      "ip": "120.85.115.221",
+      "first_seen": "2025-12-21T16:12:36.536000+00:00",
+      "last_seen": "2025-12-21T16:12:36.536000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Netgear DGN Remote Command Execution",
       "protocol": "TCP",
       "country": "CN"
     },

@@ -1,13 +1,23 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-22T16:46:41.986645+00:00",
+    "generated": "2025-12-22T17:17:01.490052+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 57,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
+    {
+      "ip": "2.57.122.173",
+      "first_seen": "2025-12-22T17:16:39.151000+00:00",
+      "last_seen": "2025-12-22T17:16:39.151000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "NL"
+    },
     {
       "ip": "5.187.35.21",
       "first_seen": "2025-12-19T17:04:36.161000+00:00",

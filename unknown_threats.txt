@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-12-25T18:33:00.710063+00:00
+# Generated: 2025-12-25T19:03:19.655250+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 58
+# Total IPs: 57
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -29,7 +29,6 @@
 87.251.78.130 | LOW | GPL SMTP vrfy root | RU | 2025-12-04 | 2025-12-18 | 3
 87.251.78.220 | LOW | GPL SMTP vrfy root | RU | 2025-12-12 | 2025-12-22 | 3
 89.185.84.23 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | GB | 2025-12-07 | 2025-12-07 | 1
-89.208.107.124 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2025-11-25 | 2025-11-26 | 3
 91.209.135.21 | LOW | GPL SMTP vrfy root | GE | 2025-12-05 | 2025-12-05 | 1
 95.214.52.170 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | PL | 2025-12-06 | 2025-12-06 | 1
 101.36.123.102 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | HK | 2025-12-06 | 2025-12-06 | 1

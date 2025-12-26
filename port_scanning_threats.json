@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-12-26T10:43:04.225029+00:00",
+    "generated": "2025-12-26T11:13:23.579552+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 151,
+    "total_threats": 152,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1377,6 +1377,16 @@
       "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
       "protocol": "TCP",
       "country": "SG"
+    },
+    {
+      "ip": "178.239.198.101",
+      "first_seen": "2025-12-26T11:10:42.988000+00:00",
+      "last_seen": "2025-12-26T11:10:42.988000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
+      "protocol": "TCP",
+      "country": "GB"
     },
     {
       "ip": "185.132.187.153",

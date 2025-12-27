@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-12-27T08:26:34.549346+00:00",
+    "generated": "2025-12-27T08:56:52.969842+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 152,
+    "total_threats": 153,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1315,6 +1315,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "172.104.30.66",
+      "first_seen": "2025-12-27T08:30:01.975000+00:00",
+      "last_seen": "2025-12-27T08:30:01.975000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Rapid IMAP Connections - Possible Brute Force Attack",
       "protocol": "TCP",
       "country": "US"
     },

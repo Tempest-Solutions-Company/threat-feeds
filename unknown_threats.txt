@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2025-12-27T15:00:37.783367+00:00
+# Generated: 2025-12-27T15:30:56.914327+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 57
+# Total IPs: 58
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -25,6 +25,7 @@
 87.121.84.116 | LOW | ET EXPLOIT VMWare Server-side Template Injection RCE (CVE-2022-22954) | US | 2025-12-03 | 2025-12-04 | 3
 87.251.67.85 | LOW | ET Threatview.io High Confidence Cobalt Strike C2 IP group 1 | KZ | 2025-12-05 | 2025-12-05 | 2
 87.251.78.57 | LOW | GPL SMTP vrfy root | RU | 2025-12-15 | 2025-12-23 | 3
+87.251.78.129 | LOW | GPL SMTP vrfy root | RU | 2025-12-27 | 2025-12-27 | 1
 87.251.78.130 | LOW | GPL SMTP vrfy root | RU | 2025-12-04 | 2025-12-18 | 3
 87.251.78.220 | LOW | GPL SMTP vrfy root | RU | 2025-12-12 | 2025-12-22 | 3
 89.185.84.23 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | GB | 2025-12-07 | 2025-12-07 | 1

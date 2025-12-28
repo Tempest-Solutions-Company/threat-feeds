@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2025-12-28T16:46:37.906847+00:00",
+    "generated": "2025-12-28T17:16:56.225985+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 35,
+    "total_threats": 34,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -307,16 +307,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 9",
       "protocol": "TCP",
       "country": "IR"
-    },
-    {
-      "ip": "178.62.201.8",
-      "first_seen": "2025-11-28T17:10:11.742000+00:00",
-      "last_seen": "2025-12-01T16:54:10.021000+00:00",
-      "count": 4,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "179.43.184.242",

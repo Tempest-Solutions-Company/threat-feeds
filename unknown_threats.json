@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-29T06:25:03.302892+00:00",
+    "generated": "2025-12-29T06:55:22.478414+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 58,
+    "total_threats": 57,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -527,16 +527,6 @@
       "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "206.81.12.187",
-      "first_seen": "2025-11-29T06:30:52.038000+00:00",
-      "last_seen": "2025-11-29T06:30:52.038000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT GraphQL Introspection Query Attempt",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "212.57.185.186",

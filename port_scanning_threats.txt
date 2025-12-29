@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2025-12-29T09:57:17.646148+00:00
+# Generated: 2025-12-29T10:27:37.491560+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 145
+# Total IPs: 146
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -85,6 +85,7 @@
 52.167.144.173 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2025-12-16 | 2025-12-16 | 1
 52.167.144.229 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2025-12-03 | 2025-12-03 | 1
 52.188.189.6 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-02 | 2025-12-02 | 1
+52.188.189.7 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-29 | 2025-12-29 | 1
 62.60.131.162 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | IR | 2025-12-22 | 2025-12-22 | 1
 64.23.218.208 | LOW | ET SCAN LeakIX Inbound User-Agent | US | 2025-12-22 | 2025-12-22 | 1
 64.227.32.66 | LOW | ET SCAN LeakIX Inbound User-Agent | GB | 2025-12-26 | 2025-12-26 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2025-12-29T14:30:14.809371+00:00",
+    "generated": "2025-12-29T15:00:34.193466+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 57,
+    "total_threats": 56,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -447,16 +447,6 @@
       "signature": "ET EXPLOIT MVPower DVR Shell UCE",
       "protocol": "TCP",
       "country": "PH"
-    },
-    {
-      "ip": "185.177.72.144",
-      "first_seen": "2025-11-29T14:42:46.988000+00:00",
-      "last_seen": "2025-11-29T14:42:46.988000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",
-      "protocol": "TCP",
-      "country": "FR"
     },
     {
       "ip": "193.34.213.150",

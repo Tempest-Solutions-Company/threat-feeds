@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated": "2025-12-30T19:18:49.821812+00:00",
+    "generated": "2025-12-30T19:49:08.560575+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "expiry_days": 30,
-    "total_categories": 9,
+    "total_categories": 10,
     "total_threats": 689,
     "total_unique_ips": 681
   },
@@ -32,11 +32,23 @@
         "csv": "sql_injection_threats.csv"
       }
     },
-    "SSH_Scanning": {
-      "total_threats": 284,
-      "unique_ips": 284,
+    "Command_Injection": {
+      "total_threats": 1,
+      "unique_ips": 1,
       "severity_breakdown": {
-        "medium": 284
+        "high": 1
+      },
+      "files": {
+        "txt": "command_injection_threats.txt",
+        "json": "command_injection_threats.json",
+        "csv": "command_injection_threats.csv"
+      }
+    },
+    "SSH_Scanning": {
+      "total_threats": 283,
+      "unique_ips": 283,
+      "severity_breakdown": {
+        "medium": 283
       },
       "files": {
         "txt": "ssh_scanning_threats.txt",

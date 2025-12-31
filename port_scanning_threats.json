@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-12-31T14:01:57.052187+00:00",
+    "generated": "2025-12-31T14:32:17.989851+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 145,
+    "total_threats": 144,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -941,8 +941,8 @@
     {
       "ip": "93.123.109.58",
       "first_seen": "2025-12-31T02:38:16.271000+00:00",
-      "last_seen": "2025-12-31T02:38:16.271000+00:00",
-      "count": 1,
+      "last_seen": "2025-12-31T14:15:48.115000+00:00",
+      "count": 2,
       "severity": "low",
       "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
       "protocol": "TCP",
@@ -1407,16 +1407,6 @@
       "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "197.39.144.84",
-      "first_seen": "2025-12-01T14:21:15.263000+00:00",
-      "last_seen": "2025-12-01T14:21:15.263000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Mirai Variant User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "EG"
     },
     {
       "ip": "198.211.101.24",

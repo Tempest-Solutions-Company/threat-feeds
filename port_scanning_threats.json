@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2025-12-31T08:58:12.951362+00:00",
+    "generated": "2025-12-31T09:28:33.719768+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 146,
+    "total_threats": 145,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1457,16 +1457,6 @@
       "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "213.209.157.177",
-      "first_seen": "2025-12-01T09:06:02.674000+00:00",
-      "last_seen": "2025-12-14T21:52:49.569000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
-      "protocol": "TCP",
-      "country": "DE"
     }
   ]
 }

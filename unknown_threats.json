@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-01-01T17:51:01.896988+00:00",
+    "generated": "2026-01-01T18:21:22.317362+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 55,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -487,16 +487,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "195.178.110.240",
-      "first_seen": "2025-12-02T18:05:21.022000+00:00",
-      "last_seen": "2025-12-02T18:19:43.064000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
-      "protocol": "TCP",
-      "country": "AD"
     },
     {
       "ip": "197.134.250.138",

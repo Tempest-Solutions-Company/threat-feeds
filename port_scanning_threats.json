@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-01-02T07:30:18.227760+00:00",
+    "generated": "2026-01-02T08:00:39.470637+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 139,
+    "total_threats": 137,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -779,16 +779,6 @@
       "country": "US"
     },
     {
-      "ip": "52.167.144.229",
-      "first_seen": "2025-12-03T07:49:14.030000+00:00",
-      "last_seen": "2025-12-03T07:49:14.030000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "52.188.189.7",
       "first_seen": "2025-12-29T10:01:42.081000+00:00",
       "last_seen": "2025-12-29T10:01:42.081000+00:00",
@@ -857,16 +847,6 @@
       "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
       "protocol": "TCP",
       "country": "SG"
-    },
-    {
-      "ip": "69.164.217.245",
-      "first_seen": "2025-12-03T07:32:31.976000+00:00",
-      "last_seen": "2025-12-03T07:32:31.976000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "74.235.100.130",

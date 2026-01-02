@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-01-02T01:26:12.183180+00:00",
+    "generated": "2026-01-02T01:56:32.667400+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 55,
+    "total_threats": 54,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -147,16 +147,6 @@
       "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "87.121.84.116",
-      "first_seen": "2025-12-03T01:46:27.469000+00:00",
-      "last_seen": "2025-12-04T23:26:12.642000+00:00",
-      "count": 3,
-      "severity": "low",
-      "signature": "ET EXPLOIT VMWare Server-side Template Injection RCE (CVE-2022-22954)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "87.251.67.85",

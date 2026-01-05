@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-01-05T01:45:21.881996+00:00
+# Generated: 2026-01-05T02:15:42.289822+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 48
+# Total IPs: 47
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -27,7 +27,6 @@
 87.251.78.220 | LOW | GPL SMTP vrfy root | RU | 2025-12-12 | 2026-01-02 | 5
 89.185.84.23 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | GB | 2025-12-07 | 2025-12-07 | 1
 95.214.52.170 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | PL | 2025-12-06 | 2025-12-06 | 1
-101.36.123.102 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | HK | 2025-12-06 | 2025-12-06 | 1
 101.251.219.5 | LOW | ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement | CN | 2025-12-17 | 2025-12-17 | 1
 103.40.61.98 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | IN | 2025-12-07 | 2025-12-24 | 2
 103.118.40.39 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | HK | 2025-12-17 | 2025-12-17 | 1

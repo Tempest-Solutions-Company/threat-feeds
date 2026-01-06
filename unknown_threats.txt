@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-01-06T07:36:24.804235+00:00
+# Generated: 2026-01-06T08:06:45.365582+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 45
+# Total IPs: 44
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -47,7 +47,6 @@
 195.133.76.117 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | NL | 2025-12-19 | 2025-12-19 | 1
 197.134.250.138 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | EG | 2025-12-13 | 2025-12-13 | 1
 204.76.203.8 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | NL | 2025-12-12 | 2025-12-17 | 2
-213.35.99.200 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2025-12-07 | 2025-12-07 | 1
 213.176.117.85 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | SE | 2025-12-31 | 2025-12-31 | 1
 216.81.248.59 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | US | 2025-12-10 | 2025-12-11 | 3
 216.250.254.36 | LOW | ET WEB_SERVER Wordpress Login Bruteforcing Detected | US | 2025-12-27 | 2025-12-27 | 1

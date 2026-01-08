@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-01-08T14:45:13.859838+00:00",
+    "generated": "2026-01-08T15:15:36.548884+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 114,
+    "total_threats": 113,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -367,16 +367,6 @@
       "signature": "ET SCAN JAWS Webserver Unauthenticated Shell Command Execution",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "34.30.226.3",
-      "first_seen": "2025-12-09T15:13:20.921000+00:00",
-      "last_seen": "2025-12-09T15:13:20.921000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "34.46.130.170",

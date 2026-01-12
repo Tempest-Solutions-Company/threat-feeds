@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-01-12T12:49:45.696105+00:00
+# Generated: 2026-01-12T13:20:05.743051+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 97
+# Total IPs: 96
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -93,7 +93,6 @@
 172.104.30.66 | LOW | ET SCAN Rapid IMAP Connections - Possible Brute Force Attack | US | 2025-12-27 | 2025-12-27 | 1
 172.206.226.233 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-15 | 2025-12-15 | 1
 172.208.25.111 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-19 | 2025-12-19 | 1
-175.126.123.213 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | KR | 2025-12-13 | 2025-12-13 | 1
 178.128.55.35 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2025-12-25 | 2025-12-25 | 1
 178.239.198.101 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | GB | 2025-12-26 | 2025-12-26 | 1
 185.193.156.147 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-12-18 | 2025-12-18 | 1

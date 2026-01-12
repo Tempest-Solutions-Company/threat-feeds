@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-01-12T03:43:44.162777+00:00",
+    "generated": "2026-01-12T04:14:04.208453+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 99,
+    "total_threats": 98,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -787,16 +787,6 @@
       "signature": "ET SCAN LeakIX Inbound User-Agent",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "157.245.204.205",
-      "first_seen": "2025-12-13T03:50:10.081000+00:00",
-      "last_seen": "2025-12-13T03:50:10.081000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN LeakIX Inbound User-Agent",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "159.223.132.86",

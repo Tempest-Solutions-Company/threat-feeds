@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2026-01-14T10:51:14.876682+00:00",
+    "generated": "2026-01-14T11:21:34.224266+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 153,
+    "total_threats": 152,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -812,16 +812,6 @@
       "ip": "134.122.58.143",
       "first_seen": "2025-12-24T05:28:37.008000+00:00",
       "last_seen": "2025-12-24T05:28:37.008000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "134.122.63.70",
-      "first_seen": "2025-12-15T11:16:08.060000+00:00",
-      "last_seen": "2025-12-15T11:16:08.060000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",

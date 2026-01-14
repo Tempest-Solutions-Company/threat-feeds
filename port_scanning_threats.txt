@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-01-14T09:20:14.984527+00:00
+# Generated: 2026-01-14T09:50:34.663237+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 88
+# Total IPs: 86
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -35,7 +35,6 @@
 23.95.96.140 | LOW | ET SCAN Suspicious User-Agent Containing Web Scan/er Likely Web Scanner | US | 2025-12-31 | 2025-12-31 | 1
 34.57.50.41 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-12-26 | 2025-12-26 | 1
 34.67.72.251 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-12-31 | 2025-12-31 | 1
-34.73.241.105 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-12-15 | 2025-12-15 | 1
 35.229.82.219 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-12-31 | 2025-12-31 | 1
 35.231.123.177 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-12-28 | 2025-12-28 | 1
 40.77.167.54 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2025-12-18 | 2025-12-18 | 1
@@ -84,7 +83,6 @@
 165.227.173.41 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2025-12-30 | 2025-12-30 | 1
 169.150.203.247 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2025-12-16 | 2025-12-16 | 1
 172.104.30.66 | LOW | ET SCAN Rapid IMAP Connections - Possible Brute Force Attack | US | 2025-12-27 | 2025-12-27 | 1
-172.206.226.233 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-15 | 2025-12-15 | 1
 172.208.25.111 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2025-12-19 | 2025-12-19 | 1
 178.128.55.35 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2025-12-25 | 2025-12-25 | 1
 178.239.198.101 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | GB | 2025-12-26 | 2025-12-26 | 1

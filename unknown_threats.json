@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-01-14T02:15:38.757854+00:00",
+    "generated": "2026-01-14T02:45:57.460195+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 33,
+    "total_threats": 32,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -37,16 +37,6 @@
       "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
       "protocol": "TCP",
       "country": "PK"
-    },
-    {
-      "ip": "37.60.141.252",
-      "first_seen": "2025-12-15T02:44:16.969000+00:00",
-      "last_seen": "2026-01-05T23:09:20.020000+00:00",
-      "count": 7,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "38.242.212.239",

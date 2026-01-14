@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-01-14T09:20:14.984527+00:00",
+    "generated": "2026-01-14T09:50:34.663237+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 88,
+    "total_threats": 86,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -282,16 +282,6 @@
       "ip": "34.67.72.251",
       "first_seen": "2025-12-31T05:52:12.746000+00:00",
       "last_seen": "2025-12-31T05:52:12.746000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "34.73.241.105",
-      "first_seen": "2025-12-15T09:35:01.165000+00:00",
-      "last_seen": "2025-12-15T09:35:01.165000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
@@ -775,16 +765,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Rapid IMAP Connections - Possible Brute Force Attack",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "172.206.226.233",
-      "first_seen": "2025-12-15T09:47:20.426000+00:00",
-      "last_seen": "2025-12-15T09:47:20.426000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "US"
     },

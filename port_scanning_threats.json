@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-01-15T18:12:38.362645+00:00",
+    "generated": "2026-01-15T18:43:04.329684+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 83,
+    "total_threats": 81,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -339,16 +339,6 @@
       "country": "US"
     },
     {
-      "ip": "40.77.167.154",
-      "first_seen": "2025-12-16T18:18:16.221000+00:00",
-      "last_seen": "2025-12-16T18:18:16.221000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "40.124.127.239",
       "first_seen": "2025-12-29T11:19:28.128000+00:00",
       "last_seen": "2025-12-29T11:19:28.128000+00:00",
@@ -412,16 +402,6 @@
       "ip": "45.33.14.5",
       "first_seen": "2025-12-26T15:33:18.019000+00:00",
       "last_seen": "2025-12-26T15:33:18.019000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "45.56.79.53",
-      "first_seen": "2025-12-16T18:34:17.084000+00:00",
-      "last_seen": "2025-12-16T18:34:17.084000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Zmap User-Agent (Inbound)",

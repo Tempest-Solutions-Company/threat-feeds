@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated": "2026-01-15T17:11:52.570391+00:00",
+    "generated": "2026-01-15T17:42:13.994031+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "expiry_days": 30,
     "total_categories": 9,
-    "total_threats": 374,
-    "total_unique_ips": 370
+    "total_threats": 372,
+    "total_unique_ips": 368
   },
   "categories": {
     "Compromised_Host": {
@@ -58,10 +58,10 @@
       }
     },
     "Port_Scanning": {
-      "total_threats": 84,
-      "unique_ips": 84,
+      "total_threats": 83,
+      "unique_ips": 83,
       "severity_breakdown": {
-        "low": 84
+        "low": 83
       },
       "files": {
         "txt": "port_scanning_threats.txt",
@@ -94,10 +94,10 @@
       }
     },
     "Terminal_Server_Attack": {
-      "total_threats": 19,
-      "unique_ips": 19,
+      "total_threats": 18,
+      "unique_ips": 18,
       "severity_breakdown": {
-        "medium": 19
+        "medium": 18
       },
       "files": {
         "txt": "terminal_server_attack_threats.txt",

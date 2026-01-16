@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-01-16T17:59:13.269232+00:00",
+    "generated": "2026-01-16T18:29:32.657007+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 29,
+    "total_threats": 28,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -127,16 +127,6 @@
       "signature": "GPL SMTP vrfy root",
       "protocol": "TCP",
       "country": "RU"
-    },
-    {
-      "ip": "101.251.219.5",
-      "first_seen": "2025-12-17T18:15:27.123000+00:00",
-      "last_seen": "2025-12-17T18:15:27.123000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement",
-      "protocol": "TCP",
-      "country": "CN"
     },
     {
       "ip": "111.228.38.119",

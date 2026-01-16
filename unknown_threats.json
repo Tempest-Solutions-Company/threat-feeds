@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-01-16T02:19:17.358596+00:00",
+    "generated": "2026-01-16T02:49:35.772873+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 30,
+    "total_threats": 29,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -137,16 +137,6 @@
       "signature": "ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "103.118.40.39",
-      "first_seen": "2025-12-17T02:27:20.141000+00:00",
-      "last_seen": "2025-12-17T02:27:20.141000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
-      "protocol": "TCP",
-      "country": "HK"
     },
     {
       "ip": "111.228.38.119",

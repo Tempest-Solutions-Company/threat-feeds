@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-01-18T02:18:37.353532+00:00",
+    "generated": "2026-01-18T02:48:54.692862+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 60,
+    "total_threats": 59,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -535,16 +535,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Rapid IMAP Connections - Possible Brute Force Attack",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "172.208.25.111",
-      "first_seen": "2025-12-19T02:37:52.449000+00:00",
-      "last_seen": "2025-12-19T02:37:52.449000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "US"
     },

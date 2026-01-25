@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2026-01-24T23:06:43.164292+00:00",
+    "generated": "2026-01-25T07:41:21.170800+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 59,
+    "total_threats": 55,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -89,16 +89,6 @@
       "country": "IR"
     },
     {
-      "ip": "66.181.171.136",
-      "first_seen": "2025-12-26T07:15:21.027000+00:00",
-      "last_seen": "2025-12-26T07:27:42.266000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "MN"
-    },
-    {
       "ip": "68.183.13.144",
       "first_seen": "2025-12-30T22:42:05.505000+00:00",
       "last_seen": "2025-12-30T22:42:05.505000+00:00",
@@ -117,16 +107,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "RU"
-    },
-    {
-      "ip": "87.92.131.254",
-      "first_seen": "2025-12-26T06:19:56.042000+00:00",
-      "last_seen": "2025-12-26T06:19:56.042000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "FI"
     },
     {
       "ip": "91.224.92.14",
@@ -369,16 +349,6 @@
       "country": "NL"
     },
     {
-      "ip": "142.93.214.1",
-      "first_seen": "2025-12-26T05:29:53.095000+00:00",
-      "last_seen": "2025-12-26T05:29:53.095000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IN"
-    },
-    {
       "ip": "148.170.67.107",
       "first_seen": "2025-12-27T19:14:48.306000+00:00",
       "last_seen": "2025-12-27T19:14:48.306000+00:00",
@@ -562,16 +532,6 @@
       "ip": "188.166.55.70",
       "first_seen": "2025-12-26T16:20:09.050000+00:00",
       "last_seen": "2025-12-26T16:20:09.050000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "209.38.39.204",
-      "first_seen": "2025-12-26T05:50:25.499000+00:00",
-      "last_seen": "2025-12-26T05:50:25.499000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",

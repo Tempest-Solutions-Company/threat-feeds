@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-01-25T12:58:57.961961+00:00",
+    "generated": "2026-01-25T13:36:40.436944+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 11,
+    "total_threats": 10,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -77,16 +77,6 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "CH"
-    },
-    {
-      "ip": "180.191.16.206",
-      "first_seen": "2025-12-26T13:14:48.059000+00:00",
-      "last_seen": "2025-12-26T13:14:48.059000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT MVPower DVR Shell UCE",
-      "protocol": "TCP",
-      "country": "PH"
     },
     {
       "ip": "193.142.147.57",

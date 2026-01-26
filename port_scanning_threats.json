@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-01-26T05:15:59.399156+00:00",
+    "generated": "2026-01-26T11:26:17.793411+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 25,
+    "total_threats": 22,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -99,16 +99,6 @@
       "country": "US"
     },
     {
-      "ip": "40.124.173.168",
-      "first_seen": "2025-12-27T06:12:45.023000+00:00",
-      "last_seen": "2025-12-27T06:12:45.023000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "43.255.106.38",
       "first_seen": "2025-12-31T15:40:34.490000+00:00",
       "last_seen": "2025-12-31T15:40:34.490000+00:00",
@@ -179,16 +169,6 @@
       "country": "SG"
     },
     {
-      "ip": "74.249.177.110",
-      "first_seen": "2025-12-27T08:01:25.278000+00:00",
-      "last_seen": "2025-12-27T08:01:25.278000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "93.123.109.58",
       "first_seen": "2025-12-31T02:38:16.271000+00:00",
       "last_seen": "2025-12-31T15:10:00.063000+00:00",
@@ -247,16 +227,6 @@
       "signature": "ET SCAN LeakIX Inbound User-Agent",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "172.104.30.66",
-      "first_seen": "2025-12-27T08:30:01.975000+00:00",
-      "last_seen": "2025-12-27T08:30:01.975000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Rapid IMAP Connections - Possible Brute Force Attack",
-      "protocol": "TCP",
-      "country": "US"
     }
   ]
 }

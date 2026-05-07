@@ -1,92 +1,22 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-01-26T11:26:17.793411+00:00",
+    "generated": "2026-05-07T05:16:02.978497+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 8,
+    "total_threats": 1,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
     {
-      "ip": "45.192.10.196",
-      "first_seen": "2025-12-27T23:44:04.214000+00:00",
-      "last_seen": "2025-12-27T23:44:04.214000+00:00",
+      "ip": "193.29.139.179",
+      "first_seen": "2026-05-07T05:07:03.061000+00:00",
+      "last_seen": "2026-05-07T05:07:03.061000+00:00",
       "count": 1,
       "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "TW"
-    },
-    {
-      "ip": "87.251.78.58",
-      "first_seen": "2025-12-29T17:47:01.064000+00:00",
-      "last_seen": "2025-12-29T17:47:01.064000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL SMTP vrfy root",
-      "protocol": "TCP",
-      "country": "RU"
-    },
-    {
-      "ip": "87.251.78.129",
-      "first_seen": "2025-12-27T15:12:48.151000+00:00",
-      "last_seen": "2025-12-27T22:20:12.132000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL SMTP vrfy root",
-      "protocol": "TCP",
-      "country": "RU"
-    },
-    {
-      "ip": "118.26.111.61",
-      "first_seen": "2025-12-30T17:04:09.012000+00:00",
-      "last_seen": "2025-12-30T17:04:09.012000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
-      "ip": "141.255.164.26",
-      "first_seen": "2025-12-29T02:38:00.364000+00:00",
-      "last_seen": "2025-12-29T02:38:00.364000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "CH"
-    },
-    {
-      "ip": "193.142.147.57",
-      "first_seen": "2025-12-28T21:00:51.713000+00:00",
-      "last_seen": "2025-12-28T21:00:51.713000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "213.176.117.85",
-      "first_seen": "2025-12-31T18:37:42.603000+00:00",
-      "last_seen": "2025-12-31T18:37:42.603000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "SE"
-    },
-    {
-      "ip": "216.250.254.36",
-      "first_seen": "2025-12-27T14:58:29.110000+00:00",
-      "last_seen": "2025-12-27T14:58:29.110000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
-      "protocol": "TCP",
-      "country": "US"
     }
   ]
 }

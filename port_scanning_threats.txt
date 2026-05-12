@@ -1,12 +1,13 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-05-12T11:07:27.813284+00:00
+# Generated: 2026-05-12T11:37:50.792891+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 35
+# Total IPs: 36
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
+5.255.124.153 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | NL | 2026-05-12 | 2026-05-12 | 1
 13.86.115.177 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-08 | 2026-05-08 | 1
 13.89.125.22 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-11 | 2026-05-11 | 1
 20.80.82.220 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-11 | 2026-05-11 | 1

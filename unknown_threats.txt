@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-05-13T01:48:32.587990+00:00
+# Generated: 2026-05-13T02:18:51.751291+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 11
+# Total IPs: 13
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -11,10 +11,12 @@
 45.148.10.249 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | NL | 2026-05-11 | 2026-05-11 | 1
 45.230.66.101 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | AR | 2026-05-08 | 2026-05-08 | 1
 46.249.98.130 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | DE | 2026-05-07 | 2026-05-07 | 1
+84.3.57.206 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | HU | 2026-05-13 | 2026-05-13 | 1
 101.47.8.187 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | SG | 2026-05-11 | 2026-05-11 | 1
 101.47.16.134 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2026-05-08 | 2026-05-08 | 1
 143.14.124.172 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | NL | 2026-05-12 | 2026-05-12 | 1
 152.32.132.28 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | HK | 2026-05-12 | 2026-05-12 | 1
 166.108.239.148 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | SG | 2026-05-11 | 2026-05-11 | 1
 172.185.40.47 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-05-10 | 2026-05-10 | 1
+173.197.14.231 | LOW | ET WEB_SERVER JBoss jmx-console Probe | US | 2026-05-13 | 2026-05-13 | 1
 193.29.139.179 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-05-07 | 2026-05-12 | 2

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-05-13T01:48:32.587990+00:00",
+    "generated": "2026-05-13T02:18:51.751291+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 11,
+    "total_threats": 13,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -47,6 +47,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "84.3.57.206",
+      "first_seen": "2026-05-13T01:49:47.155000+00:00",
+      "last_seen": "2026-05-13T01:49:47.155000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
+      "protocol": "TCP",
+      "country": "HU"
     },
     {
       "ip": "101.47.8.187",
@@ -105,6 +115,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "173.197.14.231",
+      "first_seen": "2026-05-13T02:09:36.127000+00:00",
+      "last_seen": "2026-05-13T02:09:36.127000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER JBoss jmx-console Probe",
       "protocol": "TCP",
       "country": "US"
     },

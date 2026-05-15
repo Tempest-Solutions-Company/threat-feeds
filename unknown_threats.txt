@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-05-15T05:21:17.058006+00:00
+# Generated: 2026-05-15T05:51:36.517436+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 21
+# Total IPs: 22
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -9,6 +9,7 @@
 
 5.253.41.26 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | JP | 2026-05-09 | 2026-05-09 | 1
 36.129.33.42 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CN | 2026-05-13 | 2026-05-13 | 1
+43.155.223.190 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | KR | 2026-05-15 | 2026-05-15 | 1
 45.148.10.249 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | NL | 2026-05-11 | 2026-05-11 | 1
 45.230.66.101 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | AR | 2026-05-08 | 2026-05-08 | 1
 46.249.98.130 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | DE | 2026-05-07 | 2026-05-07 | 1

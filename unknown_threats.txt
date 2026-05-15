@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-05-15T02:49:38.772303+00:00
+# Generated: 2026-05-15T03:19:57.859273+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 20
+# Total IPs: 21
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -24,6 +24,7 @@
 168.222.140.218 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | RU | 2026-05-14 | 2026-05-14 | 1
 172.185.40.47 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-05-10 | 2026-05-10 | 1
 173.197.14.231 | LOW | ET WEB_SERVER JBoss jmx-console Probe | US | 2026-05-13 | 2026-05-13 | 1
+180.76.172.156 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CN | 2026-05-15 | 2026-05-15 | 1
 185.177.72.67 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-05-14 | 2026-05-14 | 1
 193.29.139.179 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-05-07 | 2026-05-12 | 2
 209.99.184.233 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-05-13 | 2026-05-13 | 1

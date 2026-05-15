@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-05-15T21:02:36.853940+00:00
+# Generated: 2026-05-15T21:32:59.361219+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 52
+# Total IPs: 53
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -48,6 +48,7 @@
 91.224.92.82 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | LT | 2026-05-12 | 2026-05-12 | 1
 92.118.39.86 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-09 | 2026-05-09 | 1
 96.62.228.120 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | PL | 2026-05-12 | 2026-05-12 | 1
+96.62.228.121 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | PL | 2026-05-15 | 2026-05-15 | 1
 96.126.106.7 | LOW | ET SCAN Rapid POP3 Connections - Possible Brute Force Attack | US | 2026-05-07 | 2026-05-07 | 1
 135.119.112.96 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-07 | 2026-05-07 | 1
 135.237.124.6 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-09 | 2026-05-09 | 1

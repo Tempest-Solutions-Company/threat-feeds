@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-05-15T22:03:20.776071+00:00
+# Generated: 2026-05-15T22:33:41.378066+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 53
+# Total IPs: 54
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -52,6 +52,7 @@
 96.126.106.7 | LOW | ET SCAN Rapid POP3 Connections - Possible Brute Force Attack | US | 2026-05-07 | 2026-05-07 | 1
 135.119.112.96 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-07 | 2026-05-07 | 1
 135.237.124.6 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-09 | 2026-05-09 | 1
+138.197.24.249 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-15 | 2026-05-15 | 1
 157.245.69.67 | LOW | ET SCAN Zmap User-Agent (Inbound) | NL | 2026-05-08 | 2026-05-08 | 1
 159.203.44.105 | LOW | ET SCAN Zmap User-Agent (Inbound) | CA | 2026-05-12 | 2026-05-12 | 1
 165.22.233.189 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | CA | 2026-05-15 | 2026-05-15 | 1

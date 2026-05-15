@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-05-15T00:48:18.537523+00:00",
+    "generated": "2026-05-15T01:18:38.090498+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 19,
+    "total_threats": 20,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -109,10 +109,20 @@
       "country": "NL"
     },
     {
+      "ip": "151.243.150.23",
+      "first_seen": "2026-05-15T01:13:27.215000+00:00",
+      "last_seen": "2026-05-15T01:13:27.215000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL WEB_SERVER .htpasswd access",
+      "protocol": "TCP",
+      "country": "DE"
+    },
+    {
       "ip": "152.32.132.28",
       "first_seen": "2026-05-12T05:20:52.466000+00:00",
-      "last_seen": "2026-05-12T05:20:52.466000+00:00",
-      "count": 1,
+      "last_seen": "2026-05-15T01:02:44.238000+00:00",
+      "count": 2,
       "severity": "low",
       "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
       "protocol": "TCP",

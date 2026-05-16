@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-05-16T03:06:40.116211+00:00",
+    "generated": "2026-05-16T03:36:59.229840+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 57,
+    "total_threats": 59,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -175,6 +175,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "40.74.212.73",
+      "first_seen": "2026-05-16T03:10:17.136000+00:00",
+      "last_seen": "2026-05-16T03:10:17.136000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "US"
     },
@@ -465,6 +475,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Rapid POP3 Connections - Possible Brute Force Attack",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "124.198.132.189",
+      "first_seen": "2026-05-16T03:34:15.068000+00:00",
+      "last_seen": "2026-05-16T03:34:15.068000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
       "protocol": "TCP",
       "country": "US"
     },

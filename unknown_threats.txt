@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-05-16T12:42:58.605080+00:00
+# Generated: 2026-05-16T13:13:18.290872+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 24
+# Total IPs: 25
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -17,6 +17,7 @@
 101.47.8.187 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | SG | 2026-05-11 | 2026-05-11 | 1
 101.47.16.134 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2026-05-08 | 2026-05-08 | 1
 103.176.16.197 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | IN | 2026-05-14 | 2026-05-14 | 1
+141.98.101.178 | LOW | ET WEB_SERVER PHP tags in HTTP POST | GB | 2026-05-16 | 2026-05-16 | 1
 143.14.124.172 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | NL | 2026-05-12 | 2026-05-12 | 1
 151.243.150.23 | LOW | GPL WEB_SERVER .htpasswd access | DE | 2026-05-15 | 2026-05-15 | 1
 152.32.132.28 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | HK | 2026-05-12 | 2026-05-15 | 2

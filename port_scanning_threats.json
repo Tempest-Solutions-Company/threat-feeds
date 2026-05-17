@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-05-17T03:22:30.528402+00:00",
+    "generated": "2026-05-17T03:52:49.471420+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 62,
+    "total_threats": 63,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -585,6 +585,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Rapid POP3S Connections - Possible Brute Force Attack",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "173.255.221.189",
+      "first_seen": "2026-05-17T03:48:11.078000+00:00",
+      "last_seen": "2026-05-17T03:48:11.078000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "US"
     },

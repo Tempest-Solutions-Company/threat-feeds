@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-05-17T11:27:37.269809+00:00",
+    "generated": "2026-05-17T11:57:56.367227+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 29,
+    "total_threats": 30,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -41,8 +41,8 @@
     {
       "ip": "43.167.198.92",
       "first_seen": "2026-05-17T11:16:29.333000+00:00",
-      "last_seen": "2026-05-17T11:16:29.333000+00:00",
-      "count": 1,
+      "last_seen": "2026-05-17T11:31:26.148000+00:00",
+      "count": 2,
       "severity": "low",
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
@@ -177,6 +177,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "HK"
+    },
+    {
+      "ip": "160.119.71.12",
+      "first_seen": "2026-05-17T11:49:22.027000+00:00",
+      "last_seen": "2026-05-17T11:49:22.027000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "ZA"
     },
     {
       "ip": "163.7.1.156",

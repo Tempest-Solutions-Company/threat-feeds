@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-05-20T12:53:11.778298+00:00",
+    "generated": "2026-05-20T13:23:38.459873+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 36,
+    "total_threats": 37,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -167,6 +167,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "144.172.94.2",
+      "first_seen": "2026-05-20T13:09:03.159000+00:00",
+      "last_seen": "2026-05-20T13:09:03.159000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "151.243.150.23",

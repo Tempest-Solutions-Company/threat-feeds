@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-05-20T02:45:14.761969+00:00
+# Generated: 2026-05-20T03:15:36.853155+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 33
+# Total IPs: 34
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -15,6 +15,7 @@
 45.230.66.101 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | AR | 2026-05-08 | 2026-05-08 | 1
 46.249.98.130 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | DE | 2026-05-07 | 2026-05-07 | 1
 84.3.57.206 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | HU | 2026-05-13 | 2026-05-13 | 1
+85.11.167.46 | LOW | ET EXPLOIT MVPower DVR Shell UCE | BG | 2026-05-20 | 2026-05-20 | 1
 101.47.8.187 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | SG | 2026-05-11 | 2026-05-18 | 2
 101.47.16.134 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SG | 2026-05-08 | 2026-05-08 | 1
 103.176.16.197 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | IN | 2026-05-14 | 2026-05-14 | 1

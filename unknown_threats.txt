@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-05-21T10:09:26.228036+00:00
+# Generated: 2026-05-21T10:39:53.791198+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 40
+# Total IPs: 41
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -43,6 +43,7 @@
 193.29.139.179 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-05-07 | 2026-05-17 | 3
 193.29.139.251 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-05-17 | 2026-05-17 | 1
 194.233.87.234 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | SG | 2026-05-18 | 2026-05-18 | 1
+195.178.110.135 | LOW | ET Threatview.io High Confidence Cobalt Strike C2 IP group 3 | AD | 2026-05-21 | 2026-05-21 | 1
 195.178.110.199 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-05-21 | 2026-05-21 | 1
 209.99.184.233 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-05-13 | 2026-05-13 | 1
 211.101.234.227 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | JP | 2026-05-20 | 2026-05-20 | 1

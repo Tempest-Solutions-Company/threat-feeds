@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-05-21T09:08:37.177096+00:00
+# Generated: 2026-05-21T09:39:01.491152+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 87
+# Total IPs: 89
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -48,6 +48,7 @@
 51.158.205.47 | LOW | ET SCAN NETWORK Incoming Masscan detected | NL | 2026-05-16 | 2026-05-16 | 1
 52.167.144.55 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-05-15 | 2026-05-15 | 1
 52.167.144.172 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-05-13 | 2026-05-13 | 1
+52.167.144.183 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-05-21 | 2026-05-21 | 1
 52.167.144.198 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-05-08 | 2026-05-08 | 1
 52.167.144.211 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-05-11 | 2026-05-11 | 1
 52.186.182.60 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-12 | 2026-05-12 | 1
@@ -70,6 +71,7 @@
 96.62.228.121 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | PL | 2026-05-15 | 2026-05-15 | 1
 96.126.106.7 | LOW | ET SCAN Rapid POP3 Connections - Possible Brute Force Attack | US | 2026-05-07 | 2026-05-07 | 1
 124.198.132.189 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2026-05-16 | 2026-05-16 | 1
+130.131.161.148 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-21 | 2026-05-21 | 1
 130.131.163.217 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-20 | 2026-05-20 | 1
 135.119.112.96 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-07 | 2026-05-07 | 1
 135.237.124.6 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-05-09 | 2026-05-09 | 1

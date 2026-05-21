@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-05-21T17:15:51.571052+00:00",
+    "generated": "2026-05-21T17:46:21.446856+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 41,
+    "total_threats": 42,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -17,6 +17,16 @@
       "signature": "ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1",
       "protocol": "TCP",
       "country": "JP"
+    },
+    {
+      "ip": "31.70.66.13",
+      "first_seen": "2026-05-21T17:41:30.191000+00:00",
+      "last_seen": "2026-05-21T17:41:30.191000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound)",
+      "protocol": "TCP",
+      "country": "DE"
     },
     {
       "ip": "36.129.33.42",

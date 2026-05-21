@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-05-21T09:08:37.177096+00:00",
+    "generated": "2026-05-21T09:39:01.491152+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 87,
+    "total_threats": 89,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -419,6 +419,16 @@
       "country": "US"
     },
     {
+      "ip": "52.167.144.183",
+      "first_seen": "2026-05-21T09:09:30.296000+00:00",
+      "last_seen": "2026-05-21T09:09:30.296000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
       "ip": "52.167.144.198",
       "first_seen": "2026-05-08T10:18:09.515000+00:00",
       "last_seen": "2026-05-08T10:18:09.515000+00:00",
@@ -635,6 +645,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "130.131.161.148",
+      "first_seen": "2026-05-21T09:34:07.909000+00:00",
+      "last_seen": "2026-05-21T09:34:07.909000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "US"
     },

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-05-22T01:52:47.105766+00:00",
+    "generated": "2026-05-22T02:23:08.780629+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 43,
+    "total_threats": 44,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -97,6 +97,16 @@
       "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
       "protocol": "TCP",
       "country": "AR"
+    },
+    {
+      "ip": "46.246.28.170",
+      "first_seen": "2026-05-22T01:56:34.017000+00:00",
+      "last_seen": "2026-05-22T01:56:34.017000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
+      "protocol": "TCP",
+      "country": "SE"
     },
     {
       "ip": "46.249.98.130",

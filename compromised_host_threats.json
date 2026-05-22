@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2026-05-22T15:33:30.094731+00:00",
+    "generated": "2026-05-22T16:03:55.818445+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 24,
+    "total_threats": 26,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -129,6 +129,16 @@
       "country": "US"
     },
     {
+      "ip": "152.32.192.176",
+      "first_seen": "2026-05-22T15:54:14.005000+00:00",
+      "last_seen": "2026-05-22T15:54:14.005000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 3",
+      "protocol": "TCP",
+      "country": "HK"
+    },
+    {
       "ip": "161.132.38.88",
       "first_seen": "2026-05-19T06:36:07.878000+00:00",
       "last_seen": "2026-05-19T06:36:07.878000+00:00",
@@ -167,6 +177,16 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 5",
       "protocol": "TCP",
       "country": "KZ"
+    },
+    {
+      "ip": "181.104.43.225",
+      "first_seen": "2026-05-22T15:39:47.122000+00:00",
+      "last_seen": "2026-05-22T15:39:47.122000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 5",
+      "protocol": "TCP",
+      "country": "AR"
     },
     {
       "ip": "185.38.148.2",

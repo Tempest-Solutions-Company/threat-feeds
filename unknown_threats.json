@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-05-24T04:29:24.354099+00:00",
+    "generated": "2026-05-24T04:59:45.292593+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 48,
+    "total_threats": 49,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -277,6 +277,16 @@
       "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
       "protocol": "TCP",
       "country": "ZA"
+    },
+    {
+      "ip": "160.119.76.10",
+      "first_seen": "2026-05-24T04:39:32.820000+00:00",
+      "last_seen": "2026-05-24T04:39:32.820000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound)",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "163.7.1.156",

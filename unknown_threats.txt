@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-05-30T22:33:57.760350+00:00
+# Generated: 2026-05-30T23:04:19.907311+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 52
+# Total IPs: 53
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -20,6 +20,7 @@
 45.230.66.101 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | AR | 2026-05-08 | 2026-05-08 | 1
 46.246.28.170 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-05-22 | 2026-05-22 | 4
 46.249.98.130 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | DE | 2026-05-07 | 2026-05-07 | 1
+66.9.166.112 | HIGH | ET EXPLOIT D-Link DSL-2750B - OS Command Injection | JM | 2026-05-30 | 2026-05-30 | 1
 84.3.57.206 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | HU | 2026-05-13 | 2026-05-13 | 1
 85.11.167.46 | LOW | ET EXPLOIT MVPower DVR Shell UCE | BG | 2026-05-20 | 2026-05-20 | 1
 89.232.152.204 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2026-05-28 | 2026-05-28 | 1

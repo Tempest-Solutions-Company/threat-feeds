@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-05-31T18:48:19.324791+00:00",
+    "generated": "2026-05-31T19:18:40.955407+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 55,
+    "total_threats": 56,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -27,6 +27,16 @@
       "signature": "ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1",
       "protocol": "TCP",
       "country": "JP"
+    },
+    {
+      "ip": "20.233.94.56",
+      "first_seen": "2026-05-31T18:52:47.311000+00:00",
+      "last_seen": "2026-05-31T18:52:47.311000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "AE"
     },
     {
       "ip": "31.70.66.13",

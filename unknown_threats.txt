@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-02T14:22:46.957556+00:00
+# Generated: 2026-06-02T14:53:18.447196+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 66
+# Total IPs: 67
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -46,6 +46,7 @@
 152.53.207.216 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | DE | 2026-06-02 | 2026-06-02 | 1
 160.119.71.12 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | ZA | 2026-05-17 | 2026-05-17 | 1
 160.119.76.10 | LOW | ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound) | NL | 2026-05-24 | 2026-05-24 | 1
+162.198.46.77 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-06-02 | 2026-06-02 | 1
 163.7.1.156 | LOW | ET WEB_SERVER PHP.//Input in HTTP POST | ID | 2026-05-15 | 2026-05-15 | 1
 166.108.239.148 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | SG | 2026-05-11 | 2026-05-11 | 1
 168.222.140.218 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | RU | 2026-05-14 | 2026-05-14 | 1

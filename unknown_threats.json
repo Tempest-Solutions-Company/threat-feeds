@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-02T06:15:55.714120+00:00",
+    "generated": "2026-06-02T06:46:21.269697+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 63,
+    "total_threats": 64,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -197,6 +197,16 @@
       "signature": "ET EXPLOIT D-Link DSL-2750B - OS Command Injection",
       "protocol": "TCP",
       "country": "JM"
+    },
+    {
+      "ip": "72.61.43.203",
+      "first_seen": "2026-06-02T06:38:26.031000+00:00",
+      "last_seen": "2026-06-02T06:38:26.031000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "BR"
     },
     {
       "ip": "84.3.57.206",

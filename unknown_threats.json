@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-02T14:22:46.957556+00:00",
+    "generated": "2026-06-02T14:53:18.447196+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 66,
+    "total_threats": 67,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -397,6 +397,16 @@
       "signature": "ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound)",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "162.198.46.77",
+      "first_seen": "2026-06-02T14:34:53.320000+00:00",
+      "last_seen": "2026-06-02T14:34:53.320000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "163.7.1.156",

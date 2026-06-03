@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-03T09:38:27.683724+00:00",
+    "generated": "2026-06-03T10:08:52.119487+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 70,
+    "total_threats": 71,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -287,6 +287,16 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "SG"
+    },
+    {
+      "ip": "103.76.109.81",
+      "first_seen": "2026-06-03T09:51:09.535000+00:00",
+      "last_seen": "2026-06-03T09:51:09.535000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT MVPower DVR Shell UCE",
+      "protocol": "TCP",
+      "country": "ID"
     },
     {
       "ip": "103.143.41.203",

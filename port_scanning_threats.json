@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-06-03T18:16:20.981103+00:00",
+    "generated": "2026-06-03T18:46:49.754545+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 129,
+    "total_threats": 130,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -531,8 +531,8 @@
     {
       "ip": "45.94.31.32",
       "first_seen": "2026-06-03T12:28:25.597000+00:00",
-      "last_seen": "2026-06-03T16:23:30.532000+00:00",
-      "count": 2,
+      "last_seen": "2026-06-03T18:43:11.040000+00:00",
+      "count": 3,
       "severity": "low",
       "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
       "protocol": "TCP",
@@ -1207,6 +1207,16 @@
       "signature": "ET SCAN JAWS Webserver Unauthenticated Shell Command Execution",
       "protocol": "TCP",
       "country": "HN"
+    },
+    {
+      "ip": "177.124.88.216",
+      "first_seen": "2026-06-03T18:29:02.235000+00:00",
+      "last_seen": "2026-06-03T18:29:02.235000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN NETWORK Incoming Masscan detected",
+      "protocol": "TCP",
+      "country": "BR"
     },
     {
       "ip": "185.213.174.22",

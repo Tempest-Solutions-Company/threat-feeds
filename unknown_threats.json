@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-04T03:23:26.731100+00:00",
+    "generated": "2026-06-04T03:53:48.927767+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 74,
+    "total_threats": 75,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -157,6 +157,16 @@
       "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "45.187.7.194",
+      "first_seen": "2026-06-04T03:39:05.064000+00:00",
+      "last_seen": "2026-06-04T03:39:05.064000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016)",
+      "protocol": "TCP",
+      "country": "VE"
     },
     {
       "ip": "45.198.224.22",

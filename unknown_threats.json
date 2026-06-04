@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-04T02:22:42.920196+00:00",
+    "generated": "2026-06-04T02:53:05.102664+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 73,
+    "total_threats": 74,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -397,6 +397,16 @@
       "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "148.255.38.193",
+      "first_seen": "2026-06-04T02:27:36.464000+00:00",
+      "last_seen": "2026-06-04T02:27:36.464000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ETPRO EXPLOIT GPON Authentication Bypass Attempt (CVE-2018-10561)",
+      "protocol": "TCP",
+      "country": "DO"
     },
     {
       "ip": "151.243.150.23",

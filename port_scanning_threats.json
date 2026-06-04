@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-06-04T22:48:03.431993+00:00",
+    "generated": "2026-06-04T23:18:25.442114+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 132,
+    "total_threats": 133,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -857,6 +857,16 @@
       "signature": "ET SCAN Rapid POP3 Connections - Possible Brute Force Attack",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "103.123.226.10",
+      "first_seen": "2026-06-04T23:13:21.337000+00:00",
+      "last_seen": "2026-06-04T23:13:21.337000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN NETWORK Incoming Masscan detected",
+      "protocol": "TCP",
+      "country": "IN"
     },
     {
       "ip": "124.198.132.189",

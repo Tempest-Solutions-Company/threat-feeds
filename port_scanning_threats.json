@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-06-05T15:30:25.811744+00:00",
+    "generated": "2026-06-05T16:00:49.610871+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 134,
+    "total_threats": 133,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -793,16 +793,6 @@
       "first_seen": "2026-05-11T12:45:15.037000+00:00",
       "last_seen": "2026-05-12T04:18:00+00:00",
       "count": 3,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "88.151.34.254",
-      "first_seen": "2026-05-06T15:58:33.038000+00:00",
-      "last_seen": "2026-05-06T15:58:33.038000+00:00",
-      "count": 1,
       "severity": "low",
       "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
       "protocol": "TCP",

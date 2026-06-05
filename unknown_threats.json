@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-05T13:59:09.624917+00:00",
+    "generated": "2026-06-05T14:29:32.396149+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 76,
+    "total_threats": 77,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -535,6 +535,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SERVER JBoss jmx-console Probe",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "178.156.253.13",
+      "first_seen": "2026-06-05T14:21:45.282000+00:00",
+      "last_seen": "2026-06-05T14:21:45.282000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "US"
     },

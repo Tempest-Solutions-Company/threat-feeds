@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-06-06T04:40:11.337953+00:00",
+    "generated": "2026-06-06T05:10:31.556461+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 131,
+    "total_threats": 130,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -467,16 +467,6 @@
       "signature": "ET SCAN WhatWeb Web Application Fingerprint Scanner Default User-Agent Detected",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "45.33.14.197",
-      "first_seen": "2026-05-07T04:40:54.023000+00:00",
-      "last_seen": "2026-05-07T04:40:54.023000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "45.33.109.8",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-07T04:26:17.629913+00:00
+# Generated: 2026-06-07T04:56:37.934136+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 76
+# Total IPs: 75
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -25,7 +25,6 @@
 45.148.10.249 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | NL | 2026-05-11 | 2026-05-11 | 1
 45.187.7.194 | LOW | ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016) | VE | 2026-06-04 | 2026-06-04 | 1
 45.198.224.22 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | SE | 2026-06-01 | 2026-06-01 | 1
-45.230.66.101 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | AR | 2026-05-08 | 2026-05-08 | 1
 46.246.28.170 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-05-22 | 2026-06-01 | 6
 52.186.174.244 | LOW | GPL WEB_SERVER .htpasswd access | US | 2026-06-02 | 2026-06-02 | 1
 54.232.198.229 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | BR | 2026-06-01 | 2026-06-01 | 1

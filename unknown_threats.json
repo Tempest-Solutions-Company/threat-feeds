@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-06T23:53:14.120501+00:00",
+    "generated": "2026-06-07T00:23:34.438253+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 76,
+    "total_threats": 77,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -145,6 +145,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",
+      "protocol": "TCP",
+      "country": "NL"
+    },
+    {
+      "ip": "45.148.10.200",
+      "first_seen": "2026-06-07T00:02:25.872000+00:00",
+      "last_seen": "2026-06-07T00:02:25.872000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
       "protocol": "TCP",
       "country": "NL"
     },

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-07T00:53:55.005946+00:00",
+    "generated": "2026-06-07T01:24:15.127877+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 77,
+    "total_threats": 76,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -305,16 +305,6 @@
       "count": 3,
       "severity": "low",
       "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
-      "ip": "101.47.16.134",
-      "first_seen": "2026-05-08T00:56:22.190000+00:00",
-      "last_seen": "2026-05-08T00:56:22.190000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "SG"
     },

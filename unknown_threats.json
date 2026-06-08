@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-08T02:11:10.213997+00:00",
+    "generated": "2026-06-08T02:41:31.812999+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 76,
+    "total_threats": 77,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -517,6 +517,16 @@
       "signature": "ET WEB_SERVER JBoss jmx-console Probe",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "176.65.148.139",
+      "first_seen": "2026-06-08T02:31:09.435000+00:00",
+      "last_seen": "2026-06-08T02:31:09.435000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "178.156.253.13",

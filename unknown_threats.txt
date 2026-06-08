@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-08T15:51:37.380505+00:00
+# Generated: 2026-06-08T16:22:01.778528+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 77
+# Total IPs: 78
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -41,6 +41,7 @@
 103.176.16.197 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | IN | 2026-05-14 | 2026-05-14 | 1
 109.172.55.64 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | FR | 2026-05-16 | 2026-05-16 | 1
 110.35.80.116 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | ID | 2026-05-17 | 2026-05-24 | 2
+120.236.49.131 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | CN | 2026-06-08 | 2026-06-08 | 1
 138.121.113.104 | LOW | ET EXPLOIT MVPower DVR Shell UCE | AR | 2026-06-02 | 2026-06-02 | 1
 141.98.101.178 | LOW | ET WEB_SERVER PHP tags in HTTP POST | GB | 2026-05-16 | 2026-05-16 | 1
 143.14.124.172 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | NL | 2026-05-12 | 2026-05-12 | 1

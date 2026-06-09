@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-09T14:08:11.223310+00:00",
+    "generated": "2026-06-09T14:38:36.700384+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 78,
+    "total_threats": 79,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -167,6 +167,16 @@
       "signature": "ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016)",
       "protocol": "TCP",
       "country": "VE"
+    },
+    {
+      "ip": "45.198.224.13",
+      "first_seen": "2026-06-09T14:21:59.780000+00:00",
+      "last_seen": "2026-06-09T14:21:59.780000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "SE"
     },
     {
       "ip": "45.198.224.22",

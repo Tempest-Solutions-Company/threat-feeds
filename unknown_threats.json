@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-11T07:09:35.578338+00:00",
+    "generated": "2026-06-11T07:39:57.380982+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 75,
+    "total_threats": 76,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -267,6 +267,16 @@
       "signature": "ET EXPLOIT MVPower DVR Shell UCE",
       "protocol": "TCP",
       "country": "BG"
+    },
+    {
+      "ip": "85.239.243.205",
+      "first_seen": "2026-06-11T07:34:15.969000+00:00",
+      "last_seen": "2026-06-11T07:34:15.969000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "89.232.152.204",

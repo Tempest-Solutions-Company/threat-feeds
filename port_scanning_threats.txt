@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-06-11T17:17:47.172032+00:00
+# Generated: 2026-06-11T17:48:11.379851+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 103
+# Total IPs: 102
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -66,7 +66,6 @@
 85.121.126.220 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | DE | 2026-05-13 | 2026-05-13 | 1
 88.151.32.194 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | NL | 2026-05-21 | 2026-05-21 | 1
 88.151.33.226 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | NL | 2026-05-20 | 2026-05-20 | 1
-91.224.92.82 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | LT | 2026-05-12 | 2026-05-12 | 1
 96.62.228.121 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | PL | 2026-05-15 | 2026-05-15 | 1
 103.123.226.10 | LOW | ET SCAN NETWORK Incoming Masscan detected | IN | 2026-06-04 | 2026-06-04 | 1
 124.198.132.189 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | US | 2026-05-16 | 2026-05-16 | 1

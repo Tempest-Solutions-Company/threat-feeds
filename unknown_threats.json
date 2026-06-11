@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-11T15:46:35.074231+00:00",
+    "generated": "2026-06-11T16:17:00.157783+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 78,
+    "total_threats": 79,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -667,6 +667,16 @@
       "signature": "ET WEB_SERVER Cisco IOS HTTP Server Exec Command Execution Attempt",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "191.101.233.145",
+      "first_seen": "2026-06-11T15:54:35.948000+00:00",
+      "last_seen": "2026-06-11T15:54:35.948000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "193.29.139.251",

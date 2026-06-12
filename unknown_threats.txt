@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-12T05:26:39.608886+00:00
+# Generated: 2026-06-12T05:57:01.076170+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 77
+# Total IPs: 78
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -46,6 +46,7 @@
 138.121.113.104 | LOW | ET EXPLOIT MVPower DVR Shell UCE | AR | 2026-06-02 | 2026-06-02 | 1
 141.98.101.178 | LOW | ET WEB_SERVER PHP tags in HTTP POST | GB | 2026-05-16 | 2026-05-16 | 1
 142.248.80.174 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | US | 2026-06-11 | 2026-06-11 | 1
+142.248.80.209 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | US | 2026-06-12 | 2026-06-12 | 1
 144.172.94.2 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | US | 2026-05-20 | 2026-05-21 | 2
 148.255.38.193 | LOW | ETPRO EXPLOIT GPON Authentication Bypass Attempt (CVE-2018-10561) | DO | 2026-06-04 | 2026-06-04 | 1
 151.243.150.23 | LOW | GPL WEB_SERVER .htpasswd access | DE | 2026-05-15 | 2026-05-15 | 1

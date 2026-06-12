@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-12T05:26:39.608886+00:00",
+    "generated": "2026-06-12T05:57:01.076170+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 77,
+    "total_threats": 78,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -392,6 +392,16 @@
       "ip": "142.248.80.174",
       "first_seen": "2026-06-11T20:34:36.710000+00:00",
       "last_seen": "2026-06-11T20:34:36.710000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "142.248.80.209",
+      "first_seen": "2026-06-12T05:36:28.999000+00:00",
+      "last_seen": "2026-06-12T05:36:28.999000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",

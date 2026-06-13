@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-13T19:23:58.044047+00:00",
+    "generated": "2026-06-13T19:54:19.133891+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 74,
+    "total_threats": 73,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -417,16 +417,6 @@
       "signature": "GPL WEB_SERVER .htpasswd access",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "152.32.226.205",
-      "first_seen": "2026-05-14T19:33:50.948000+00:00",
-      "last_seen": "2026-05-28T20:42:47.593000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "HK"
     },
     {
       "ip": "152.53.207.216",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-13T14:50:46.558021+00:00",
+    "generated": "2026-06-13T15:21:07.661444+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 74,
+    "total_threats": 75,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -697,6 +697,16 @@
       "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
       "protocol": "TCP",
       "country": "AD"
+    },
+    {
+      "ip": "208.84.100.180",
+      "first_seen": "2026-06-13T15:11:41.187000+00:00",
+      "last_seen": "2026-06-13T15:11:41.187000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "208.84.101.75",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-13T15:51:28.444136+00:00",
+    "generated": "2026-06-13T16:21:49.399678+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 75,
+    "total_threats": 74,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -317,16 +317,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
       "protocol": "TCP",
       "country": "ID"
-    },
-    {
-      "ip": "103.176.16.197",
-      "first_seen": "2026-05-14T16:14:11.359000+00:00",
-      "last_seen": "2026-05-14T16:14:11.359000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
-      "protocol": "TCP",
-      "country": "IN"
     },
     {
       "ip": "109.172.55.64",

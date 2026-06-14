@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-14T06:31:43.959166+00:00
+# Generated: 2026-06-14T07:02:05.006228+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 70
+# Total IPs: 69
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -50,7 +50,6 @@
 160.119.71.12 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | ZA | 2026-05-17 | 2026-05-17 | 1
 160.119.76.10 | LOW | ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound) | NL | 2026-05-24 | 2026-05-24 | 1
 162.198.46.77 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-06-02 | 2026-06-02 | 1
-163.7.1.156 | LOW | ET WEB_SERVER PHP.//Input in HTTP POST | ID | 2026-05-15 | 2026-05-15 | 1
 176.65.148.139 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-06-08 | 2026-06-08 | 1
 178.156.253.13 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-06-05 | 2026-06-05 | 1
 178.254.37.49 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | DE | 2026-06-01 | 2026-06-01 | 1

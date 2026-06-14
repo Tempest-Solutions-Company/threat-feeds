@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-14T17:39:36.887057+00:00
+# Generated: 2026-06-14T18:09:57.658754+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 69
+# Total IPs: 70
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -9,6 +9,7 @@
 
 3.108.115.28 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | IN | 2026-06-01 | 2026-06-01 | 1
 5.101.4.144 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2026-05-22 | 2026-05-27 | 3
+5.175.192.17 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | NL | 2026-06-14 | 2026-06-14 | 1
 20.115.103.83 | LOW | GPL WEB_SERVER .htpasswd access | US | 2026-06-02 | 2026-06-02 | 1
 20.233.94.56 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | AE | 2026-05-31 | 2026-05-31 | 1
 23.95.113.30 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | US | 2026-06-11 | 2026-06-11 | 1

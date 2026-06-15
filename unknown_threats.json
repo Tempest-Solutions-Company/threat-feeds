@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-15T21:00:16.478001+00:00",
+    "generated": "2026-06-15T21:30:40.403239+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 70,
+    "total_threats": 69,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -687,16 +687,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "JP"
-    },
-    {
-      "ip": "216.81.245.69",
-      "first_seen": "2026-05-16T21:29:24.197000+00:00",
-      "last_seen": "2026-05-16T21:29:24.197000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "219.151.190.165",

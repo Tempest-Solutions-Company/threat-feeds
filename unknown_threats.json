@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-15T14:55:18.510766+00:00",
+    "generated": "2026-06-15T15:25:44.572866+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 70,
+    "total_threats": 71,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -77,6 +77,16 @@
       "signature": "ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound)",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "31.132.90.3",
+      "first_seen": "2026-06-15T15:13:35.190000+00:00",
+      "last_seen": "2026-06-15T15:13:35.190000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER allow_url_include PHP config option in uri",
+      "protocol": "TCP",
+      "country": "KZ"
     },
     {
       "ip": "35.187.168.103",

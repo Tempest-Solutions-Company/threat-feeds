@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-15T13:24:03.388937+00:00",
+    "generated": "2026-06-15T13:54:28.278431+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 68,
+    "total_threats": 69,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -77,6 +77,16 @@
       "signature": "ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound)",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "35.187.168.103",
+      "first_seen": "2026-06-15T13:44:32.809000+00:00",
+      "last_seen": "2026-06-15T13:44:32.809000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
+      "protocol": "TCP",
+      "country": "BE"
     },
     {
       "ip": "37.120.213.13",

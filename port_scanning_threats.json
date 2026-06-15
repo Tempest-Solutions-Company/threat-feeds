@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-06-15T05:48:14.346963+00:00",
+    "generated": "2026-06-15T06:18:35.941496+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 85,
+    "total_threats": 84,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -777,16 +777,6 @@
       "signature": "ET SCAN NETWORK Incoming Masscan detected",
       "protocol": "TCP",
       "country": "BR"
-    },
-    {
-      "ip": "185.213.174.45",
-      "first_seen": "2026-05-16T05:55:48.139000+00:00",
-      "last_seen": "2026-05-16T05:55:48.139000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "188.166.247.214",

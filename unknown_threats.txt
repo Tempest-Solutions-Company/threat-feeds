@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-16T11:41:46.987774+00:00
+# Generated: 2026-06-16T12:12:27.755457+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 68
+# Total IPs: 67
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -49,7 +49,6 @@
 144.172.94.2 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | US | 2026-05-20 | 2026-05-21 | 2
 148.255.38.193 | LOW | ETPRO EXPLOIT GPON Authentication Bypass Attempt (CVE-2018-10561) | DO | 2026-06-04 | 2026-06-04 | 1
 152.53.207.216 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | DE | 2026-06-02 | 2026-06-02 | 1
-160.119.71.12 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | ZA | 2026-05-17 | 2026-05-17 | 1
 160.119.76.10 | LOW | ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound) | NL | 2026-05-24 | 2026-05-24 | 1
 162.198.46.77 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-06-02 | 2026-06-02 | 1
 176.65.148.139 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-06-08 | 2026-06-08 | 1

@@ -1,12 +1,13 @@
 # Web_Attack Threat Feed
-# Generated: 2026-06-18T05:15:15.435271+00:00
+# Generated: 2026-06-18T05:45:37.036470+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 8
+# Total IPs: 9
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
+20.12.202.181 | HIGH | ET WEB_SERVER WEB-PHP phpinfo access | US | 2026-06-18 | 2026-06-18 | 1
 20.104.248.142 | HIGH | ET WEB_SERVER WEB-PHP phpinfo access | CA | 2026-06-17 | 2026-06-17 | 1
 20.196.203.243 | HIGH | ET WEB_SERVER WEB-PHP phpinfo access | KR | 2026-06-04 | 2026-06-04 | 1
 20.197.235.71 | HIGH | ET WEB_SERVER WEB-PHP phpinfo access | BR | 2026-06-16 | 2026-06-16 | 1

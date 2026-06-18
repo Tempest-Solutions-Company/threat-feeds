@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-18T00:42:01.960744+00:00",
+    "generated": "2026-06-18T01:12:23.158741+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 66,
+    "total_threats": 65,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -261,8 +261,8 @@
     {
       "ip": "81.26.130.147",
       "first_seen": "2026-06-15T23:12:54.740000+00:00",
-      "last_seen": "2026-06-15T23:12:54.740000+00:00",
-      "count": 1,
+      "last_seen": "2026-06-18T00:57:17.328000+00:00",
+      "count": 2,
       "severity": "low",
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
@@ -477,16 +477,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "VN"
-    },
-    {
-      "ip": "181.215.65.58",
-      "first_seen": "2026-05-19T01:07:18.131000+00:00",
-      "last_seen": "2026-05-19T01:07:18.131000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "185.38.148.2",

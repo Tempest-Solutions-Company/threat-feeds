@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-20T07:22:45.637697+00:00
+# Generated: 2026-06-20T07:53:06.035204+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 61
+# Total IPs: 60
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -16,7 +16,6 @@
 31.70.66.13 | LOW | ET EXPLOIT Cisco IOS XE Web Server Possible Authentication Bypass Attempt (CVE-2023-20198) (Inbound) | DE | 2026-05-21 | 2026-05-21 | 1
 31.132.90.3 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | KZ | 2026-06-15 | 2026-06-15 | 1
 35.187.168.103 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | BE | 2026-06-15 | 2026-06-15 | 1
-37.120.213.13 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CH | 2026-05-21 | 2026-05-21 | 1
 42.238.141.15 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | CN | 2026-05-21 | 2026-05-21 | 1
 45.125.5.147 | LOW | ETPRO EXPLOIT GPON Authentication Bypass Attempt (CVE-2018-10561) | MM | 2026-06-03 | 2026-06-03 | 1
 45.133.74.8 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | DE | 2026-05-31 | 2026-05-31 | 1

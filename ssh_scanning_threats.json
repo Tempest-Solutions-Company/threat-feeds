@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2026-06-21T16:45:53.525822+00:00",
+    "generated": "2026-06-21T17:16:14.249829+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 311,
+    "total_threats": 309,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -41,8 +41,8 @@
     {
       "ip": "4.184.246.230",
       "first_seen": "2026-06-04T18:58:23.470000+00:00",
-      "last_seen": "2026-06-04T19:15:39.786000+00:00",
-      "count": 2,
+      "last_seen": "2026-06-21T17:14:27.979000+00:00",
+      "count": 3,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -121,8 +121,8 @@
     {
       "ip": "8.138.104.235",
       "first_seen": "2026-06-21T15:59:01.602000+00:00",
-      "last_seen": "2026-06-21T16:35:52.572000+00:00",
-      "count": 4,
+      "last_seen": "2026-06-21T17:02:48.361000+00:00",
+      "count": 6,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -2249,16 +2249,6 @@
       "country": "HK"
     },
     {
-      "ip": "154.21.235.71",
-      "first_seen": "2026-05-22T17:00:33.097000+00:00",
-      "last_seen": "2026-05-22T17:00:33.097000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IN"
-    },
-    {
       "ip": "157.66.49.113",
       "first_seen": "2026-06-01T23:29:15.085000+00:00",
       "last_seen": "2026-06-02T01:22:04.910000+00:00",
@@ -2877,16 +2867,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "RU"
-    },
-    {
-      "ip": "194.88.98.101",
-      "first_seen": "2026-05-22T16:47:21.317000+00:00",
-      "last_seen": "2026-05-22T16:47:21.317000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "DE"
     },
     {
       "ip": "194.88.98.103",

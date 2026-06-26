@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2026-06-26T06:10:32.292651+00:00",
+    "generated": "2026-06-26T06:40:56.522882+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 312,
+    "total_threats": 313,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -2209,6 +2209,16 @@
       "country": "CN"
     },
     {
+      "ip": "141.11.88.5",
+      "first_seen": "2026-06-26T06:29:28.479000+00:00",
+      "last_seen": "2026-06-26T06:29:28.479000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
       "ip": "141.11.88.6",
       "first_seen": "2026-06-22T20:27:37.132000+00:00",
       "last_seen": "2026-06-22T21:08:31.576000+00:00",
@@ -2289,6 +2299,16 @@
       "country": "DZ"
     },
     {
+      "ip": "155.103.69.40",
+      "first_seen": "2026-06-26T06:40:52.141000+00:00",
+      "last_seen": "2026-06-26T06:40:52.141000+00:00",
+      "count": 1,
+      "severity": "medium",
+      "signature": "ET SCAN Potential SSH Scan",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
       "ip": "156.227.233.77",
       "first_seen": "2026-06-23T15:46:36.440000+00:00",
       "last_seen": "2026-06-23T15:46:36.440000+00:00",
@@ -2331,22 +2351,12 @@
     {
       "ip": "160.25.5.221",
       "first_seen": "2026-06-26T05:14:39.254000+00:00",
-      "last_seen": "2026-06-26T06:05:51.687000+00:00",
-      "count": 5,
+      "last_seen": "2026-06-26T06:18:43.441000+00:00",
+      "count": 6,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "BD"
-    },
-    {
-      "ip": "160.187.229.170",
-      "first_seen": "2026-05-27T06:18:23.296000+00:00",
-      "last_seen": "2026-05-27T06:18:23.296000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
     },
     {
       "ip": "163.5.94.81",

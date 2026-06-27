@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-06-27T17:35:59.686854+00:00",
+    "generated": "2026-06-27T18:06:20.862132+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 50,
+    "total_threats": 49,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -427,16 +427,6 @@
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "177.10.185.14",
-      "first_seen": "2026-05-28T17:54:28.626000+00:00",
-      "last_seen": "2026-05-28T17:54:28.626000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN JAWS Webserver Unauthenticated Shell Command Execution",
-      "protocol": "TCP",
-      "country": "HN"
     },
     {
       "ip": "177.124.88.216",

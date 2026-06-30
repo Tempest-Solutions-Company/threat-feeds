@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-30T17:33:35.892715+00:00
+# Generated: 2026-06-30T18:03:58.879666+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 58
+# Total IPs: 59
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -39,6 +39,7 @@
 103.147.237.208 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | ID | 2026-06-07 | 2026-06-18 | 2
 104.28.166.114 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | SG | 2026-06-30 | 2026-06-30 | 1
 117.72.195.41 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CN | 2026-06-29 | 2026-06-29 | 1
+117.175.140.121 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-06-30 | 2026-06-30 | 1
 120.236.49.131 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | CN | 2026-06-08 | 2026-06-08 | 1
 138.121.113.104 | LOW | ET EXPLOIT MVPower DVR Shell UCE | AR | 2026-06-02 | 2026-06-02 | 1
 142.248.80.174 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | US | 2026-06-11 | 2026-06-11 | 1

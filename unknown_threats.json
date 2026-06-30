@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-06-30T02:52:39.036703+00:00",
+    "generated": "2026-06-30T03:23:00.378390+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 57,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -297,6 +297,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
       "protocol": "TCP",
       "country": "ID"
+    },
+    {
+      "ip": "104.28.166.114",
+      "first_seen": "2026-06-30T02:59:06.882000+00:00",
+      "last_seen": "2026-06-30T02:59:06.882000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
+      "protocol": "TCP",
+      "country": "SG"
     },
     {
       "ip": "117.72.195.41",

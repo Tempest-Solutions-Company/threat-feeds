@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-06-30T14:31:13.411119+00:00
+# Generated: 2026-06-30T15:01:37.485734+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 58
+# Total IPs: 59
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -65,3 +65,4 @@
 208.84.101.75 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | US | 2026-06-10 | 2026-06-10 | 1
 217.217.247.245 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-06-30 | 2026-06-30 | 1
 219.151.190.165 | LOW | ET WEB_SERVER JBoss jmx-console Probe | CN | 2026-06-05 | 2026-06-05 | 1
+223.85.102.138 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | CN | 2026-06-30 | 2026-06-30 | 1

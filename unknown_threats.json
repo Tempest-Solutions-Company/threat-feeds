@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-02T03:27:30.331125+00:00",
+    "generated": "2026-07-02T03:57:48.414207+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 57,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -437,6 +437,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "185.75.135.220",
+      "first_seen": "2026-07-02T03:27:52.925000+00:00",
+      "last_seen": "2026-07-02T03:27:52.925000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
+      "protocol": "TCP",
+      "country": "FI"
     },
     {
       "ip": "185.177.72.58",

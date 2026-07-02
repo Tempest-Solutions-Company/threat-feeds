@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-02T22:09:59.455509+00:00",
+    "generated": "2026-07-02T22:40:19.052681+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 53,
     "expiry_days": 30,
@@ -99,6 +99,16 @@
       "country": "NL"
     },
     {
+      "ip": "45.148.10.120",
+      "first_seen": "2026-07-02T22:15:56.169000+00:00",
+      "last_seen": "2026-07-02T22:15:56.169000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
+      "protocol": "TCP",
+      "country": "NL"
+    },
+    {
       "ip": "45.148.10.200",
       "first_seen": "2026-06-07T00:02:25.872000+00:00",
       "last_seen": "2026-06-30T07:33:37.281000+00:00",
@@ -147,16 +157,6 @@
       "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
       "protocol": "TCP",
       "country": "FR"
-    },
-    {
-      "ip": "52.186.174.244",
-      "first_seen": "2026-06-02T22:26:21.468000+00:00",
-      "last_seen": "2026-06-02T22:26:21.468000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL WEB_SERVER .htpasswd access",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "65.109.218.60",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-07-02T06:29:22.721835+00:00
+# Generated: 2026-07-02T06:59:41.611259+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 57
+# Total IPs: 56
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -26,7 +26,6 @@
 65.109.218.60 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-07-01 | 2026-07-01 | 1
 65.110.40.115 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | CA | 2026-06-30 | 2026-06-30 | 1
 67.225.140.37 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-06-26 | 2026-06-26 | 1
-72.61.43.203 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | BR | 2026-06-02 | 2026-06-02 | 1
 79.143.178.79 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FR | 2026-06-03 | 2026-06-03 | 1
 81.26.130.147 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2026-06-15 | 2026-06-18 | 2
 82.167.216.128 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | SA | 2026-06-03 | 2026-06-03 | 1

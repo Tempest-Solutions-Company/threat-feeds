@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-07-02T23:10:40.305438+00:00
+# Generated: 2026-07-02T23:41:00.276931+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 53
+# Total IPs: 52
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -35,7 +35,6 @@
 117.72.195.41 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CN | 2026-06-29 | 2026-06-29 | 1
 117.175.140.121 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-06-30 | 2026-06-30 | 1
 120.236.49.131 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | CN | 2026-06-08 | 2026-06-08 | 1
-138.121.113.104 | LOW | ET EXPLOIT MVPower DVR Shell UCE | AR | 2026-06-02 | 2026-06-02 | 1
 142.248.80.174 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | US | 2026-06-11 | 2026-06-11 | 1
 142.248.80.209 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | US | 2026-06-12 | 2026-06-12 | 1
 144.31.171.103 | LOW | ET WEB_SERVER PHP tags in HTTP POST | PL | 2026-06-15 | 2026-06-15 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-02T06:59:41.611259+00:00",
+    "generated": "2026-07-02T07:30:00.434226+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 54,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -17,16 +17,6 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "20.115.103.83",
-      "first_seen": "2026-06-02T07:16:51.841000+00:00",
-      "last_seen": "2026-06-02T07:16:51.841000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL WEB_SERVER .htpasswd access",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "23.95.113.30",
@@ -247,16 +237,6 @@
       "signature": "ET EXPLOIT MVPower DVR Shell UCE",
       "protocol": "TCP",
       "country": "ID"
-    },
-    {
-      "ip": "103.143.41.203",
-      "first_seen": "2026-06-02T07:02:07.734000+00:00",
-      "last_seen": "2026-06-02T07:02:07.734000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
-      "protocol": "TCP",
-      "country": "MN"
     },
     {
       "ip": "103.147.237.208",

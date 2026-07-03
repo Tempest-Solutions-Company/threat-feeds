@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-03T10:48:09.373276+00:00",
+    "generated": "2026-07-03T11:18:28.915357+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 50,
+    "total_threats": 51,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -327,6 +327,16 @@
       "signature": "ETPRO EXPLOIT GPON Authentication Bypass Attempt (CVE-2018-10561)",
       "protocol": "TCP",
       "country": "DO"
+    },
+    {
+      "ip": "157.173.104.13",
+      "first_seen": "2026-07-03T11:05:20.901000+00:00",
+      "last_seen": "2026-07-03T11:05:20.901000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
+      "protocol": "TCP",
+      "country": "FR"
     },
     {
       "ip": "176.65.148.30",

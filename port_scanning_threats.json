@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-07-04T23:11:10.939364+00:00",
+    "generated": "2026-07-04T23:41:30.539554+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 50,
     "expiry_days": 30,
@@ -269,16 +269,6 @@
       "country": "US"
     },
     {
-      "ip": "103.123.226.10",
-      "first_seen": "2026-06-04T23:13:21.337000+00:00",
-      "last_seen": "2026-06-04T23:13:21.337000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN NETWORK Incoming Masscan detected",
-      "protocol": "TCP",
-      "country": "IN"
-    },
-    {
       "ip": "110.10.176.48",
       "first_seen": "2026-07-01T07:28:02.212000+00:00",
       "last_seen": "2026-07-01T07:28:02.212000+00:00",
@@ -307,6 +297,16 @@
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "134.122.106.248",
+      "first_seen": "2026-07-04T23:20:39.154000+00:00",
+      "last_seen": "2026-07-04T23:20:39.154000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Zmap User-Agent (Inbound)",
+      "protocol": "TCP",
+      "country": "GB"
     },
     {
       "ip": "135.119.89.93",

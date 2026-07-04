@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-07-04T08:31:50.340026+00:00",
+    "generated": "2026-07-04T09:02:09.379980+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 50,
+    "total_threats": 51,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -487,6 +487,16 @@
       "signature": "ET SCAN Google Webcrawler User-Agent (Mediapartners-Google)",
       "protocol": "TCP",
       "country": "DZ"
+    },
+    {
+      "ip": "203.159.90.217",
+      "first_seen": "2026-07-04T08:33:33.555000+00:00",
+      "last_seen": "2026-07-04T08:33:33.555000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "206.81.24.227",

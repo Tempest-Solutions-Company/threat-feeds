@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-07-05T08:17:00.461194+00:00",
+    "generated": "2026-07-05T08:47:19.672442+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 53,
+    "total_threats": 52,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -497,16 +497,6 @@
       "signature": "ET SCAN Exabot Webcrawler User Agent",
       "protocol": "TCP",
       "country": "JP"
-    },
-    {
-      "ip": "197.119.255.58",
-      "first_seen": "2026-06-05T08:42:14.851000+00:00",
-      "last_seen": "2026-06-05T08:42:14.851000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Google Webcrawler User-Agent (Mediapartners-Google)",
-      "protocol": "TCP",
-      "country": "DZ"
     },
     {
       "ip": "203.159.90.217",

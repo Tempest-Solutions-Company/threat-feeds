@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-06T00:57:32.617787+00:00",
+    "generated": "2026-07-06T01:27:52.191386+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 48,
+    "total_threats": 49,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -255,6 +255,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
+      "protocol": "TCP",
+      "country": "CN"
+    },
+    {
+      "ip": "124.174.10.254",
+      "first_seen": "2026-07-06T01:19:20.502000+00:00",
+      "last_seen": "2026-07-06T01:19:20.502000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "CN"
     },

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "SQL_Injection",
-    "generated": "2026-01-12T06:45:45.398239+00:00",
+    "generated": "2026-07-08T13:42:04.502303+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 1,
     "expiry_days": 30,
@@ -9,14 +9,14 @@
   },
   "threats": [
     {
-      "ip": "185.16.39.52",
-      "first_seen": "2025-12-13T07:08:51.690000+00:00",
-      "last_seen": "2025-12-13T07:08:51.690000+00:00",
+      "ip": "47.82.64.235",
+      "first_seen": "2026-07-08T13:32:48.556000+00:00",
+      "last_seen": "2026-07-08T13:32:48.556000+00:00",
       "count": 1,
       "severity": "high",
-      "signature": "ET WEB_SERVER Possible SQL Injection (exec) in HTTP Request Body",
+      "signature": "ET WEB_SPECIFIC_APPS GLPI Pre-auth SQL Injection (CVE-2025-24799)",
       "protocol": "TCP",
-      "country": "PL"
+      "country": "HK"
     }
   ]
 }

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-07-07T23:31:12.838815+00:00
+# Generated: 2026-07-08T00:01:32.261896+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 50
+# Total IPs: 49
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -29,7 +29,6 @@
 81.26.130.147 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2026-06-15 | 2026-07-06 | 5
 85.239.243.205 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | US | 2026-06-11 | 2026-06-11 | 1
 103.134.2.53 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | PK | 2026-07-04 | 2026-07-04 | 1
-103.147.237.208 | LOW | ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2 | ID | 2026-06-07 | 2026-06-18 | 2
 104.28.166.114 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | SG | 2026-06-30 | 2026-06-30 | 1
 117.72.195.41 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CN | 2026-06-29 | 2026-06-29 | 1
 117.175.140.121 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-06-30 | 2026-06-30 | 1

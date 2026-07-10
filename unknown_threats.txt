@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-07-10T17:28:46.313322+00:00
+# Generated: 2026-07-10T17:59:12.430894+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 48
+# Total IPs: 49
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -28,6 +28,7 @@
 67.225.140.37 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-06-26 | 2026-06-26 | 1
 81.26.130.147 | LOW | ET WEB_SERVER PHP tags in HTTP POST | RU | 2026-06-15 | 2026-07-06 | 5
 85.239.243.205 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | US | 2026-06-11 | 2026-06-11 | 1
+103.83.237.25 | LOW | ET WEB_SERVER PHP tags in HTTP POST | ID | 2026-07-10 | 2026-07-10 | 1
 103.134.2.53 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | PK | 2026-07-04 | 2026-07-04 | 1
 104.28.166.114 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | SG | 2026-06-30 | 2026-06-30 | 1
 104.28.243.188 | LOW | GPL WEB_SERVER .htpasswd access | FR | 2026-07-10 | 2026-07-10 | 1

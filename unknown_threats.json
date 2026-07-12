@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-12T04:01:32.436532+00:00",
+    "generated": "2026-07-12T04:32:18.920269+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 45,
+    "total_threats": 46,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -97,6 +97,16 @@
       "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
       "protocol": "TCP",
       "country": "CN"
+    },
+    {
+      "ip": "45.90.163.37",
+      "first_seen": "2026-07-12T04:31:04.921000+00:00",
+      "last_seen": "2026-07-12T04:31:04.921000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
+      "protocol": "TCP",
+      "country": "FR"
     },
     {
       "ip": "45.148.10.13",

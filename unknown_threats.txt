@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-07-12T16:44:52.167735+00:00
+# Generated: 2026-07-12T17:15:34.504501+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 46
+# Total IPs: 47
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -42,6 +42,7 @@
 157.173.104.13 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | FR | 2026-07-03 | 2026-07-03 | 1
 176.65.148.30 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-06-21 | 2026-06-21 | 1
 178.17.48.230 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-06-29 | 2026-06-29 | 1
+185.68.184.237 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-07-12 | 2026-07-12 | 1
 185.75.135.220 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-07-02 | 2026-07-04 | 2
 185.177.72.11 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-07-07 | 2026-07-07 | 1
 185.177.72.58 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | FR | 2026-06-19 | 2026-06-19 | 1

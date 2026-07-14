@@ -1,13 +1,14 @@
 # Unknown Threat Feed
-# Generated: 2026-07-14T09:28:55.926729+00:00
+# Generated: 2026-07-14T09:59:20.873132+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 49
+# Total IPs: 50
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
 2.27.14.29 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-07-07 | 2026-07-07 | 1
+2.57.122.202 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-07-14 | 2026-07-14 | 1
 5.175.192.17 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | NL | 2026-06-14 | 2026-06-14 | 1
 24.144.83.228 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-06-27 | 2026-06-27 | 1
 31.59.160.12 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | BR | 2026-07-13 | 2026-07-13 | 1

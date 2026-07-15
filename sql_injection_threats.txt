@@ -1,7 +1,7 @@
 # SQL_Injection Threat Feed
-# Generated: 2026-07-15T06:46:48.331593+00:00
+# Generated: 2026-07-15T07:17:14.851599+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 2
+# Total IPs: 3
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -9,3 +9,4 @@
 
 47.82.64.235 | HIGH | ET WEB_SPECIFIC_APPS GLPI Pre-auth SQL Injection (CVE-2025-24799) | HK | 2026-07-08 | 2026-07-08 | 1
 94.154.43.64 | HIGH | ET WEB_SERVER Possible SQL Injection (exec) in HTTP URI | TR | 2026-07-09 | 2026-07-09 | 2
+158.179.175.173 | HIGH | ET WEB_SPECIFIC_APPS GLPI Pre-auth SQL Injection (CVE-2025-24799) | KR | 2026-07-15 | 2026-07-15 | 1

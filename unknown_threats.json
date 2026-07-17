@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-17T22:40:46.049448+00:00",
+    "generated": "2026-07-17T23:11:10.338269+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 53,
+    "total_threats": 54,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -485,6 +485,16 @@
       "count": 2,
       "severity": "low",
       "signature": "ET WEB_SERVER /bin/bash In URI, Possible Shell Command Execution Attempt Within Web Exploit",
+      "protocol": "TCP",
+      "country": "AD"
+    },
+    {
+      "ip": "195.178.110.211",
+      "first_seen": "2026-07-17T22:49:32.231000+00:00",
+      "last_seen": "2026-07-17T22:49:32.231000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
       "protocol": "TCP",
       "country": "AD"
     },

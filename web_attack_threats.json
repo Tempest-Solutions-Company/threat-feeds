@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Web_Attack",
-    "generated": "2026-07-17T07:58:26.568991+00:00",
+    "generated": "2026-07-17T08:28:51.387372+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 26,
+    "total_threats": 27,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -243,6 +243,16 @@
       "first_seen": "2026-07-17T06:08:09.542000+00:00",
       "last_seen": "2026-07-17T07:42:44.382000+00:00",
       "count": 2,
+      "severity": "high",
+      "signature": "ET WEB_SERVER /etc/passwd Detected in URI",
+      "protocol": "TCP",
+      "country": "AD"
+    },
+    {
+      "ip": "195.178.110.104",
+      "first_seen": "2026-07-17T08:19:50.620000+00:00",
+      "last_seen": "2026-07-17T08:19:50.620000+00:00",
+      "count": 1,
       "severity": "high",
       "signature": "ET WEB_SERVER /etc/passwd Detected in URI",
       "protocol": "TCP",

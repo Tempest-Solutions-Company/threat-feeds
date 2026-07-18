@@ -1,13 +1,14 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-07-18T04:45:35.063618+00:00
+# Generated: 2026-07-18T05:15:59.357189+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 77
+# Total IPs: 78
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
 2.27.49.47 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | DE | 2026-07-14 | 2026-07-14 | 1
+4.227.180.232 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-18 | 2026-07-18 | 1
 5.206.227.80 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | NL | 2026-07-03 | 2026-07-03 | 1
 9.234.8.125 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-08 | 2026-07-08 | 1
 20.12.240.188 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-03 | 2026-07-03 | 1

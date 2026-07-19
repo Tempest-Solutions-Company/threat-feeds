@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-07-19T21:49:11.444204+00:00
+# Generated: 2026-07-19T22:19:45.403212+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 56
+# Total IPs: 55
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -20,7 +20,7 @@
 42.235.81.240 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | CN | 2026-07-06 | 2026-07-06 | 1
 45.90.163.37 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | FR | 2026-07-12 | 2026-07-12 | 2
 45.148.10.40 | LOW | ET WEB_SERVER /etc/shadow Detected in URI | NL | 2026-07-19 | 2026-07-19 | 2
-45.148.10.80 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | NL | 2026-07-19 | 2026-07-19 | 6
+45.148.10.80 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | NL | 2026-07-19 | 2026-07-19 | 7
 45.148.10.119 | LOW | ET WEB_SERVER .bash_history Detected in URI | NL | 2026-07-17 | 2026-07-17 | 2
 45.148.10.120 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-07-02 | 2026-07-02 | 1
 45.148.10.238 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-07-06 | 2026-07-06 | 1
@@ -52,7 +52,6 @@
 185.68.184.237 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-07-12 | 2026-07-16 | 2
 185.75.135.220 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-07-02 | 2026-07-04 | 2
 185.177.72.11 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-07-07 | 2026-07-07 | 1
-185.177.72.58 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | FR | 2026-06-19 | 2026-06-19 | 1
 193.47.62.167 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-07-14 | 2026-07-18 | 3
 195.178.110.102 | LOW | ET WEB_SERVER /etc/hosts Detected in URI | AD | 2026-07-17 | 2026-07-17 | 3
 195.178.110.104 | LOW | ET WEB_SERVER .bash_history Detected in URI | AD | 2026-07-17 | 2026-07-17 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-19T21:49:11.444204+00:00",
+    "generated": "2026-07-19T22:19:45.403212+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 55,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -141,8 +141,8 @@
     {
       "ip": "45.148.10.80",
       "first_seen": "2026-07-19T19:21:47.402000+00:00",
-      "last_seen": "2026-07-19T21:45:59.937000+00:00",
-      "count": 6,
+      "last_seen": "2026-07-19T22:08:12.115000+00:00",
+      "count": 7,
       "severity": "low",
       "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
       "protocol": "TCP",
@@ -455,16 +455,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
-      "protocol": "TCP",
-      "country": "FR"
-    },
-    {
-      "ip": "185.177.72.58",
-      "first_seen": "2026-06-19T21:59:54.333000+00:00",
-      "last_seen": "2026-06-19T21:59:54.333000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1",
       "protocol": "TCP",
       "country": "FR"
     },

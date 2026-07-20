@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-07-20T09:32:49.162302+00:00
+# Generated: 2026-07-20T10:03:14.649149+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 56
+# Total IPs: 55
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -25,7 +25,6 @@
 45.148.10.120 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-07-02 | 2026-07-02 | 1
 45.148.10.238 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-07-06 | 2026-07-06 | 1
 45.153.34.231 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | NL | 2026-07-09 | 2026-07-09 | 1
-45.159.12.1 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-06-20 | 2026-06-20 | 1
 62.238.41.102 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-07-18 | 2026-07-18 | 1
 65.109.218.60 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-07-01 | 2026-07-01 | 1
 65.110.40.115 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | CA | 2026-06-30 | 2026-06-30 | 1

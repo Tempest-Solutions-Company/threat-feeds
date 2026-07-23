@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-07-23T18:19:19.831514+00:00
+# Generated: 2026-07-23T19:00:25.528575+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 81
+# Total IPs: 80
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -87,4 +87,3 @@
 203.159.90.217 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | NL | 2026-07-04 | 2026-07-18 | 2
 207.154.212.47 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2026-07-23 | 2026-07-23 | 1
 216.73.163.110 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2026-07-18 | 2026-07-18 | 1
-217.154.159.73 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | DE | 2026-06-23 | 2026-06-23 | 1

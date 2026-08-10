@@ -1,43 +1,13 @@
 {
   "metadata": {
     "category": "Web_Attack",
-    "generated": "2026-07-27T07:02:36.080482+00:00",
+    "generated": "2026-08-10T09:27:06.593228+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 21,
+    "total_threats": 12,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
-    {
-      "ip": "5.187.35.142",
-      "first_seen": "2026-07-06T02:25:49.685000+00:00",
-      "last_seen": "2026-07-06T02:25:49.685000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER /etc/passwd Detected in URI",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "20.104.50.116",
-      "first_seen": "2026-07-04T01:41:54.643000+00:00",
-      "last_seen": "2026-07-08T05:55:52.961000+00:00",
-      "count": 2,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "CA"
-    },
-    {
-      "ip": "20.195.177.9",
-      "first_seen": "2026-07-08T03:17:12.051000+00:00",
-      "last_seen": "2026-07-08T03:17:12.051000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "BR"
-    },
     {
       "ip": "20.206.67.15",
       "first_seen": "2026-07-27T06:11:56.803000+00:00",
@@ -79,16 +49,6 @@
       "country": "NL"
     },
     {
-      "ip": "50.116.72.209",
-      "first_seen": "2026-06-30T23:34:22.931000+00:00",
-      "last_seen": "2026-06-30T23:34:22.931000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "52.242.193.144",
       "first_seen": "2026-07-22T21:50:51.215000+00:00",
       "last_seen": "2026-07-23T12:25:15.753000+00:00",
@@ -107,36 +67,6 @@
       "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "77.90.185.230",
-      "first_seen": "2026-06-27T20:54:49.081000+00:00",
-      "last_seen": "2026-07-26T12:15:55.965000+00:00",
-      "count": 2,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
-      "ip": "93.123.109.102",
-      "first_seen": "2026-07-05T07:08:39.771000+00:00",
-      "last_seen": "2026-07-05T07:08:39.771000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "AD"
-    },
-    {
-      "ip": "93.123.109.105",
-      "first_seen": "2026-07-01T19:14:40.730000+00:00",
-      "last_seen": "2026-07-01T19:14:40.730000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "AD"
     },
     {
       "ip": "93.123.109.163",
@@ -159,16 +89,6 @@
       "country": "BG"
     },
     {
-      "ip": "185.93.89.167",
-      "first_seen": "2026-06-28T20:35:10.269000+00:00",
-      "last_seen": "2026-06-28T20:35:10.269000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
       "ip": "185.177.72.29",
       "first_seen": "2026-07-14T00:24:18.695000+00:00",
       "last_seen": "2026-07-14T00:24:18.695000+00:00",
@@ -177,16 +97,6 @@
       "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
       "protocol": "TCP",
       "country": "FR"
-    },
-    {
-      "ip": "191.237.255.150",
-      "first_seen": "2026-07-04T07:42:34.760000+00:00",
-      "last_seen": "2026-07-04T23:47:15.402000+00:00",
-      "count": 2,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "BR"
     },
     {
       "ip": "195.178.110.102",

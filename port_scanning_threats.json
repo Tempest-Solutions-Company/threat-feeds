@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-07-27T07:02:36.080482+00:00",
+    "generated": "2026-08-10T09:27:06.593228+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 76,
+    "total_threats": 34,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -22,46 +22,6 @@
       "ip": "4.227.180.232",
       "first_seen": "2026-07-18T05:01:28.950000+00:00",
       "last_seen": "2026-07-18T05:01:28.950000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "5.206.227.80",
-      "first_seen": "2026-07-03T22:25:10.155000+00:00",
-      "last_seen": "2026-07-03T22:25:10.155000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "9.234.8.125",
-      "first_seen": "2026-07-08T08:32:39.812000+00:00",
-      "last_seen": "2026-07-08T08:32:39.812000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "20.12.240.188",
-      "first_seen": "2026-07-03T23:15:34.536000+00:00",
-      "last_seen": "2026-07-03T23:15:34.536000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "20.14.78.253",
-      "first_seen": "2026-06-30T01:03:53.077000+00:00",
-      "last_seen": "2026-06-30T01:03:53.077000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
@@ -99,16 +59,6 @@
       "country": "US"
     },
     {
-      "ip": "20.65.193.19",
-      "first_seen": "2026-07-04T22:55:35.803000+00:00",
-      "last_seen": "2026-07-04T22:55:35.803000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "20.65.195.16",
       "first_seen": "2026-07-21T11:37:51.491000+00:00",
       "last_seen": "2026-07-21T11:37:51.491000+00:00",
@@ -119,59 +69,9 @@
       "country": "US"
     },
     {
-      "ip": "20.65.195.53",
-      "first_seen": "2026-06-29T02:59:03.933000+00:00",
-      "last_seen": "2026-06-29T02:59:03.933000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "20.84.119.5",
-      "first_seen": "2026-07-06T01:33:13.415000+00:00",
-      "last_seen": "2026-07-06T01:33:13.415000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "20.98.165.154",
       "first_seen": "2026-07-19T12:57:42.325000+00:00",
       "last_seen": "2026-07-19T12:57:42.325000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "20.106.196.31",
-      "first_seen": "2026-07-09T07:44:04.229000+00:00",
-      "last_seen": "2026-07-09T07:44:04.229000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "20.163.2.35",
-      "first_seen": "2026-06-28T16:57:12.132000+00:00",
-      "last_seen": "2026-06-28T16:57:12.132000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "20.163.4.176",
-      "first_seen": "2026-06-30T05:22:07.205000+00:00",
-      "last_seen": "2026-06-30T05:22:07.205000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
@@ -209,99 +109,9 @@
       "country": "US"
     },
     {
-      "ip": "20.221.57.26",
-      "first_seen": "2026-06-29T05:09:04.738000+00:00",
-      "last_seen": "2026-06-29T05:09:04.738000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "34.127.40.219",
-      "first_seen": "2026-06-30T10:00:46.317000+00:00",
-      "last_seen": "2026-06-30T10:00:46.317000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "34.178.232.5",
-      "first_seen": "2026-07-05T11:24:19.612000+00:00",
-      "last_seen": "2026-07-05T11:24:19.612000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "34.186.72.158",
-      "first_seen": "2026-07-09T09:49:51.943000+00:00",
-      "last_seen": "2026-07-09T09:49:51.943000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "35.221.13.245",
-      "first_seen": "2026-07-02T11:47:24.913000+00:00",
-      "last_seen": "2026-07-02T11:47:24.913000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "35.222.68.189",
-      "first_seen": "2026-07-05T03:49:41.842000+00:00",
-      "last_seen": "2026-07-05T04:13:01.612000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "40.77.167.7",
       "first_seen": "2026-07-14T22:04:01.521000+00:00",
       "last_seen": "2026-07-14T22:04:01.521000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "40.77.167.12",
-      "first_seen": "2026-07-03T21:07:04.413000+00:00",
-      "last_seen": "2026-07-03T21:07:04.413000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "40.77.167.22",
-      "first_seen": "2026-07-02T19:44:59.403000+00:00",
-      "last_seen": "2026-07-02T19:44:59.403000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "40.77.167.23",
-      "first_seen": "2026-07-05T21:04:32.223000+00:00",
-      "last_seen": "2026-07-05T21:04:32.223000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
@@ -339,46 +149,6 @@
       "country": "US"
     },
     {
-      "ip": "40.80.204.175",
-      "first_seen": "2026-06-30T16:58:38.648000+00:00",
-      "last_seen": "2026-06-30T16:58:38.648000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "40.124.175.226",
-      "first_seen": "2026-07-05T05:22:51.463000+00:00",
-      "last_seen": "2026-07-05T05:22:51.463000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "45.33.12.214",
-      "first_seen": "2026-07-04T03:46:34.481000+00:00",
-      "last_seen": "2026-07-12T03:50:21.597000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "45.79.207.110",
-      "first_seen": "2026-07-07T02:57:49.870000+00:00",
-      "last_seen": "2026-07-07T02:57:49.870000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "45.94.31.73",
       "first_seen": "2026-07-14T13:22:43.401000+00:00",
       "last_seen": "2026-07-14T16:32:03.975000+00:00",
@@ -389,29 +159,9 @@
       "country": "NL"
     },
     {
-      "ip": "45.154.98.52",
-      "first_seen": "2026-06-30T12:18:57.023000+00:00",
-      "last_seen": "2026-06-30T12:18:57.023000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
       "ip": "52.167.144.23",
       "first_seen": "2026-07-21T19:51:18.323000+00:00",
       "last_seen": "2026-07-21T19:51:18.323000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "52.167.144.150",
-      "first_seen": "2026-07-01T21:16:04.132000+00:00",
-      "last_seen": "2026-07-01T21:16:04.132000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
@@ -439,16 +189,6 @@
       "country": "US"
     },
     {
-      "ip": "52.186.171.52",
-      "first_seen": "2026-07-05T02:00:42.810000+00:00",
-      "last_seen": "2026-07-05T02:00:42.810000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "66.187.5.228",
       "first_seen": "2026-07-15T09:53:40.991000+00:00",
       "last_seen": "2026-07-15T09:53:40.991000+00:00",
@@ -469,26 +209,6 @@
       "country": "US"
     },
     {
-      "ip": "107.150.117.127",
-      "first_seen": "2026-07-11T02:42:41.692000+00:00",
-      "last_seen": "2026-07-11T02:42:41.692000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
-      "ip": "110.10.176.48",
-      "first_seen": "2026-07-01T07:28:02.212000+00:00",
-      "last_seen": "2026-07-01T07:28:02.212000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "KR"
-    },
-    {
       "ip": "117.72.13.241",
       "first_seen": "2026-07-17T22:04:05.345000+00:00",
       "last_seen": "2026-07-17T22:15:09.613000+00:00",
@@ -497,26 +217,6 @@
       "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "128.90.161.19",
-      "first_seen": "2026-07-09T18:47:19.542000+00:00",
-      "last_seen": "2026-07-09T18:47:19.542000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "IT"
-    },
-    {
-      "ip": "134.122.106.248",
-      "first_seen": "2026-07-04T23:20:39.154000+00:00",
-      "last_seen": "2026-07-04T23:20:39.154000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "GB"
     },
     {
       "ip": "134.209.25.199",
@@ -559,66 +259,6 @@
       "country": "FR"
     },
     {
-      "ip": "143.110.182.33",
-      "first_seen": "2026-07-08T22:32:03.593000+00:00",
-      "last_seen": "2026-07-08T22:32:03.593000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "IN"
-    },
-    {
-      "ip": "143.244.57.84",
-      "first_seen": "2026-06-29T22:09:47.906000+00:00",
-      "last_seen": "2026-06-29T22:09:47.906000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "FR"
-    },
-    {
-      "ip": "154.58.237.213",
-      "first_seen": "2026-07-01T00:51:54.692000+00:00",
-      "last_seen": "2026-07-01T00:51:54.692000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Google Webcrawler User-Agent (Mediapartners-Google)",
-      "protocol": "TCP",
-      "country": "VE"
-    },
-    {
-      "ip": "157.245.105.107",
-      "first_seen": "2026-07-04T06:11:48.575000+00:00",
-      "last_seen": "2026-07-04T06:11:48.575000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN LeakIX Inbound User-Agent",
-      "protocol": "TCP",
-      "country": "IN"
-    },
-    {
-      "ip": "158.115.252.47",
-      "first_seen": "2026-06-29T03:13:51.147000+00:00",
-      "last_seen": "2026-06-29T03:13:51.147000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "159.89.174.87",
-      "first_seen": "2026-07-05T12:13:30.271000+00:00",
-      "last_seen": "2026-07-05T12:13:30.271000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN LeakIX Inbound User-Agent",
-      "protocol": "TCP",
-      "country": "IN"
-    },
-    {
       "ip": "161.118.251.181",
       "first_seen": "2026-07-13T20:13:11.149000+00:00",
       "last_seen": "2026-07-13T20:13:11.149000+00:00",
@@ -637,36 +277,6 @@
       "signature": "ET SCAN LeakIX Inbound User-Agent",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "167.99.78.34",
-      "first_seen": "2026-07-05T09:38:41.387000+00:00",
-      "last_seen": "2026-07-05T09:38:41.387000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
-      "ip": "169.239.183.136",
-      "first_seen": "2026-07-03T00:23:00.323000+00:00",
-      "last_seen": "2026-07-03T00:23:00.323000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "ZA"
-    },
-    {
-      "ip": "172.202.117.125",
-      "first_seen": "2026-07-08T02:58:21.033000+00:00",
-      "last_seen": "2026-07-08T02:58:21.033000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "180.93.249.92",
@@ -699,16 +309,6 @@
       "country": "DE"
     },
     {
-      "ip": "190.96.102.100",
-      "first_seen": "2026-06-30T17:30:09.402000+00:00",
-      "last_seen": "2026-06-30T17:30:09.402000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Google Webcrawler User-Agent (Mediapartners-Google)",
-      "protocol": "TCP",
-      "country": "EC"
-    },
-    {
       "ip": "194.5.82.155",
       "first_seen": "2026-07-14T14:23:38.601000+00:00",
       "last_seen": "2026-07-14T14:23:38.601000+00:00",
@@ -727,26 +327,6 @@
       "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "194.195.210.47",
-      "first_seen": "2026-07-08T02:45:37.591000+00:00",
-      "last_seen": "2026-07-08T02:45:37.591000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Zmap User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "203.159.90.217",
-      "first_seen": "2026-07-04T08:33:33.555000+00:00",
-      "last_seen": "2026-07-18T18:57:19.843000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "207.154.212.47",

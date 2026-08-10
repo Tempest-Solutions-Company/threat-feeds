@@ -1,33 +1,13 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2026-07-27T06:21:35.487361+00:00",
+    "generated": "2026-08-10T09:27:06.593228+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 232,
+    "total_threats": 81,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
-    {
-      "ip": "1.164.166.102",
-      "first_seen": "2026-07-11T06:10:38.129000+00:00",
-      "last_seen": "2026-07-11T06:10:38.129000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "TW"
-    },
-    {
-      "ip": "3.101.153.151",
-      "first_seen": "2026-07-01T21:01:56.611000+00:00",
-      "last_seen": "2026-07-01T21:01:56.611000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
     {
       "ip": "4.17.226.146",
       "first_seen": "2026-07-17T00:04:28.159000+00:00",
@@ -49,70 +29,10 @@
       "country": "US"
     },
     {
-      "ip": "5.42.111.59",
-      "first_seen": "2026-07-05T20:09:54.565000+00:00",
-      "last_seen": "2026-07-05T20:09:54.565000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "RU"
-    },
-    {
-      "ip": "8.134.103.184",
-      "first_seen": "2026-07-02T12:57:50.763000+00:00",
-      "last_seen": "2026-07-02T12:57:50.763000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "8.136.127.153",
-      "first_seen": "2026-07-07T19:56:43.274000+00:00",
-      "last_seen": "2026-07-07T19:56:43.274000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "8.138.206.114",
-      "first_seen": "2026-07-02T15:38:59.739000+00:00",
-      "last_seen": "2026-07-02T17:48:09.865000+00:00",
-      "count": 8,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "8.148.155.183",
       "first_seen": "2026-07-14T22:55:45.714000+00:00",
       "last_seen": "2026-07-15T00:13:30.910000+00:00",
       "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "8.148.181.1",
-      "first_seen": "2026-07-01T07:39:38.243000+00:00",
-      "last_seen": "2026-07-01T07:39:38.243000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "8.148.185.0",
-      "first_seen": "2026-06-30T07:11:01.978000+00:00",
-      "last_seen": "2026-06-30T07:11:01.978000+00:00",
-      "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -129,16 +49,6 @@
       "country": "CN"
     },
     {
-      "ip": "8.210.68.112",
-      "first_seen": "2026-06-29T04:29:05.652000+00:00",
-      "last_seen": "2026-06-29T05:35:03.755000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
       "ip": "8.210.75.108",
       "first_seen": "2026-07-23T18:03:27.478000+00:00",
       "last_seen": "2026-07-23T18:03:27.478000+00:00",
@@ -149,16 +59,6 @@
       "country": "HK"
     },
     {
-      "ip": "8.211.133.189",
-      "first_seen": "2026-07-04T21:55:06.248000+00:00",
-      "last_seen": "2026-07-04T21:55:06.248000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "JP"
-    },
-    {
       "ip": "8.211.156.188",
       "first_seen": "2026-07-19T23:25:11.610000+00:00",
       "last_seen": "2026-07-19T23:50:52.420000+00:00",
@@ -167,86 +67,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "JP"
-    },
-    {
-      "ip": "8.213.226.73",
-      "first_seen": "2026-07-07T17:50:00.015000+00:00",
-      "last_seen": "2026-07-07T17:50:00.015000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "TH"
-    },
-    {
-      "ip": "8.217.250.230",
-      "first_seen": "2026-07-03T18:16:34.040000+00:00",
-      "last_seen": "2026-07-03T19:02:16.750000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
-      "ip": "8.219.221.108",
-      "first_seen": "2026-06-27T12:43:49.151000+00:00",
-      "last_seen": "2026-06-27T12:43:49.151000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
-      "ip": "8.222.147.197",
-      "first_seen": "2026-07-05T01:19:19.073000+00:00",
-      "last_seen": "2026-07-05T01:19:19.073000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
-      "ip": "13.71.92.229",
-      "first_seen": "2026-07-07T23:22:30.493000+00:00",
-      "last_seen": "2026-07-07T23:22:30.493000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IN"
-    },
-    {
-      "ip": "13.86.104.104",
-      "first_seen": "2026-06-29T05:57:08.792000+00:00",
-      "last_seen": "2026-06-29T05:57:08.792000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "14.103.107.29",
-      "first_seen": "2026-07-01T05:34:27.449000+00:00",
-      "last_seen": "2026-07-01T05:34:27.449000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "14.103.115.54",
-      "first_seen": "2026-06-29T14:32:20.994000+00:00",
-      "last_seen": "2026-06-29T14:32:20.994000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
     },
     {
       "ip": "20.41.117.16",
@@ -279,69 +99,9 @@
       "country": "IN"
     },
     {
-      "ip": "20.205.97.67",
-      "first_seen": "2026-07-01T12:34:01.890000+00:00",
-      "last_seen": "2026-07-06T19:18:44.852000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
-      "ip": "20.215.211.246",
-      "first_seen": "2026-06-29T21:58:19.611000+00:00",
-      "last_seen": "2026-06-29T21:58:19.611000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "PL"
-    },
-    {
-      "ip": "20.244.20.183",
-      "first_seen": "2026-07-03T00:48:13.864000+00:00",
-      "last_seen": "2026-07-03T00:48:13.864000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IN"
-    },
-    {
       "ip": "27.79.2.127",
       "first_seen": "2026-07-24T20:26:12.793000+00:00",
       "last_seen": "2026-07-24T20:26:12.793000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "27.79.3.161",
-      "first_seen": "2026-07-03T13:39:59.598000+00:00",
-      "last_seen": "2026-07-03T13:39:59.598000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "27.79.43.34",
-      "first_seen": "2026-06-28T11:15:25.916000+00:00",
-      "last_seen": "2026-06-28T11:39:08.831000+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "27.79.44.157",
-      "first_seen": "2026-07-01T09:27:56.201000+00:00",
-      "last_seen": "2026-07-01T09:27:56.201000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
@@ -357,66 +117,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "VN"
-    },
-    {
-      "ip": "27.79.47.12",
-      "first_seen": "2026-07-05T20:20:18.543000+00:00",
-      "last_seen": "2026-07-05T20:20:18.543000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "32.236.86.181",
-      "first_seen": "2026-07-10T03:18:11.306000+00:00",
-      "last_seen": "2026-07-10T03:18:11.306000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "AU"
-    },
-    {
-      "ip": "34.78.144.64",
-      "first_seen": "2026-07-05T03:00:40.338000+00:00",
-      "last_seen": "2026-07-05T03:00:40.338000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "34.78.205.103",
-      "first_seen": "2026-07-06T09:04:20.272000+00:00",
-      "last_seen": "2026-07-06T09:04:20.272000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "34.156.7.169",
-      "first_seen": "2026-07-06T05:26:59.515000+00:00",
-      "last_seen": "2026-07-06T05:26:59.515000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "36.134.211.199",
-      "first_seen": "2026-06-29T13:43:06.060000+00:00",
-      "last_seen": "2026-06-29T13:43:06.060000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
     },
     {
       "ip": "36.213.0.140",
@@ -439,26 +139,6 @@
       "country": "HK"
     },
     {
-      "ip": "39.105.95.22",
-      "first_seen": "2026-07-10T18:44:03.832000+00:00",
-      "last_seen": "2026-07-10T19:41:58.591000+00:00",
-      "count": 6,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "43.128.101.247",
-      "first_seen": "2026-07-02T12:00:51.360000+00:00",
-      "last_seen": "2026-07-02T14:04:43.629000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
       "ip": "43.138.141.132",
       "first_seen": "2026-07-11T17:54:52.453000+00:00",
       "last_seen": "2026-07-11T17:54:52.453000+00:00",
@@ -467,16 +147,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "43.160.219.175",
-      "first_seen": "2026-07-05T06:55:44.917000+00:00",
-      "last_seen": "2026-07-05T06:55:44.917000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "43.228.157.121",
@@ -489,126 +159,6 @@
       "country": "SG"
     },
     {
-      "ip": "45.79.115.117",
-      "first_seen": "2026-07-04T04:48:42.141000+00:00",
-      "last_seen": "2026-07-04T04:48:42.141000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "45.79.163.53",
-      "first_seen": "2026-07-07T05:03:01.614000+00:00",
-      "last_seen": "2026-07-07T05:03:01.614000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "45.153.34.137",
-      "first_seen": "2026-06-28T15:06:05.039000+00:00",
-      "last_seen": "2026-07-15T05:28:17.666000+00:00",
-      "count": 8,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.153.34.144",
-      "first_seen": "2026-07-02T12:34:38.971000+00:00",
-      "last_seen": "2026-07-06T21:10:05.980000+00:00",
-      "count": 6,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.153.34.151",
-      "first_seen": "2026-07-04T02:30:59.238000+00:00",
-      "last_seen": "2026-07-22T17:36:46.238000+00:00",
-      "count": 9,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.153.34.161",
-      "first_seen": "2026-07-02T22:28:50.839000+00:00",
-      "last_seen": "2026-07-18T18:45:32.862000+00:00",
-      "count": 9,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.153.34.165",
-      "first_seen": "2026-06-30T12:07:11.863000+00:00",
-      "last_seen": "2026-07-13T18:20:05.980000+00:00",
-      "count": 6,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.153.34.167",
-      "first_seen": "2026-07-08T00:00:51.091000+00:00",
-      "last_seen": "2026-07-17T09:58:27.699000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.156.87.13",
-      "first_seen": "2026-07-02T06:37:36.520000+00:00",
-      "last_seen": "2026-07-02T07:39:42.623000+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "47.76.49.98",
-      "first_seen": "2026-07-09T22:48:18.259000+00:00",
-      "last_seen": "2026-07-09T22:48:18.259000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
-      "ip": "47.77.231.127",
-      "first_seen": "2026-07-02T14:17:36.711000+00:00",
-      "last_seen": "2026-07-02T15:03:45.221000+00:00",
-      "count": 5,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "47.80.63.229",
-      "first_seen": "2026-06-30T11:55:47.041000+00:00",
-      "last_seen": "2026-06-30T11:55:47.041000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "KR"
-    },
-    {
       "ip": "47.82.117.76",
       "first_seen": "2026-07-19T23:10:43.320000+00:00",
       "last_seen": "2026-07-19T23:10:43.320000+00:00",
@@ -619,89 +169,9 @@
       "country": "HK"
     },
     {
-      "ip": "47.83.207.150",
-      "first_seen": "2026-07-06T22:58:00.880000+00:00",
-      "last_seen": "2026-07-06T23:29:28.921000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
-      "ip": "47.85.43.178",
-      "first_seen": "2026-07-02T11:20:28.670000+00:00",
-      "last_seen": "2026-07-02T11:20:28.670000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "47.86.232.201",
-      "first_seen": "2026-07-02T00:33:39.949000+00:00",
-      "last_seen": "2026-07-02T01:43:17.447000+00:00",
-      "count": 6,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
-      "ip": "47.97.66.208",
-      "first_seen": "2026-07-01T10:52:54.592000+00:00",
-      "last_seen": "2026-07-01T10:52:54.592000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "47.104.232.1",
-      "first_seen": "2026-07-04T17:53:00.732000+00:00",
-      "last_seen": "2026-07-04T17:53:00.732000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "47.104.241.152",
       "first_seen": "2026-07-22T15:24:50.772000+00:00",
       "last_seen": "2026-07-22T15:24:50.772000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "47.107.166.166",
-      "first_seen": "2026-07-07T05:31:44.922000+00:00",
-      "last_seen": "2026-07-07T05:31:44.922000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "47.107.183.85",
-      "first_seen": "2026-06-30T21:54:14.272000+00:00",
-      "last_seen": "2026-06-30T21:54:14.272000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "47.110.136.174",
-      "first_seen": "2026-07-01T01:06:29.861000+00:00",
-      "last_seen": "2026-07-01T01:06:29.861000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
@@ -717,16 +187,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "47.236.124.158",
-      "first_seen": "2026-06-29T23:17:22.370000+00:00",
-      "last_seen": "2026-06-30T01:45:24.743000+00:00",
-      "count": 9,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "47.236.188.152",
@@ -749,16 +209,6 @@
       "country": "SG"
     },
     {
-      "ip": "47.242.90.129",
-      "first_seen": "2026-07-05T15:04:17.634000+00:00",
-      "last_seen": "2026-07-05T15:26:40.744000+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
       "ip": "47.243.58.151",
       "first_seen": "2026-07-16T11:05:41.201000+00:00",
       "last_seen": "2026-07-16T14:32:37.750000+00:00",
@@ -769,30 +219,10 @@
       "country": "HK"
     },
     {
-      "ip": "47.245.30.42",
-      "first_seen": "2026-06-29T17:57:44.721000+00:00",
-      "last_seen": "2026-06-29T17:57:44.721000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "JP"
-    },
-    {
       "ip": "47.253.138.43",
       "first_seen": "2026-07-19T09:48:44.961000+00:00",
       "last_seen": "2026-07-19T10:10:04.023000+00:00",
       "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "47.254.80.91",
-      "first_seen": "2026-06-28T05:47:24.201000+00:00",
-      "last_seen": "2026-06-28T05:47:24.201000+00:00",
-      "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -817,26 +247,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "62.60.221.242",
-      "first_seen": "2026-07-02T07:28:06.451000+00:00",
-      "last_seen": "2026-07-02T07:28:06.451000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IR"
-    },
-    {
-      "ip": "77.90.185.20",
-      "first_seen": "2026-07-07T01:42:27.917000+00:00",
-      "last_seen": "2026-07-07T01:42:27.917000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "DE"
     },
     {
       "ip": "77.239.124.237",
@@ -879,26 +289,6 @@
       "country": "NL"
     },
     {
-      "ip": "82.156.3.26",
-      "first_seen": "2026-07-05T21:15:23.781000+00:00",
-      "last_seen": "2026-07-05T21:15:23.781000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "82.156.118.175",
-      "first_seen": "2026-07-06T11:01:40.830000+00:00",
-      "last_seen": "2026-07-06T11:01:40.830000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "83.233.147.8",
       "first_seen": "2026-07-13T21:02:18.621000+00:00",
       "last_seen": "2026-07-13T21:02:18.621000+00:00",
@@ -907,16 +297,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "SE"
-    },
-    {
-      "ip": "85.198.21.237",
-      "first_seen": "2026-07-02T10:32:35.760000+00:00",
-      "last_seen": "2026-07-02T11:05:37.822000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IR"
     },
     {
       "ip": "85.211.242.19",
@@ -937,76 +317,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "GB"
-    },
-    {
-      "ip": "89.167.46.46",
-      "first_seen": "2026-07-04T13:27:09.935000+00:00",
-      "last_seen": "2026-07-04T13:27:09.935000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
-      "ip": "91.92.40.14",
-      "first_seen": "2026-06-29T00:04:06.310000+00:00",
-      "last_seen": "2026-06-29T02:34:33.080000+00:00",
-      "count": 13,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BG"
-    },
-    {
-      "ip": "91.92.40.35",
-      "first_seen": "2026-07-03T05:28:21.651000+00:00",
-      "last_seen": "2026-07-25T08:27:26.483000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BG"
-    },
-    {
-      "ip": "91.92.40.36",
-      "first_seen": "2026-06-27T07:11:21.142000+00:00",
-      "last_seen": "2026-07-13T05:34:15.047000+00:00",
-      "count": 13,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BG"
-    },
-    {
-      "ip": "91.92.40.37",
-      "first_seen": "2026-07-09T17:26:40.801000+00:00",
-      "last_seen": "2026-07-09T18:19:10.394000+00:00",
-      "count": 5,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BG"
-    },
-    {
-      "ip": "91.92.40.41",
-      "first_seen": "2026-06-29T21:00:46.167000+00:00",
-      "last_seen": "2026-06-29T23:41:25.425000+00:00",
-      "count": 9,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BG"
-    },
-    {
-      "ip": "91.92.40.45",
-      "first_seen": "2026-07-03T16:57:34.351000+00:00",
-      "last_seen": "2026-07-22T23:58:27.036000+00:00",
-      "count": 5,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BG"
     },
     {
       "ip": "91.92.40.52",
@@ -1069,16 +379,6 @@
       "country": "NL"
     },
     {
-      "ip": "91.92.40.239",
-      "first_seen": "2026-07-01T02:01:54.291000+00:00",
-      "last_seen": "2026-07-01T03:20:18.272000+00:00",
-      "count": 7,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BG"
-    },
-    {
       "ip": "91.92.42.34",
       "first_seen": "2026-07-18T05:38:12.120000+00:00",
       "last_seen": "2026-07-18T06:35:30.549000+00:00",
@@ -1099,30 +399,10 @@
       "country": "NL"
     },
     {
-      "ip": "91.92.42.61",
-      "first_seen": "2026-06-30T07:44:12.890000+00:00",
-      "last_seen": "2026-07-13T10:28:17.571000+00:00",
-      "count": 6,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
       "ip": "91.92.42.126",
       "first_seen": "2026-07-14T10:33:44.123000+00:00",
       "last_seen": "2026-07-14T11:04:23.562000+00:00",
       "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "91.92.42.133",
-      "first_seen": "2026-06-29T14:56:09.431000+00:00",
-      "last_seen": "2026-07-18T21:40:50.805000+00:00",
-      "count": 7,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -1179,16 +459,6 @@
       "country": "GB"
     },
     {
-      "ip": "94.154.43.66",
-      "first_seen": "2026-06-30T17:10:27.119000+00:00",
-      "last_seen": "2026-06-30T17:10:27.119000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "TR"
-    },
-    {
       "ip": "94.154.43.230",
       "first_seen": "2026-07-11T12:26:14.377000+00:00",
       "last_seen": "2026-07-25T14:20:02.962000+00:00",
@@ -1197,26 +467,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "TR"
-    },
-    {
-      "ip": "96.44.168.88",
-      "first_seen": "2026-07-02T09:46:33.250000+00:00",
-      "last_seen": "2026-07-02T09:46:33.250000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "98.70.50.166",
-      "first_seen": "2026-07-01T14:33:00.718000+00:00",
-      "last_seen": "2026-07-20T23:48:34.213000+00:00",
-      "count": 5,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IN"
     },
     {
       "ip": "98.71.8.129",
@@ -1229,29 +479,9 @@
       "country": "IE"
     },
     {
-      "ip": "101.37.22.103",
-      "first_seen": "2026-06-30T07:55:41.810000+00:00",
-      "last_seen": "2026-06-30T07:55:41.810000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "101.96.193.131",
       "first_seen": "2026-07-16T05:57:53.741000+00:00",
       "last_seen": "2026-07-16T05:57:53.741000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "101.200.63.108",
-      "first_seen": "2026-06-28T06:17:09.190000+00:00",
-      "last_seen": "2026-06-28T06:17:09.190000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
@@ -1279,49 +509,9 @@
       "country": "HK"
     },
     {
-      "ip": "104.43.56.65",
-      "first_seen": "2026-07-04T08:59:24.430000+00:00",
-      "last_seen": "2026-07-04T09:25:02.414000+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
-      "ip": "106.12.7.70",
-      "first_seen": "2026-06-30T11:04:40.060000+00:00",
-      "last_seen": "2026-06-30T11:04:40.060000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "106.37.191.2",
       "first_seen": "2026-07-18T06:24:01.912000+00:00",
       "last_seen": "2026-07-18T06:24:01.912000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "110.38.234.222",
-      "first_seen": "2026-07-01T06:12:16.039000+00:00",
-      "last_seen": "2026-07-01T06:12:16.039000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "PK"
-    },
-    {
-      "ip": "112.124.70.111",
-      "first_seen": "2026-07-10T04:10:44.070000+00:00",
-      "last_seen": "2026-07-10T04:10:44.070000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
@@ -1339,60 +529,10 @@
       "country": "CN"
     },
     {
-      "ip": "114.55.74.139",
-      "first_seen": "2026-07-01T10:19:05.660000+00:00",
-      "last_seen": "2026-07-01T10:19:05.660000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "114.55.179.151",
-      "first_seen": "2026-07-01T12:46:25.546000+00:00",
-      "last_seen": "2026-07-02T10:07:41.637000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "114.55.225.179",
-      "first_seen": "2026-07-03T19:38:52.915000+00:00",
-      "last_seen": "2026-07-03T19:38:52.915000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "115.28.184.230",
-      "first_seen": "2026-07-01T09:50:00.143000+00:00",
-      "last_seen": "2026-07-01T09:50:00.143000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "116.99.169.180",
       "first_seen": "2026-07-18T05:51:23.478000+00:00",
       "last_seen": "2026-07-18T06:02:42.312000+00:00",
       "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "116.99.174.55",
-      "first_seen": "2026-06-30T15:53:16.091000+00:00",
-      "last_seen": "2026-06-30T15:53:16.091000+00:00",
-      "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -1409,69 +549,9 @@
       "country": "VN"
     },
     {
-      "ip": "116.99.175.62",
-      "first_seen": "2026-07-08T18:11:34.201000+00:00",
-      "last_seen": "2026-07-08T18:11:34.201000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "116.110.20.29",
-      "first_seen": "2026-07-01T09:15:33.600000+00:00",
-      "last_seen": "2026-07-01T09:15:33.600000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "116.110.146.60",
-      "first_seen": "2026-07-05T02:35:22.531000+00:00",
-      "last_seen": "2026-07-05T02:48:16.750000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
       "ip": "116.110.153.162",
       "first_seen": "2026-07-23T08:49:33.164000+00:00",
       "last_seen": "2026-07-23T08:49:33.164000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "116.110.156.249",
-      "first_seen": "2026-07-04T08:21:56.420000+00:00",
-      "last_seen": "2026-07-04T08:21:56.420000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "116.110.209.148",
-      "first_seen": "2026-06-27T12:28:03.467000+00:00",
-      "last_seen": "2026-06-27T12:28:03.467000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "116.110.217.43",
-      "first_seen": "2026-07-04T08:06:38.390000+00:00",
-      "last_seen": "2026-07-04T08:06:38.390000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
@@ -1529,80 +609,10 @@
       "country": "CN"
     },
     {
-      "ip": "117.34.85.169",
-      "first_seen": "2026-07-09T00:53:27.356000+00:00",
-      "last_seen": "2026-07-09T00:53:27.356000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "117.50.130.74",
       "first_seen": "2026-07-19T22:20:58.929000+00:00",
       "last_seen": "2026-07-20T00:25:01.872000+00:00",
       "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "117.50.218.37",
-      "first_seen": "2026-07-05T20:48:18.632000+00:00",
-      "last_seen": "2026-07-05T20:48:18.632000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "118.178.234.99",
-      "first_seen": "2026-06-28T23:51:54.582000+00:00",
-      "last_seen": "2026-06-30T16:38:06.520000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "118.178.235.228",
-      "first_seen": "2026-07-02T04:52:48.863000+00:00",
-      "last_seen": "2026-07-02T04:52:48.863000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "118.196.34.237",
-      "first_seen": "2026-07-01T06:48:55.350000+00:00",
-      "last_seen": "2026-07-01T06:48:55.350000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "118.196.38.83",
-      "first_seen": "2026-07-07T06:34:52.245000+00:00",
-      "last_seen": "2026-07-07T06:34:52.245000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "118.196.79.21",
-      "first_seen": "2026-07-01T10:39:27.331000+00:00",
-      "last_seen": "2026-07-01T10:39:27.331000+00:00",
-      "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -1629,109 +639,9 @@
       "country": "CN"
     },
     {
-      "ip": "120.77.205.149",
-      "first_seen": "2026-07-09T12:23:07.352000+00:00",
-      "last_seen": "2026-07-09T12:23:07.352000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "121.40.150.190",
-      "first_seen": "2026-07-02T17:21:03.911000+00:00",
-      "last_seen": "2026-07-02T17:21:03.911000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "121.40.152.135",
       "first_seen": "2026-07-21T22:28:01.584000+00:00",
       "last_seen": "2026-07-21T22:28:01.584000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "121.40.218.238",
-      "first_seen": "2026-06-28T19:55:53.608000+00:00",
-      "last_seen": "2026-06-28T19:55:53.608000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "121.41.116.31",
-      "first_seen": "2026-07-02T05:27:12.574000+00:00",
-      "last_seen": "2026-07-26T04:42:52.421000+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "121.196.156.122",
-      "first_seen": "2026-06-30T08:06:06.061000+00:00",
-      "last_seen": "2026-06-30T08:06:06.061000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "122.51.34.46",
-      "first_seen": "2026-06-29T21:47:23.090000+00:00",
-      "last_seen": "2026-06-29T21:47:23.090000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "123.25.115.112",
-      "first_seen": "2026-07-01T15:27:43.552000+00:00",
-      "last_seen": "2026-07-01T15:27:43.552000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "123.25.115.189",
-      "first_seen": "2026-07-01T15:38:45.061000+00:00",
-      "last_seen": "2026-07-01T15:38:45.061000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "123.57.252.201",
-      "first_seen": "2026-06-30T14:22:33.028000+00:00",
-      "last_seen": "2026-06-30T14:22:33.028000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "124.221.116.211",
-      "first_seen": "2026-06-29T16:36:00.964000+00:00",
-      "last_seen": "2026-06-29T16:36:00.964000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
@@ -1749,16 +659,6 @@
       "country": "CN"
     },
     {
-      "ip": "124.222.202.38",
-      "first_seen": "2026-07-08T01:45:02.992000+00:00",
-      "last_seen": "2026-07-08T01:45:02.992000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "129.226.114.61",
       "first_seen": "2026-07-11T19:49:07.481000+00:00",
       "last_seen": "2026-07-11T19:49:07.481000+00:00",
@@ -1767,16 +667,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "HK"
-    },
-    {
-      "ip": "139.162.100.47",
-      "first_seen": "2026-06-27T20:18:18.097000+00:00",
-      "last_seen": "2026-06-27T20:18:18.097000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "JP"
     },
     {
       "ip": "139.224.164.180",
@@ -1789,46 +679,6 @@
       "country": "CN"
     },
     {
-      "ip": "140.143.165.203",
-      "first_seen": "2026-07-04T06:59:03.671000+00:00",
-      "last_seen": "2026-07-04T06:59:03.671000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "141.11.88.3",
-      "first_seen": "2026-07-01T03:33:51.441000+00:00",
-      "last_seen": "2026-07-01T04:31:12.033000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "141.11.88.9",
-      "first_seen": "2026-07-03T02:19:24.462000+00:00",
-      "last_seen": "2026-07-03T03:54:13.048000+00:00",
-      "count": 5,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "141.11.88.11",
-      "first_seen": "2026-06-27T21:06:38.397000+00:00",
-      "last_seen": "2026-06-27T22:53:44.207000+00:00",
-      "count": 7,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "141.11.88.249",
       "first_seen": "2026-07-13T14:18:06.233000+00:00",
       "last_seen": "2026-07-13T15:09:55.160000+00:00",
@@ -1837,16 +687,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "152.32.254.222",
-      "first_seen": "2026-07-01T11:32:03.016000+00:00",
-      "last_seen": "2026-07-01T12:09:20.182000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
     },
     {
       "ip": "152.52.108.146",
@@ -1859,56 +699,6 @@
       "country": "IN"
     },
     {
-      "ip": "152.136.46.139",
-      "first_seen": "2026-06-28T00:49:14.588000+00:00",
-      "last_seen": "2026-06-28T00:49:14.588000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "152.136.255.195",
-      "first_seen": "2026-07-04T20:56:15.573000+00:00",
-      "last_seen": "2026-07-04T20:56:15.573000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "154.8.163.214",
-      "first_seen": "2026-07-01T18:55:57.443000+00:00",
-      "last_seen": "2026-07-01T18:55:57.443000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "154.8.201.83",
-      "first_seen": "2026-07-10T03:57:28.024000+00:00",
-      "last_seen": "2026-07-10T03:57:28.024000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "154.195.69.84",
-      "first_seen": "2026-06-27T15:57:43.470000+00:00",
-      "last_seen": "2026-06-27T15:57:43.470000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
       "ip": "154.219.114.38",
       "first_seen": "2026-07-11T15:15:31.330000+00:00",
       "last_seen": "2026-07-11T15:15:31.330000+00:00",
@@ -1917,26 +707,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "HK"
-    },
-    {
-      "ip": "159.75.139.7",
-      "first_seen": "2026-07-01T12:22:41.215000+00:00",
-      "last_seen": "2026-07-01T12:22:41.215000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "165.154.137.186",
-      "first_seen": "2026-06-30T05:57:31.860000+00:00",
-      "last_seen": "2026-06-30T06:58:18.509000+00:00",
-      "count": 6,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
     },
     {
       "ip": "165.154.245.138",
@@ -1949,49 +719,9 @@
       "country": "HK"
     },
     {
-      "ip": "166.77.36.7",
-      "first_seen": "2026-06-30T22:53:29.461000+00:00",
-      "last_seen": "2026-06-30T22:53:29.461000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "167.99.202.35",
-      "first_seen": "2026-07-04T15:54:57.564000+00:00",
-      "last_seen": "2026-07-04T16:42:29.069000+00:00",
-      "count": 5,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "GB"
-    },
-    {
-      "ip": "170.82.239.96",
-      "first_seen": "2026-07-08T11:31:18.402000+00:00",
-      "last_seen": "2026-07-08T11:42:32.870000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BR"
-    },
-    {
       "ip": "171.231.180.11",
       "first_seen": "2026-07-19T16:28:44.892000+00:00",
       "last_seen": "2026-07-19T16:28:44.892000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "171.231.182.115",
-      "first_seen": "2026-06-29T22:43:03.825000+00:00",
-      "last_seen": "2026-06-29T22:43:03.825000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
@@ -2009,29 +739,9 @@
       "country": "VN"
     },
     {
-      "ip": "171.231.185.38",
-      "first_seen": "2026-07-09T11:13:49.180000+00:00",
-      "last_seen": "2026-07-09T11:13:49.180000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
       "ip": "171.231.188.193",
       "first_seen": "2026-07-23T08:27:44.713000+00:00",
       "last_seen": "2026-07-23T08:27:44.713000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "171.231.190.14",
-      "first_seen": "2026-07-01T09:39:20.581000+00:00",
-      "last_seen": "2026-07-01T09:39:20.581000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
@@ -2059,36 +769,6 @@
       "country": "VN"
     },
     {
-      "ip": "171.231.198.36",
-      "first_seen": "2026-07-03T13:52:30.242000+00:00",
-      "last_seen": "2026-07-03T13:52:30.242000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "171.243.148.248",
-      "first_seen": "2026-07-08T00:48:32.980000+00:00",
-      "last_seen": "2026-07-08T01:13:35.091000+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "171.243.149.144",
-      "first_seen": "2026-07-09T10:48:37.440000+00:00",
-      "last_seen": "2026-07-09T11:00:38.090000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
       "ip": "171.243.150.95",
       "first_seen": "2026-07-12T08:06:01.790000+00:00",
       "last_seen": "2026-07-12T08:20:14.113000+00:00",
@@ -2109,96 +789,6 @@
       "country": "VN"
     },
     {
-      "ip": "171.243.151.143",
-      "first_seen": "2026-06-30T15:19:45.524000+00:00",
-      "last_seen": "2026-06-30T15:19:45.524000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "VN"
-    },
-    {
-      "ip": "172.174.46.118",
-      "first_seen": "2026-06-30T09:01:34.090000+00:00",
-      "last_seen": "2026-06-30T09:01:34.090000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "176.53.159.197",
-      "first_seen": "2026-07-02T05:03:02.091000+00:00",
-      "last_seen": "2026-07-02T05:03:02.091000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "TR"
-    },
-    {
-      "ip": "176.53.159.198",
-      "first_seen": "2026-07-02T02:47:15.993000+00:00",
-      "last_seen": "2026-07-02T02:47:15.993000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "TR"
-    },
-    {
-      "ip": "176.65.139.8",
-      "first_seen": "2026-06-27T15:18:39.963000+00:00",
-      "last_seen": "2026-06-27T20:29:11.261000+00:00",
-      "count": 24,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "179.61.154.166",
-      "first_seen": "2026-06-30T09:45:43.767000+00:00",
-      "last_seen": "2026-06-30T09:45:43.767000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BR"
-    },
-    {
-      "ip": "182.93.7.194",
-      "first_seen": "2026-07-02T02:11:48.431000+00:00",
-      "last_seen": "2026-07-02T02:11:48.431000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "MO"
-    },
-    {
-      "ip": "185.112.33.84",
-      "first_seen": "2026-07-09T17:03:44.653000+00:00",
-      "last_seen": "2026-07-09T17:03:44.653000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IR"
-    },
-    {
-      "ip": "185.112.33.94",
-      "first_seen": "2026-07-02T06:24:07.131000+00:00",
-      "last_seen": "2026-07-02T07:16:01.383000+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IR"
-    },
-    {
       "ip": "192.142.28.77",
       "first_seen": "2026-07-12T18:48:26.171000+00:00",
       "last_seen": "2026-07-12T19:00:19.312000+00:00",
@@ -2207,76 +797,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "192.229.85.26",
-      "first_seen": "2026-07-06T10:50:02.641000+00:00",
-      "last_seen": "2026-07-06T10:50:02.641000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
-      "ip": "194.88.98.110",
-      "first_seen": "2026-07-05T17:25:51.266000+00:00",
-      "last_seen": "2026-07-05T17:25:51.266000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
-      "ip": "195.33.199.59",
-      "first_seen": "2026-07-01T13:32:19.836000+00:00",
-      "last_seen": "2026-07-01T13:32:19.836000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "TR"
-    },
-    {
-      "ip": "198.1.195.197",
-      "first_seen": "2026-06-27T22:27:46.929000+00:00",
-      "last_seen": "2026-06-27T22:27:46.929000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BR"
-    },
-    {
-      "ip": "198.74.56.46",
-      "first_seen": "2026-07-08T05:43:43.795000+00:00",
-      "last_seen": "2026-07-11T05:42:44.230000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "198.89.99.140",
-      "first_seen": "2026-06-27T16:42:20.684000+00:00",
-      "last_seen": "2026-06-27T16:42:20.684000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BR"
-    },
-    {
-      "ip": "200.234.227.140",
-      "first_seen": "2026-07-02T07:53:49.011000+00:00",
-      "last_seen": "2026-07-02T07:53:49.011000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "ES"
     },
     {
       "ip": "202.74.242.230",
@@ -2297,36 +817,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "ID"
-    },
-    {
-      "ip": "213.177.179.91",
-      "first_seen": "2026-06-28T17:12:25.403000+00:00",
-      "last_seen": "2026-06-28T18:38:43.004000+00:00",
-      "count": 5,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "217.18.94.226",
-      "first_seen": "2026-06-27T14:50:15.081000+00:00",
-      "last_seen": "2026-06-27T14:50:15.081000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "IR"
-    },
-    {
-      "ip": "220.154.133.166",
-      "first_seen": "2026-07-02T02:25:14.750000+00:00",
-      "last_seen": "2026-07-02T02:25:14.750000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CN"
     }
   ]
 }

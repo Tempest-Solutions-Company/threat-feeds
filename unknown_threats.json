@@ -1,23 +1,13 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-07-27T06:21:35.487361+00:00",
+    "generated": "2026-08-10T09:27:06.593228+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 28,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
-    {
-      "ip": "2.27.14.29",
-      "first_seen": "2026-07-07T10:09:18.584000+00:00",
-      "last_seen": "2026-07-07T10:09:18.584000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "SE"
-    },
     {
       "ip": "2.57.122.202",
       "first_seen": "2026-07-14T09:48:26.843000+00:00",
@@ -59,16 +49,6 @@
       "country": "US"
     },
     {
-      "ip": "34.39.104.102",
-      "first_seen": "2026-06-30T03:38:34.163000+00:00",
-      "last_seen": "2026-06-30T03:38:34.163000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
-      "protocol": "TCP",
-      "country": "GB"
-    },
-    {
       "ip": "34.200.249.123",
       "first_seen": "2026-07-17T21:38:54.782000+00:00",
       "last_seen": "2026-07-17T21:38:54.782000+00:00",
@@ -77,26 +57,6 @@
       "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "41.75.114.30",
-      "first_seen": "2026-07-04T17:27:11.737000+00:00",
-      "last_seen": "2026-07-04T17:27:11.737000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "MW"
-    },
-    {
-      "ip": "42.235.81.240",
-      "first_seen": "2026-07-06T14:12:59.856000+00:00",
-      "last_seen": "2026-07-06T14:12:59.856000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
-      "protocol": "TCP",
-      "country": "CN"
     },
     {
       "ip": "45.90.163.37",
@@ -139,36 +99,6 @@
       "country": "NL"
     },
     {
-      "ip": "45.148.10.120",
-      "first_seen": "2026-07-02T22:15:56.169000+00:00",
-      "last_seen": "2026-07-02T22:15:56.169000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.148.10.238",
-      "first_seen": "2026-07-06T06:23:03.864000+00:00",
-      "last_seen": "2026-07-06T06:23:03.864000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.153.34.231",
-      "first_seen": "2026-07-09T08:27:06.387000+00:00",
-      "last_seen": "2026-07-09T08:27:06.387000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
       "ip": "62.238.41.102",
       "first_seen": "2026-07-18T12:20:32.951000+00:00",
       "last_seen": "2026-07-18T12:20:32.951000+00:00",
@@ -177,26 +107,6 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "FI"
-    },
-    {
-      "ip": "65.109.218.60",
-      "first_seen": "2026-07-01T23:28:44.990000+00:00",
-      "last_seen": "2026-07-01T23:28:44.990000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "FI"
-    },
-    {
-      "ip": "65.110.40.115",
-      "first_seen": "2026-06-30T23:16:58.862000+00:00",
-      "last_seen": "2026-06-30T23:16:58.862000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",
-      "protocol": "TCP",
-      "country": "CA"
     },
     {
       "ip": "81.27.102.215",
@@ -239,49 +149,9 @@
       "country": "ID"
     },
     {
-      "ip": "103.83.237.25",
-      "first_seen": "2026-07-10T17:52:03.409000+00:00",
-      "last_seen": "2026-07-16T05:39:09.391000+00:00",
-      "count": 3,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "ID"
-    },
-    {
-      "ip": "103.134.2.53",
-      "first_seen": "2026-07-04T00:45:26.064000+00:00",
-      "last_seen": "2026-07-04T00:45:26.064000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
-      "protocol": "TCP",
-      "country": "PK"
-    },
-    {
-      "ip": "104.28.166.114",
-      "first_seen": "2026-06-30T02:59:06.882000+00:00",
-      "last_seen": "2026-06-30T02:59:06.882000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
-      "protocol": "TCP",
-      "country": "SG"
-    },
-    {
       "ip": "104.28.211.187",
       "first_seen": "2026-07-13T01:51:53.327000+00:00",
       "last_seen": "2026-07-13T01:51:53.327000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL WEB_SERVER .htpasswd access",
-      "protocol": "TCP",
-      "country": "FR"
-    },
-    {
-      "ip": "104.28.243.188",
-      "first_seen": "2026-07-10T03:02:38.971000+00:00",
-      "last_seen": "2026-07-10T03:02:38.971000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "GPL WEB_SERVER .htpasswd access",
@@ -299,26 +169,6 @@
       "country": "FR"
     },
     {
-      "ip": "117.72.195.41",
-      "first_seen": "2026-06-29T14:44:16.413000+00:00",
-      "last_seen": "2026-06-29T14:44:16.413000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "117.175.140.121",
-      "first_seen": "2026-06-30T17:57:04.737000+00:00",
-      "last_seen": "2026-06-30T17:57:04.737000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
       "ip": "120.92.16.84",
       "first_seen": "2026-07-12T17:48:28.918000+00:00",
       "last_seen": "2026-07-12T17:48:28.918000+00:00",
@@ -327,26 +177,6 @@
       "signature": "ET EXPLOIT MVPower DVR Shell UCE",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "124.174.10.254",
-      "first_seen": "2026-07-06T01:19:20.502000+00:00",
-      "last_seen": "2026-07-06T01:19:20.502000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "141.11.88.122",
-      "first_seen": "2026-07-05T00:41:59.600000+00:00",
-      "last_seen": "2026-07-05T00:41:59.600000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "144.31.128.50",
@@ -359,36 +189,6 @@
       "country": "SE"
     },
     {
-      "ip": "147.185.132.81",
-      "first_seen": "2026-06-28T15:20:46.453000+00:00",
-      "last_seen": "2026-06-28T15:20:46.453000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Apache ActiveMQ 6.x Default Unauthenticated API Access (CVE-2024-32114) M1",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "147.185.132.141",
-      "first_seen": "2026-06-30T23:04:39.035000+00:00",
-      "last_seen": "2026-06-30T23:04:39.035000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Apache ActiveMQ 6.x Default Unauthenticated API Access (CVE-2024-32114) M1",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "157.173.104.13",
-      "first_seen": "2026-07-03T11:05:20.901000+00:00",
-      "last_seen": "2026-07-03T11:05:20.901000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
-      "protocol": "TCP",
-      "country": "FR"
-    },
-    {
       "ip": "161.132.53.68",
       "first_seen": "2026-07-22T03:49:00.243000+00:00",
       "last_seen": "2026-07-22T20:49:28.563000+00:00",
@@ -399,16 +199,6 @@
       "country": "PE"
     },
     {
-      "ip": "178.17.48.230",
-      "first_seen": "2026-06-29T12:16:14.837000+00:00",
-      "last_seen": "2026-06-29T12:16:14.837000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
       "ip": "185.68.184.237",
       "first_seen": "2026-07-12T17:01:34.003000+00:00",
       "last_seen": "2026-07-16T07:29:14.433000+00:00",
@@ -417,26 +207,6 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "185.75.135.220",
-      "first_seen": "2026-07-02T03:27:52.925000+00:00",
-      "last_seen": "2026-07-04T03:23:26.001000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "FI"
-    },
-    {
-      "ip": "185.177.72.11",
-      "first_seen": "2026-07-07T03:49:13.673000+00:00",
-      "last_seen": "2026-07-07T03:49:13.673000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
-      "protocol": "TCP",
-      "country": "FR"
     },
     {
       "ip": "185.231.101.88",
@@ -489,16 +259,6 @@
       "country": "AD"
     },
     {
-      "ip": "195.178.110.108",
-      "first_seen": "2026-06-30T23:48:32.395000+00:00",
-      "last_seen": "2026-06-30T23:59:53.261000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/bash In URI, Possible Shell Command Execution Attempt Within Web Exploit",
-      "protocol": "TCP",
-      "country": "AD"
-    },
-    {
       "ip": "195.178.110.211",
       "first_seen": "2026-07-17T22:49:32.231000+00:00",
       "last_seen": "2026-07-24T14:04:03.165000+00:00",
@@ -509,16 +269,6 @@
       "country": "AD"
     },
     {
-      "ip": "202.183.141.133",
-      "first_seen": "2026-06-29T16:20:54.799000+00:00",
-      "last_seen": "2026-06-29T16:20:54.799000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "TH"
-    },
-    {
       "ip": "213.192.2.99",
       "first_seen": "2026-07-11T19:04:09.505000+00:00",
       "last_seen": "2026-07-11T19:04:09.505000+00:00",
@@ -527,36 +277,6 @@
       "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
       "protocol": "TCP",
       "country": "CZ"
-    },
-    {
-      "ip": "217.217.247.245",
-      "first_seen": "2026-06-30T08:28:28.465000+00:00",
-      "last_seen": "2026-06-30T08:28:28.465000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "FI"
-    },
-    {
-      "ip": "217.217.247.251",
-      "first_seen": "2026-07-01T05:51:31.872000+00:00",
-      "last_seen": "2026-07-01T05:51:31.872000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "FI"
-    },
-    {
-      "ip": "223.85.102.138",
-      "first_seen": "2026-06-30T14:35:01.472000+00:00",
-      "last_seen": "2026-06-30T14:35:01.472000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Apache HTTP Server - Path Traversal Attempt (CVE-2021-42013) M2",
-      "protocol": "TCP",
-      "country": "CN"
     },
     {
       "ip": "223.123.72.135",

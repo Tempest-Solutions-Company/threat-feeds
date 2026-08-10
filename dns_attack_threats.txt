@@ -1,116 +1,50 @@
 # DNS_Attack Threat Feed
-# Generated: 2026-07-27T07:02:36.080482+00:00
+# Generated: 2026-08-10T09:27:06.593228+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 107
+# Total IPs: 41
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
-1.24.16.18 | LOW | GPL DNS named version attempt | CN | 2026-06-30 | 2026-06-30 | 1
-3.14.81.207 | LOW | GPL DNS named version attempt | US | 2026-07-06 | 2026-07-06 | 1
-3.16.165.58 | LOW | GPL DNS named version attempt | US | 2026-07-04 | 2026-07-04 | 1
 3.18.223.28 | LOW | GPL DNS named version attempt | US | 2026-07-20 | 2026-07-20 | 1
-3.20.237.254 | LOW | GPL DNS named version attempt | US | 2026-07-05 | 2026-07-05 | 1
-15.235.114.164 | LOW | GPL DNS named version attempt | CA | 2026-07-09 | 2026-07-09 | 1
-18.97.26.2 | LOW | GPL DNS named version attempt | US | 2026-07-10 | 2026-07-10 | 1
 18.219.198.217 | LOW | GPL DNS named version attempt | US | 2026-07-12 | 2026-07-12 | 1
-18.224.72.213 | LOW | GPL DNS named version attempt | US | 2026-07-03 | 2026-07-03 | 1
-18.226.72.137 | LOW | GPL DNS named version attempt | US | 2026-07-10 | 2026-07-10 | 1
-34.14.110.62 | LOW | GPL DNS named version attempt | BE | 2026-06-29 | 2026-06-29 | 2
-34.22.190.193 | LOW | GPL DNS named version attempt | BE | 2026-07-09 | 2026-07-09 | 1
-34.53.225.162 | LOW | GPL DNS named version attempt | BE | 2026-07-04 | 2026-07-04 | 2
 34.78.138.18 | LOW | GPL DNS named version attempt | BE | 2026-07-15 | 2026-07-15 | 1
 34.140.79.32 | LOW | GPL DNS named version attempt | BE | 2026-07-27 | 2026-07-27 | 1
-34.140.253.204 | LOW | GPL DNS named version attempt | BE | 2026-07-07 | 2026-07-07 | 1
 34.156.52.122 | LOW | GPL DNS named version attempt | BE | 2026-07-19 | 2026-07-19 | 1
-34.156.114.37 | LOW | GPL DNS named version attempt | BE | 2026-07-06 | 2026-07-06 | 2
 35.187.74.121 | LOW | GPL DNS named version attempt | BE | 2026-07-13 | 2026-07-13 | 2
 35.205.33.205 | LOW | GPL DNS named version attempt | BE | 2026-07-20 | 2026-07-20 | 1
 35.205.175.85 | LOW | GPL DNS named version attempt | BE | 2026-07-22 | 2026-07-22 | 1
 35.205.175.207 | LOW | GPL DNS named version attempt | BE | 2026-07-26 | 2026-07-26 | 1
-35.233.53.55 | LOW | GPL DNS named version attempt | BE | 2026-07-03 | 2026-07-03 | 1
-35.240.15.226 | LOW | GPL DNS named version attempt | BE | 2026-07-11 | 2026-07-11 | 2
-35.240.61.69 | LOW | GPL DNS named version attempt | BE | 2026-07-02 | 2026-07-02 | 1
-35.241.212.58 | LOW | GPL DNS named version attempt | BE | 2026-06-28 | 2026-06-28 | 1
-40.124.173.7 | LOW | GPL DNS named version attempt | US | 2026-07-10 | 2026-07-10 | 1
-40.124.175.103 | LOW | GPL DNS named version attempt | US | 2026-07-03 | 2026-07-03 | 1
-45.142.154.101 | LOW | GPL DNS named version attempt | HK | 2026-06-30 | 2026-06-30 | 1
 45.153.34.160 | LOW | GPL DNS named version attempt | NL | 2026-07-13 | 2026-07-13 | 2
-45.156.129.80 | LOW | GPL DNS named version attempt | US | 2026-07-04 | 2026-07-04 | 1
-51.210.219.112 | LOW | GPL DNS named version attempt | FR | 2026-07-05 | 2026-07-05 | 1
-52.14.249.123 | LOW | GPL DNS named version attempt | US | 2026-07-01 | 2026-07-01 | 1
 61.129.155.196 | LOW | GPL DNS named version attempt | CN | 2026-07-16 | 2026-07-16 | 2
-64.62.156.51 | LOW | GPL DNS named version attempt | US | 2026-07-06 | 2026-07-06 | 1
-65.49.1.12 | LOW | GPL DNS named version attempt | US | 2026-07-11 | 2026-07-11 | 1
 65.49.1.110 | LOW | GPL DNS named version attempt | US | 2026-07-18 | 2026-07-18 | 1
 65.49.20.121 | LOW | GPL DNS named version attempt | US | 2026-07-12 | 2026-07-12 | 1
-65.49.20.124 | LOW | GPL DNS named version attempt | US | 2026-07-02 | 2026-07-02 | 1
 66.132.172.129 | LOW | GPL DNS named version attempt | US | 2026-07-20 | 2026-07-20 | 1
 66.132.172.139 | LOW | GPL DNS named version attempt | US | 2026-07-21 | 2026-07-21 | 1
 66.132.172.178 | LOW | GPL DNS named version attempt | US | 2026-07-22 | 2026-07-22 | 1
-66.132.172.195 | LOW | GPL DNS named version attempt | US | 2026-07-09 | 2026-07-09 | 1
-66.132.186.171 | LOW | GPL DNS named version attempt | US | 2026-07-04 | 2026-07-04 | 1
-66.132.195.85 | LOW | GPL DNS named version attempt | US | 2026-07-05 | 2026-07-05 | 1
 66.132.195.116 | LOW | GPL DNS named version attempt | US | 2026-07-17 | 2026-07-17 | 1
-66.132.224.87 | LOW | GPL DNS named version attempt | US | 2026-07-08 | 2026-07-08 | 1
-66.132.224.229 | LOW | GPL DNS named version attempt | US | 2026-06-29 | 2026-06-29 | 1
 71.6.146.130 | LOW | GPL DNS named version attempt | US | 2026-07-11 | 2026-07-21 | 2
-71.6.167.142 | LOW | GPL DNS named version attempt | US | 2026-07-10 | 2026-07-10 | 1
-74.82.47.48 | LOW | GPL DNS named version attempt | US | 2026-07-05 | 2026-07-05 | 1
-80.94.92.20 | LOW | GPL DNS named version attempt | NL | 2026-06-28 | 2026-06-28 | 1
-85.217.140.51 | LOW | GPL DNS named version attempt | FR | 2026-07-04 | 2026-07-04 | 1
 85.217.149.13 | LOW | GPL DNS named version attempt | CA | 2026-07-20 | 2026-07-20 | 1
 85.217.149.19 | LOW | GPL DNS named version attempt | CA | 2026-07-20 | 2026-07-20 | 1
 85.217.149.21 | LOW | GPL DNS named version attempt | CA | 2026-07-15 | 2026-07-15 | 1
 85.217.149.34 | LOW | GPL DNS named version attempt | CA | 2026-07-15 | 2026-07-15 | 1
 85.217.149.51 | LOW | GPL DNS named version attempt | CA | 2026-07-11 | 2026-07-11 | 1
-87.236.176.2 | LOW | GPL DNS named version attempt | GB | 2026-07-03 | 2026-07-03 | 1
 87.236.176.15 | LOW | GPL DNS named version attempt | GB | 2026-07-21 | 2026-07-21 | 1
-91.231.89.117 | LOW | GPL DNS named version attempt | FR | 2026-07-10 | 2026-07-10 | 2
-94.154.43.224 | LOW | GPL DNS named version attempt | TR | 2026-07-02 | 2026-07-09 | 4
-94.231.206.4 | LOW | GPL DNS named version attempt | CN | 2026-07-02 | 2026-07-02 | 1
-94.231.206.134 | LOW | GPL DNS named version attempt | CN | 2026-06-29 | 2026-06-29 | 2
-100.29.192.114 | LOW | GPL DNS named version attempt | US | 2026-06-27 | 2026-06-27 | 1
-101.36.97.70 | LOW | GPL DNS named version attempt | GB | 2026-07-06 | 2026-07-06 | 1
 104.152.52.139 | LOW | GPL DNS named version attempt | US | 2026-07-20 | 2026-07-20 | 1
-106.75.175.85 | LOW | GPL DNS named version attempt | CN | 2026-07-04 | 2026-07-04 | 1
 118.194.233.182 | LOW | GPL DNS named version attempt | SG | 2026-07-20 | 2026-07-20 | 1
-141.11.62.84 | LOW | GPL DNS named version attempt | NL | 2026-07-09 | 2026-07-09 | 1
 147.185.132.67 | LOW | GPL DNS named version attempt | US | 2026-07-11 | 2026-07-11 | 1
-147.185.132.76 | LOW | GPL DNS named version attempt | US | 2026-07-05 | 2026-07-05 | 1
 147.185.132.99 | LOW | GPL DNS named version attempt | US | 2026-07-21 | 2026-07-21 | 1
-147.185.132.177 | LOW | GPL DNS named version attempt | US | 2026-07-08 | 2026-07-08 | 1
-148.153.188.254 | LOW | GPL DNS named version attempt | US | 2026-07-10 | 2026-07-10 | 1
 156.225.1.10 | LOW | GPL DNS named version attempt | JP | 2026-07-14 | 2026-07-14 | 1
-162.19.96.205 | LOW | GPL DNS named version attempt | FR | 2026-06-28 | 2026-06-28 | 1
 165.154.135.73 | LOW | GPL DNS named version attempt | US | 2026-07-16 | 2026-07-16 | 1
-165.154.182.179 | LOW | GPL DNS named version attempt | US | 2026-06-30 | 2026-06-30 | 2
-165.227.55.4 | LOW | GPL DNS named version attempt | US | 2026-07-09 | 2026-07-09 | 1
 167.99.109.228 | LOW | GPL DNS named version attempt | US | 2026-07-15 | 2026-07-15 | 2
 172.232.221.148 | LOW | GPL DNS named version attempt | IT | 2026-07-12 | 2026-07-12 | 2
-176.65.148.252 | LOW | GPL DNS named version attempt | NL | 2026-07-07 | 2026-07-07 | 1
-182.54.23.48 | LOW | GPL DNS named version attempt | CN | 2026-07-06 | 2026-07-06 | 1
-184.105.247.220 | LOW | GPL DNS named version attempt | US | 2026-06-29 | 2026-06-29 | 1
-185.125.204.162 | LOW | GPL DNS named version attempt | GB | 2026-07-03 | 2026-07-20 | 8
-185.180.141.12 | LOW | GPL DNS named version attempt | US | 2026-07-05 | 2026-07-05 | 1
 185.226.197.10 | LOW | GPL DNS named version attempt | NL | 2026-07-18 | 2026-07-18 | 1
 185.247.137.38 | LOW | GPL DNS named version attempt | GB | 2026-07-16 | 2026-07-16 | 1
-185.247.137.99 | LOW | GPL DNS named version attempt | GB | 2026-06-27 | 2026-06-27 | 1
-195.96.139.27 | LOW | GPL DNS named version attempt | IR | 2026-07-04 | 2026-07-04 | 1
 195.96.139.82 | LOW | GPL DNS named version attempt | GB | 2026-07-16 | 2026-07-16 | 1
 195.96.139.164 | LOW | GPL DNS named version attempt | GB | 2026-07-13 | 2026-07-13 | 1
-198.235.24.33 | LOW | GPL DNS named version attempt | US | 2026-06-28 | 2026-06-28 | 1
 198.235.24.57 | LOW | GPL DNS named version attempt | US | 2026-07-15 | 2026-07-15 | 1
-198.235.24.248 | LOW | GPL DNS named version attempt | US | 2026-07-03 | 2026-07-03 | 1
 199.45.154.118 | LOW | GPL DNS named version attempt | US | 2026-07-14 | 2026-07-14 | 1
-199.45.155.65 | LOW | GPL DNS named version attempt | HK | 2026-07-01 | 2026-07-01 | 1
-205.210.31.176 | LOW | GPL DNS named version attempt | US | 2026-07-05 | 2026-07-05 | 1
-205.210.31.218 | LOW | GPL DNS named version attempt | US | 2026-06-30 | 2026-06-30 | 1
-207.175.48.43 | LOW | GPL DNS named version attempt | BE | 2026-07-07 | 2026-07-07 | 2
 216.25.89.80 | LOW | GPL DNS named version attempt | US | 2026-07-14 | 2026-07-14 | 1
-216.25.89.116 | LOW | GPL DNS named version attempt | US | 2026-07-02 | 2026-07-02 | 1
-216.180.246.110 | LOW | GPL DNS named version attempt | FR | 2026-06-28 | 2026-06-28 | 1
-216.180.246.158 | LOW | GPL DNS named version attempt | FR | 2026-07-06 | 2026-07-06 | 1
 216.180.246.168 | LOW | GPL DNS named version attempt | FR | 2026-07-20 | 2026-07-20 | 1
 216.218.206.80 | LOW | GPL DNS named version attempt | US | 2026-07-13 | 2026-07-13 | 1

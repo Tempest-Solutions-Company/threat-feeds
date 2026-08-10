@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-07-27T07:02:36.080482+00:00
+# Generated: 2026-08-10T09:27:06.593228+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 76
+# Total IPs: 34
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -9,77 +9,35 @@
 
 2.27.49.47 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | DE | 2026-07-14 | 2026-07-14 | 1
 4.227.180.232 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-18 | 2026-07-18 | 1
-5.206.227.80 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | NL | 2026-07-03 | 2026-07-03 | 1
-9.234.8.125 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-08 | 2026-07-08 | 1
-20.12.240.188 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-03 | 2026-07-03 | 1
-20.14.78.253 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-06-30 | 2026-06-30 | 1
 20.38.32.246 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-18 | 2026-07-18 | 1
 20.64.106.117 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-19 | 2026-07-19 | 1
 20.65.137.167 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-13 | 2026-07-13 | 1
-20.65.193.19 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-04 | 2026-07-04 | 1
 20.65.195.16 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-21 | 2026-07-21 | 1
-20.65.195.53 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-06-29 | 2026-06-29 | 1
-20.84.119.5 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-06 | 2026-07-06 | 1
 20.98.165.154 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-19 | 2026-07-19 | 1
-20.106.196.31 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-09 | 2026-07-09 | 1
-20.163.2.35 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-06-28 | 2026-06-28 | 1
-20.163.4.176 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-06-30 | 2026-06-30 | 1
 20.168.120.227 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-17 | 2026-07-17 | 1
 20.168.122.88 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-12 | 2026-07-12 | 1
 20.171.28.177 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-12 | 2026-07-12 | 1
-20.221.57.26 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-06-29 | 2026-06-29 | 1
-34.127.40.219 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2026-06-30 | 2026-06-30 | 1
-34.178.232.5 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | NL | 2026-07-05 | 2026-07-05 | 1
-34.186.72.158 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2026-07-09 | 2026-07-09 | 1
-35.221.13.245 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2026-07-02 | 2026-07-02 | 1
-35.222.68.189 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-05 | 2026-07-05 | 2
 40.77.167.7 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-14 | 2026-07-14 | 1
-40.77.167.12 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-03 | 2026-07-03 | 1
-40.77.167.22 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-02 | 2026-07-02 | 1
-40.77.167.23 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-05 | 2026-07-05 | 1
 40.77.167.35 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-11 | 2026-07-11 | 1
 40.77.167.123 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-22 | 2026-07-22 | 1
 40.77.167.136 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-15 | 2026-07-15 | 1
-40.80.204.175 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-06-30 | 2026-06-30 | 1
-40.124.175.226 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-05 | 2026-07-05 | 1
-45.33.12.214 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-04 | 2026-07-12 | 2
-45.79.207.110 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-07 | 2026-07-07 | 1
 45.94.31.73 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | NL | 2026-07-14 | 2026-07-14 | 2
-45.154.98.52 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | NL | 2026-06-30 | 2026-06-30 | 1
 52.167.144.23 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-21 | 2026-07-21 | 1
-52.167.144.150 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-01 | 2026-07-01 | 1
 52.167.144.189 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-14 | 2026-07-14 | 1
 52.167.144.227 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-21 | 2026-07-21 | 1
-52.186.171.52 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-05 | 2026-07-05 | 1
 66.187.5.228 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-07-15 | 2026-07-15 | 1
 66.240.223.240 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-14 | 2026-07-14 | 1
-107.150.117.127 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | DE | 2026-07-11 | 2026-07-11 | 1
-110.10.176.48 | LOW | ET SCAN Zmap User-Agent (Inbound) | KR | 2026-07-01 | 2026-07-01 | 1
 117.72.13.241 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | CN | 2026-07-17 | 2026-07-17 | 2
-128.90.161.19 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | IT | 2026-07-09 | 2026-07-09 | 1
-134.122.106.248 | LOW | ET SCAN Zmap User-Agent (Inbound) | GB | 2026-07-04 | 2026-07-04 | 1
 134.209.25.199 | LOW | ET SCAN LeakIX Inbound User-Agent | GB | 2026-07-13 | 2026-07-13 | 1
 136.109.18.216 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2026-07-13 | 2026-07-13 | 1
 138.197.15.182 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-14 | 2026-07-14 | 1
 141.95.170.83 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | FR | 2026-07-14 | 2026-07-14 | 1
-143.110.182.33 | LOW | ET SCAN Zmap User-Agent (Inbound) | IN | 2026-07-08 | 2026-07-08 | 1
-143.244.57.84 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | FR | 2026-06-29 | 2026-06-29 | 1
-154.58.237.213 | LOW | ET SCAN Google Webcrawler User-Agent (Mediapartners-Google) | VE | 2026-07-01 | 2026-07-01 | 1
-157.245.105.107 | LOW | ET SCAN LeakIX Inbound User-Agent | IN | 2026-07-04 | 2026-07-04 | 1
-158.115.252.47 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | NL | 2026-06-29 | 2026-06-29 | 1
-159.89.174.87 | LOW | ET SCAN LeakIX Inbound User-Agent | IN | 2026-07-05 | 2026-07-05 | 1
 161.118.251.181 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2026-07-13 | 2026-07-13 | 1
 164.90.228.79 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2026-07-19 | 2026-07-19 | 1
-167.99.78.34 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2026-07-05 | 2026-07-05 | 1
-169.239.183.136 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | ZA | 2026-07-03 | 2026-07-03 | 1
-172.202.117.125 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-08 | 2026-07-08 | 1
 180.93.249.92 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | VN | 2026-07-15 | 2026-07-15 | 1
 180.93.255.222 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | VN | 2026-07-21 | 2026-07-21 | 1
 185.242.3.191 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | DE | 2026-07-18 | 2026-07-18 | 1
-190.96.102.100 | LOW | ET SCAN Google Webcrawler User-Agent (Mediapartners-Google) | EC | 2026-06-30 | 2026-06-30 | 1
 194.5.82.155 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | SG | 2026-07-14 | 2026-07-14 | 1
 194.164.57.119 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | DE | 2026-07-18 | 2026-07-18 | 1
-194.195.210.47 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-07-08 | 2026-07-08 | 1
-203.159.90.217 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | NL | 2026-07-04 | 2026-07-18 | 2
 207.154.212.47 | LOW | ET SCAN LeakIX Inbound User-Agent | DE | 2026-07-23 | 2026-07-23 | 1
 216.73.163.110 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | US | 2026-07-18 | 2026-07-18 | 1

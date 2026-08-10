@@ -1,73 +1,13 @@
 {
   "metadata": {
     "category": "Terminal_Server_Attack",
-    "generated": "2026-07-27T06:21:35.487361+00:00",
+    "generated": "2026-08-10T09:27:06.593228+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 13,
+    "total_threats": 6,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
-    {
-      "ip": "3.17.72.108",
-      "first_seen": "2026-07-05T14:12:16.531000+00:00",
-      "last_seen": "2026-07-05T14:12:16.531000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "3.129.187.38",
-      "first_seen": "2026-07-10T22:35:55.551000+00:00",
-      "last_seen": "2026-07-10T22:35:55.551000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "18.220.188.237",
-      "first_seen": "2026-06-28T18:23:08.668000+00:00",
-      "last_seen": "2026-06-28T18:23:08.668000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "62.164.177.54",
-      "first_seen": "2026-07-03T04:51:03.895000+00:00",
-      "last_seen": "2026-07-15T04:17:23.002000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "66.228.42.204",
-      "first_seen": "2026-07-06T12:13:04.521000+00:00",
-      "last_seen": "2026-07-06T12:13:04.521000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "80.94.95.43",
-      "first_seen": "2026-07-08T07:27:31.311000+00:00",
-      "last_seen": "2026-07-08T07:27:31.311000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "HU"
-    },
     {
       "ip": "91.238.181.10",
       "first_seen": "2026-07-19T03:38:49.940000+00:00",
@@ -97,16 +37,6 @@
       "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
       "protocol": "TCP",
       "country": "RU"
-    },
-    {
-      "ip": "181.49.207.198",
-      "first_seen": "2026-07-01T20:49:19.912000+00:00",
-      "last_seen": "2026-07-01T21:44:24.265000+00:00",
-      "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN MS Terminal Server Traffic on Non-standard Port",
-      "protocol": "TCP",
-      "country": "CO"
     },
     {
       "ip": "194.165.16.121",

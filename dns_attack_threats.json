@@ -1,77 +1,17 @@
 {
   "metadata": {
     "category": "DNS_Attack",
-    "generated": "2026-07-27T07:02:36.080482+00:00",
+    "generated": "2026-08-10T09:27:06.593228+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 107,
+    "total_threats": 41,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
     {
-      "ip": "1.24.16.18",
-      "first_seen": "2026-06-30T19:53:53.863000+00:00",
-      "last_seen": "2026-06-30T19:53:53.863000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "3.14.81.207",
-      "first_seen": "2026-07-06T15:19:07.521000+00:00",
-      "last_seen": "2026-07-06T15:19:07.521000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "3.16.165.58",
-      "first_seen": "2026-07-04T14:11:47.486000+00:00",
-      "last_seen": "2026-07-04T14:11:47.486000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "3.18.223.28",
       "first_seen": "2026-07-20T16:45:43.871000+00:00",
       "last_seen": "2026-07-20T16:45:43.871000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "3.20.237.254",
-      "first_seen": "2026-07-05T15:37:02.899000+00:00",
-      "last_seen": "2026-07-05T15:37:02.899000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "15.235.114.164",
-      "first_seen": "2026-07-09T10:37:06.391000+00:00",
-      "last_seen": "2026-07-09T10:37:06.391000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "CA"
-    },
-    {
-      "ip": "18.97.26.2",
-      "first_seen": "2026-07-10T13:09:53.010000+00:00",
-      "last_seen": "2026-07-10T13:09:53.010000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "GPL DNS named version attempt",
@@ -87,56 +27,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "UDP",
       "country": "US"
-    },
-    {
-      "ip": "18.224.72.213",
-      "first_seen": "2026-07-03T15:36:30.145000+00:00",
-      "last_seen": "2026-07-03T15:36:30.145000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "18.226.72.137",
-      "first_seen": "2026-07-10T16:29:29.325000+00:00",
-      "last_seen": "2026-07-10T16:29:29.325000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "34.14.110.62",
-      "first_seen": "2026-06-29T04:03:49.257000+00:00",
-      "last_seen": "2026-06-29T04:17:17.588000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "34.22.190.193",
-      "first_seen": "2026-07-09T06:30:24.124000+00:00",
-      "last_seen": "2026-07-09T06:30:24.124000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "34.53.225.162",
-      "first_seen": "2026-07-04T07:18:26.012000+00:00",
-      "last_seen": "2026-07-04T07:31:10.684000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
     },
     {
       "ip": "34.78.138.18",
@@ -159,30 +49,10 @@
       "country": "BE"
     },
     {
-      "ip": "34.140.253.204",
-      "first_seen": "2026-07-07T09:28:09.632000+00:00",
-      "last_seen": "2026-07-07T09:28:09.632000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
       "ip": "34.156.52.122",
       "first_seen": "2026-07-19T06:58:46.212000+00:00",
       "last_seen": "2026-07-19T06:58:46.212000+00:00",
       "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "34.156.114.37",
-      "first_seen": "2026-07-06T09:20:36.338000+00:00",
-      "last_seen": "2026-07-06T09:33:04.161000+00:00",
-      "count": 2,
       "severity": "low",
       "signature": "GPL DNS named version attempt",
       "protocol": "TCP",
@@ -229,76 +99,6 @@
       "country": "BE"
     },
     {
-      "ip": "35.233.53.55",
-      "first_seen": "2026-07-03T04:17:14.575000+00:00",
-      "last_seen": "2026-07-03T04:17:14.575000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "35.240.15.226",
-      "first_seen": "2026-07-11T03:50:45.371000+00:00",
-      "last_seen": "2026-07-11T04:04:01.552000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "35.240.61.69",
-      "first_seen": "2026-07-02T11:36:16.262000+00:00",
-      "last_seen": "2026-07-02T11:36:16.262000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "35.241.212.58",
-      "first_seen": "2026-06-28T06:02:42.195000+00:00",
-      "last_seen": "2026-06-28T06:02:42.195000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
-      "ip": "40.124.173.7",
-      "first_seen": "2026-07-10T01:12:06.392000+00:00",
-      "last_seen": "2026-07-10T01:12:06.392000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "40.124.175.103",
-      "first_seen": "2026-07-03T11:58:03.428000+00:00",
-      "last_seen": "2026-07-03T11:58:03.428000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "45.142.154.101",
-      "first_seen": "2026-06-30T19:41:53.247000+00:00",
-      "last_seen": "2026-06-30T19:41:53.247000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "HK"
-    },
-    {
       "ip": "45.153.34.160",
       "first_seen": "2026-07-13T10:04:57.045000+00:00",
       "last_seen": "2026-07-13T10:17:52.430000+00:00",
@@ -309,36 +109,6 @@
       "country": "NL"
     },
     {
-      "ip": "45.156.129.80",
-      "first_seen": "2026-07-04T00:10:09.589000+00:00",
-      "last_seen": "2026-07-04T00:10:09.589000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "51.210.219.112",
-      "first_seen": "2026-07-05T06:46:07+00:00",
-      "last_seen": "2026-07-05T06:46:07+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "FR"
-    },
-    {
-      "ip": "52.14.249.123",
-      "first_seen": "2026-07-01T13:17:22.454000+00:00",
-      "last_seen": "2026-07-01T13:17:22.454000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "61.129.155.196",
       "first_seen": "2026-07-16T13:30:12.025000+00:00",
       "last_seen": "2026-07-16T13:44:24.424000+00:00",
@@ -347,26 +117,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "64.62.156.51",
-      "first_seen": "2026-07-06T07:53:32.155000+00:00",
-      "last_seen": "2026-07-06T07:53:32.155000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "65.49.1.12",
-      "first_seen": "2026-07-11T04:17:49.670000+00:00",
-      "last_seen": "2026-07-11T04:17:49.670000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
     },
     {
       "ip": "65.49.1.110",
@@ -382,16 +132,6 @@
       "ip": "65.49.20.121",
       "first_seen": "2026-07-12T08:49:15.748000+00:00",
       "last_seen": "2026-07-12T08:49:15.748000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "65.49.20.124",
-      "first_seen": "2026-07-02T04:23:50.355000+00:00",
-      "last_seen": "2026-07-02T04:23:50.355000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "GPL DNS named version attempt",
@@ -429,59 +169,9 @@
       "country": "US"
     },
     {
-      "ip": "66.132.172.195",
-      "first_seen": "2026-07-09T18:34:39.391000+00:00",
-      "last_seen": "2026-07-09T18:34:39.391000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "66.132.186.171",
-      "first_seen": "2026-07-04T03:34:34.718000+00:00",
-      "last_seen": "2026-07-04T03:34:34.718000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "66.132.195.85",
-      "first_seen": "2026-07-05T18:23:06.501000+00:00",
-      "last_seen": "2026-07-05T18:23:06.501000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "66.132.195.116",
       "first_seen": "2026-07-17T23:31:28.270000+00:00",
       "last_seen": "2026-07-17T23:31:28.270000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "66.132.224.87",
-      "first_seen": "2026-07-08T05:32:41.590000+00:00",
-      "last_seen": "2026-07-08T05:32:41.590000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "66.132.224.229",
-      "first_seen": "2026-06-29T08:17:51.110000+00:00",
-      "last_seen": "2026-06-29T08:17:51.110000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "GPL DNS named version attempt",
@@ -497,46 +187,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "UDP",
       "country": "US"
-    },
-    {
-      "ip": "71.6.167.142",
-      "first_seen": "2026-07-10T00:14:06.934000+00:00",
-      "last_seen": "2026-07-10T00:14:06.934000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "74.82.47.48",
-      "first_seen": "2026-07-05T11:07:13.472000+00:00",
-      "last_seen": "2026-07-05T11:07:13.472000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "80.94.92.20",
-      "first_seen": "2026-06-28T12:46:31.163000+00:00",
-      "last_seen": "2026-06-28T12:46:31.163000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "NL"
-    },
-    {
-      "ip": "85.217.140.51",
-      "first_seen": "2026-07-04T10:56:47.215000+00:00",
-      "last_seen": "2026-07-04T10:56:47.215000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "FR"
     },
     {
       "ip": "85.217.149.13",
@@ -589,16 +239,6 @@
       "country": "CA"
     },
     {
-      "ip": "87.236.176.2",
-      "first_seen": "2026-07-03T16:33:32.864000+00:00",
-      "last_seen": "2026-07-03T16:33:32.864000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "GB"
-    },
-    {
       "ip": "87.236.176.15",
       "first_seen": "2026-07-21T17:55:07.052000+00:00",
       "last_seen": "2026-07-21T17:55:07.052000+00:00",
@@ -606,66 +246,6 @@
       "severity": "low",
       "signature": "GPL DNS named version attempt",
       "protocol": "UDP",
-      "country": "GB"
-    },
-    {
-      "ip": "91.231.89.117",
-      "first_seen": "2026-07-10T19:56:07.886000+00:00",
-      "last_seen": "2026-07-10T20:08:25.214000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "FR"
-    },
-    {
-      "ip": "94.154.43.224",
-      "first_seen": "2026-07-02T19:14:00.163000+00:00",
-      "last_seen": "2026-07-09T11:29:05.882000+00:00",
-      "count": 4,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "TR"
-    },
-    {
-      "ip": "94.231.206.4",
-      "first_seen": "2026-07-02T15:14:05.566000+00:00",
-      "last_seen": "2026-07-02T15:14:05.566000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "94.231.206.134",
-      "first_seen": "2026-06-29T10:44:02.893000+00:00",
-      "last_seen": "2026-06-29T10:57:16.475000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "CN"
-    },
-    {
-      "ip": "100.29.192.114",
-      "first_seen": "2026-06-27T10:08:03.928000+00:00",
-      "last_seen": "2026-06-27T10:08:03.928000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "101.36.97.70",
-      "first_seen": "2026-07-06T06:02:47.364000+00:00",
-      "last_seen": "2026-07-06T06:02:47.364000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
       "country": "GB"
     },
     {
@@ -679,16 +259,6 @@
       "country": "US"
     },
     {
-      "ip": "106.75.175.85",
-      "first_seen": "2026-07-04T05:16:36.189000+00:00",
-      "last_seen": "2026-07-04T05:16:36.189000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "CN"
-    },
-    {
       "ip": "118.194.233.182",
       "first_seen": "2026-07-20T15:50:29.252000+00:00",
       "last_seen": "2026-07-20T15:50:29.252000+00:00",
@@ -699,29 +269,9 @@
       "country": "SG"
     },
     {
-      "ip": "141.11.62.84",
-      "first_seen": "2026-07-09T01:39:19.460000+00:00",
-      "last_seen": "2026-07-09T01:39:19.460000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "NL"
-    },
-    {
       "ip": "147.185.132.67",
       "first_seen": "2026-07-11T21:02:05.620000+00:00",
       "last_seen": "2026-07-11T21:02:05.620000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "147.185.132.76",
-      "first_seen": "2026-07-05T23:40:32.781000+00:00",
-      "last_seen": "2026-07-05T23:40:32.781000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "GPL DNS named version attempt",
@@ -739,26 +289,6 @@
       "country": "US"
     },
     {
-      "ip": "147.185.132.177",
-      "first_seen": "2026-07-08T04:36:36.141000+00:00",
-      "last_seen": "2026-07-08T04:36:36.141000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "148.153.188.254",
-      "first_seen": "2026-07-10T16:13:03.697000+00:00",
-      "last_seen": "2026-07-10T16:13:03.697000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "156.225.1.10",
       "first_seen": "2026-07-14T08:43:39.371000+00:00",
       "last_seen": "2026-07-14T08:43:39.371000+00:00",
@@ -769,16 +299,6 @@
       "country": "JP"
     },
     {
-      "ip": "162.19.96.205",
-      "first_seen": "2026-06-28T15:56:45.341000+00:00",
-      "last_seen": "2026-06-28T15:56:45.341000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "FR"
-    },
-    {
       "ip": "165.154.135.73",
       "first_seen": "2026-07-16T02:37:30.931000+00:00",
       "last_seen": "2026-07-16T02:37:30.931000+00:00",
@@ -786,26 +306,6 @@
       "severity": "low",
       "signature": "GPL DNS named version attempt",
       "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "165.154.182.179",
-      "first_seen": "2026-06-30T21:40:43.034000+00:00",
-      "last_seen": "2026-06-30T22:28:34.579000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "165.227.55.4",
-      "first_seen": "2026-07-09T23:59:32.184000+00:00",
-      "last_seen": "2026-07-09T23:59:32.184000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
       "country": "US"
     },
     {
@@ -829,56 +329,6 @@
       "country": "IT"
     },
     {
-      "ip": "176.65.148.252",
-      "first_seen": "2026-07-07T08:25:14.781000+00:00",
-      "last_seen": "2026-07-07T08:25:14.781000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "NL"
-    },
-    {
-      "ip": "182.54.23.48",
-      "first_seen": "2026-07-06T18:21:57.679000+00:00",
-      "last_seen": "2026-07-06T18:21:57.679000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "CN"
-    },
-    {
-      "ip": "184.105.247.220",
-      "first_seen": "2026-06-29T02:45:20.621000+00:00",
-      "last_seen": "2026-06-29T02:45:20.621000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "185.125.204.162",
-      "first_seen": "2026-07-03T01:07:43.038000+00:00",
-      "last_seen": "2026-07-20T16:15:08.261000+00:00",
-      "count": 8,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "GB"
-    },
-    {
-      "ip": "185.180.141.12",
-      "first_seen": "2026-07-05T00:15:46.439000+00:00",
-      "last_seen": "2026-07-05T00:15:46.439000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "185.226.197.10",
       "first_seen": "2026-07-18T09:20:14.922000+00:00",
       "last_seen": "2026-07-18T09:20:14.922000+00:00",
@@ -897,26 +347,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "TCP",
       "country": "GB"
-    },
-    {
-      "ip": "185.247.137.99",
-      "first_seen": "2026-06-27T23:28:00.779000+00:00",
-      "last_seen": "2026-06-27T23:28:00.779000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "GB"
-    },
-    {
-      "ip": "195.96.139.27",
-      "first_seen": "2026-07-04T18:30:10.910000+00:00",
-      "last_seen": "2026-07-04T18:30:10.910000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "IR"
     },
     {
       "ip": "195.96.139.82",
@@ -939,29 +369,9 @@
       "country": "GB"
     },
     {
-      "ip": "198.235.24.33",
-      "first_seen": "2026-06-28T06:53:56.690000+00:00",
-      "last_seen": "2026-06-28T06:53:56.690000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
       "ip": "198.235.24.57",
       "first_seen": "2026-07-15T22:36:45.311000+00:00",
       "last_seen": "2026-07-15T22:36:45.311000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "198.235.24.248",
-      "first_seen": "2026-07-03T21:56:05.158000+00:00",
-      "last_seen": "2026-07-03T21:56:05.158000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "GPL DNS named version attempt",
@@ -979,46 +389,6 @@
       "country": "US"
     },
     {
-      "ip": "199.45.155.65",
-      "first_seen": "2026-07-01T21:58:46.360000+00:00",
-      "last_seen": "2026-07-01T21:58:46.360000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "HK"
-    },
-    {
-      "ip": "205.210.31.176",
-      "first_seen": "2026-07-05T02:23:12.374000+00:00",
-      "last_seen": "2026-07-05T02:23:12.374000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "205.210.31.218",
-      "first_seen": "2026-06-30T18:35:33.951000+00:00",
-      "last_seen": "2026-06-30T18:35:33.951000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "207.175.48.43",
-      "first_seen": "2026-07-07T04:25:09.932000+00:00",
-      "last_seen": "2026-07-07T04:37:56.682000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "TCP",
-      "country": "BE"
-    },
-    {
       "ip": "216.25.89.80",
       "first_seen": "2026-07-14T01:11:31.424000+00:00",
       "last_seen": "2026-07-14T01:11:31.424000+00:00",
@@ -1027,36 +397,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "UDP",
       "country": "US"
-    },
-    {
-      "ip": "216.25.89.116",
-      "first_seen": "2026-07-02T04:09:44.361000+00:00",
-      "last_seen": "2026-07-02T04:09:44.361000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
-    },
-    {
-      "ip": "216.180.246.110",
-      "first_seen": "2026-06-28T16:31:45.371000+00:00",
-      "last_seen": "2026-06-28T16:31:45.371000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "FR"
-    },
-    {
-      "ip": "216.180.246.158",
-      "first_seen": "2026-07-06T03:39:53.488000+00:00",
-      "last_seen": "2026-07-06T03:39:53.488000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "FR"
     },
     {
       "ip": "216.180.246.168",

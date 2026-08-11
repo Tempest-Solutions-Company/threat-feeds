@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-11T16:42:51.239135+00:00",
+    "generated": "2026-08-11T17:13:17.766076+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 31,
     "expiry_days": 30,
@@ -209,6 +209,16 @@
       "country": "CN"
     },
     {
+      "ip": "143.198.124.236",
+      "first_seen": "2026-08-11T17:08:17.259000+00:00",
+      "last_seen": "2026-08-11T17:08:17.259000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
       "ip": "144.31.128.50",
       "first_seen": "2026-07-17T03:51:19.032000+00:00",
       "last_seen": "2026-07-17T03:51:19.032000+00:00",
@@ -237,16 +247,6 @@
       "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
       "protocol": "TCP",
       "country": "PE"
-    },
-    {
-      "ip": "185.68.184.237",
-      "first_seen": "2026-07-12T17:01:34.003000+00:00",
-      "last_seen": "2026-07-16T07:29:14.433000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "DE"
     },
     {
       "ip": "185.231.101.88",

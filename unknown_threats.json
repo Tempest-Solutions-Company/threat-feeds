@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-12T08:05:28.477925+00:00",
+    "generated": "2026-08-12T08:35:51.976859+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 32,
+    "total_threats": 33,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -167,6 +167,16 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "88.216.220.91",
+      "first_seen": "2026-08-12T08:32:08.921000+00:00",
+      "last_seen": "2026-08-12T08:32:08.921000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
+      "protocol": "TCP",
+      "country": "DE"
     },
     {
       "ip": "91.109.114.213",

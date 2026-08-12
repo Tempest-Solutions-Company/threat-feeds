@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-12T16:42:41.266862+00:00",
+    "generated": "2026-08-12T17:13:06.530894+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 34,
+    "total_threats": 35,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -15,6 +15,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
+      "protocol": "TCP",
+      "country": "NL"
+    },
+    {
+      "ip": "5.129.231.94",
+      "first_seen": "2026-08-12T17:08:03.212000+00:00",
+      "last_seen": "2026-08-12T17:08:03.212000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "NL"
     },
@@ -101,8 +111,8 @@
     {
       "ip": "35.188.231.78",
       "first_seen": "2026-08-12T09:39:00.506000+00:00",
-      "last_seen": "2026-08-12T15:00:40.160000+00:00",
-      "count": 5,
+      "last_seen": "2026-08-12T16:57:04.180000+00:00",
+      "count": 7,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
       "protocol": "TCP",

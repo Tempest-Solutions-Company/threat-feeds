@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-14T23:16:24.272258+00:00
+# Generated: 2026-08-14T23:46:46.183601+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 36
+# Total IPs: 37
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -40,6 +40,7 @@
 195.178.110.102 | LOW | ET WEB_SERVER /etc/hosts Detected in URI | AD | 2026-07-17 | 2026-07-17 | 3
 195.178.110.104 | LOW | ET WEB_SERVER .bash_history Detected in URI | AD | 2026-07-17 | 2026-07-17 | 1
 195.178.110.211 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-07-17 | 2026-08-10 | 9
+204.168.187.117 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FI | 2026-08-14 | 2026-08-14 | 1
 205.237.105.132 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | FR | 2026-08-13 | 2026-08-14 | 2
 223.85.251.61 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-08-14 | 2026-08-14 | 1
 223.123.72.135 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | PK | 2026-07-26 | 2026-07-26 | 1

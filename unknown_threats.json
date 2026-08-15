@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-15T22:45:09.905134+00:00",
+    "generated": "2026-08-15T23:15:31.005020+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 38,
+    "total_threats": 39,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -197,6 +197,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "GB"
+    },
+    {
+      "ip": "93.123.109.228",
+      "first_seen": "2026-08-15T22:54:08.330000+00:00",
+      "last_seen": "2026-08-15T22:54:08.330000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
+      "protocol": "TCP",
+      "country": "AD"
     },
     {
       "ip": "94.154.43.104",

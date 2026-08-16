@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-16T21:14:11.903704+00:00
+# Generated: 2026-08-16T21:44:33.264408+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 39
+# Total IPs: 38
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -14,7 +14,6 @@
 34.52.169.0 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | BE | 2026-08-10 | 2026-08-11 | 9
 34.79.156.110 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | BE | 2026-08-10 | 2026-08-10 | 1
 34.145.226.208 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-08-11 | 2026-08-13 | 6
-34.200.249.123 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | US | 2026-07-17 | 2026-07-17 | 1
 35.188.231.78 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-12 | 2026-08-13 | 25
 35.240.211.164 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | SG | 2026-08-16 | 2026-08-16 | 1
 45.148.10.40 | LOW | ET WEB_SERVER /etc/shadow Detected in URI | NL | 2026-07-19 | 2026-07-19 | 2

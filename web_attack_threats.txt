@@ -1,7 +1,7 @@
 # Web_Attack Threat Feed
-# Generated: 2026-08-16T00:16:13.962604+00:00
+# Generated: 2026-08-16T00:46:34.863648+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 15
+# Total IPs: 16
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -15,6 +15,7 @@
 45.148.10.40 | HIGH | ET WEB_SERVER /etc/passwd Detected in URI | NL | 2026-07-19 | 2026-07-20 | 16
 45.148.10.80 | HIGH | ET WEB_SERVER /etc/passwd Detected in URI | NL | 2026-07-19 | 2026-07-19 | 2
 52.242.193.144 | HIGH | ET WEB_SERVER WEB-PHP phpinfo access | US | 2026-07-22 | 2026-07-23 | 3
+74.248.136.165 | HIGH | ET WEB_SERVER WEB-PHP phpinfo access | PL | 2026-08-16 | 2026-08-16 | 1
 74.249.245.134 | HIGH | ET WEB_SERVER WEB-PHP phpinfo access | US | 2026-07-22 | 2026-07-22 | 3
 183.81.168.186 | HIGH | ET WEB_SERVER /etc/passwd Detected in URI | US | 2026-08-11 | 2026-08-11 | 1
 195.178.110.102 | HIGH | ET WEB_SERVER /etc/passwd Detected in URI | AD | 2026-07-17 | 2026-07-17 | 2

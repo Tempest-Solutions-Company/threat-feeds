@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-16T03:31:45.839199+00:00",
+    "generated": "2026-08-16T04:02:06.325819+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 39,
+    "total_threats": 38,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -237,16 +237,6 @@
       "signature": "ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "144.31.128.50",
-      "first_seen": "2026-07-17T03:51:19.032000+00:00",
-      "last_seen": "2026-07-17T03:51:19.032000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "SE"
     },
     {
       "ip": "144.31.226.177",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-16T13:08:28.966995+00:00
+# Generated: 2026-08-16T13:38:50.050159+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 36
+# Total IPs: 38
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -22,6 +22,7 @@
 46.246.92.109 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-08-11 | 2026-08-11 | 1
 62.238.41.102 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-07-18 | 2026-07-18 | 1
 81.27.102.215 | LOW | ET WEB_SERVER PHP tags in HTTP POST | PL | 2026-07-20 | 2026-07-20 | 1
+82.165.27.72 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | DE | 2026-08-16 | 2026-08-16 | 1
 86.107.178.66 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-11 | 2026-08-11 | 1
 88.216.220.91 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-08-12 | 2026-08-12 | 1
 91.109.114.213 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | GB | 2026-08-11 | 2026-08-11 | 1
@@ -33,6 +34,7 @@
 144.31.226.177 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-08-10 | 2026-08-10 | 1
 160.187.211.134 | LOW | ET WEB_SPECIFIC_APPS WordPress Core wp2shell Remote Code Execution (CVE-2026-63030 & CVE-2026-60137) M2 | MY | 2026-08-14 | 2026-08-14 | 1
 161.132.53.68 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | PE | 2026-07-22 | 2026-07-22 | 2
+173.255.221.224 | LOW | ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2 | US | 2026-08-16 | 2026-08-16 | 1
 179.43.150.26 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | CH | 2026-08-12 | 2026-08-12 | 1
 185.231.101.88 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-07-20 | 2026-07-20 | 1
 185.236.22.119 | LOW | ET WEB_SERVER PHP tags in HTTP POST | LV | 2026-08-15 | 2026-08-15 | 1

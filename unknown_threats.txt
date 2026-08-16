@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-16T12:07:45.049913+00:00
+# Generated: 2026-08-16T12:38:07.310532+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 35
+# Total IPs: 36
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -25,6 +25,7 @@
 86.107.178.66 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-11 | 2026-08-11 | 1
 88.216.220.91 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-08-12 | 2026-08-12 | 1
 91.109.114.213 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | GB | 2026-08-11 | 2026-08-11 | 1
+93.123.109.163 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-08-16 | 2026-08-16 | 1
 93.123.109.228 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | AD | 2026-08-15 | 2026-08-15 | 1
 94.154.43.104 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | NL | 2026-08-12 | 2026-08-12 | 2
 101.47.15.119 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | SG | 2026-07-22 | 2026-07-22 | 1
@@ -37,7 +38,7 @@
 185.236.22.119 | LOW | ET WEB_SERVER PHP tags in HTTP POST | LV | 2026-08-15 | 2026-08-15 | 1
 193.29.139.167 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-15 | 2026-08-15 | 1
 193.47.62.168 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-07-21 | 2026-07-21 | 2
-195.178.110.211 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-07-17 | 2026-08-10 | 9
+195.178.110.211 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-07-17 | 2026-08-16 | 10
 204.168.187.117 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FI | 2026-08-14 | 2026-08-14 | 1
 205.237.105.132 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | FR | 2026-08-13 | 2026-08-14 | 2
 223.85.251.61 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-08-14 | 2026-08-14 | 1

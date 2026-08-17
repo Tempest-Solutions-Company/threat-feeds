@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-08-17T15:42:22.370327+00:00",
+    "generated": "2026-08-17T16:13:08.213792+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 49,
+    "total_threats": 48,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -475,16 +475,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Yandex Webcrawler User-Agent (YandexBot)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "216.73.163.110",
-      "first_seen": "2026-07-18T15:59:55.410000+00:00",
-      "last_seen": "2026-07-18T15:59:55.410000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
       "protocol": "TCP",
       "country": "US"
     },

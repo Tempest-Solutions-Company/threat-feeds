@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-18T18:57:27.096322+00:00
+# Generated: 2026-08-18T19:27:51.318861+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 46
+# Total IPs: 45
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -20,7 +20,6 @@
 34.145.226.208 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-08-11 | 2026-08-13 | 6
 35.188.231.78 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-12 | 2026-08-13 | 25
 35.240.211.164 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | SG | 2026-08-16 | 2026-08-16 | 1
-45.148.10.80 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | NL | 2026-07-19 | 2026-07-19 | 7
 45.148.10.125 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | NL | 2026-08-13 | 2026-08-17 | 4
 46.246.92.109 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-08-11 | 2026-08-11 | 1
 68.183.58.201 | HIGH | ET WEB_SPECIFIC_APPS Ubiquiti Unifi OS Command Injection (CVE-2026-34910) | US | 2026-08-18 | 2026-08-18 | 1

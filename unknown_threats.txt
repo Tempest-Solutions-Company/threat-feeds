@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-18T16:25:30.397391+00:00
+# Generated: 2026-08-18T16:55:53.515723+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 44
+# Total IPs: 45
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -32,6 +32,7 @@
 93.123.109.163 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-08-16 | 2026-08-16 | 1
 93.123.109.228 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | AD | 2026-08-15 | 2026-08-15 | 1
 94.154.43.104 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | NL | 2026-08-12 | 2026-08-12 | 2
+95.85.224.3 | LOW | ET WEB_SERVER PHP tags in HTTP POST | EE | 2026-08-18 | 2026-08-18 | 1
 101.47.15.119 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | SG | 2026-07-22 | 2026-07-22 | 1
 103.215.75.19 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | US | 2026-08-17 | 2026-08-17 | 1
 143.198.124.236 | LOW | ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2 | US | 2026-08-11 | 2026-08-11 | 1

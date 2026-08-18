@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-18T09:19:56.987255+00:00
+# Generated: 2026-08-18T09:50:20.265130+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 44
+# Total IPs: 45
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -24,6 +24,7 @@
 45.148.10.125 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | NL | 2026-08-13 | 2026-08-17 | 4
 46.246.92.109 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-08-11 | 2026-08-11 | 1
 68.183.58.201 | HIGH | ET WEB_SPECIFIC_APPS Ubiquiti Unifi OS Command Injection (CVE-2026-34910) | US | 2026-08-18 | 2026-08-18 | 1
+77.91.84.96 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-08-18 | 2026-08-18 | 1
 81.27.102.215 | LOW | ET WEB_SERVER PHP tags in HTTP POST | PL | 2026-07-20 | 2026-07-20 | 1
 82.165.27.72 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | DE | 2026-08-16 | 2026-08-16 | 1
 86.107.178.66 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-11 | 2026-08-11 | 1

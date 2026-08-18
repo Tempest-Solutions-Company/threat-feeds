@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-18T17:26:16.855731+00:00
+# Generated: 2026-08-18T17:56:39.853253+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 45
+# Total IPs: 46
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -16,6 +16,7 @@
 34.38.133.84 | LOW | GPL WEB_SERVER .htpasswd access | BE | 2026-08-17 | 2026-08-17 | 1
 34.52.169.0 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | BE | 2026-08-10 | 2026-08-11 | 9
 34.79.156.110 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | BE | 2026-08-10 | 2026-08-10 | 1
+34.138.162.22 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-18 | 2026-08-18 | 1
 34.145.226.208 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-08-11 | 2026-08-13 | 6
 35.188.231.78 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-12 | 2026-08-13 | 25
 35.240.211.164 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | SG | 2026-08-16 | 2026-08-16 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-18T18:57:27.096322+00:00",
+    "generated": "2026-08-18T19:27:51.318861+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 46,
+    "total_threats": 45,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -137,16 +137,6 @@
       "signature": "ET WEB_SERVER Likely Malicious Request for /proc/self/environ",
       "protocol": "TCP",
       "country": "SG"
-    },
-    {
-      "ip": "45.148.10.80",
-      "first_seen": "2026-07-19T19:21:47.402000+00:00",
-      "last_seen": "2026-07-19T22:08:12.115000+00:00",
-      "count": 7,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "45.148.10.125",

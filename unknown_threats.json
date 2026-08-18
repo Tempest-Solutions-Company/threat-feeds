@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-18T08:19:12.357629+00:00",
+    "generated": "2026-08-18T08:49:34.275453+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 43,
+    "total_threats": 44,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -167,6 +167,16 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "SE"
+    },
+    {
+      "ip": "68.183.58.201",
+      "first_seen": "2026-08-18T08:39:56.716000+00:00",
+      "last_seen": "2026-08-18T08:39:56.716000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET WEB_SPECIFIC_APPS Ubiquiti Unifi OS Command Injection (CVE-2026-34910)",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "81.27.102.215",

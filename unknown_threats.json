@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-19T16:42:01.838814+00:00",
+    "generated": "2026-08-19T17:12:24.831429+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 50,
+    "total_threats": 51,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -115,6 +115,16 @@
       "count": 6,
       "severity": "low",
       "signature": "ET WEB_SERVER Likely Malicious Request for /proc/self/environ",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "34.168.135.253",
+      "first_seen": "2026-08-19T17:05:53.403000+00:00",
+      "last_seen": "2026-08-19T17:05:53.403000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
       "protocol": "TCP",
       "country": "US"
     },

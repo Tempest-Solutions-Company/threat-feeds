@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-20T02:31:06.572306+00:00
+# Generated: 2026-08-20T03:01:29.697092+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 50
+# Total IPs: 51
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -39,6 +39,7 @@
 144.31.226.177 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-08-10 | 2026-08-10 | 1
 144.172.114.51 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | US | 2026-08-19 | 2026-08-19 | 1
 150.241.71.157 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-08-17 | 2026-08-17 | 1
+155.133.26.191 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | FR | 2026-08-20 | 2026-08-20 | 1
 160.187.211.134 | LOW | ET WEB_SPECIFIC_APPS WordPress Core wp2shell Remote Code Execution (CVE-2026-63030 & CVE-2026-60137) M2 | MY | 2026-08-14 | 2026-08-14 | 1
 161.132.53.68 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | PE | 2026-07-22 | 2026-07-22 | 2
 169.58.149.196 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FR | 2026-08-19 | 2026-08-19 | 1

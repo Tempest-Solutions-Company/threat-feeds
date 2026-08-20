@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-20T08:05:20.158944+00:00
+# Generated: 2026-08-20T08:35:43.135922+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 51
+# Total IPs: 52
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -48,6 +48,7 @@
 179.43.150.26 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | CH | 2026-08-12 | 2026-08-12 | 1
 185.79.138.71 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-08-17 | 2026-08-17 | 1
 185.177.72.22 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-08-19 | 2026-08-19 | 1
+185.177.72.68 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-08-20 | 2026-08-20 | 1
 185.236.22.119 | LOW | ET WEB_SERVER PHP tags in HTTP POST | LV | 2026-08-15 | 2026-08-15 | 1
 193.29.139.161 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-19 | 2026-08-19 | 1
 193.29.139.167 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-15 | 2026-08-16 | 2

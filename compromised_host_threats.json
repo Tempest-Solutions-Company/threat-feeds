@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2026-08-20T11:38:04.652484+00:00",
+    "generated": "2026-08-21T02:00:40.901529+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 23,
+    "total_threats": 29,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -41,8 +41,8 @@
     {
       "ip": "45.142.193.164",
       "first_seen": "2026-08-11T21:48:59.222000+00:00",
-      "last_seen": "2026-08-20T07:36:55.334000+00:00",
-      "count": 75,
+      "last_seen": "2026-08-20T16:12:48.341000+00:00",
+      "count": 76,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 17",
       "protocol": "TCP",
@@ -69,14 +69,44 @@
       "country": "SE"
     },
     {
-      "ip": "51.77.221.142",
-      "first_seen": "2026-08-17T12:56:37.133000+00:00",
-      "last_seen": "2026-08-17T12:56:37.133000+00:00",
+      "ip": "51.68.214.191",
+      "first_seen": "2026-08-20T19:53:30.684000+00:00",
+      "last_seen": "2026-08-20T19:53:30.684000+00:00",
       "count": 1,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 17",
       "protocol": "TCP",
+      "country": "GB"
+    },
+    {
+      "ip": "51.77.221.142",
+      "first_seen": "2026-08-17T12:56:37.133000+00:00",
+      "last_seen": "2026-08-20T18:57:00.813000+00:00",
+      "count": 3,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 17",
+      "protocol": "TCP",
       "country": "FR"
+    },
+    {
+      "ip": "59.120.178.166",
+      "first_seen": "2026-08-20T19:19:42.723000+00:00",
+      "last_seen": "2026-08-20T19:19:42.723000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 17",
+      "protocol": "TCP",
+      "country": "TW"
+    },
+    {
+      "ip": "61.85.36.35",
+      "first_seen": "2026-08-20T13:40:41.983000+00:00",
+      "last_seen": "2026-08-20T17:37:04.858000+00:00",
+      "count": 2,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 18",
+      "protocol": "TCP",
+      "country": "KR"
     },
     {
       "ip": "62.60.130.219",
@@ -119,16 +149,6 @@
       "country": "NL"
     },
     {
-      "ip": "92.118.39.78",
-      "first_seen": "2026-07-21T12:23:55.612000+00:00",
-      "last_seen": "2026-07-26T13:38:28.986000+00:00",
-      "count": 33,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 19",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "92.218.122.20",
       "first_seen": "2026-08-16T01:08:20.662000+00:00",
       "last_seen": "2026-08-16T01:08:20.662000+00:00",
@@ -149,6 +169,26 @@
       "country": "VN"
     },
     {
+      "ip": "104.168.100.167",
+      "first_seen": "2026-08-20T17:26:53.786000+00:00",
+      "last_seen": "2026-08-20T17:26:53.786000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 1",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "113.20.8.90",
+      "first_seen": "2026-08-20T11:46:52.839000+00:00",
+      "last_seen": "2026-08-20T19:08:34.044000+00:00",
+      "count": 4,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 2",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
       "ip": "119.148.49.82",
       "first_seen": "2026-08-14T17:45:48.565000+00:00",
       "last_seen": "2026-08-14T17:45:48.565000+00:00",
@@ -159,20 +199,40 @@
       "country": "BD"
     },
     {
-      "ip": "152.42.164.200",
-      "first_seen": "2026-07-21T18:39:58.743000+00:00",
-      "last_seen": "2026-07-25T23:43:37.521000+00:00",
-      "count": 4,
+      "ip": "154.16.115.34",
+      "first_seen": "2026-08-20T19:30:00.505000+00:00",
+      "last_seen": "2026-08-20T19:30:00.505000+00:00",
+      "count": 1,
       "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 4",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 5",
       "protocol": "TCP",
-      "country": "SG"
+      "country": "US"
     },
     {
       "ip": "158.51.96.38",
       "first_seen": "2026-08-14T03:02:10.669000+00:00",
       "last_seen": "2026-08-14T03:02:10.669000+00:00",
       "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 5",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "159.223.29.238",
+      "first_seen": "2026-08-20T19:42:45.174000+00:00",
+      "last_seen": "2026-08-20T19:42:45.174000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 5",
+      "protocol": "TCP",
+      "country": "DE"
+    },
+    {
+      "ip": "162.241.130.124",
+      "first_seen": "2026-08-20T12:09:54.328000+00:00",
+      "last_seen": "2026-08-20T17:48:16.335000+00:00",
+      "count": 3,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 5",
       "protocol": "TCP",
@@ -187,16 +247,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 6",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "182.53.207.106",
-      "first_seen": "2026-07-22T00:36:55.291000+00:00",
-      "last_seen": "2026-07-25T22:49:56.763000+00:00",
-      "count": 5,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 6",
-      "protocol": "TCP",
-      "country": "TH"
     },
     {
       "ip": "189.219.16.249",
@@ -227,6 +277,16 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 8",
       "protocol": "TCP",
       "country": "AD"
+    },
+    {
+      "ip": "198.23.232.204",
+      "first_seen": "2026-08-20T18:00:57.009000+00:00",
+      "last_seen": "2026-08-20T18:00:57.009000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 8",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "202.29.225.158",

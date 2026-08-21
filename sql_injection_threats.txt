@@ -1,7 +1,7 @@
 # SQL_Injection Threat Feed
-# Generated: 2026-08-21T19:14:01.188860+00:00
+# Generated: 2026-08-21T19:44:25.337889+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 4
+# Total IPs: 5
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -11,3 +11,4 @@
 45.148.10.119 | HIGH | ET WEB_SERVER Possible SQL Injection SELECT CONCAT in HTTP Request Body | NL | 2026-08-10 | 2026-08-10 | 1
 85.11.167.118 | HIGH | ET WEB_SERVER Possible SQL Injection SELECT CONCAT in HTTP Request Body | NL | 2026-08-14 | 2026-08-14 | 1
 138.197.138.112 | HIGH | ET WEB_SERVER Possible SQL Injection SELECT CONCAT in HTTP Request Body | CA | 2026-08-12 | 2026-08-12 | 1
+185.177.72.68 | HIGH | ET WEB_SERVER Possible SQL Injection (exec) in HTTP Request Body | FR | 2026-08-21 | 2026-08-21 | 1

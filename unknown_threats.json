@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-23T18:12:17.596753+00:00",
+    "generated": "2026-08-23T18:42:39.529927+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 63,
+    "total_threats": 64,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -357,6 +357,16 @@
       "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
       "protocol": "TCP",
       "country": "AD"
+    },
+    {
+      "ip": "94.154.43.84",
+      "first_seen": "2026-08-23T18:19:28.450000+00:00",
+      "last_seen": "2026-08-23T18:19:28.450000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 17",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "94.154.43.104",

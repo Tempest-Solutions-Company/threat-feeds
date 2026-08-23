@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-23T12:07:50.150862+00:00
+# Generated: 2026-08-23T12:38:11.042251+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 54
+# Total IPs: 56
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -23,6 +23,7 @@
 35.188.231.78 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-12 | 2026-08-13 | 25
 35.237.14.92 | LOW | GPL WEB_SERVER .htpasswd access | US | 2026-08-21 | 2026-08-21 | 1
 35.240.211.164 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | SG | 2026-08-16 | 2026-08-16 | 1
+45.133.173.242 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | GB | 2026-08-23 | 2026-08-23 | 1
 45.148.10.125 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | NL | 2026-08-13 | 2026-08-17 | 4
 46.246.92.109 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-08-11 | 2026-08-11 | 1
 62.60.130.148 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 9 | IR | 2026-08-23 | 2026-08-23 | 1
@@ -32,6 +33,7 @@
 86.107.178.66 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-11 | 2026-08-11 | 1
 88.216.220.91 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-08-12 | 2026-08-12 | 1
 91.109.114.213 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | GB | 2026-08-11 | 2026-08-11 | 1
+92.118.39.231 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-23 | 1
 93.123.109.163 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-08-16 | 2026-08-16 | 1
 93.123.109.228 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | AD | 2026-08-15 | 2026-08-15 | 1
 94.154.43.104 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | NL | 2026-08-12 | 2026-08-12 | 2

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-23T17:41:54.560251+00:00
+# Generated: 2026-08-23T18:12:17.596753+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 62
+# Total IPs: 63
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -24,6 +24,7 @@
 35.237.14.92 | LOW | GPL WEB_SERVER .htpasswd access | US | 2026-08-21 | 2026-08-21 | 1
 35.240.211.164 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | SG | 2026-08-16 | 2026-08-16 | 1
 45.133.173.242 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | GB | 2026-08-23 | 2026-08-23 | 1
+45.139.104.172 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | DE | 2026-08-23 | 2026-08-23 | 1
 45.148.10.8 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-23 | 2026-08-23 | 1
 45.148.10.30 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-23 | 2026-08-23 | 1
 45.148.10.125 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | NL | 2026-08-13 | 2026-08-17 | 4

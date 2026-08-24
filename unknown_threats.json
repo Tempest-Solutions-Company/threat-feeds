@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-24T10:37:05.599618+00:00",
+    "generated": "2026-08-24T11:07:28.330009+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 91,
+    "total_threats": 92,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -361,8 +361,8 @@
     {
       "ip": "64.89.163.251",
       "first_seen": "2026-08-23T17:24:41.455000+00:00",
-      "last_seen": "2026-08-23T19:55:00.299000+00:00",
-      "count": 2,
+      "last_seen": "2026-08-24T11:02:44.094000+00:00",
+      "count": 3,
       "severity": "low",
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 10",
       "protocol": "TCP",
@@ -887,6 +887,16 @@
       "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
       "protocol": "TCP",
       "country": "FR"
+    },
+    {
+      "ip": "213.177.179.52",
+      "first_seen": "2026-08-24T10:49:29.679000+00:00",
+      "last_seen": "2026-08-24T10:49:29.679000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 67",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "213.209.159.15",

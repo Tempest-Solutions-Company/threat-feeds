@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-24T16:41:47.136559+00:00",
+    "generated": "2026-08-24T17:12:13.207175+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 100,
+    "total_threats": 101,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -985,6 +985,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 67",
+      "protocol": "TCP",
+      "country": "DE"
+    },
+    {
+      "ip": "217.160.171.212",
+      "first_seen": "2026-08-24T16:54:11.575000+00:00",
+      "last_seen": "2026-08-24T16:54:11.575000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "DE"
     },

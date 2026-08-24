@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-24T07:04:20.590054+00:00",
+    "generated": "2026-08-24T07:34:42.987808+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 85,
+    "total_threats": 87,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -319,6 +319,16 @@
       "country": "IR"
     },
     {
+      "ip": "62.60.130.253",
+      "first_seen": "2026-08-24T07:15:06.724000+00:00",
+      "last_seen": "2026-08-24T07:15:06.724000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 9",
+      "protocol": "TCP",
+      "country": "IR"
+    },
+    {
       "ip": "64.89.160.242",
       "first_seen": "2026-08-23T23:35:01.883000+00:00",
       "last_seen": "2026-08-23T23:35:01.883000+00:00",
@@ -535,6 +545,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
+      "protocol": "TCP",
+      "country": "AD"
+    },
+    {
+      "ip": "93.123.109.234",
+      "first_seen": "2026-08-24T07:27:27.450000+00:00",
+      "last_seen": "2026-08-24T07:27:27.450000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 16",
       "protocol": "TCP",
       "country": "AD"
     },

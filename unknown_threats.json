@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-24T09:05:55.252965+00:00",
+    "generated": "2026-08-24T09:36:20.008655+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 89,
+    "total_threats": 90,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -561,8 +561,8 @@
     {
       "ip": "93.123.109.228",
       "first_seen": "2026-08-15T22:54:08.330000+00:00",
-      "last_seen": "2026-08-15T22:54:08.330000+00:00",
-      "count": 1,
+      "last_seen": "2026-08-24T09:21:59.477000+00:00",
+      "count": 2,
       "severity": "low",
       "signature": "ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore)",
       "protocol": "TCP",
@@ -877,6 +877,16 @@
       "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
       "protocol": "TCP",
       "country": "FR"
+    },
+    {
+      "ip": "213.209.159.15",
+      "first_seen": "2026-08-24T09:09:47.709000+00:00",
+      "last_seen": "2026-08-24T09:09:47.709000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 67",
+      "protocol": "TCP",
+      "country": "DE"
     },
     {
       "ip": "223.85.251.61",

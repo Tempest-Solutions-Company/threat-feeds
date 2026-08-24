@@ -1,12 +1,13 @@
 # Unknown Threat Feed
-# Generated: 2026-08-24T10:06:43.018052+00:00
+# Generated: 2026-08-24T10:37:05.599618+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 90
+# Total IPs: 91
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
+2.57.122.53 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 1 | NL | 2026-08-24 | 2026-08-24 | 1
 2.57.122.238 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 1 | NL | 2026-08-23 | 2026-08-23 | 1
 5.129.231.94 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-12 | 2026-08-12 | 1
 8.234.246.133 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-11 | 2026-08-11 | 1
@@ -91,7 +92,7 @@
 193.29.139.167 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-15 | 2026-08-16 | 2
 193.29.139.198 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-19 | 2026-08-19 | 1
 202.155.11.54 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-08-18 | 2026-08-18 | 1
-204.76.203.43 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 57 | NL | 2026-08-23 | 2026-08-24 | 2
+204.76.203.43 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 57 | NL | 2026-08-23 | 2026-08-24 | 3
 204.168.187.117 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FI | 2026-08-14 | 2026-08-14 | 1
 205.237.105.132 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | FR | 2026-08-13 | 2026-08-14 | 2
 213.209.159.15 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 67 | DE | 2026-08-24 | 2026-08-24 | 1

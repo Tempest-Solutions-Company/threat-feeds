@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-24T04:32:29.463327+00:00",
+    "generated": "2026-08-24T05:02:50.903608+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 80,
+    "total_threats": 81,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -272,6 +272,16 @@
       "ip": "62.60.130.148",
       "first_seen": "2026-08-23T11:09:19.276000+00:00",
       "last_seen": "2026-08-23T11:09:19.276000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 9",
+      "protocol": "TCP",
+      "country": "IR"
+    },
+    {
+      "ip": "62.60.130.198",
+      "first_seen": "2026-08-24T04:43:06.439000+00:00",
+      "last_seen": "2026-08-24T04:43:06.439000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 9",

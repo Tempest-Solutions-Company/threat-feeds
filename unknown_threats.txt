@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-24T07:04:20.590054+00:00
+# Generated: 2026-08-24T07:34:42.987808+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 85
+# Total IPs: 87
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -38,6 +38,7 @@
 62.60.130.198 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 9 | IR | 2026-08-24 | 2026-08-24 | 1
 62.60.130.201 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 9 | IR | 2026-08-24 | 2026-08-24 | 1
 62.60.130.227 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 9 | IR | 2026-08-24 | 2026-08-24 | 1
+62.60.130.253 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 9 | IR | 2026-08-24 | 2026-08-24 | 1
 64.89.160.242 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 10 | LU | 2026-08-23 | 2026-08-23 | 1
 64.89.163.251 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 10 | DE | 2026-08-23 | 2026-08-23 | 2
 68.183.58.201 | HIGH | ET WEB_SPECIFIC_APPS Ubiquiti Unifi OS Command Injection (CVE-2026-34910) | US | 2026-08-18 | 2026-08-18 | 1
@@ -60,6 +61,7 @@
 92.118.39.232 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-23 | 1
 93.123.109.163 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | AD | 2026-08-16 | 2026-08-16 | 1
 93.123.109.228 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | AD | 2026-08-15 | 2026-08-15 | 1
+93.123.109.234 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | AD | 2026-08-24 | 2026-08-24 | 1
 94.154.43.84 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 17 | NL | 2026-08-23 | 2026-08-23 | 1
 94.154.43.104 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | NL | 2026-08-12 | 2026-08-12 | 2
 94.154.43.122 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 17 | NL | 2026-08-23 | 2026-08-23 | 1

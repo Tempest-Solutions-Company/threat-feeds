@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-24T16:11:20.889786+00:00
+# Generated: 2026-08-24T16:41:47.136559+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 99
+# Total IPs: 100
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -84,6 +84,7 @@
 160.187.211.134 | LOW | ET WEB_SPECIFIC_APPS WordPress Core wp2shell Remote Code Execution (CVE-2026-63030 & CVE-2026-60137) M2 | MY | 2026-08-14 | 2026-08-14 | 1
 169.58.149.196 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FR | 2026-08-19 | 2026-08-19 | 1
 169.58.161.169 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-08-19 | 2026-08-19 | 1
+172.70.214.246 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 36 | US | 2026-08-24 | 2026-08-24 | 1
 172.94.9.193 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 36 | GB | 2026-08-24 | 2026-08-24 | 1
 173.255.221.224 | LOW | ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2 | US | 2026-08-16 | 2026-08-16 | 1
 178.20.210.151 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 37 | KZ | 2026-08-24 | 2026-08-24 | 1

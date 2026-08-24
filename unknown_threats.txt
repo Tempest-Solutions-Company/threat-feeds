@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-24T00:16:36.943149+00:00
+# Generated: 2026-08-24T00:46:58.746582+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 73
+# Total IPs: 74
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -43,7 +43,7 @@
 92.118.39.204 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-23 | 1
 92.118.39.209 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-23 | 1
 92.118.39.212 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-23 | 1
-92.118.39.224 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-23 | 1
+92.118.39.224 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-24 | 2
 92.118.39.225 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-24 | 2026-08-24 | 1
 92.118.39.229 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-23 | 1
 92.118.39.231 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | NL | 2026-08-23 | 2026-08-23 | 1
@@ -61,6 +61,7 @@
 144.31.226.177 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-08-10 | 2026-08-10 | 1
 144.172.114.51 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | US | 2026-08-19 | 2026-08-19 | 1
 150.241.71.157 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-08-17 | 2026-08-17 | 1
+154.16.44.81 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 30 | GB | 2026-08-24 | 2026-08-24 | 1
 155.133.26.191 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | FR | 2026-08-20 | 2026-08-20 | 1
 160.187.211.134 | LOW | ET WEB_SPECIFIC_APPS WordPress Core wp2shell Remote Code Execution (CVE-2026-63030 & CVE-2026-60137) M2 | MY | 2026-08-14 | 2026-08-14 | 1
 169.58.149.196 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FR | 2026-08-19 | 2026-08-19 | 1

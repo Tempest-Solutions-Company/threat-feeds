@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-25T16:41:55.355238+00:00
+# Generated: 2026-08-25T17:12:23.253197+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 117
+# Total IPs: 119
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -57,6 +57,7 @@
 86.107.178.66 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-11 | 2026-08-11 | 1
 88.216.220.91 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-08-12 | 2026-08-12 | 1
 91.92.40.202 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 15 | NL | 2026-08-24 | 2026-08-24 | 1
+91.92.241.196 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 15 | NL | 2026-08-25 | 2026-08-25 | 1
 91.109.114.213 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | GB | 2026-08-11 | 2026-08-11 | 1
 92.118.39.65 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | US | 2026-08-24 | 2026-08-24 | 1
 92.118.39.72 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | US | 2026-08-24 | 2026-08-24 | 1
@@ -114,6 +115,7 @@
 193.29.139.161 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-19 | 2026-08-19 | 1
 193.29.139.167 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-15 | 2026-08-16 | 2
 193.29.139.198 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-19 | 2026-08-19 | 1
+195.178.110.51 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 46 | AD | 2026-08-25 | 2026-08-25 | 1
 195.178.110.137 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 46 | AD | 2026-08-24 | 2026-08-24 | 2
 202.155.11.54 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-08-18 | 2026-08-18 | 1
 204.76.203.43 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 57 | NL | 2026-08-23 | 2026-08-25 | 6

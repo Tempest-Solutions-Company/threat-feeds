@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-26T04:02:11.977909+00:00
+# Generated: 2026-08-26T04:32:34.017614+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 125
+# Total IPs: 126
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -27,7 +27,7 @@
 45.133.173.242 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | GB | 2026-08-23 | 2026-08-23 | 1
 45.135.193.115 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | DE | 2026-08-24 | 2026-08-24 | 1
 45.139.104.172 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | DE | 2026-08-23 | 2026-08-23 | 1
-45.148.10.5 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-26 | 2026-08-26 | 1
+45.148.10.5 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-26 | 2026-08-26 | 2
 45.148.10.8 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-23 | 2026-08-24 | 2
 45.148.10.30 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-23 | 2026-08-23 | 1
 45.148.10.31 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-23 | 2026-08-23 | 1
@@ -95,6 +95,7 @@
 144.172.114.51 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | US | 2026-08-19 | 2026-08-19 | 1
 150.241.71.157 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-08-17 | 2026-08-17 | 1
 154.16.44.81 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 30 | GB | 2026-08-24 | 2026-08-24 | 1
+154.16.44.188 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 30 | GB | 2026-08-26 | 2026-08-26 | 1
 154.16.44.190 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 30 | GB | 2026-08-24 | 2026-08-24 | 1
 155.133.26.191 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | FR | 2026-08-20 | 2026-08-20 | 1
 158.94.209.239 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 32 | NL | 2026-08-25 | 2026-08-25 | 2

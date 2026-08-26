@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-26T10:06:56.413178+00:00
+# Generated: 2026-08-26T10:37:22.423528+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 126
+# Total IPs: 127
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -33,6 +33,7 @@
 45.148.10.31 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-23 | 2026-08-23 | 1
 45.148.10.35 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-24 | 2026-08-24 | 1
 45.148.10.64 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-24 | 2026-08-24 | 1
+45.148.10.74 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-08-26 | 2026-08-26 | 1
 45.148.10.123 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-25 | 2026-08-25 | 1
 45.148.10.125 | LOW | ET USER_AGENTS Suspcious LeakIX User-Agent (l9explore) | NL | 2026-08-13 | 2026-08-17 | 4
 45.148.10.141 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-25 | 2026-08-25 | 1

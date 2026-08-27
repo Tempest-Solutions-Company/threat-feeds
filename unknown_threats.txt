@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-27T08:05:20.650913+00:00
+# Generated: 2026-08-27T08:35:43.905012+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 127
+# Total IPs: 128
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -22,6 +22,7 @@
 34.145.226.208 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-08-11 | 2026-08-13 | 6
 34.168.135.253 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-19 | 2026-08-19 | 2
 35.188.231.78 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-12 | 2026-08-13 | 25
+35.227.42.127 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-27 | 2026-08-27 | 1
 35.237.14.92 | LOW | GPL WEB_SERVER .htpasswd access | US | 2026-08-21 | 2026-08-21 | 1
 35.240.211.164 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | SG | 2026-08-16 | 2026-08-16 | 1
 45.133.173.242 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | GB | 2026-08-23 | 2026-08-23 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-29T06:03:37.609894+00:00",
+    "generated": "2026-08-29T06:33:59.602074+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 128,
+    "total_threats": 129,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -187,6 +187,16 @@
       "signature": "ET WEB_SERVER Likely Malicious Request for /proc/self/environ",
       "protocol": "TCP",
       "country": "SG"
+    },
+    {
+      "ip": "42.236.209.58",
+      "first_seen": "2026-08-29T06:19:41.675000+00:00",
+      "last_seen": "2026-08-29T06:19:41.675000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
+      "protocol": "TCP",
+      "country": "CN"
     },
     {
       "ip": "45.133.173.242",

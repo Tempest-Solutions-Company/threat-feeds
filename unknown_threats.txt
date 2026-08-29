@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-08-29T06:03:37.609894+00:00
+# Generated: 2026-08-29T06:33:59.602074+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 128
+# Total IPs: 129
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -25,6 +25,7 @@
 35.227.42.127 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-27 | 2026-08-27 | 1
 35.237.14.92 | LOW | GPL WEB_SERVER .htpasswd access | US | 2026-08-21 | 2026-08-21 | 1
 35.240.211.164 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | SG | 2026-08-16 | 2026-08-16 | 1
+42.236.209.58 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | CN | 2026-08-29 | 2026-08-29 | 1
 45.133.173.242 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | GB | 2026-08-23 | 2026-08-23 | 1
 45.135.193.115 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | DE | 2026-08-24 | 2026-08-24 | 1
 45.139.104.172 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 7 | DE | 2026-08-23 | 2026-08-23 | 1

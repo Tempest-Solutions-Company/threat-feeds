@@ -7,6 +7,7 @@ class ThreatIntelligence {
         this.lastUpdate = null;
         this.tooltip = null;
         this.threatTypes = {
+            'command_injection': 'Command Injection',
             'compromised_host': 'Compromised Host',
             'dns_attack': 'DNS Attacks', 
             'port_scanning': 'Port Scanning',
@@ -14,6 +15,7 @@ class ThreatIntelligence {
             'ssh_scanning': 'SSH Scanning',
             'terminal_server_attack': 'Terminal Server Attacks',
             'tor_traffic': 'Tor Traffic',
+            'web_attack': 'Web Attacks',
             'unknown': 'Unknown Threats'
         };
         
@@ -184,6 +186,7 @@ class ThreatIntelligence {
         const threatData = new Map();
         // UPDATED: Use .txt extensions instead of .csv
         const txtFiles = [
+            'command_injection_threats.txt',
             'compromised_host_threats.txt',
             'dns_attack_threats.txt',
             'port_scanning_threats.txt',
@@ -191,6 +194,7 @@ class ThreatIntelligence {
             'ssh_scanning_threats.txt',
             'terminal_server_attack_threats.txt',
             'tor_traffic_threats.txt',
+            'web_attack_threats.txt',
             'unknown_threats.txt'
         ];
 
@@ -206,12 +210,13 @@ class ThreatIntelligence {
                 let response;
                 
                 try {
-                    // First attempt: Direct fetch
+                    // First attempt: Direct fetch. Avoid non-safelisted headers (e.g. Cache-Control)
+                    // since they force a CORS preflight that raw.githubusercontent.com rejects.
                     response = await fetch(url, {
                         method: 'GET',
+                        cache: 'no-store',
                         headers: {
-                            'Accept': 'text/plain, */*',
-                            'Cache-Control': 'no-cache'
+                            'Accept': 'text/plain, */*'
                         }
                     });
                 } catch (corsError) {

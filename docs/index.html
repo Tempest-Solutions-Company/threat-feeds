@@ -49,6 +49,7 @@
                     <label for="threat-filter">Filter by Threat Type:</label>
                     <select id="threat-filter" class="threat-select">
                         <option value="all">All Threats</option>
+                        <option value="command_injection">Command Injection</option>
                         <option value="compromised_host">Compromised Host</option>
                         <option value="dns_attack">DNS Attacks</option>
                         <option value="port_scanning">Port Scanning</option>
@@ -56,6 +57,7 @@
                         <option value="ssh_scanning">SSH Scanning</option>
                         <option value="terminal_server_attack">Terminal Server Attacks</option>
                         <option value="tor_traffic">Tor Traffic</option>
+                        <option value="web_attack">Web Attacks</option>
                         <option value="unknown">Unknown Threats</option>
                     </select>
                 </div>
@@ -140,6 +142,7 @@
                     <div class="info-card">
                         <h3><i class="fas fa-database"></i> Threat Types</h3>
                         <ul>
+                            <li><strong>Command Injection:</strong> Detected command injection and remote code execution attempts</li>
                             <li><strong>Compromised Host:</strong> Detected botnet or compromised system traffic</li>
                             <li><strong>DNS Attacks:</strong> Malicious DNS queries and DNS-based attacks</li>
                             <li><strong>Port Scanning:</strong> Automated port scanning and reconnaissance</li>
@@ -147,6 +150,7 @@
                             <li><strong>SSH Scanning:</strong> Brute force SSH login attempts</li>
                             <li><strong>Terminal Server:</strong> RDP and terminal service attacks</li>
                             <li><strong>Tor Traffic:</strong> Anonymous network traffic detection</li>
+                            <li><strong>Web Attacks:</strong> HTTP-based exploit and web application attack attempts</li>
                             <li><strong>Unknown:</strong> Unclassified security events</li>
                         </ul>
                     </div>

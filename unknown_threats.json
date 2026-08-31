@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-08-31T13:39:51.751345+00:00",
+    "generated": "2026-08-31T14:10:18.423724+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 134,
+    "total_threats": 135,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -87,6 +87,16 @@
       "signature": "GPL WEB_SERVER .htpasswd access",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "34.34.254.141",
+      "first_seen": "2026-08-31T13:42:41.187000+00:00",
+      "last_seen": "2026-08-31T13:42:41.187000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL WEB_SERVER .htaccess access",
+      "protocol": "TCP",
+      "country": "SG"
     },
     {
       "ip": "34.38.133.84",

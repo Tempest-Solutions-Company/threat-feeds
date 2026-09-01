@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-01T12:08:46.146191+00:00
+# Generated: 2026-09-01T12:39:10.172576+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 138
+# Total IPs: 139
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -20,6 +20,7 @@
 34.52.169.0 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | BE | 2026-08-10 | 2026-08-11 | 9
 34.75.98.218 | LOW | ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927) | US | 2026-08-31 | 2026-08-31 | 1
 34.79.156.110 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | BE | 2026-08-10 | 2026-08-10 | 1
+34.84.167.26 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | JP | 2026-09-01 | 2026-09-01 | 1
 34.96.48.8 | LOW | GPL WEB_SERVER .htaccess access | SG | 2026-08-30 | 2026-08-30 | 1
 34.138.162.22 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-08-18 | 2026-08-18 | 2
 34.145.226.208 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-08-11 | 2026-08-13 | 6

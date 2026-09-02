@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-09-02T21:47:23.429348+00:00
+# Generated: 2026-09-02T22:17:47.102931+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 63
+# Total IPs: 64
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -40,6 +40,7 @@
 45.194.67.46 | LOW | ET SCAN Rapid IMAP Connections - Possible Brute Force Attack | SC | 2026-09-01 | 2026-09-01 | 1
 52.165.90.3 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-08-19 | 2026-08-19 | 1
 52.167.144.209 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-08-24 | 2026-08-24 | 1
+52.167.144.222 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-09-02 | 2026-09-02 | 1
 57.151.106.164 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-08-24 | 2026-08-24 | 1
 64.225.75.246 | LOW | ET SCAN LeakIX Inbound User-Agent | NL | 2026-09-01 | 2026-09-01 | 1
 80.97.160.185 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | MD | 2026-08-28 | 2026-08-28 | 1

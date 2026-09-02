@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-02T13:09:50.429426+00:00
+# Generated: 2026-09-02T13:40:15.950838+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 139
+# Total IPs: 140
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -113,6 +113,7 @@
 158.94.209.239 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 32 | NL | 2026-08-25 | 2026-08-26 | 3
 158.94.211.230 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 32 | NL | 2026-08-25 | 2026-08-25 | 1
 160.187.211.134 | LOW | ET WEB_SPECIFIC_APPS WordPress Core wp2shell Remote Code Execution (CVE-2026-63030 & CVE-2026-60137) M2 | MY | 2026-08-14 | 2026-08-14 | 1
+168.144.80.239 | LOW | ET WEB_SERVER PHP tags in HTTP POST | IN | 2026-09-02 | 2026-09-02 | 1
 169.58.149.196 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FR | 2026-08-19 | 2026-08-19 | 1
 169.58.161.169 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-08-19 | 2026-08-19 | 1
 172.70.214.246 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 36 | US | 2026-08-24 | 2026-08-24 | 1

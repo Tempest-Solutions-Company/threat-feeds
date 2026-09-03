@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-03T05:03:06.286099+00:00",
+    "generated": "2026-09-03T05:33:30.294717+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 141,
+    "total_threats": 142,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1222,6 +1222,16 @@
       "ip": "185.177.72.68",
       "first_seen": "2026-08-20T08:23:20.562000+00:00",
       "last_seen": "2026-08-20T08:23:20.562000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
+      "protocol": "TCP",
+      "country": "FR"
+    },
+    {
+      "ip": "185.177.72.81",
+      "first_seen": "2026-09-03T05:05:32.831000+00:00",
+      "last_seen": "2026-09-03T05:05:32.831000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",

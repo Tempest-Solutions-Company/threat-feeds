@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-04T10:37:39.623925+00:00",
+    "generated": "2026-09-04T11:08:06.265056+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 145,
+    "total_threats": 146,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -107,6 +107,16 @@
       "signature": "GPL WEB_SERVER .htpasswd access",
       "protocol": "TCP",
       "country": "BE"
+    },
+    {
+      "ip": "34.40.46.88",
+      "first_seen": "2026-09-04T10:56:42.778000+00:00",
+      "last_seen": "2026-09-04T10:56:42.778000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
+      "protocol": "TCP",
+      "country": "DE"
     },
     {
       "ip": "34.52.169.0",

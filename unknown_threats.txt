@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-06T02:00:40.508520+00:00
+# Generated: 2026-09-06T02:31:03.899658+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 147
+# Total IPs: 148
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -106,6 +106,7 @@
 104.152.52.228 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 23 | US | 2026-08-25 | 2026-08-25 | 1
 104.152.52.241 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 23 | US | 2026-08-25 | 2026-08-25 | 1
 117.50.194.182 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-09-04 | 2026-09-04 | 1
+136.109.54.151 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-09-06 | 2026-09-06 | 1
 143.198.110.248 | LOW | ET Threatview.io High Confidence Cobalt Strike C2 IP group 19 | US | 2026-08-23 | 2026-08-23 | 1
 143.198.124.236 | LOW | ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2 | US | 2026-08-11 | 2026-08-11 | 1
 144.31.226.177 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FI | 2026-08-10 | 2026-08-10 | 1

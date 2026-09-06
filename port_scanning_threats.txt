@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-09-06T20:44:34.630803+00:00
+# Generated: 2026-09-06T21:14:56.429230+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 70
+# Total IPs: 71
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -39,6 +39,7 @@
 45.45.237.77 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-08-15 | 2026-08-15 | 4
 45.154.98.101 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | NL | 2026-08-12 | 2026-08-12 | 1
 45.194.67.46 | LOW | ET SCAN Rapid IMAP Connections - Possible Brute Force Attack | SC | 2026-09-01 | 2026-09-01 | 1
+45.194.67.48 | LOW | ET SCAN Rapid POP3 Connections - Possible Brute Force Attack | SC | 2026-09-06 | 2026-09-06 | 1
 52.165.90.3 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-08-19 | 2026-08-19 | 1
 52.167.144.209 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-08-24 | 2026-08-24 | 1
 52.167.144.222 | LOW | ET SCAN Bing Webcrawler User-Agent (BingBot) | US | 2026-09-02 | 2026-09-02 | 1

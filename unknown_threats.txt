@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-07T20:16:26.607529+00:00
+# Generated: 2026-09-07T20:46:50.954139+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 151
+# Total IPs: 152
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -107,6 +107,7 @@
 103.215.75.19 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | US | 2026-08-17 | 2026-08-17 | 1
 104.152.52.228 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 23 | US | 2026-08-25 | 2026-08-25 | 1
 104.152.52.241 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 23 | US | 2026-08-25 | 2026-08-25 | 1
+112.85.183.236 | LOW | ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016) | CN | 2026-09-07 | 2026-09-07 | 1
 117.50.194.182 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-09-04 | 2026-09-04 | 1
 136.109.54.151 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-09-06 | 2026-09-06 | 1
 143.198.110.248 | LOW | ET Threatview.io High Confidence Cobalt Strike C2 IP group 19 | US | 2026-08-23 | 2026-08-23 | 1

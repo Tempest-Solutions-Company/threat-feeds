@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-09T15:11:27.341600+00:00",
+    "generated": "2026-09-09T15:41:56.039497+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 153,
+    "total_threats": 152,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -137,16 +137,6 @@
       "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "34.52.169.0",
-      "first_seen": "2026-08-10T15:35:40.108000+00:00",
-      "last_seen": "2026-08-11T05:00:51.888000+00:00",
-      "count": 9,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
-      "protocol": "TCP",
-      "country": "BE"
     },
     {
       "ip": "34.75.98.218",

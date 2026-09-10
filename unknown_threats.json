@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-10T03:31:50.558905+00:00",
+    "generated": "2026-09-10T04:02:14.784610+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 152,
+    "total_threats": 151,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -655,16 +655,6 @@
       "count": 2,
       "severity": "low",
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 12",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "86.107.178.66",
-      "first_seen": "2026-08-11T03:48:22.877000+00:00",
-      "last_seen": "2026-08-11T03:48:22.877000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "NL"
     },

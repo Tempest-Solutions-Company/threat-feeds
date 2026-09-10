@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-10T00:19:10.535050+00:00",
+    "generated": "2026-09-10T00:49:33.970562+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 152,
+    "total_threats": 153,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -977,6 +977,16 @@
       "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
       "protocol": "TCP",
       "country": "RU"
+    },
+    {
+      "ip": "103.72.1.2",
+      "first_seen": "2026-09-10T00:43:58.125000+00:00",
+      "last_seen": "2026-09-10T00:43:58.125000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
+      "protocol": "TCP",
+      "country": "PK"
     },
     {
       "ip": "103.215.75.19",

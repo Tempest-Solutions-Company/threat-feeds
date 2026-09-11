@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-11T09:36:42.363678+00:00",
+    "generated": "2026-09-11T10:07:06.715169+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 144,
+    "total_threats": 143,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -183,16 +183,6 @@
       "first_seen": "2026-08-19T17:05:53.403000+00:00",
       "last_seen": "2026-08-19T17:20:27.266000+00:00",
       "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "35.188.231.78",
-      "first_seen": "2026-08-12T09:39:00.506000+00:00",
-      "last_seen": "2026-08-13T02:11:55.035000+00:00",
-      "count": 25,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
       "protocol": "TCP",

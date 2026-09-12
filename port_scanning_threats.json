@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-09-12T15:10:24.926199+00:00",
+    "generated": "2026-09-12T15:40:46.963270+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 57,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -402,6 +402,16 @@
       "ip": "85.217.149.46",
       "first_seen": "2026-09-05T04:59:23.884000+00:00",
       "last_seen": "2026-09-05T04:59:23.884000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Suspicious User-Agent Containing Web Scan/er Likely Web Scanner",
+      "protocol": "TCP",
+      "country": "CA"
+    },
+    {
+      "ip": "85.217.149.50",
+      "first_seen": "2026-09-12T15:11:28.295000+00:00",
+      "last_seen": "2026-09-12T15:11:28.295000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Suspicious User-Agent Containing Web Scan/er Likely Web Scanner",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-09-12T08:35:30.283877+00:00",
+    "generated": "2026-09-12T09:05:52.299195+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 57,
+    "total_threats": 56,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -377,16 +377,6 @@
       "signature": "ET SCAN Yandex Webcrawler User-Agent (YandexBot)",
       "protocol": "TCP",
       "country": "MD"
-    },
-    {
-      "ip": "82.197.65.19",
-      "first_seen": "2026-08-13T08:50:50.433000+00:00",
-      "last_seen": "2026-08-13T08:50:50.433000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "85.204.70.112",

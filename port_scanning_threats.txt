@@ -1,13 +1,12 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-09-14T19:44:45.498075+00:00
+# Generated: 2026-09-14T20:15:10.205674+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 55
+# Total IPs: 53
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
-20.40.218.136 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-08-15 | 2026-08-15 | 1
 20.64.104.195 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-08-16 | 2026-08-16 | 1
 20.65.185.255 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-08-20 | 2026-08-20 | 1
 20.65.193.89 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-08-19 | 2026-08-19 | 1
@@ -61,4 +60,3 @@
 170.64.130.197 | LOW | ET SCAN Zmap User-Agent (Inbound) | AU | 2026-08-17 | 2026-08-17 | 1
 193.46.255.112 | LOW | ET SCAN NETWORK Incoming Masscan detected | GB | 2026-08-18 | 2026-08-18 | 1
 194.180.48.253 | LOW | ET SCAN Suspicious User-Agent Containing Security Scan/ner Likely Scan | DE | 2026-08-16 | 2026-08-16 | 1
-206.189.157.87 | LOW | ET SCAN SFTP/FTP Password Exposure via sftp-config.json | SG | 2026-08-15 | 2026-08-15 | 1

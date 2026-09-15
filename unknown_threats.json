@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-15T05:03:00.812836+00:00",
+    "generated": "2026-09-15T05:33:23.156308+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 136,
+    "total_threats": 137,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -107,6 +107,16 @@
       "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "34.64.123.232",
+      "first_seen": "2026-09-15T05:06:51.720000+00:00",
+      "last_seen": "2026-09-15T05:06:51.720000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
+      "protocol": "TCP",
+      "country": "KR"
     },
     {
       "ip": "34.75.98.218",

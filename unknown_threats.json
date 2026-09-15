@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-15T19:14:30.130614+00:00",
+    "generated": "2026-09-15T19:44:54.755046+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 133,
+    "total_threats": 132,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -207,16 +207,6 @@
       "signature": "GPL WEB_SERVER .htpasswd access",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "35.240.211.164",
-      "first_seen": "2026-08-16T19:40:03.012000+00:00",
-      "last_seen": "2026-08-16T19:40:03.012000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Likely Malicious Request for /proc/self/environ",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "42.236.209.58",

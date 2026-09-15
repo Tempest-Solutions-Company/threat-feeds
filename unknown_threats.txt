@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-15T21:16:09.380222+00:00
+# Generated: 2026-09-15T21:46:33.966424+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 132
+# Total IPs: 133
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -128,6 +128,7 @@
 186.179.63.217 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 40 | US | 2026-08-24 | 2026-08-24 | 1
 193.29.139.161 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-19 | 2026-08-19 | 1
 193.29.139.198 | LOW | ET WEB_SERVER PHP tags in HTTP POST | NL | 2026-08-19 | 2026-08-19 | 1
+193.169.239.152 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | NL | 2026-09-15 | 2026-09-15 | 1
 195.178.110.15 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 46 | AD | 2026-08-26 | 2026-08-26 | 1
 195.178.110.31 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | AD | 2026-09-01 | 2026-09-01 | 1
 195.178.110.51 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 46 | AD | 2026-08-25 | 2026-08-25 | 1

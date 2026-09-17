@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-17T17:43:14.103680+00:00",
+    "generated": "2026-09-17T18:13:38.724291+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 126,
+    "total_threats": 125,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -107,16 +107,6 @@
       "signature": "GPL WEB_SERVER .htaccess access",
       "protocol": "TCP",
       "country": "SG"
-    },
-    {
-      "ip": "34.138.162.22",
-      "first_seen": "2026-08-18T17:56:26.309000+00:00",
-      "last_seen": "2026-08-18T18:10:41.317000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "34.143.188.242",

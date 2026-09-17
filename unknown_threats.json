@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-17T04:02:15.088825+00:00",
+    "generated": "2026-09-17T04:32:38.853143+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 130,
+    "total_threats": 129,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -27,16 +27,6 @@
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 1",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "34.10.26.17",
-      "first_seen": "2026-08-18T04:12:00.902000+00:00",
-      "last_seen": "2026-08-18T04:12:00.902000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "34.19.218.66",

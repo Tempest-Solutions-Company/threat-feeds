@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-17T08:35:47.290250+00:00",
+    "generated": "2026-09-17T09:06:10.779618+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 129,
+    "total_threats": 128,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -437,16 +437,6 @@
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 10",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "68.183.58.201",
-      "first_seen": "2026-08-18T08:39:56.716000+00:00",
-      "last_seen": "2026-08-18T08:39:56.716000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET WEB_SPECIFIC_APPS Ubiquiti Unifi OS Command Injection (CVE-2026-34910)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "69.165.75.192",

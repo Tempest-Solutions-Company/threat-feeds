@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-18T05:33:21.836851+00:00",
+    "generated": "2026-09-18T06:03:46.877966+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 123,
+    "total_threats": 122,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1057,16 +1057,6 @@
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 38",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "185.177.72.22",
-      "first_seen": "2026-08-19T05:42:01.298000+00:00",
-      "last_seen": "2026-08-19T05:42:01.298000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
-      "protocol": "TCP",
-      "country": "FR"
     },
     {
       "ip": "185.177.72.24",

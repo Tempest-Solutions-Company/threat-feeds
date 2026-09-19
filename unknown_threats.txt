@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-19T08:05:31.650402+00:00
+# Generated: 2026-09-19T08:35:56.192274+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 118
+# Total IPs: 117
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -111,7 +111,6 @@
 185.93.89.99 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 38 | NL | 2026-08-24 | 2026-08-24 | 1
 185.93.89.147 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 38 | NL | 2026-08-25 | 2026-08-25 | 1
 185.177.72.24 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-09-04 | 2026-09-04 | 2
-185.177.72.68 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-08-20 | 2026-08-20 | 1
 185.177.72.81 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-09-03 | 2026-09-03 | 1
 186.179.63.217 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 40 | US | 2026-08-24 | 2026-08-24 | 1
 193.169.239.152 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | NL | 2026-09-15 | 2026-09-15 | 1

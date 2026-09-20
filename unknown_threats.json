@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-20T22:46:46.485171+00:00",
+    "generated": "2026-09-20T23:17:08.027531+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 116,
+    "total_threats": 118,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -669,6 +669,16 @@
       "country": "AD"
     },
     {
+      "ip": "93.152.221.67",
+      "first_seen": "2026-09-20T23:04:16.747000+00:00",
+      "last_seen": "2026-09-20T23:04:16.747000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
+      "protocol": "TCP",
+      "country": "DE"
+    },
+    {
       "ip": "94.154.43.51",
       "first_seen": "2026-08-26T02:55:38.389000+00:00",
       "last_seen": "2026-08-26T02:55:38.389000+00:00",
@@ -1067,6 +1077,16 @@
       "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "194.233.84.90",
+      "first_seen": "2026-09-20T23:15:36.886000+00:00",
+      "last_seen": "2026-09-20T23:15:36.886000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
+      "protocol": "TCP",
+      "country": "SG"
     },
     {
       "ip": "195.178.110.15",

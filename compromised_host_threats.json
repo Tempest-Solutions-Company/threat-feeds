@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2026-09-20T09:36:33.514499+00:00",
+    "generated": "2026-09-20T10:06:57.414867+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 93,
     "expiry_days": 30,
@@ -107,16 +107,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 17",
       "protocol": "TCP",
       "country": "BG"
-    },
-    {
-      "ip": "51.38.71.171",
-      "first_seen": "2026-08-21T10:02:56.733000+00:00",
-      "last_seen": "2026-09-06T14:27:18.002000+00:00",
-      "count": 23,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 16",
-      "protocol": "TCP",
-      "country": "GB"
     },
     {
       "ip": "51.75.21.168",
@@ -289,6 +279,16 @@
       "country": "MD"
     },
     {
+      "ip": "77.94.99.50",
+      "first_seen": "2026-09-20T09:48:41.981000+00:00",
+      "last_seen": "2026-09-20T09:48:41.981000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 21",
+      "protocol": "TCP",
+      "country": "RU"
+    },
+    {
       "ip": "79.72.3.119",
       "first_seen": "2026-08-26T14:34:25.232000+00:00",
       "last_seen": "2026-08-26T14:34:25.232000+00:00",
@@ -391,8 +391,8 @@
     {
       "ip": "103.139.126.5",
       "first_seen": "2026-09-20T09:26:48.541000+00:00",
-      "last_seen": "2026-09-20T09:26:48.541000+00:00",
-      "count": 1,
+      "last_seen": "2026-09-20T09:37:24.318000+00:00",
+      "count": 2,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 1",
       "protocol": "TCP",
@@ -501,8 +501,8 @@
     {
       "ip": "118.95.33.69",
       "first_seen": "2026-09-19T09:43:49.752000+00:00",
-      "last_seen": "2026-09-19T09:43:49.752000+00:00",
-      "count": 1,
+      "last_seen": "2026-09-20T09:59:32.496000+00:00",
+      "count": 2,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 4",
       "protocol": "TCP",

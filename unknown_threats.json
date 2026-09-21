@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-21T14:10:49.499696+00:00",
+    "generated": "2026-09-21T14:41:18.968947+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 120,
+    "total_threats": 121,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -865,6 +865,16 @@
       "count": 2,
       "severity": "low",
       "signature": "ET WEB_SERVER ThinkPHP RCE Exploitation Attempt",
+      "protocol": "TCP",
+      "country": "SG"
+    },
+    {
+      "ip": "136.85.84.79",
+      "first_seen": "2026-09-21T14:29:24.711000+00:00",
+      "last_seen": "2026-09-21T14:29:24.711000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
       "country": "SG"
     },

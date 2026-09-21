@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-21T13:40:22.233455+00:00
+# Generated: 2026-09-21T14:10:49.499696+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 119
+# Total IPs: 120
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -92,6 +92,7 @@
 117.50.194.182 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-09-04 | 2026-09-04 | 1
 135.129.179.206 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | US | 2026-09-18 | 2026-09-18 | 1
 136.0.57.52 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-09-09 | 2026-09-09 | 2
+136.85.59.234 | LOW | ET WEB_SERVER ThinkPHP RCE Exploitation Attempt | SG | 2026-09-21 | 2026-09-21 | 2
 136.109.54.151 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-09-06 | 2026-09-06 | 1
 143.198.110.248 | LOW | ET Threatview.io High Confidence Cobalt Strike C2 IP group 19 | US | 2026-08-23 | 2026-08-23 | 1
 144.225.6.184 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-09-14 | 2026-09-14 | 1

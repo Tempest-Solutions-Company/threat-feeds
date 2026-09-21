@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-21T13:40:22.233455+00:00",
+    "generated": "2026-09-21T14:10:49.499696+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 119,
+    "total_threats": 120,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -857,6 +857,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "136.85.59.234",
+      "first_seen": "2026-09-21T13:55:21.164000+00:00",
+      "last_seen": "2026-09-21T14:06:32.014000+00:00",
+      "count": 2,
+      "severity": "low",
+      "signature": "ET WEB_SERVER ThinkPHP RCE Exploitation Attempt",
+      "protocol": "TCP",
+      "country": "SG"
     },
     {
       "ip": "136.109.54.151",

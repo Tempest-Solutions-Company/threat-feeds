@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-22T12:09:41.730963+00:00",
+    "generated": "2026-09-22T12:40:07.724418+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 123,
+    "total_threats": 121,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -177,16 +177,6 @@
       "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
       "protocol": "TCP",
       "country": "CN"
-    },
-    {
-      "ip": "45.133.173.242",
-      "first_seen": "2026-08-23T12:34:53.192000+00:00",
-      "last_seen": "2026-08-23T12:34:53.192000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 7",
-      "protocol": "TCP",
-      "country": "GB"
     },
     {
       "ip": "45.135.193.115",
@@ -642,16 +632,6 @@
       "ip": "92.118.39.229",
       "first_seen": "2026-08-23T20:29:01.874000+00:00",
       "last_seen": "2026-08-23T20:29:01.874000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 16",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "92.118.39.231",
-      "first_seen": "2026-08-23T12:23:12.111000+00:00",
-      "last_seen": "2026-08-23T12:23:12.111000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 16",

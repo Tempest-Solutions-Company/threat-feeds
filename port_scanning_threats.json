@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-09-22T00:50:28.611815+00:00",
+    "generated": "2026-09-22T01:20:55.930935+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 51,
+    "total_threats": 52,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -149,16 +149,6 @@
       "country": "US"
     },
     {
-      "ip": "40.77.167.187",
-      "first_seen": "2026-08-23T01:09:17.675000+00:00",
-      "last_seen": "2026-08-23T01:09:17.675000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "40.119.34.84",
       "first_seen": "2026-09-01T16:02:06.940000+00:00",
       "last_seen": "2026-09-01T16:02:06.940000+00:00",
@@ -172,6 +162,16 @@
       "ip": "40.119.44.46",
       "first_seen": "2026-08-29T04:55:08.133000+00:00",
       "last_seen": "2026-08-29T04:55:08.133000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Zmap User-Agent (Inbound)",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "40.124.187.33",
+      "first_seen": "2026-09-22T00:54:34.766000+00:00",
+      "last_seen": "2026-09-22T00:54:34.766000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
@@ -227,6 +227,16 @@
       "signature": "ET SCAN Rapid POP3 Connections - Possible Brute Force Attack",
       "protocol": "TCP",
       "country": "SC"
+    },
+    {
+      "ip": "48.216.218.90",
+      "first_seen": "2026-09-22T01:05:32.518000+00:00",
+      "last_seen": "2026-09-22T01:05:32.518000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Zmap User-Agent (Inbound)",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "52.146.11.15",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-22T20:17:25.143040+00:00",
+    "generated": "2026-09-22T20:47:53.164516+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 113,
+    "total_threats": 112,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -171,8 +171,8 @@
     {
       "ip": "35.253.45.171",
       "first_seen": "2026-09-22T18:11:31.754000+00:00",
-      "last_seen": "2026-09-22T18:11:31.754000+00:00",
-      "count": 1,
+      "last_seen": "2026-09-22T20:27:34.969000+00:00",
+      "count": 2,
       "severity": "low",
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
@@ -562,16 +562,6 @@
       "ip": "92.118.39.227",
       "first_seen": "2026-08-24T01:19:03.269000+00:00",
       "last_seen": "2026-08-24T01:19:03.269000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 16",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "92.118.39.229",
-      "first_seen": "2026-08-23T20:29:01.874000+00:00",
-      "last_seen": "2026-08-23T20:29:01.874000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 16",

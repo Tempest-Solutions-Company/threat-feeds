@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-22T11:08:41.838726+00:00",
+    "generated": "2026-09-22T11:39:11.284741+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 125,
+    "total_threats": 123,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -12,16 +12,6 @@
       "ip": "2.57.122.53",
       "first_seen": "2026-08-24T10:07:23.397000+00:00",
       "last_seen": "2026-08-24T10:07:23.397000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 1",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "2.57.122.238",
-      "first_seen": "2026-08-23T11:22:32.466000+00:00",
-      "last_seen": "2026-08-23T11:22:32.466000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 1",
@@ -367,16 +357,6 @@
       "signature": "ET WEB_SERVER Likely Malicious Request for /proc/self/environ",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "62.60.130.148",
-      "first_seen": "2026-08-23T11:09:19.276000+00:00",
-      "last_seen": "2026-08-23T11:09:19.276000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 9",
-      "protocol": "TCP",
-      "country": "IR"
     },
     {
       "ip": "62.60.130.198",

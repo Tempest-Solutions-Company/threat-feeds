@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-22T09:06:55.439725+00:00",
+    "generated": "2026-09-22T09:37:22.390535+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 127,
+    "total_threats": 126,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -947,16 +947,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "SG"
-    },
-    {
-      "ip": "143.198.110.248",
-      "first_seen": "2026-08-23T09:34:23.904000+00:00",
-      "last_seen": "2026-08-23T09:34:23.904000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET Threatview.io High Confidence Cobalt Strike C2 IP group 19",
-      "protocol": "UDP",
-      "country": "US"
     },
     {
       "ip": "144.225.6.184",

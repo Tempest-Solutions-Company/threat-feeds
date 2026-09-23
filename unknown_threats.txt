@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-23T11:39:13.588940+00:00
+# Generated: 2026-09-23T12:09:42.564888+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 86
+# Total IPs: 84
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -83,7 +83,6 @@
 185.93.89.147 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 38 | NL | 2026-08-25 | 2026-08-25 | 1
 185.177.72.24 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-09-04 | 2026-09-04 | 2
 185.177.72.81 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-09-03 | 2026-09-03 | 1
-186.179.63.217 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 40 | US | 2026-08-24 | 2026-08-24 | 1
 193.169.239.152 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | NL | 2026-09-15 | 2026-09-15 | 1
 194.233.84.90 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | SG | 2026-09-20 | 2026-09-20 | 1
 195.178.110.15 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 46 | AD | 2026-08-26 | 2026-08-26 | 1
@@ -91,5 +90,4 @@
 195.178.110.51 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 46 | AD | 2026-08-25 | 2026-08-25 | 1
 195.178.110.137 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 46 | AD | 2026-08-24 | 2026-08-30 | 5
 195.178.110.204 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 46 | AD | 2026-08-26 | 2026-08-26 | 2
-213.209.159.21 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 67 | DE | 2026-08-24 | 2026-08-24 | 1
 217.160.171.212 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | DE | 2026-08-24 | 2026-08-24 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-23T04:32:59.625029+00:00",
+    "generated": "2026-09-23T05:03:26.545711+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 99,
+    "total_threats": 98,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -297,16 +297,6 @@
       "signature": "ET WEB_SERVER Likely Malicious Request for /proc/self/environ",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "62.60.130.198",
-      "first_seen": "2026-08-24T04:43:06.439000+00:00",
-      "last_seen": "2026-08-24T04:43:06.439000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 9",
-      "protocol": "TCP",
-      "country": "IR"
     },
     {
       "ip": "62.60.130.201",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-23T07:05:08.796332+00:00
+# Generated: 2026-09-23T07:35:34.753979+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 94
+# Total IPs: 92
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -36,7 +36,6 @@
 51.83.97.46 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-09-13 | 2026-09-13 | 1
 52.154.5.224 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-08-31 | 2026-08-31 | 1
 62.60.130.219 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 9 | IR | 2026-08-25 | 2026-08-25 | 1
-62.60.130.253 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 9 | IR | 2026-08-24 | 2026-08-24 | 2
 69.165.75.192 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | HK | 2026-08-31 | 2026-08-31 | 1
 76.13.234.238 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | BR | 2026-09-17 | 2026-09-17 | 1
 77.90.185.230 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 11 | DE | 2026-08-25 | 2026-08-25 | 1
@@ -50,7 +49,6 @@
 92.118.39.65 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | US | 2026-08-24 | 2026-08-24 | 1
 92.118.39.72 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | US | 2026-08-24 | 2026-08-24 | 1
 93.123.109.53 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | AD | 2026-08-25 | 2026-08-25 | 1
-93.123.109.234 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | AD | 2026-08-24 | 2026-08-24 | 1
 93.152.221.67 | LOW | ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260) | DE | 2026-09-20 | 2026-09-20 | 1
 94.154.43.51 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 17 | NL | 2026-08-26 | 2026-08-26 | 1
 94.154.43.125 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 17 | NL | 2026-08-25 | 2026-08-25 | 1

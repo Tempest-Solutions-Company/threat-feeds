@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-24T13:10:58.942140+00:00",
+    "generated": "2026-09-24T13:41:28.005677+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 70,
+    "total_threats": 69,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -607,16 +607,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "VN"
-    },
-    {
-      "ip": "178.16.52.62",
-      "first_seen": "2026-08-25T13:11:27.351000+00:00",
-      "last_seen": "2026-08-25T13:11:27.351000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 37",
-      "protocol": "TCP",
-      "country": "DE"
     },
     {
       "ip": "185.93.89.147",

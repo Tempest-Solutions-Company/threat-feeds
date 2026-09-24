@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-24T16:44:27.525450+00:00",
+    "generated": "2026-09-24T17:14:56.249353+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 66,
+    "total_threats": 64,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -315,16 +315,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "91.92.241.196",
-      "first_seen": "2026-08-25T16:59:18.675000+00:00",
-      "last_seen": "2026-08-25T16:59:18.675000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 15",
       "protocol": "TCP",
       "country": "NL"
     },
@@ -645,16 +635,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
-      "protocol": "TCP",
-      "country": "AD"
-    },
-    {
-      "ip": "195.178.110.51",
-      "first_seen": "2026-08-25T17:10:42.847000+00:00",
-      "last_seen": "2026-08-25T17:10:42.847000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 46",
       "protocol": "TCP",
       "country": "AD"
     },

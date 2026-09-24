@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-09-24T01:21:54.401683+00:00
+# Generated: 2026-09-24T01:52:23.519413+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 72
+# Total IPs: 71
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -33,7 +33,6 @@
 45.148.10.123 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | NL | 2026-08-25 | 2026-08-25 | 1
 51.83.97.46 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-09-13 | 2026-09-13 | 1
 52.154.5.224 | LOW | ET WEB_SERVER Likely Malicious Request for /proc/self/environ | US | 2026-08-31 | 2026-08-31 | 1
-62.60.130.219 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 9 | IR | 2026-08-25 | 2026-08-25 | 1
 69.165.75.192 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | HK | 2026-08-31 | 2026-08-31 | 1
 76.13.234.238 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | BR | 2026-09-17 | 2026-09-17 | 1
 77.90.185.230 | LOW | ET DROP Spamhaus DROP Listed Traffic Inbound group 11 | DE | 2026-08-25 | 2026-08-25 | 1

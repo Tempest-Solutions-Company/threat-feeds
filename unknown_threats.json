@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-24T00:51:27.838967+00:00",
+    "generated": "2026-09-24T01:21:54.401683+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 74,
+    "total_threats": 72,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -242,16 +242,6 @@
       "ip": "45.148.10.123",
       "first_seen": "2026-08-25T11:49:25.772000+00:00",
       "last_seen": "2026-08-25T11:49:25.772000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 8",
-      "protocol": "TCP",
-      "country": "NL"
-    },
-    {
-      "ip": "45.148.10.141",
-      "first_seen": "2026-08-25T01:04:03.518000+00:00",
-      "last_seen": "2026-08-25T01:04:03.518000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 8",
@@ -587,16 +577,6 @@
       "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 30",
       "protocol": "TCP",
       "country": "GB"
-    },
-    {
-      "ip": "158.94.209.239",
-      "first_seen": "2026-08-25T01:15:32.854000+00:00",
-      "last_seen": "2026-08-26T05:31:14.935000+00:00",
-      "count": 3,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 32",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "158.94.211.230",

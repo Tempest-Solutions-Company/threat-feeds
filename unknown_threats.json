@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-24T18:15:54.268395+00:00",
+    "generated": "2026-09-24T18:46:23.183534+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 65,
     "expiry_days": 30,
@@ -255,6 +255,16 @@
       "count": 2,
       "severity": "low",
       "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
+      "protocol": "TCP",
+      "country": "NL"
+    },
+    {
+      "ip": "45.148.10.247",
+      "first_seen": "2026-09-24T18:25:28.518000+00:00",
+      "last_seen": "2026-09-24T18:25:28.518000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
       "protocol": "TCP",
       "country": "NL"
     },
@@ -577,16 +587,6 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "VN"
-    },
-    {
-      "ip": "185.93.89.147",
-      "first_seen": "2026-08-25T18:42:50.973000+00:00",
-      "last_seen": "2026-08-25T18:42:50.973000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 38",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "185.177.72.24",

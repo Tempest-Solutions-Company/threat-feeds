@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-25T04:02:32.151197+00:00",
+    "generated": "2026-09-25T04:32:58.113312+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 61,
+    "total_threats": 60,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -517,16 +517,6 @@
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
       "country": "BE"
-    },
-    {
-      "ip": "154.16.44.188",
-      "first_seen": "2026-08-26T04:20:26.745000+00:00",
-      "last_seen": "2026-08-26T04:20:26.745000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET DROP Spamhaus DROP Listed Traffic Inbound group 30",
-      "protocol": "TCP",
-      "country": "GB"
     },
     {
       "ip": "159.89.24.222",

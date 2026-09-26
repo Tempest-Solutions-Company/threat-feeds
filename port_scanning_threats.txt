@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-09-26T15:11:59.076685+00:00
+# Generated: 2026-09-26T15:42:25.296835+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 64
+# Total IPs: 65
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -55,6 +55,7 @@
 85.217.149.65 | LOW | ET SCAN Suspicious User-Agent Containing Web Scan/er Likely Web Scanner | CA | 2026-09-12 | 2026-09-12 | 1
 91.92.41.115 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | BG | 2026-09-25 | 2026-09-25 | 1
 91.199.118.51 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | DE | 2026-09-22 | 2026-09-22 | 1
+92.204.53.157 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | FR | 2026-09-26 | 2026-09-26 | 1
 103.177.150.83 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | BD | 2026-09-22 | 2026-09-22 | 1
 104.28.240.85 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | BD | 2026-09-22 | 2026-09-22 | 1
 139.59.42.255 | LOW | ET SCAN Zmap User-Agent (Inbound) | IN | 2026-09-05 | 2026-09-05 | 1

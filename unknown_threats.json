@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-28T09:07:05.859719+00:00",
+    "generated": "2026-09-28T09:37:37.118522+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 59,
+    "total_threats": 60,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -367,6 +367,16 @@
       "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
       "protocol": "TCP",
       "country": "PK"
+    },
+    {
+      "ip": "103.168.66.158",
+      "first_seen": "2026-09-28T09:08:57.414000+00:00",
+      "last_seen": "2026-09-28T09:08:57.414000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182)",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "103.180.212.54",

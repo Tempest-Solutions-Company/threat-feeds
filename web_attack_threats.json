@@ -1,23 +1,13 @@
 {
   "metadata": {
     "category": "Web_Attack",
-    "generated": "2026-09-29T20:48:48.477618+00:00",
+    "generated": "2026-09-29T21:19:16.471842+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 13,
+    "total_threats": 12,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
-    {
-      "ip": "20.48.147.90",
-      "first_seen": "2026-08-30T20:51:25.505000+00:00",
-      "last_seen": "2026-08-30T23:27:50.355000+00:00",
-      "count": 3,
-      "severity": "high",
-      "signature": "ET WEB_SERVER WEB-PHP phpinfo access",
-      "protocol": "TCP",
-      "country": "CA"
-    },
     {
       "ip": "20.104.49.130",
       "first_seen": "2026-08-31T01:21:26.843000+00:00",

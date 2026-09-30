@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-09-30T14:42:51.295352+00:00",
+    "generated": "2026-09-30T15:13:25.432149+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 58,
+    "total_threats": 59,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -327,6 +327,16 @@
       "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "103.46.186.148",
+      "first_seen": "2026-09-30T14:47:22.304000+00:00",
+      "last_seen": "2026-09-30T14:47:22.304000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
+      "protocol": "TCP",
+      "country": "ID"
     },
     {
       "ip": "103.72.1.2",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-01T06:04:26.630131+00:00",
+    "generated": "2026-10-01T06:34:56.968355+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 59,
+    "total_threats": 60,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -37,6 +37,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "FR"
+    },
+    {
+      "ip": "34.11.75.42",
+      "first_seen": "2026-10-01T06:08:22.915000+00:00",
+      "last_seen": "2026-10-01T06:08:22.915000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "34.19.218.66",

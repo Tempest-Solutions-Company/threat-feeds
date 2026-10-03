@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-03T15:13:00.557676+00:00",
+    "generated": "2026-10-03T15:43:29.650604+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 61,
+    "total_threats": 62,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -407,6 +407,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "CN"
+    },
+    {
+      "ip": "130.12.180.42",
+      "first_seen": "2026-10-03T15:36:26.355000+00:00",
+      "last_seen": "2026-10-03T15:36:26.355000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS Hikvision Authentication Bypass Attempt M1 (user/password enumeration) (CVE-2017-7921)",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "135.129.179.206",

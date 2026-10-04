@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-04T09:07:08.937600+00:00
+# Generated: 2026-10-04T09:37:38.398734+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 60
+# Total IPs: 59
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -63,7 +63,6 @@
 167.71.233.141 | LOW | ET WEB_SERVER PHP tags in HTTP POST | IN | 2026-10-03 | 2026-10-03 | 1
 171.237.177.87 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | VN | 2026-09-24 | 2026-09-24 | 1
 185.177.72.17 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-03 | 2026-10-03 | 1
-185.177.72.24 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-09-04 | 2026-09-04 | 2
 185.218.86.24 | LOW | GPL WEB_SERVER .htpasswd access | HK | 2026-09-28 | 2026-09-28 | 1
 193.169.239.152 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | NL | 2026-09-15 | 2026-09-15 | 1
 194.233.84.90 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | SG | 2026-09-20 | 2026-09-20 | 1

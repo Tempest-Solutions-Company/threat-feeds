@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-05T19:18:22.568056+00:00
+# Generated: 2026-10-05T19:48:55.535395+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 61
+# Total IPs: 62
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -41,6 +41,7 @@
 91.132.162.158 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | DE | 2026-09-30 | 2026-09-30 | 1
 92.5.155.195 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-09-24 | 2026-09-24 | 1
 93.152.221.67 | LOW | ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260) | DE | 2026-09-20 | 2026-09-20 | 1
+94.26.0.55 | LOW | ET WEB_SPECIFIC_APPS Possible Oracle WebLogic RCE Fuzzing Inbound M2 | DE | 2026-10-05 | 2026-10-05 | 1
 103.46.186.148 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | ID | 2026-09-30 | 2026-09-30 | 1
 103.72.1.2 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | PK | 2026-09-10 | 2026-09-10 | 1
 103.168.66.158 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | US | 2026-09-28 | 2026-09-28 | 1

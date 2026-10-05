@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-05T19:18:22.568056+00:00",
+    "generated": "2026-10-05T19:48:55.535395+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 61,
+    "total_threats": 62,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -345,6 +345,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
+      "protocol": "TCP",
+      "country": "DE"
+    },
+    {
+      "ip": "94.26.0.55",
+      "first_seen": "2026-10-05T19:27:27.710000+00:00",
+      "last_seen": "2026-10-05T19:27:27.710000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS Possible Oracle WebLogic RCE Fuzzing Inbound M2",
       "protocol": "TCP",
       "country": "DE"
     },

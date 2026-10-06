@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-06T02:00:51.850408+00:00
+# Generated: 2026-10-06T02:31:20.249170+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 62
+# Total IPs: 61
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -53,7 +53,6 @@
 136.85.59.234 | LOW | ET WEB_SERVER ThinkPHP RCE Exploitation Attempt | SG | 2026-09-21 | 2026-09-21 | 2
 136.85.84.79 | LOW | ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927) | SG | 2026-09-21 | 2026-09-21 | 1
 136.85.89.49 | LOW | ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927) | SG | 2026-09-21 | 2026-09-21 | 1
-136.109.54.151 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | US | 2026-09-06 | 2026-09-06 | 1
 138.2.102.66 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | SG | 2026-09-22 | 2026-09-22 | 1
 144.91.78.83 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-09-24 | 2026-09-24 | 1
 144.225.6.184 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-09-14 | 2026-09-14 | 1

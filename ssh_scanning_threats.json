@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2026-10-07T16:46:12.625065+00:00",
+    "generated": "2026-10-07T17:16:46.950457+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 657,
+    "total_threats": 654,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -5169,16 +5169,6 @@
       "country": "HK"
     },
     {
-      "ip": "178.63.234.222",
-      "first_seen": "2026-09-07T16:48:14.642000+00:00",
-      "last_seen": "2026-09-07T16:48:14.642000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
       "ip": "178.83.188.214",
       "first_seen": "2026-09-15T00:57:10.628000+00:00",
       "last_seen": "2026-09-15T01:28:53.466000+00:00",
@@ -5711,22 +5701,12 @@
     {
       "ip": "190.0.63.226",
       "first_seen": "2026-09-08T17:39:30.573000+00:00",
-      "last_seen": "2026-09-08T17:39:30.573000+00:00",
-      "count": 1,
+      "last_seen": "2026-10-07T17:05:46.489000+00:00",
+      "count": 2,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "CO"
-    },
-    {
-      "ip": "190.6.73.132",
-      "first_seen": "2026-09-07T17:12:43.989000+00:00",
-      "last_seen": "2026-09-07T17:12:43.989000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "CU"
     },
     {
       "ip": "190.57.149.194",
@@ -6047,16 +6027,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "BR"
-    },
-    {
-      "ip": "201.149.53.243",
-      "first_seen": "2026-09-07T16:59:16.040000+00:00",
-      "last_seen": "2026-10-07T05:20:09.198000+00:00",
-      "count": 4,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "MX"
     },
     {
       "ip": "201.249.71.251",

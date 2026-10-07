@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-07T20:19:57.581733+00:00",
+    "generated": "2026-10-07T20:50:33.198315+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 61,
+    "total_threats": 60,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -397,16 +397,6 @@
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
       "country": "TW"
-    },
-    {
-      "ip": "112.85.183.236",
-      "first_seen": "2026-09-07T20:30:29.840000+00:00",
-      "last_seen": "2026-09-07T20:30:29.840000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016)",
-      "protocol": "TCP",
-      "country": "CN"
     },
     {
       "ip": "130.12.180.42",

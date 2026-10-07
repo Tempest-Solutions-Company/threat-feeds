@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-07T14:44:06.306255+00:00
+# Generated: 2026-10-07T15:45:07.130412+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 60
+# Total IPs: 61
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -33,6 +33,7 @@
 45.225.135.21 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | NL | 2026-10-05 | 2026-10-05 | 1
 51.83.97.46 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-09-13 | 2026-09-13 | 1
 68.183.29.251 | LOW | ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2 | US | 2026-09-28 | 2026-09-28 | 1
+72.255.32.10 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | PK | 2026-10-07 | 2026-10-07 | 1
 76.13.234.238 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | BR | 2026-09-17 | 2026-09-17 | 1
 81.90.29.7 | LOW | GPL SMTP vrfy root | NL | 2026-10-06 | 2026-10-06 | 1
 85.11.167.90 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-09-09 | 2026-09-09 | 1

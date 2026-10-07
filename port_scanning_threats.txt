@@ -1,12 +1,13 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-10-07T13:42:56.620769+00:00
+# Generated: 2026-10-07T14:13:32.260370+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 110
+# Total IPs: 111
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
+4.148.9.37 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-07 | 2026-10-07 | 1
 5.255.231.16 | LOW | ET SCAN Yandex Webcrawler User-Agent (YandexBot) | RU | 2026-09-24 | 2026-09-24 | 1
 20.14.94.24 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-05 | 2026-10-05 | 1
 20.29.30.201 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-09-29 | 2026-09-29 | 1

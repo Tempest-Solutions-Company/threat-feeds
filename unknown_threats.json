@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-09T01:25:46.683332+00:00",
+    "generated": "2026-10-09T01:56:15.700725+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 63,
+    "total_threats": 62,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -425,16 +425,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SERVER auto_prepend_file PHP config option in uri",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "136.0.57.52",
-      "first_seen": "2026-09-09T01:41:10.458000+00:00",
-      "last_seen": "2026-09-09T01:52:09.342000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "US"
     },

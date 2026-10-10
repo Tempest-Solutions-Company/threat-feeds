@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-10T05:03:46.621041+00:00",
+    "generated": "2026-10-10T05:34:12.488672+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 61,
+    "total_threats": 62,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -77,6 +77,16 @@
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
       "country": "BE"
+    },
+    {
+      "ip": "34.101.193.175",
+      "first_seen": "2026-10-10T05:04:48.570000+00:00",
+      "last_seen": "2026-10-10T05:04:48.570000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
+      "protocol": "TCP",
+      "country": "ID"
     },
     {
       "ip": "34.118.161.58",

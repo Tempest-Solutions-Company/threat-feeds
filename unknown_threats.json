@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-10T13:11:35.655030+00:00",
+    "generated": "2026-10-10T13:42:05.339968+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 62,
+    "total_threats": 63,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -567,6 +567,16 @@
       "signature": "ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2",
       "protocol": "TCP",
       "country": "VN"
+    },
+    {
+      "ip": "177.36.24.219",
+      "first_seen": "2026-10-10T13:21:21.645000+00:00",
+      "last_seen": "2026-10-10T13:21:21.645000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016)",
+      "protocol": "TCP",
+      "country": "BR"
     },
     {
       "ip": "185.177.72.17",

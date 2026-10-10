@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-10T19:47:53.428887+00:00",
+    "generated": "2026-10-10T20:18:20.485314+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 63,
+    "total_threats": 64,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -277,6 +277,16 @@
       "signature": "ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2",
       "protocol": "TCP",
       "country": "US"
+    },
+    {
+      "ip": "72.255.18.104",
+      "first_seen": "2026-10-10T19:59:18.714000+00:00",
+      "last_seen": "2026-10-10T19:59:18.714000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Netgear DGN Remote Command Execution",
+      "protocol": "TCP",
+      "country": "PK"
     },
     {
       "ip": "72.255.32.10",

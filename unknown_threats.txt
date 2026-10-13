@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-13T05:34:42.968141+00:00
+# Generated: 2026-10-13T06:05:14.184965+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 69
+# Total IPs: 70
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -60,6 +60,7 @@
 144.91.78.83 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-09-24 | 2026-09-24 | 1
 144.225.6.184 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | US | 2026-09-14 | 2026-09-14 | 1
 146.148.118.195 | LOW | ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927) | BE | 2026-09-14 | 2026-09-14 | 1
+146.190.254.16 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | CA | 2026-10-13 | 2026-10-13 | 1
 153.117.9.6 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | PK | 2026-10-01 | 2026-10-01 | 1
 165.99.207.153 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | PK | 2026-10-01 | 2026-10-01 | 1
 165.154.218.226 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | US | 2026-10-09 | 2026-10-09 | 1

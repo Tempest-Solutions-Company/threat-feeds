@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-10-14T16:16:44.615951+00:00",
+    "generated": "2026-10-14T16:47:21.524205+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 127,
     "expiry_days": 30,
@@ -282,6 +282,16 @@
       "ip": "20.119.83.119",
       "first_seen": "2026-10-12T03:16:07.201000+00:00",
       "last_seen": "2026-10-12T03:16:07.201000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET SCAN Zmap User-Agent (Inbound)",
+      "protocol": "TCP",
+      "country": "US"
+    },
+    {
+      "ip": "20.168.116.207",
+      "first_seen": "2026-10-14T16:27:30.362000+00:00",
+      "last_seen": "2026-10-14T16:27:30.362000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET SCAN Zmap User-Agent (Inbound)",
@@ -732,16 +742,6 @@
       "ip": "62.60.130.117",
       "first_seen": "2026-09-27T10:48:34.527000+00:00",
       "last_seen": "2026-09-29T12:45:08.349000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
-      "protocol": "TCP",
-      "country": "IR"
-    },
-    {
-      "ip": "62.60.130.198",
-      "first_seen": "2026-09-14T16:34:10.508000+00:00",
-      "last_seen": "2026-09-29T09:15:09.211000+00:00",
       "count": 2,
       "severity": "low",
       "signature": "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",

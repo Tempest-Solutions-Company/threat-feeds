@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-15T05:03:55.811232+00:00",
+    "generated": "2026-10-15T05:34:25.853015+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 72,
     "expiry_days": 30,
@@ -57,16 +57,6 @@
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "34.64.123.232",
-      "first_seen": "2026-09-15T05:06:51.720000+00:00",
-      "last_seen": "2026-09-15T05:06:51.720000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
-      "protocol": "TCP",
-      "country": "KR"
     },
     {
       "ip": "34.74.46.79",
@@ -707,6 +697,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "SG"
+    },
+    {
+      "ip": "213.152.187.215",
+      "first_seen": "2026-10-15T05:15:26.162000+00:00",
+      "last_seen": "2026-10-15T05:15:26.162000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP Possible https Local File Inclusion Attempt",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "223.123.65.54",

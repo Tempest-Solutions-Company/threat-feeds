@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-15T10:39:38.924253+00:00",
+    "generated": "2026-10-15T11:10:10.170974+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 72,
+    "total_threats": 73,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -27,6 +27,16 @@
       "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
       "protocol": "TCP",
       "country": "IN"
+    },
+    {
+      "ip": "20.200.208.154",
+      "first_seen": "2026-10-15T10:41:36.617000+00:00",
+      "last_seen": "2026-10-15T10:41:36.617000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability",
+      "protocol": "TCP",
+      "country": "KR"
     },
     {
       "ip": "31.76.111.195",

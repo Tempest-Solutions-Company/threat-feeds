@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2026-10-15T05:34:25.853015+00:00",
+    "generated": "2026-10-15T06:04:54.892463+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 97,
+    "total_threats": 98,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -321,8 +321,8 @@
     {
       "ip": "93.152.221.108",
       "first_seen": "2026-10-08T15:05:41.856000+00:00",
-      "last_seen": "2026-10-08T15:05:41.856000+00:00",
-      "count": 1,
+      "last_seen": "2026-10-15T05:39:59.161000+00:00",
+      "count": 2,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 19",
       "protocol": "TCP",
@@ -367,6 +367,16 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 1",
       "protocol": "TCP",
       "country": "AO"
+    },
+    {
+      "ip": "102.220.160.42",
+      "first_seen": "2026-10-15T05:52:03.877000+00:00",
+      "last_seen": "2026-10-15T05:52:03.877000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 1",
+      "protocol": "TCP",
+      "country": "SI"
     },
     {
       "ip": "102.220.160.67",

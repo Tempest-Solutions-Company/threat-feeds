@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-10-16T22:21:16.682542+00:00
+# Generated: 2026-10-16T22:51:44.962864+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 133
+# Total IPs: 134
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -105,6 +105,7 @@
 92.204.53.157 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | FR | 2026-09-26 | 2026-09-27 | 2
 103.177.150.83 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | BD | 2026-09-22 | 2026-09-22 | 1
 104.28.240.85 | LOW | ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML | BD | 2026-09-22 | 2026-09-22 | 1
+112.230.246.84 | LOW | ET SCAN Mirai Variant User-Agent (Inbound) | CN | 2026-10-16 | 2026-10-16 | 1
 130.12.181.118 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | SI | 2026-10-15 | 2026-10-15 | 1
 130.131.162.12 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-14 | 2026-10-14 | 1
 134.33.66.242 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-08 | 2026-10-08 | 1

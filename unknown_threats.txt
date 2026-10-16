@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-16T22:51:44.962864+00:00
+# Generated: 2026-10-16T23:22:16.581727+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 74
+# Total IPs: 75
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -39,6 +39,7 @@
 45.149.204.139 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-10-08 | 2026-10-08 | 1
 45.153.34.73 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-10-04 | 2026-10-04 | 1
 45.156.87.96 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-10-14 | 2026-10-14 | 1
+45.156.87.117 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-10-16 | 2026-10-16 | 1
 45.225.135.21 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | NL | 2026-10-05 | 2026-10-05 | 1
 68.183.29.251 | LOW | ET EXPLOIT Cisco ASA/Firepower Unauthenticated File Read (CVE-2020-3452) M2 | US | 2026-09-28 | 2026-09-28 | 1
 72.255.18.104 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | PK | 2026-10-10 | 2026-10-10 | 1

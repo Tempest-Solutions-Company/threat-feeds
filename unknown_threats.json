@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-17T15:44:21.087891+00:00",
+    "generated": "2026-10-17T16:14:48.554596+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 77,
+    "total_threats": 78,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -747,6 +747,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "SG"
+    },
+    {
+      "ip": "196.190.182.12",
+      "first_seen": "2026-10-17T16:10:31.576000+00:00",
+      "last_seen": "2026-10-17T16:10:31.576000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
+      "protocol": "TCP",
+      "country": "ET"
     },
     {
       "ip": "213.152.187.215",

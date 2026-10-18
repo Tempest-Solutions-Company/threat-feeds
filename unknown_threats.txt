@@ -1,13 +1,14 @@
 # Unknown Threat Feed
-# Generated: 2026-10-18T10:08:37.071524+00:00
+# Generated: 2026-10-18T10:39:02.503464+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 82
+# Total IPs: 83
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
 5.223.92.235 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | SG | 2026-09-24 | 2026-09-24 | 1
+13.143.174.142 | LOW | ET WEB_SERVER PHP tags in HTTP POST | SE | 2026-10-18 | 2026-10-18 | 1
 13.234.18.18 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | IN | 2026-09-22 | 2026-09-22 | 1
 20.200.208.154 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | KR | 2026-10-15 | 2026-10-15 | 2
 20.207.202.183 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | IN | 2026-10-15 | 2026-10-15 | 3

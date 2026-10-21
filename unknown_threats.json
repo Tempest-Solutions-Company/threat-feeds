@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-21T21:54:52.254120+00:00",
+    "generated": "2026-10-21T22:25:26.734399+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 92,
+    "total_threats": 91,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -647,16 +647,6 @@
       "signature": "ET WEB_SPECIFIC_APPS Hikvision Authentication Bypass Attempt M1 (user/password enumeration) (CVE-2017-7921)",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "136.85.89.49",
-      "first_seen": "2026-09-21T22:12:06.557000+00:00",
-      "last_seen": "2026-09-21T22:12:06.557000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "138.2.102.66",

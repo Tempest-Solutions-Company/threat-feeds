@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-21T08:07:38.543869+00:00
+# Generated: 2026-10-21T08:38:15.643663+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 91
+# Total IPs: 92
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -93,6 +93,7 @@
 185.177.72.75 | LOW | GPL WEB_SERVER .htaccess access | FR | 2026-10-09 | 2026-10-09 | 1
 185.218.86.24 | LOW | GPL WEB_SERVER .htpasswd access | HK | 2026-09-28 | 2026-09-28 | 1
 190.171.189.85 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | CL | 2026-10-14 | 2026-10-19 | 3
+194.99.104.35 | LOW | ET WEB_SERVER PHP Possible https Local File Inclusion Attempt | ES | 2026-10-21 | 2026-10-21 | 1
 195.178.110.22 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | AD | 2026-10-19 | 2026-10-19 | 1
 196.190.182.12 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | ET | 2026-10-17 | 2026-10-17 | 1
 213.152.187.215 | LOW | ET WEB_SERVER PHP Possible https Local File Inclusion Attempt | NL | 2026-10-15 | 2026-10-15 | 2

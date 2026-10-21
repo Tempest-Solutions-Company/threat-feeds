@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-21T10:09:57.924481+00:00
+# Generated: 2026-10-21T10:40:33.292219+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 92
+# Total IPs: 93
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -97,5 +97,6 @@
 195.178.110.22 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | AD | 2026-10-19 | 2026-10-19 | 1
 196.190.182.12 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | ET | 2026-10-17 | 2026-10-17 | 1
 213.152.187.215 | LOW | ET WEB_SERVER PHP Possible https Local File Inclusion Attempt | NL | 2026-10-15 | 2026-10-15 | 2
+222.83.114.16 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-10-21 | 2026-10-21 | 1
 223.123.65.54 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | PK | 2026-10-11 | 2026-10-11 | 1
 223.123.72.186 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | PK | 2026-10-07 | 2026-10-07 | 1

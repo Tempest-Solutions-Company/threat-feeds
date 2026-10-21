@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-21T08:07:38.543869+00:00",
+    "generated": "2026-10-21T08:38:15.643663+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 91,
+    "total_threats": 92,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -867,6 +867,16 @@
       "signature": "ET WEB_SERVER allow_url_include PHP config option in uri",
       "protocol": "TCP",
       "country": "CL"
+    },
+    {
+      "ip": "194.99.104.35",
+      "first_seen": "2026-10-21T08:08:19.468000+00:00",
+      "last_seen": "2026-10-21T08:08:19.468000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP Possible https Local File Inclusion Attempt",
+      "protocol": "TCP",
+      "country": "ES"
     },
     {
       "ip": "195.178.110.22",

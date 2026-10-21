@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-21T04:33:33.615352+00:00",
+    "generated": "2026-10-21T05:04:06.671756+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 90,
+    "total_threats": 91,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -737,6 +737,16 @@
       "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
       "protocol": "TCP",
       "country": "PK"
+    },
+    {
+      "ip": "158.94.211.254",
+      "first_seen": "2026-10-21T04:38:51.409000+00:00",
+      "last_seen": "2026-10-21T04:38:51.409000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL SMTP vrfy root",
+      "protocol": "TCP",
+      "country": "NL"
     },
     {
       "ip": "165.99.207.153",

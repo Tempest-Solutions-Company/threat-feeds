@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-21T13:44:21.460771+00:00",
+    "generated": "2026-10-21T14:15:09.440378+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 93,
+    "total_threats": 92,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -637,16 +637,6 @@
       "signature": "ET WEB_SPECIFIC_APPS Hikvision Authentication Bypass Attempt M1 (user/password enumeration) (CVE-2017-7921)",
       "protocol": "TCP",
       "country": "NL"
-    },
-    {
-      "ip": "136.85.59.234",
-      "first_seen": "2026-09-21T13:55:21.164000+00:00",
-      "last_seen": "2026-09-21T14:06:32.014000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SERVER ThinkPHP RCE Exploitation Attempt",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "136.85.84.79",

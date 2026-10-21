@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-21T04:33:33.615352+00:00
+# Generated: 2026-10-21T05:04:06.671756+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 90
+# Total IPs: 91
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -80,6 +80,7 @@
 146.190.254.16 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | CA | 2026-10-13 | 2026-10-13 | 1
 153.117.9.6 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | PK | 2026-10-01 | 2026-10-01 | 1
 153.117.40.147 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | PK | 2026-10-19 | 2026-10-19 | 1
+158.94.211.254 | LOW | GPL SMTP vrfy root | NL | 2026-10-21 | 2026-10-21 | 1
 165.99.207.153 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | PK | 2026-10-01 | 2026-10-01 | 1
 165.154.218.226 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | US | 2026-10-09 | 2026-10-09 | 1
 167.71.233.141 | LOW | ET WEB_SERVER PHP tags in HTTP POST | IN | 2026-10-03 | 2026-10-03 | 1

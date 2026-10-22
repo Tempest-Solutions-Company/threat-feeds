@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-10-22T15:16:26.452132+00:00",
+    "generated": "2026-10-22T15:47:00.343722+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 141,
+    "total_threats": 140,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1247,16 +1247,6 @@
       "signature": "ET SCAN Suspicious User-Agent Containing Security Scan/ner Likely Scan",
       "protocol": "TCP",
       "country": "IN"
-    },
-    {
-      "ip": "153.117.33.191",
-      "first_seen": "2026-09-22T15:35:33.127000+00:00",
-      "last_seen": "2026-09-22T15:35:33.127000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Mirai Variant User-Agent (Inbound)",
-      "protocol": "TCP",
-      "country": "PK"
     },
     {
       "ip": "157.50.233.113",

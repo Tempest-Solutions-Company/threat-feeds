@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-10-22T18:20:53.017377+00:00",
+    "generated": "2026-10-22T18:51:39.627368+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 140,
+    "total_threats": 141,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1067,6 +1067,16 @@
       "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
       "protocol": "TCP",
       "country": "FR"
+    },
+    {
+      "ip": "102.220.160.173",
+      "first_seen": "2026-10-22T18:34:31.560000+00:00",
+      "last_seen": "2026-10-22T18:45:45.455000+00:00",
+      "count": 2,
+      "severity": "low",
+      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
+      "protocol": "TCP",
+      "country": "SI"
     },
     {
       "ip": "112.230.246.84",

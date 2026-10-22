@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-22T16:17:37.353968+00:00
+# Generated: 2026-10-22T16:48:14.609820+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 90
+# Total IPs: 89
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -44,7 +44,6 @@
 45.78.224.87 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | SG | 2026-09-28 | 2026-09-28 | 1
 45.138.12.15 | LOW | ET EXPLOIT Possible MobileIron RCE Attempt Inbound (CVE-2020-15505) | HK | 2026-09-27 | 2026-10-06 | 2
 45.138.12.16 | LOW | GPL WEB_SERVER .htpasswd access | GB | 2026-09-23 | 2026-09-23 | 1
-45.148.10.28 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | NL | 2026-09-22 | 2026-09-22 | 1
 45.148.10.247 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | NL | 2026-09-24 | 2026-09-24 | 1
 45.149.204.139 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-10-08 | 2026-10-08 | 1
 45.153.34.73 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-10-04 | 2026-10-04 | 1

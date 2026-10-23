@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-23T12:12:34.043066+00:00",
+    "generated": "2026-10-23T12:43:10.746429+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 89,
+    "total_threats": 90,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -777,6 +777,16 @@
       "signature": "ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016)",
       "protocol": "TCP",
       "country": "BR"
+    },
+    {
+      "ip": "185.126.202.85",
+      "first_seen": "2026-10-23T12:12:43.217000+00:00",
+      "last_seen": "2026-10-23T12:12:43.217000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
+      "protocol": "TCP",
+      "country": "IR"
     },
     {
       "ip": "185.177.72.17",

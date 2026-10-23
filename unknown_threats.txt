@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-23T06:36:09.419315+00:00
+# Generated: 2026-10-23T07:06:44.423191+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 88
+# Total IPs: 89
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -87,6 +87,7 @@
 185.177.72.17 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-03 | 2026-10-03 | 1
 185.177.72.75 | LOW | GPL WEB_SERVER .htaccess access | FR | 2026-10-09 | 2026-10-09 | 1
 185.218.86.24 | LOW | GPL WEB_SERVER .htpasswd access | HK | 2026-09-28 | 2026-09-28 | 1
+185.226.196.27 | LOW | ET EXPLOIT Cisco RV320/RV325 Config Disclosure Attempt Inbound (CVE-2019-1653) | US | 2026-10-23 | 2026-10-23 | 1
 190.171.189.85 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | CL | 2026-10-14 | 2026-10-19 | 3
 194.99.104.35 | LOW | ET WEB_SERVER PHP Possible https Local File Inclusion Attempt | ES | 2026-10-21 | 2026-10-21 | 1
 195.178.110.22 | LOW | ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208) | AD | 2026-10-19 | 2026-10-19 | 1

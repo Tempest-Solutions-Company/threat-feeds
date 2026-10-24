@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-24T18:50:08.320514+00:00",
+    "generated": "2026-10-24T19:20:42.634648+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 91,
+    "total_threats": 92,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -487,6 +487,16 @@
       "signature": "GPL SMTP vrfy root",
       "protocol": "TCP",
       "country": "NL"
+    },
+    {
+      "ip": "82.102.28.107",
+      "first_seen": "2026-10-24T19:06:30.289000+00:00",
+      "last_seen": "2026-10-24T19:06:30.289000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER PHP Possible https Local File Inclusion Attempt",
+      "protocol": "TCP",
+      "country": "JP"
     },
     {
       "ip": "85.133.217.136",

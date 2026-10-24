@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-24T04:03:16.666457+00:00
+# Generated: 2026-10-24T04:33:50.331128+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 92
+# Total IPs: 93
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -88,6 +88,7 @@
 185.126.202.85 | LOW | ET WEB_SERVER PHP tags in HTTP POST | IR | 2026-10-23 | 2026-10-23 | 1
 185.177.72.17 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-03 | 2026-10-03 | 1
 185.177.72.75 | LOW | GPL WEB_SERVER .htaccess access | FR | 2026-10-09 | 2026-10-09 | 1
+185.177.72.100 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-24 | 2026-10-24 | 1
 185.217.127.51 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | FR | 2026-10-23 | 2026-10-23 | 1
 185.218.86.24 | LOW | GPL WEB_SERVER .htpasswd access | HK | 2026-09-28 | 2026-09-28 | 1
 185.226.196.27 | LOW | ET EXPLOIT Cisco RV320/RV325 Config Disclosure Attempt Inbound (CVE-2019-1653) | US | 2026-10-23 | 2026-10-23 | 1

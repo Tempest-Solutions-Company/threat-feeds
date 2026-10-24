@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-24T08:07:46.653798+00:00",
+    "generated": "2026-10-24T08:38:27.617551+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 93,
+    "total_threats": 91,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -202,16 +202,6 @@
       "ip": "34.118.164.100",
       "first_seen": "2026-09-24T19:49:37.871000+00:00",
       "last_seen": "2026-09-24T19:49:37.871000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
-      "protocol": "TCP",
-      "country": "CA"
-    },
-    {
-      "ip": "34.118.175.34",
-      "first_seen": "2026-09-24T08:13:11.974000+00:00",
-      "last_seen": "2026-09-24T08:13:11.974000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
@@ -525,16 +515,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "DE"
-    },
-    {
-      "ip": "92.5.155.195",
-      "first_seen": "2026-09-24T08:24:31.376000+00:00",
-      "last_seen": "2026-09-24T08:24:31.376000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "DE"
     },

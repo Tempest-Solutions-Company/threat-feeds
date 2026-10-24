@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-24T07:37:12.139940+00:00
+# Generated: 2026-10-24T08:07:46.653798+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 94
+# Total IPs: 93
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -73,7 +73,6 @@
 130.12.180.42 | LOW | ET WEB_SPECIFIC_APPS Hikvision Authentication Bypass Attempt M1 (user/password enumeration) (CVE-2017-7921) | NL | 2026-10-03 | 2026-10-03 | 2
 139.135.46.57 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | PK | 2026-10-20 | 2026-10-20 | 1
 140.143.191.228 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CN | 2026-10-14 | 2026-10-14 | 1
-144.91.78.83 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-09-24 | 2026-09-24 | 1
 146.190.254.16 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | CA | 2026-10-13 | 2026-10-13 | 1
 153.117.9.6 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | PK | 2026-10-01 | 2026-10-01 | 1
 153.117.40.147 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | PK | 2026-10-19 | 2026-10-19 | 1

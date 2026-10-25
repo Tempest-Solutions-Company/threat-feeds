@@ -1,12 +1,13 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-10-25T13:11:54.783281+00:00
+# Generated: 2026-10-25T13:42:27.823611+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 146
+# Total IPs: 147
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
+3.94.137.21 | LOW | ET SCAN Google Webcrawler User-Agent (Mediapartners-Google) | US | 2026-10-25 | 2026-10-25 | 1
 4.148.9.37 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-07 | 2026-10-07 | 1
 20.12.244.43 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-09 | 2026-10-09 | 1
 20.14.76.43 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-24 | 2026-10-24 | 1

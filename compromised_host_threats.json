@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2026-10-25T13:11:54.783281+00:00",
+    "generated": "2026-10-25T13:42:27.823611+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 55,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -209,16 +209,6 @@
       "country": "DE"
     },
     {
-      "ip": "91.236.224.37",
-      "first_seen": "2026-09-25T13:17:16.406000+00:00",
-      "last_seen": "2026-09-25T13:17:16.406000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 22",
-      "protocol": "TCP",
-      "country": "UA"
-    },
-    {
       "ip": "93.152.221.108",
       "first_seen": "2026-10-08T15:05:41.856000+00:00",
       "last_seen": "2026-10-15T05:39:59.161000+00:00",
@@ -297,16 +287,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 3",
       "protocol": "TCP",
       "country": "IN"
-    },
-    {
-      "ip": "103.105.74.30",
-      "first_seen": "2026-09-25T13:39:03.758000+00:00",
-      "last_seen": "2026-09-25T13:39:03.758000+00:00",
-      "count": 1,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 1",
-      "protocol": "TCP",
-      "country": "BD"
     },
     {
       "ip": "103.113.171.119",
@@ -479,6 +459,16 @@
       "country": "KZ"
     },
     {
+      "ip": "185.136.15.81",
+      "first_seen": "2026-10-25T13:36:59.058000+00:00",
+      "last_seen": "2026-10-25T13:36:59.058000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
+      "protocol": "TCP",
+      "country": "KZ"
+    },
+    {
       "ip": "185.136.15.82",
       "first_seen": "2026-10-24T17:24:25.529000+00:00",
       "last_seen": "2026-10-25T09:37:55.580000+00:00",
@@ -491,8 +481,8 @@
     {
       "ip": "185.136.15.110",
       "first_seen": "2026-10-24T15:48:36.388000+00:00",
-      "last_seen": "2026-10-25T10:08:13.446000+00:00",
-      "count": 3,
+      "last_seen": "2026-10-25T13:24:31.892000+00:00",
+      "count": 4,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
       "protocol": "TCP",

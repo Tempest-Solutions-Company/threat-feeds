@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-25T23:23:10.626546+00:00
+# Generated: 2026-10-25T23:53:44.175671+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 93
+# Total IPs: 94
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -72,6 +72,7 @@
 140.143.191.228 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CN | 2026-10-14 | 2026-10-14 | 1
 144.24.121.93 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | IN | 2026-10-25 | 2026-10-25 | 1
 146.190.254.16 | LOW | ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1 | CA | 2026-10-13 | 2026-10-13 | 1
+149.78.186.49 | LOW | ET WEB_SERVER PHP tags in HTTP POST | BR | 2026-10-25 | 2026-10-25 | 1
 153.117.9.6 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | PK | 2026-10-01 | 2026-10-01 | 1
 153.117.40.147 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | PK | 2026-10-19 | 2026-10-19 | 1
 158.94.211.254 | LOW | GPL SMTP vrfy root | NL | 2026-10-21 | 2026-10-21 | 1

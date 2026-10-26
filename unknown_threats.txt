@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-26T11:10:33.177215+00:00
+# Generated: 2026-10-26T11:41:10.335937+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 96
+# Total IPs: 97
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -40,6 +40,7 @@
 35.243.155.113 | LOW | ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927) | US | 2026-10-18 | 2026-10-18 | 1
 35.245.62.139 | LOW | ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927) | US | 2026-10-15 | 2026-10-15 | 1
 37.77.150.71 | LOW | ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260) | RU | 2026-10-23 | 2026-10-23 | 1
+37.139.53.245 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | RU | 2026-10-26 | 2026-10-26 | 1
 38.250.161.179 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | PE | 2026-10-13 | 2026-10-13 | 1
 45.78.224.87 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | SG | 2026-09-28 | 2026-09-28 | 1
 45.138.12.15 | LOW | ET EXPLOIT Possible MobileIron RCE Attempt Inbound (CVE-2020-15505) | HK | 2026-09-27 | 2026-10-06 | 2

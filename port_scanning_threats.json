@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-10-26T14:44:50.093467+00:00",
+    "generated": "2026-10-26T15:15:27.403148+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 148,
+    "total_threats": 147,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1097,16 +1097,6 @@
       "signature": "ET SCAN Suspicious User-Agent Containing Web Scan/er Likely Web Scanner",
       "protocol": "TCP",
       "country": "CA"
-    },
-    {
-      "ip": "92.204.53.157",
-      "first_seen": "2026-09-26T15:14:25.213000+00:00",
-      "last_seen": "2026-09-27T09:34:02.746000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound",
-      "protocol": "TCP",
-      "country": "FR"
     },
     {
       "ip": "93.152.221.60",

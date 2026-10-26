@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-26T11:10:33.177215+00:00",
+    "generated": "2026-10-26T11:41:10.335937+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 96,
+    "total_threats": 97,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -335,6 +335,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260)",
+      "protocol": "TCP",
+      "country": "RU"
+    },
+    {
+      "ip": "37.139.53.245",
+      "first_seen": "2026-10-26T11:40:47.641000+00:00",
+      "last_seen": "2026-10-26T11:40:47.641000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",
       "protocol": "TCP",
       "country": "RU"
     },

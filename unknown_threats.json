@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-10-28T02:28:53.918337+00:00",
+    "generated": "2026-10-28T03:00:52.655032+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 97,
+    "total_threats": 95,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -299,16 +299,6 @@
       "country": "CA"
     },
     {
-      "ip": "35.237.36.16",
-      "first_seen": "2026-09-28T02:48:07.252000+00:00",
-      "last_seen": "2026-09-28T02:59:26.398000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
       "ip": "35.243.111.1",
       "first_seen": "2026-10-19T15:55:37.204000+00:00",
       "last_seen": "2026-10-19T15:55:37.204000+00:00",
@@ -367,16 +357,6 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "PE"
-    },
-    {
-      "ip": "45.78.224.87",
-      "first_seen": "2026-09-28T02:37:02.140000+00:00",
-      "last_seen": "2026-09-28T02:37:02.140000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "45.149.204.139",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-28T05:03:21.405421+00:00
+# Generated: 2026-10-28T05:33:58.573893+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 95
+# Total IPs: 96
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -80,6 +80,7 @@
 165.99.207.153 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | PK | 2026-10-01 | 2026-10-01 | 1
 165.154.218.226 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | US | 2026-10-09 | 2026-10-09 | 1
 167.71.233.141 | LOW | ET WEB_SERVER PHP tags in HTTP POST | IN | 2026-10-03 | 2026-10-03 | 1
+169.40.142.202 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-28 | 2026-10-28 | 1
 169.40.142.224 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-08 | 2026-10-08 | 1
 171.237.170.148 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | VN | 2026-10-05 | 2026-10-05 | 1
 173.183.178.122 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CA | 2026-10-19 | 2026-10-19 | 1

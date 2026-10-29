@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Port_Scanning",
-    "generated": "2026-10-29T21:22:55.715840+00:00",
+    "generated": "2026-10-29T21:53:31.800375+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 139,
+    "total_threats": 138,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1257,16 +1257,6 @@
       "signature": "ET SCAN LeakIX Inbound User-Agent",
       "protocol": "TCP",
       "country": "CA"
-    },
-    {
-      "ip": "157.55.39.200",
-      "first_seen": "2026-09-29T21:25:27.100000+00:00",
-      "last_seen": "2026-09-29T21:25:27.100000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET SCAN Bing Webcrawler User-Agent (BingBot)",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "157.55.39.222",

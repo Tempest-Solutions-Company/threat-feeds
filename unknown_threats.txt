@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-10-31T14:12:57.898297+00:00
+# Generated: 2026-10-31T14:43:31.884825+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 91
+# Total IPs: 90
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -55,7 +55,7 @@
 81.90.29.7 | LOW | GPL SMTP vrfy root | NL | 2026-10-06 | 2026-10-06 | 1
 82.102.28.107 | LOW | ET WEB_SERVER PHP Possible https Local File Inclusion Attempt | JP | 2026-10-24 | 2026-10-24 | 1
 85.133.217.136 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | IR | 2026-10-22 | 2026-10-22 | 1
-91.92.40.12 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | NL | 2026-10-30 | 2026-10-31 | 4
+91.92.40.12 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | NL | 2026-10-30 | 2026-10-31 | 5
 94.26.0.55 | LOW | ET WEB_SPECIFIC_APPS Possible Oracle WebLogic RCE Fuzzing Inbound M2 | DE | 2026-10-05 | 2026-10-05 | 1
 94.185.80.230 | LOW | ET WEB_SERVER PHP Possible https Local File Inclusion Attempt | SE | 2026-10-22 | 2026-10-22 | 1
 95.234.167.123 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | IT | 2026-10-12 | 2026-10-12 | 1
@@ -72,7 +72,6 @@
 149.78.186.49 | LOW | ET WEB_SERVER PHP tags in HTTP POST | BR | 2026-10-25 | 2026-10-25 | 1
 153.117.40.147 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | PK | 2026-10-19 | 2026-10-19 | 1
 158.94.211.254 | LOW | GPL SMTP vrfy root | NL | 2026-10-21 | 2026-10-21 | 1
-165.99.207.153 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | PK | 2026-10-01 | 2026-10-01 | 1
 165.154.218.226 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | US | 2026-10-09 | 2026-10-09 | 1
 167.71.233.141 | LOW | ET WEB_SERVER PHP tags in HTTP POST | IN | 2026-10-03 | 2026-10-03 | 1
 169.40.142.79 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | FR | 2026-10-29 | 2026-10-29 | 1

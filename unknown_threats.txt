@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-11-01T18:17:24.116043+00:00
+# Generated: 2026-11-01T18:47:55.640801+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 93
+# Total IPs: 94
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -39,6 +39,7 @@
 37.77.150.71 | LOW | ET EXPLOIT Hikvision IP Camera RCE Attempt (CVE-2021-36260) | RU | 2026-10-23 | 2026-10-23 | 1
 37.139.53.245 | LOW | ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000) | RU | 2026-10-26 | 2026-10-26 | 1
 38.250.161.179 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | PE | 2026-10-13 | 2026-10-13 | 1
+45.61.145.122 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | US | 2026-11-01 | 2026-11-01 | 1
 45.138.12.88 | LOW | ET WEB_SERVER Possible XXE SYSTEM ENTITY in POST BODY. | HK | 2026-10-31 | 2026-10-31 | 1
 45.149.204.139 | LOW | ET WEB_SERVER PHP tags in HTTP POST | DE | 2026-10-08 | 2026-10-08 | 1
 45.153.34.73 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-10-04 | 2026-10-04 | 1

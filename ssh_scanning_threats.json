@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2026-11-03T04:32:39.808649+00:00",
+    "generated": "2026-11-03T05:03:12.795870+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 435,
+    "total_threats": 433,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -1941,8 +1941,8 @@
     {
       "ip": "109.160.32.117",
       "first_seen": "2026-10-11T23:13:29.709000+00:00",
-      "last_seen": "2026-11-03T04:13:43.255000+00:00",
-      "count": 4,
+      "last_seen": "2026-11-03T04:39:00.792000+00:00",
+      "count": 5,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -2111,8 +2111,8 @@
     {
       "ip": "109.160.32.146",
       "first_seen": "2026-10-20T04:17:16.641000+00:00",
-      "last_seen": "2026-10-20T07:16:00.220000+00:00",
-      "count": 6,
+      "last_seen": "2026-11-03T05:01:09.240000+00:00",
+      "count": 8,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -2987,16 +2987,6 @@
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
       "country": "CO"
-    },
-    {
-      "ip": "146.190.74.52",
-      "first_seen": "2026-10-04T04:58:36.462000+00:00",
-      "last_seen": "2026-10-07T16:42:47.448000+00:00",
-      "count": 3,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "147.50.103.212",
@@ -4012,16 +4002,6 @@
       "ip": "198.74.56.135",
       "first_seen": "2026-10-30T08:37:30.053000+00:00",
       "last_seen": "2026-10-30T08:37:30.053000+00:00",
-      "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "US"
-    },
-    {
-      "ip": "199.19.225.232",
-      "first_seen": "2026-10-04T04:34:46.350000+00:00",
-      "last_seen": "2026-10-04T04:34:46.350000+00:00",
       "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",

@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-11-06T12:11:14.625746+00:00
+# Generated: 2026-11-06T12:41:48.573239+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 92
+# Total IPs: 91
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -98,4 +98,3 @@
 213.152.187.215 | LOW | ET WEB_SERVER PHP Possible https Local File Inclusion Attempt | NL | 2026-10-15 | 2026-10-15 | 2
 222.83.114.16 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-10-21 | 2026-10-21 | 1
 223.123.65.54 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | PK | 2026-10-11 | 2026-10-11 | 1
-223.123.72.186 | LOW | ET EXPLOIT Netgear DGN Remote Command Execution | PK | 2026-10-07 | 2026-10-07 | 1

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-06T00:58:00.012011+00:00",
+    "generated": "2026-11-06T01:28:40.947661+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 90,
+    "total_threats": 91,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -562,6 +562,16 @@
       "ip": "119.109.235.52",
       "first_seen": "2026-10-21T03:06:52.058000+00:00",
       "last_seen": "2026-10-21T03:06:52.058000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
+      "protocol": "TCP",
+      "country": "CN"
+    },
+    {
+      "ip": "122.190.123.4",
+      "first_seen": "2026-11-06T00:59:28.182000+00:00",
+      "last_seen": "2026-11-06T00:59:28.182000+00:00",
       "count": 1,
       "severity": "low",
       "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",

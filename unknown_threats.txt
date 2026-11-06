@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-11-06T00:58:00.012011+00:00
+# Generated: 2026-11-06T01:28:40.947661+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 90
+# Total IPs: 91
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -63,6 +63,7 @@
 104.251.180.112 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | CH | 2026-10-12 | 2026-10-17 | 2
 118.145.104.37 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-11-04 | 2026-11-04 | 1
 119.109.235.52 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | CN | 2026-10-21 | 2026-10-21 | 1
+122.190.123.4 | LOW | ET EXPLOIT HackingTrio UA (Hello, World) | CN | 2026-11-06 | 2026-11-06 | 1
 139.135.46.57 | LOW | ET WEB_SERVER WGET Command Specifying Output in HTTP Headers | PK | 2026-10-20 | 2026-10-20 | 1
 140.143.191.228 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CN | 2026-10-14 | 2026-10-14 | 1
 144.24.121.93 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | IN | 2026-10-25 | 2026-10-25 | 1

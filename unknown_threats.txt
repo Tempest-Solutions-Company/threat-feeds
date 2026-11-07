@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-11-07T03:00:54.399399+00:00
+# Generated: 2026-11-07T03:31:29.105273+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 91
+# Total IPs: 92
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -81,6 +81,7 @@
 177.36.24.219 | LOW | ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016) | BR | 2026-10-10 | 2026-10-10 | 1
 185.126.202.85 | LOW | ET WEB_SERVER PHP tags in HTTP POST | IR | 2026-10-23 | 2026-10-23 | 1
 185.177.72.9 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-24 | 2026-10-26 | 2
+185.177.72.13 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-11-07 | 2026-11-07 | 1
 185.177.72.49 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-24 | 2026-10-24 | 1
 185.177.72.75 | LOW | GPL WEB_SERVER .htaccess access | FR | 2026-10-09 | 2026-10-09 | 1
 185.177.72.100 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-24 | 2026-10-24 | 1

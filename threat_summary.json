@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "generated": "2026-11-07T14:43:37.786372+00:00",
+    "generated": "2026-11-07T15:14:07.833515+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "expiry_days": 30,
     "total_categories": 8,
-    "total_threats": 808,
-    "total_unique_ips": 805
+    "total_threats": 809,
+    "total_unique_ips": 806
   },
   "categories": {
     "Compromised_Host": {
-      "total_threats": 54,
-      "unique_ips": 54,
+      "total_threats": 53,
+      "unique_ips": 53,
       "severity_breakdown": {
-        "high": 54
+        "high": 53
       },
       "files": {
         "txt": "compromised_host_threats.txt",
@@ -33,10 +33,10 @@
       }
     },
     "SSH_Scanning": {
-      "total_threats": 382,
-      "unique_ips": 382,
+      "total_threats": 383,
+      "unique_ips": 383,
       "severity_breakdown": {
-        "medium": 382
+        "medium": 383
       },
       "files": {
         "txt": "ssh_scanning_threats.txt",
@@ -45,10 +45,10 @@
       }
     },
     "DNS_Attack": {
-      "total_threats": 125,
-      "unique_ips": 125,
+      "total_threats": 126,
+      "unique_ips": 126,
       "severity_breakdown": {
-        "low": 124,
+        "low": 125,
         "medium": 1
       },
       "files": {

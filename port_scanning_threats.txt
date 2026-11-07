@@ -1,7 +1,7 @@
 # Port_Scanning Threat Feed
-# Generated: 2026-11-07T16:15:16.238136+00:00
+# Generated: 2026-11-07T16:45:47.791333+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 122
+# Total IPs: 123
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -122,6 +122,7 @@
 165.22.34.189 | LOW | ET SCAN LeakIX Inbound User-Agent | US | 2026-10-20 | 2026-10-20 | 2
 170.64.134.120 | LOW | ET SCAN Zmap User-Agent (Inbound) | AU | 2026-11-03 | 2026-11-03 | 1
 172.202.115.71 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-26 | 2026-10-26 | 1
+172.212.203.91 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-11-07 | 2026-11-07 | 1
 172.212.226.97 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-24 | 2026-10-24 | 1
 172.212.227.85 | LOW | ET SCAN Zmap User-Agent (Inbound) | US | 2026-10-20 | 2026-10-20 | 1
 178.162.156.157 | LOW | ET SCAN Laravel Debug Mode Information Disclosure Probe Inbound | NL | 2026-11-03 | 2026-11-03 | 1

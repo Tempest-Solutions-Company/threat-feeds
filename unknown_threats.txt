@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-11-07T07:36:00.890077+00:00
+# Generated: 2026-11-07T08:06:33.907354+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 92
+# Total IPs: 91
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -76,7 +76,6 @@
 165.154.218.226 | LOW | ET WEB_SERVER auto_prepend_file PHP config option in uri | US | 2026-10-09 | 2026-10-09 | 1
 169.40.142.79 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | FR | 2026-10-29 | 2026-10-29 | 1
 169.40.142.202 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-28 | 2026-10-28 | 1
-169.40.142.224 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-08 | 2026-10-08 | 1
 173.183.178.122 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CA | 2026-10-19 | 2026-10-19 | 1
 177.36.24.219 | LOW | ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016) | BR | 2026-10-10 | 2026-10-10 | 1
 185.126.202.85 | LOW | ET WEB_SERVER PHP tags in HTTP POST | IR | 2026-10-23 | 2026-10-23 | 1

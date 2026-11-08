@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-11-08T08:36:21.655762+00:00
+# Generated: 2026-11-08T09:06:51.787283+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 90
+# Total IPs: 91
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -74,6 +74,7 @@
 158.94.211.254 | LOW | GPL SMTP vrfy root | NL | 2026-10-21 | 2026-10-21 | 1
 169.40.142.79 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | FR | 2026-10-29 | 2026-10-29 | 1
 169.40.142.202 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | FR | 2026-10-28 | 2026-10-28 | 1
+172.214.3.199 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | US | 2026-11-08 | 2026-11-08 | 1
 173.183.178.122 | LOW | ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | CA | 2026-10-19 | 2026-10-19 | 1
 177.10.160.46 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | BR | 2026-11-08 | 2026-11-08 | 1
 177.36.24.219 | LOW | ET WEB_SPECIFIC_APPS MVPower CCTV DVR /shell JAWS Webserver Unauthenticated Remote Command Execution (CVE-2016-20016) | BR | 2026-10-10 | 2026-10-10 | 1

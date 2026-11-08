@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-11-08T21:49:31.207730+00:00
+# Generated: 2026-11-08T22:20:01.378247+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 91
+# Total IPs: 90
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -58,7 +58,6 @@
 95.105.71.239 | LOW | ET WEB_SERVER WebShell Generic - wget http - POST | RU | 2026-11-08 | 2026-11-08 | 1
 95.234.167.123 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | IT | 2026-10-12 | 2026-10-12 | 1
 103.170.217.198 | LOW | ET EXPLOIT Apache Struts memberAccess and getWriter inbound OGNL injection remote code execution attempt | SG | 2026-10-17 | 2026-10-17 | 1
-103.216.170.129 | LOW | ET WEB_SERVER allow_url_include PHP config option in uri | IN | 2026-10-09 | 2026-10-09 | 1
 104.196.68.70 | LOW | ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927) | US | 2026-10-15 | 2026-10-15 | 1
 104.251.180.112 | LOW | ET WEB_SERVER Tilde in URI - potential .php~ source disclosure vulnerability | CH | 2026-10-12 | 2026-10-17 | 2
 106.75.37.123 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-11-06 | 2026-11-06 | 1

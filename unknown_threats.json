@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-08T21:49:31.207730+00:00",
+    "generated": "2026-11-08T22:20:01.378247+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 91,
+    "total_threats": 90,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -517,16 +517,6 @@
       "signature": "ET EXPLOIT Apache Struts memberAccess and getWriter inbound OGNL injection remote code execution attempt",
       "protocol": "TCP",
       "country": "SG"
-    },
-    {
-      "ip": "103.216.170.129",
-      "first_seen": "2026-10-09T22:00:04.469000+00:00",
-      "last_seen": "2026-10-09T22:00:04.469000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER allow_url_include PHP config option in uri",
-      "protocol": "TCP",
-      "country": "IN"
     },
     {
       "ip": "104.196.68.70",

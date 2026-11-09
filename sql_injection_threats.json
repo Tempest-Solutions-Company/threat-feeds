@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SQL_Injection",
-    "generated": "2026-11-09T12:10:21.788818+00:00",
+    "generated": "2026-11-09T12:40:54.238074+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 6,
+    "total_threats": 7,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -27,6 +27,16 @@
       "signature": "ET WEB_SERVER Possible SQL Injection UNION SELECT in HTTP Request Body",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "76.71.171.67",
+      "first_seen": "2026-11-09T12:15:56.060000+00:00",
+      "last_seen": "2026-11-09T12:15:56.060000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET WEB_SERVER Possible SQL Injection SELECT CONCAT in HTTP Request Body",
+      "protocol": "TCP",
+      "country": "CA"
     },
     {
       "ip": "157.230.167.79",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "SSH_Scanning",
-    "generated": "2026-11-08T23:51:34.862504+00:00",
+    "generated": "2026-11-09T00:22:05.870208+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 377,
+    "total_threats": 375,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -81,8 +81,8 @@
     {
       "ip": "14.53.202.223",
       "first_seen": "2026-11-07T08:56:15.654000+00:00",
-      "last_seen": "2026-11-08T18:24:56.153000+00:00",
-      "count": 9,
+      "last_seen": "2026-11-09T00:20:28.551000+00:00",
+      "count": 10,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -293,16 +293,6 @@
       "first_seen": "2026-10-20T10:20:57.559000+00:00",
       "last_seen": "2026-10-20T10:32:15.476000+00:00",
       "count": 2,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "TZ"
-    },
-    {
-      "ip": "41.221.49.85",
-      "first_seen": "2026-10-10T00:20:20.232000+00:00",
-      "last_seen": "2026-10-10T00:20:20.232000+00:00",
-      "count": 1,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -1051,8 +1041,8 @@
     {
       "ip": "77.239.124.80",
       "first_seen": "2026-10-14T22:51:46.242000+00:00",
-      "last_seen": "2026-11-08T23:29:00.524000+00:00",
-      "count": 11,
+      "last_seen": "2026-11-08T23:54:27.243000+00:00",
+      "count": 12,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",
@@ -3533,16 +3523,6 @@
       "first_seen": "2026-10-18T20:30:55.461000+00:00",
       "last_seen": "2026-10-18T20:30:55.461000+00:00",
       "count": 1,
-      "severity": "medium",
-      "signature": "ET SCAN Potential SSH Scan",
-      "protocol": "TCP",
-      "country": "BR"
-    },
-    {
-      "ip": "201.139.186.238",
-      "first_seen": "2026-10-10T00:04:00.914000+00:00",
-      "last_seen": "2026-10-16T20:37:30.397000+00:00",
-      "count": 8,
       "severity": "medium",
       "signature": "ET SCAN Potential SSH Scan",
       "protocol": "TCP",

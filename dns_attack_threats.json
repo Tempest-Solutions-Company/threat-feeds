@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "DNS_Attack",
-    "generated": "2026-11-10T01:25:07.463358+00:00",
+    "generated": "2026-11-10T01:55:40.986596+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 130,
+    "total_threats": 129,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -367,16 +367,6 @@
       "signature": "GPL DNS named version attempt",
       "protocol": "UDP",
       "country": "IN"
-    },
-    {
-      "ip": "65.49.1.67",
-      "first_seen": "2026-10-11T01:43:39.712000+00:00",
-      "last_seen": "2026-10-11T01:43:39.712000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL DNS named version attempt",
-      "protocol": "UDP",
-      "country": "US"
     },
     {
       "ip": "65.49.20.94",

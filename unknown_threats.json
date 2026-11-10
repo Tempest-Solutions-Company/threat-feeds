@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-10T20:19:55.722699+00:00",
+    "generated": "2026-11-10T20:50:27.590240+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 89,
+    "total_threats": 90,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -367,6 +367,16 @@
       "signature": "ET WEB_SERVER Possible XXE SYSTEM ENTITY in POST BODY.",
       "protocol": "TCP",
       "country": "HK"
+    },
+    {
+      "ip": "45.144.52.239",
+      "first_seen": "2026-11-10T20:42:29.123000+00:00",
+      "last_seen": "2026-11-10T20:42:29.123000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ETPRO WEB_SPECIFIC_APPS HTTP URI Contains Common RCE String",
+      "protocol": "TCP",
+      "country": "FI"
     },
     {
       "ip": "45.148.10.210",

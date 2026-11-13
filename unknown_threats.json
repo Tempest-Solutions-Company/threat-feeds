@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-13T13:11:13.989971+00:00",
+    "generated": "2026-11-13T13:41:47.064777+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 80,
+    "total_threats": 79,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -717,16 +717,6 @@
       "signature": "ET EXPLOIT Cisco RV320/RV325 Config Disclosure Attempt Inbound (CVE-2019-1653)",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "190.171.189.85",
-      "first_seen": "2026-10-14T13:15:08.326000+00:00",
-      "last_seen": "2026-10-27T15:05:34.532000+00:00",
-      "count": 4,
-      "severity": "low",
-      "signature": "ET WEB_SERVER allow_url_include PHP config option in uri",
-      "protocol": "TCP",
-      "country": "CL"
     },
     {
       "ip": "190.196.253.108",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Compromised_Host",
-    "generated": "2026-11-14T02:25:15.713432+00:00",
+    "generated": "2026-11-14T02:55:47.415389+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 83,
+    "total_threats": 84,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -182,6 +182,16 @@
       "ip": "35.210.88.112",
       "first_seen": "2026-11-13T02:26:21.351000+00:00",
       "last_seen": "2026-11-13T02:26:21.351000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 13",
+      "protocol": "TCP",
+      "country": "BE"
+    },
+    {
+      "ip": "35.210.107.114",
+      "first_seen": "2026-11-14T02:53:14.231000+00:00",
+      "last_seen": "2026-11-14T02:53:14.231000+00:00",
       "count": 1,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 13",
@@ -639,6 +649,16 @@
       "country": "US"
     },
     {
+      "ip": "164.68.126.168",
+      "first_seen": "2026-11-14T02:42:08.950000+00:00",
+      "last_seen": "2026-11-14T02:42:08.950000+00:00",
+      "count": 1,
+      "severity": "high",
+      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 5",
+      "protocol": "TCP",
+      "country": "FR"
+    },
+    {
       "ip": "169.58.25.55",
       "first_seen": "2026-11-14T01:18:06.648000+00:00",
       "last_seen": "2026-11-14T01:18:06.648000+00:00",
@@ -657,16 +677,6 @@
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 6",
       "protocol": "TCP",
       "country": "US"
-    },
-    {
-      "ip": "176.120.22.61",
-      "first_seen": "2026-10-15T02:29:46.551000+00:00",
-      "last_seen": "2026-10-28T14:12:30.771000+00:00",
-      "count": 2,
-      "severity": "high",
-      "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
-      "protocol": "TCP",
-      "country": "RU"
     },
     {
       "ip": "179.43.153.2",
@@ -821,8 +831,8 @@
     {
       "ip": "203.18.158.143",
       "first_seen": "2026-11-14T00:11:55.277000+00:00",
-      "last_seen": "2026-11-14T00:11:55.277000+00:00",
-      "count": 1,
+      "last_seen": "2026-11-14T02:31:28.751000+00:00",
+      "count": 2,
       "severity": "high",
       "signature": "ET COMPROMISED Known Compromised or Hostile Host Traffic group 8",
       "protocol": "TCP",

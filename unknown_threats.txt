@@ -1,7 +1,7 @@
 # Unknown Threat Feed
-# Generated: 2026-11-15T22:33:46.469914+00:00
+# Generated: 2026-11-15T23:04:17.746400+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 75
+# Total IPs: 74
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
@@ -38,7 +38,6 @@
 45.144.52.239 | LOW | ETPRO WEB_SPECIFIC_APPS HTTP URI Contains Common RCE String | FI | 2026-11-10 | 2026-11-10 | 3
 45.148.10.210 | LOW | ET WEB_SPECIFIC_APPS Possible WP CuckooTap Arbitrary File Download | NL | 2026-11-09 | 2026-11-09 | 1
 45.156.87.102 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-10-23 | 2026-10-23 | 1
-45.156.87.117 | LOW | ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020) | NL | 2026-10-16 | 2026-10-17 | 5
 51.159.5.6 | LOW | ET WEB_SERVER PHP tags in HTTP POST | FR | 2026-10-31 | 2026-10-31 | 1
 61.146.235.54 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | CN | 2026-10-17 | 2026-11-13 | 2
 64.42.179.35 | LOW | ET WEB_SERVER PHP Possible https Local File Inclusion Attempt | US | 2026-10-23 | 2026-10-23 | 1

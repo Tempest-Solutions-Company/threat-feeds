@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-16T15:44:21.002427+00:00",
+    "generated": "2026-11-16T16:14:54.429495+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 73,
+    "total_threats": 72,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -697,16 +697,6 @@
       "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
       "protocol": "TCP",
       "country": "AD"
-    },
-    {
-      "ip": "196.190.182.12",
-      "first_seen": "2026-10-17T16:10:31.576000+00:00",
-      "last_seen": "2026-10-17T16:10:31.576000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER WGET Command Specifying Output in HTTP Headers",
-      "protocol": "TCP",
-      "country": "ET"
     },
     {
       "ip": "204.76.203.31",

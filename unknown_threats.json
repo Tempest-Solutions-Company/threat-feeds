@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-16T12:40:48.385851+00:00",
+    "generated": "2026-11-16T13:11:24.181507+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 72,
+    "total_threats": 73,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -477,6 +477,16 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "BR"
+    },
+    {
+      "ip": "149.102.230.138",
+      "first_seen": "2026-11-16T12:58:14.979000+00:00",
+      "last_seen": "2026-11-16T12:58:14.979000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
+      "protocol": "TCP",
+      "country": "DE"
     },
     {
       "ip": "153.117.40.147",

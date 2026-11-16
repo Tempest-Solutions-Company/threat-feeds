@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-16T11:39:44.394235+00:00",
+    "generated": "2026-11-16T12:40:48.385851+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 74,
+    "total_threats": 72,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -57,16 +57,6 @@
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
       "country": "CA"
-    },
-    {
-      "ip": "34.21.159.180",
-      "first_seen": "2026-10-17T12:23:44.770000+00:00",
-      "last_seen": "2026-10-17T12:23:44.770000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "34.39.209.31",
@@ -407,16 +397,6 @@
       "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
       "protocol": "TCP",
       "country": "RU"
-    },
-    {
-      "ip": "103.170.217.198",
-      "first_seen": "2026-10-17T12:37:28.981000+00:00",
-      "last_seen": "2026-10-17T12:37:28.981000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET EXPLOIT Apache Struts memberAccess and getWriter inbound OGNL injection remote code execution attempt",
-      "protocol": "TCP",
-      "country": "SG"
     },
     {
       "ip": "106.75.37.123",

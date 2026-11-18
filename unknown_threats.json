@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-18T15:13:53.023967+00:00",
+    "generated": "2026-11-18T15:44:26.014411+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 65,
+    "total_threats": 64,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -617,16 +617,6 @@
       "signature": "ET WEB_SERVER PHP Possible https Local File Inclusion Attempt",
       "protocol": "TCP",
       "country": "ES"
-    },
-    {
-      "ip": "195.178.110.22",
-      "first_seen": "2026-10-19T15:42:08.053000+00:00",
-      "last_seen": "2026-10-19T15:42:08.053000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Vite Arbitrary File Read Via raw parameter (CVE-2025-30208)",
-      "protocol": "TCP",
-      "country": "AD"
     },
     {
       "ip": "204.76.203.31",

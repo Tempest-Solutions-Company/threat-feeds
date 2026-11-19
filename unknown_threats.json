@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-19T21:20:29.885040+00:00",
+    "generated": "2026-11-19T21:51:02.706006+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 63,
+    "total_threats": 62,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -67,16 +67,6 @@
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
       "country": "BR"
-    },
-    {
-      "ip": "34.79.202.206",
-      "first_seen": "2026-10-20T21:38:47.094000+00:00",
-      "last_seen": "2026-10-20T21:50:16.498000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS Wordpress LiteSpeed Cache Plugin debug.log Access Attempt (CVE-2024-44000)",
-      "protocol": "TCP",
-      "country": "BE"
     },
     {
       "ip": "34.81.113.166",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-19T06:34:22.930434+00:00",
+    "generated": "2026-11-19T07:04:53.581402+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 63,
+    "total_threats": 64,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -317,6 +317,16 @@
       "signature": "ET WEB_SERVER WebShell Generic - wget http - POST",
       "protocol": "TCP",
       "country": "RU"
+    },
+    {
+      "ip": "102.212.40.228",
+      "first_seen": "2026-11-19T06:57:09.163000+00:00",
+      "last_seen": "2026-11-19T06:57:09.163000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT Netgear DGN Remote Command Execution",
+      "protocol": "TCP",
+      "country": "NG"
     },
     {
       "ip": "102.220.161.89",

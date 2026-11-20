@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-20T04:32:19.170354+00:00",
+    "generated": "2026-11-20T05:02:50.803188+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 61,
+    "total_threats": 60,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -397,16 +397,6 @@
       "signature": "ET WEB_SERVER Wordpress Login Bruteforcing Detected",
       "protocol": "TCP",
       "country": "DE"
-    },
-    {
-      "ip": "158.94.211.254",
-      "first_seen": "2026-10-21T04:38:51.409000+00:00",
-      "last_seen": "2026-10-21T04:38:51.409000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "GPL SMTP vrfy root",
-      "protocol": "TCP",
-      "country": "NL"
     },
     {
       "ip": "160.250.114.86",

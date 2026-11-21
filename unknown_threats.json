@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-21T14:42:24.962078+00:00",
+    "generated": "2026-11-21T15:12:55.664045+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 56,
     "expiry_days": 30,
@@ -17,6 +17,16 @@
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
       "protocol": "TCP",
       "country": "DE"
+    },
+    {
+      "ip": "14.225.32.196",
+      "first_seen": "2026-11-21T14:44:29.900000+00:00",
+      "last_seen": "2026-11-21T14:44:29.900000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET EXPLOIT MVPower DVR Shell UCE",
+      "protocol": "TCP",
+      "country": "VN"
     },
     {
       "ip": "23.94.145.35",
@@ -47,16 +57,6 @@
       "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
       "protocol": "TCP",
       "country": "BR"
-    },
-    {
-      "ip": "34.81.113.166",
-      "first_seen": "2026-10-22T15:04:56.131000+00:00",
-      "last_seen": "2026-10-22T15:04:56.131000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927)",
-      "protocol": "TCP",
-      "country": "TW"
     },
     {
       "ip": "34.83.22.248",

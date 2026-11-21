@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "Command_Injection",
-    "generated": "2026-08-13T15:12:19.149293+00:00",
+    "generated": "2026-11-21T15:43:26.139444+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
     "total_threats": 1,
     "expiry_days": 30,
@@ -9,14 +9,14 @@
   },
   "threats": [
     {
-      "ip": "45.198.224.60",
-      "first_seen": "2026-07-14T15:14:44.246000+00:00",
-      "last_seen": "2026-07-14T15:14:44.246000+00:00",
+      "ip": "160.119.71.193",
+      "first_seen": "2026-11-21T15:19:29.422000+00:00",
+      "last_seen": "2026-11-21T15:19:29.422000+00:00",
       "count": 1,
       "severity": "high",
       "signature": "ET WEB_SPECIFIC_APPS TBK DVR-4104/4216 Command Injection Attempt (CVE-2024-3721)",
       "protocol": "TCP",
-      "country": "SE"
+      "country": "NL"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-22T20:50:30.654050+00:00",
+    "generated": "2026-11-22T21:21:04.217118+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 55,
+    "total_threats": 54,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -207,16 +207,6 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "FR"
-    },
-    {
-      "ip": "64.42.179.35",
-      "first_seen": "2026-10-23T20:51:19.309000+00:00",
-      "last_seen": "2026-10-23T20:51:19.309000+00:00",
-      "count": 1,
-      "severity": "low",
-      "signature": "ET WEB_SERVER PHP Possible https Local File Inclusion Attempt",
-      "protocol": "TCP",
-      "country": "US"
     },
     {
       "ip": "82.102.28.107",

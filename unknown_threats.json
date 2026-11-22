@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-22T14:13:11.707239+00:00",
+    "generated": "2026-11-22T14:43:45.016478+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 56,
+    "total_threats": 57,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -435,6 +435,16 @@
       "count": 1,
       "severity": "low",
       "signature": "ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt",
+      "protocol": "TCP",
+      "country": "BR"
+    },
+    {
+      "ip": "177.22.44.30",
+      "first_seen": "2026-11-22T14:29:21.852000+00:00",
+      "last_seen": "2026-11-22T14:29:21.852000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ETPRO EXPLOIT AVTECH IP Camera Unauthenticated CGI Dir Vulnerablity",
       "protocol": "TCP",
       "country": "BR"
     },

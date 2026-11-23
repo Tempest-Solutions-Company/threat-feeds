@@ -1,13 +1,12 @@
 # Unknown Threat Feed
-# Generated: 2026-11-23T13:12:23.616198+00:00
+# Generated: 2026-11-23T13:42:58.905848+00:00
 # Source: Ethical Threat Feeds by Devs, for Devs
-# Total IPs: 52
+# Total IPs: 51
 # Expiry: 30 days rolling window
 #
 # Format: IP_ADDRESS | SEVERITY | SIGNATURE | COUNTRY | FIRST_SEEN | LAST_SEEN | COUNT
 #
 
-13.140.242.159 | LOW | ET WEB_SERVER /bin/sh In URI Possible Shell Command Execution Attempt | DE | 2026-10-24 | 2026-10-24 | 1
 14.225.32.196 | LOW | ET EXPLOIT MVPower DVR Shell UCE | VN | 2026-11-21 | 2026-11-21 | 1
 23.94.145.35 | LOW | ET WEB_SPECIFIC_APPS React Server Components React2Shell Unsafe Flight Protocol Property Access (CVE-2025-55182) | US | 2026-11-10 | 2026-11-10 | 1
 34.19.142.21 | LOW | ET WEB_SERVER Next.js Middleware Authorization Bypass (CVE-2025-29927) | CA | 2026-10-26 | 2026-10-26 | 1

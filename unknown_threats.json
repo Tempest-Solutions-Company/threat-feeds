@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-24T20:21:11.160840+00:00",
+    "generated": "2026-11-24T20:51:48.726198+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 50,
+    "total_threats": 49,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -455,16 +455,6 @@
       "count": 1,
       "severity": "low",
       "signature": "ETPRO WEB_SPECIFIC_APPS PHPUnit Arbitrary Code Execution (CVE-2017-9841) M1",
-      "protocol": "TCP",
-      "country": "FR"
-    },
-    {
-      "ip": "185.177.72.205",
-      "first_seen": "2026-10-25T20:32:16.484000+00:00",
-      "last_seen": "2026-10-26T16:44:17.206000+00:00",
-      "count": 2,
-      "severity": "low",
-      "signature": "ET WEB_SPECIFIC_APPS WordPress Plugin Gravity SMTP Unauthenticated REST API (CVE-2026-4020)",
       "protocol": "TCP",
       "country": "FR"
     },

@@ -1,13 +1,23 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-24T09:07:46.662991+00:00",
+    "generated": "2026-11-24T09:38:21.332332+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 50,
+    "total_threats": 51,
     "expiry_days": 30,
     "format_version": "1.0"
   },
   "threats": [
+    {
+      "ip": "5.181.2.135",
+      "first_seen": "2026-11-24T09:36:01.345000+00:00",
+      "last_seen": "2026-11-24T09:36:01.345000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "GPL SMTP vrfy root",
+      "protocol": "TCP",
+      "country": "HR"
+    },
     {
       "ip": "14.225.32.196",
       "first_seen": "2026-11-21T14:44:29.900000+00:00",

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-25T18:50:50.760680+00:00",
+    "generated": "2026-11-25T19:21:25.894158+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 45,
+    "total_threats": 46,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -177,6 +177,16 @@
       "signature": "ET WEB_SERVER PHP tags in HTTP POST",
       "protocol": "TCP",
       "country": "FR"
+    },
+    {
+      "ip": "65.109.158.238",
+      "first_seen": "2026-11-25T19:05:53.613000+00:00",
+      "last_seen": "2026-11-25T19:05:53.613000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SERVER Likely Malicious Request for /proc/self/environ",
+      "protocol": "TCP",
+      "country": "FI"
     },
     {
       "ip": "85.155.14.60",

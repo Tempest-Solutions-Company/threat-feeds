@@ -1,9 +1,9 @@
 {
   "metadata": {
     "category": "Unknown",
-    "generated": "2026-11-27T03:31:19.494543+00:00",
+    "generated": "2026-11-27T04:01:53.282360+00:00",
     "source": "Ethical Threat Feeds by Devs, for Devs",
-    "total_threats": 45,
+    "total_threats": 46,
     "expiry_days": 30,
     "format_version": "1.0"
   },
@@ -277,6 +277,16 @@
       "signature": "ET EXPLOIT HackingTrio UA (Hello, World)",
       "protocol": "TCP",
       "country": "CN"
+    },
+    {
+      "ip": "134.122.115.43",
+      "first_seen": "2026-11-27T03:46:16.070000+00:00",
+      "last_seen": "2026-11-27T03:46:16.070000+00:00",
+      "count": 1,
+      "severity": "low",
+      "signature": "ET WEB_SPECIFIC_APPS WordPress Core wp2shell Remote Code Execution (CVE-2026-63030 & CVE-2026-60137) M1",
+      "protocol": "TCP",
+      "country": "US"
     },
     {
       "ip": "146.235.21.224",
